@@ -1,0 +1,211 @@
+p_zendar|Zendar
+p_town_1|Javiksholm
+p_town_2|Valonbray
+p_town_3|Ethos
+p_town_4|Laria
+p_town_5|Janos
+p_town_6|Sarleon
+p_town_7|Marleons
+p_town_8|Ravenstern
+p_town_9|Poinsbruk
+p_town_10|Torbah
+p_town_11|Senderfall
+p_town_12|Windholm
+p_town_13|Rane
+p_town_14|Singal
+p_town_15|Cez
+p_town_16|Avendor
+p_town_17|Nal Tar
+p_town_18|Ishkoman
+p_castle_1|Calendain Castle
+p_castle_2|Sange Safid
+p_castle_3|Taloncrag Castle
+p_castle_4|Evasolde Castle
+p_castle_5|Highcliffe Castle
+p_castle_6|Dagon Castle
+p_castle_7|High Pass Fortress
+p_castle_8|Castle Fenbray
+p_castle_9|Walven Castle
+p_castle_10|Ironoak Castle
+p_castle_11|Longbeard Lodge
+p_castle_12|Ansen Lodge
+p_castle_13|Kelredan Castle
+p_castle_14|Maras Castle
+p_castle_15|Savador Castle
+p_castle_16|Almerra Castle
+p_castle_17|Saidu Sharif
+p_castle_18|Castle Alden
+p_castle_19|Silveredge Keep
+p_castle_20|Mistmire Castle
+p_castle_21|Rela Keep
+p_castle_22|Shadi Shahid
+p_castle_23|Whitestag Castle
+p_castle_24|Kennet Castle
+p_castle_25|Mobray Castle
+p_castle_26|Seven Cross Keep
+p_castle_27|Talon Castle
+p_castle_28|Oregar Castle
+p_castle_29|Stoutheart Castle
+p_castle_30|Muqaddas Pani
+p_castle_31|Valorshield Castle
+p_castle_32|Knudarr Castle
+p_castle_33|Shieldstorm Keep
+p_castle_34|Gunders Lodge
+p_castle_35|Haringoth Castle
+p_castle_36|Hrolfson Castle
+p_castle_37|Falcondark Castle
+p_castle_38|Tuldar Fortress
+p_castle_39|Mysthorn Keep
+p_castle_40|Sher Quila
+p_village_1|Yaragar
+p_village_2|Burglen
+p_village_3|Mobray
+p_village_4|Nomar
+p_village_5|Kulum
+p_village_6|Emirin
+p_village_7|Amere
+p_village_8|Rafsanjan
+p_village_9|Buvran
+p_village_10|Fenbray
+p_village_11|Drosh
+p_village_12|Emer
+p_village_13|Foxstead
+p_village_14|Sheastrom
+p_village_15|Azgad
+p_village_16|Shapeshte
+p_village_17|Mazen
+p_village_18|Gosbur
+p_village_19|Hanun
+p_village_20|Uslum
+p_village_21|Bazeck
+p_village_22|Elktrin
+p_village_23|Mardan
+p_village_24|Ruldi
+p_village_25|Stagheart
+p_village_26|Pagundur
+p_village_27|Glunmar
+p_village_28|Phundar
+p_village_29|Buillin
+p_village_30|Ruvar
+p_village_31|Ambershorn
+p_village_32|Erminade
+p_village_33|Adnan Khel
+p_village_34|Ehlerdah
+p_village_35|Elkburg
+p_village_36|Jayek
+p_village_37|Ahda Kalam
+p_village_38|Ibiran
+p_village_39|Reveran
+p_village_40|Saren
+p_village_41|Dugan
+p_village_42|Shandur
+p_village_43|Gazin
+p_village_44|Kogosi
+p_village_45|Bulugur
+p_village_46|Fedner
+p_village_47|Bretven
+p_village_48|Veidar
+p_village_49|Tismirr
+p_village_50|Saffrongate
+p_village_51|Yule
+p_village_52|Miandan
+p_village_53|Balanli
+p_village_54|Pern
+p_village_55|Orin
+p_village_56|Fenada
+p_village_57|Branburg
+p_village_58|Vezin
+p_village_59|Yasin
+p_village_60|Tahlberl
+p_village_61|Aldelen
+p_village_62|Rebache
+p_village_63|Quay
+p_village_64|Serindiar
+p_village_65|Belmonfaire
+p_village_66|Fisdnar
+p_village_67|Tebandra
+p_village_68|Seh Pathar
+p_village_69|Kwynn
+p_village_70|Dirigsene
+p_village_71|Troughbren
+p_village_72|Derakhte Ghermez
+p_village_73|Chaeza
+p_village_74|Avayburg
+p_village_75|Clovindarn
+p_village_76|Fletcher
+p_village_77|Rizi
+p_village_78|Sarimish
+p_village_79|Ushu
+p_village_80|Kaveraid
+p_village_81|Odasan
+p_village_82|Tragmar
+p_village_83|Gahar
+p_village_84|Chelez
+p_village_85|Ismirala
+p_village_86|Bierbuk
+p_village_87|Tyra
+p_village_88|Tulbuk
+p_village_89|Uhhun
+p_village_90|Walven
+p_salt_mine|Hidden mines of Al-Aziz
+p_four_ways_inn|four way inn
+p_test_scene|test scene
+p_battlefields|battlefields
+p_dhorak_keep|Dagger Keep
+p_castle_noldor|Elacrai
+p_snake_stronghold|Snake Cult Stronghold
+p_training_ground|Training Ground
+p_training_ground_1|Training Field
+p_training_ground_2|Training Field
+p_training_ground_3|Training Field
+p_training_ground_4|Training Field
+p_training_ground_5|Training Field
+p_steppe_bandit_spawn_point|D'Shar Raider Lair
+p_steppe_bandit2_spawn_point|steppe2 bandit sp
+p_steppe_bandit3_spawn_point|steppe3 bandit sp
+p_forest_bandit_spawn_point|forest bandit sp
+p_forest_bandit2_spawn_point|forest bandit2 sp
+p_forest_bandit3_spawn_point|forest bandit3 sp
+p_forest_bandit4_spawn_point|forest bandit4 sp
+p_forest_bandit5_spawn_point|forest bandit5 sp
+p_forest_bandit6_spawn_point|Brigand Camp
+p_forest_bandit7_spawn_point|forest bandit7 sp
+p_forest_bandit8_spawn_point|forest bandit8 sp
+p_forest_bandit9_spawn_point|forest bandit9 sp
+p_forest_bandit10_spawn_point|forest bandit10 sp
+p_forest_bandit11_spawn_point|forest bandit11 sp
+p_forest_bandit12_spawn_point|forest bandit12 sp
+p_heretic_spawn_point|Heretic sp
+p_a_spawn_point|A Heretic sp
+p_b_spawn_point|B Heretic sp
+p_c_spawn_point|C Heretic sp
+p_color1_red_spawn_point|Renegade Sarleon Red Spawn
+p_color2_yellow_spawn_point|Renegade Empire Yellow Spawn
+p_color3_blue_spawn_point|Renegade Ravenstern Blue Spawn
+p_color4_green_spawn_point|Renegade Fierd Green Spawn
+p_color5_black_spawn_point|Renegade Foriegn Black Spawn
+p_generic1_spawn_point|generic Army1 sp
+p_generic2_bandit_spawn_point|generic2 army sp
+p_omega_spawn_point|Omega Army unused
+p_alpha_spawn_point|Alpha Army sp
+p_beta_spawn_point|Beta Army sp
+p_mystmountain_spawn_point|Mystmountain Hideout
+p_mountain_bandit_spawn_point|mountain bandit sp
+p_mountain_bandit2_spawn_point|mountain bandit2 sp
+p_sea_raider_spawn_point_1|Vanskerry Landing
+p_sea_raider_spawn_point_2|Vanskerry Raider1 sp
+p_sea_raider_spawn_point_3|Vanskerry Raider2 sp
+p_snake_cult1_spawn_point|Snake Cult Shrine
+p_snake_cult2_spawn_point|snake cult sp
+p_noldor_elves_spawn_point|Noldor Spawn Laria Woods
+p_jatu_nomads_spawn_point|Jatu Plains
+p_jatu_nomads2_spawn_point|Jatu Plains
+p_inquisition1_spawn_point|Inquisition Spawn
+p_inquisition2_spawn_point|Inquisition Spawn
+p_inquisition3_spawn_point|Inquisition Spawn
+p_inquisition4_spawn_point|Inquisition Spawn
+p_ringer_1_spawn_point|Ringer 1 sp
+p_ringer_2_spawn_point|Ringer 2 sp
+p_ringer_3_spawn_point|Ringer 3 sp
+p_ringer_4_spawn_point|Ringer 4 sp
+p_parties_end|parties end

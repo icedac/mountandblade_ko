@@ -1,0 +1,3036 @@
+itm_no_item|INVALID ITEM
+itm_no_item_pl|INVALID ITEM
+itm_tutorial_spear|Spear
+itm_tutorial_spear_pl|Spear
+itm_tutorial_club|Club
+itm_tutorial_club_pl|Club
+itm_tutorial_battle_axe|Battle Axe
+itm_tutorial_battle_axe_pl|Battle Axe
+itm_tutorial_arrows|Arrows
+itm_tutorial_arrows_pl|Arrows
+itm_tutorial_bolts|Bolts
+itm_tutorial_bolts_pl|Bolts
+itm_tutorial_short_bow|Short Bow
+itm_tutorial_short_bow_pl|Short Bow
+itm_tutorial_crossbow|Crossbow
+itm_tutorial_crossbow_pl|Crossbow
+itm_tutorial_throwing_daggers|Throwing Daggers
+itm_tutorial_throwing_daggers_pl|Throwing Daggers
+itm_tutorial_saddle_horse|Saddle Horse
+itm_tutorial_saddle_horse_pl|Saddle Horse
+itm_tutorial_shield|Kite Shield
+itm_tutorial_shield_pl|Kite Shield
+itm_tutorial_staff_no_attack|Staff
+itm_tutorial_staff_no_attack_pl|Staff
+itm_tutorial_staff|Staff
+itm_tutorial_staff_pl|Staff
+itm_tutorial_sword|Sword
+itm_tutorial_sword_pl|Sword
+itm_tutorial_axe|Axe
+itm_tutorial_axe_pl|Axe
+itm_tutorial_dagger|Dagger
+itm_tutorial_dagger_pl|Dagger
+itm_horse_meat|Horse Meat
+itm_horse_meat_pl|Horse Meat
+itm_practice_sword|Practice Sword
+itm_practice_sword_pl|Practice Sword
+itm_heavy_practice_sword|Heavy Practice Sword
+itm_heavy_practice_sword_pl|Heavy Practice Sword
+itm_practice_dagger|Practice Dagger
+itm_practice_dagger_pl|Practice Dagger
+itm_practice_axe|Practice Axe
+itm_practice_axe_pl|Practice Axe
+itm_arena_axe|Axe
+itm_arena_axe_pl|Axe
+itm_arena_sword|Sword
+itm_arena_sword_pl|Sword
+itm_arena_sword_two_handed|Two Handed Sword
+itm_arena_sword_two_handed_pl|Two Handed Sword
+itm_arena_lance|Lance
+itm_arena_lance_pl|Lance
+itm_practice_staff|Practice Staff
+itm_practice_staff_pl|Practice Staff
+itm_practice_lance|Practice Lance
+itm_practice_lance_pl|Practice Lance
+itm_practice_shield|Practice Shield
+itm_practice_shield_pl|Practice Shield
+itm_practice_bow|Practice Bow
+itm_practice_bow_pl|Practice Bow
+itm_practice_crossbow|Practice Crossbow
+itm_practice_crossbow_pl|Practice Crossbow
+itm_practice_javelin|Practice Javelins
+itm_practice_javelin_pl|Practice Javelins
+itm_practice_javelin_melee|practice javelin melee
+itm_practice_javelin_melee_pl|practice javelin melee
+itm_practice_throwing_daggers|Throwing Daggers
+itm_practice_throwing_daggers_pl|Throwing Daggers
+itm_practice_throwing_daggers_100_amount|Throwing Daggers
+itm_practice_throwing_daggers_100_amount_pl|Throwing Daggers
+itm_practice_horse|Practice Horse
+itm_practice_horse_pl|Practice Horse
+itm_practice_arrows|Practice Arrows
+itm_practice_arrows_pl|Practice Arrows
+itm_practice_bolts|Practice Bolts
+itm_practice_bolts_pl|Practice Bolts
+itm_practice_arrows_10_amount|Practice Arrows
+itm_practice_arrows_10_amount_pl|Practice Arrows
+itm_practice_arrows_100_amount|Practice Arrows
+itm_practice_arrows_100_amount_pl|Practice Arrows
+itm_practice_bolts_9_amount|Practice Bolts
+itm_practice_bolts_9_amount_pl|Practice Bolts
+itm_practice_boots|Practice Boots
+itm_practice_boots_pl|Practice Boots
+itm_red_tourney_armor|Red Tourney Armor
+itm_red_tourney_armor_pl|Red Tourney Armor
+itm_blue_tourney_armor|Blue Tourney Armor
+itm_blue_tourney_armor_pl|Blue Tourney Armor
+itm_green_tourney_armor|Green Tourney Armor
+itm_green_tourney_armor_pl|Green Tourney Armor
+itm_gold_tourney_armor|Gold Tourney Armor
+itm_gold_tourney_armor_pl|Gold Tourney Armor
+itm_red_tourney_helmet|Red Tourney Helmet
+itm_red_tourney_helmet_pl|Red Tourney Helmet
+itm_blue_tourney_helmet|Blue Tourney Helmet
+itm_blue_tourney_helmet_pl|Blue Tourney Helmet
+itm_green_tourney_helmet|Green Tourney Helmet
+itm_green_tourney_helmet_pl|Green Tourney Helmet
+itm_gold_tourney_helmet|Gold Tourney Helmet
+itm_gold_tourney_helmet_pl|Gold Tourney Helmet
+itm_arena_shield_red|Shield
+itm_arena_shield_red_pl|Shield
+itm_arena_shield_blue|Shield
+itm_arena_shield_blue_pl|Shield
+itm_arena_shield_green|Shield
+itm_arena_shield_green_pl|Shield
+itm_arena_shield_yellow|Shield
+itm_arena_shield_yellow_pl|Shield
+itm_arena_armor_white|Arena Armor White
+itm_arena_armor_white_pl|Arena Armor White
+itm_arena_armor_red|Arena Armor Red
+itm_arena_armor_red_pl|Arena Armor Red
+itm_arena_armor_blue|Arena Armor Blue
+itm_arena_armor_blue_pl|Arena Armor Blue
+itm_arena_armor_green|Arena Armor Green
+itm_arena_armor_green_pl|Arena Armor Green
+itm_arena_armor_yellow|Arena Armor Yellow
+itm_arena_armor_yellow_pl|Arena Armor Yellow
+itm_arena_tunic_white|Arena Tunic White
+itm_arena_tunic_white_pl|Arena Tunic White
+itm_arena_tunic_red|Arena Tunic Red
+itm_arena_tunic_red_pl|Arena Tunic Red
+itm_arena_tunic_blue|Arena Tunic Blue
+itm_arena_tunic_blue_pl|Arena Tunic Blue
+itm_arena_tunic_green|Arena Tunic Green
+itm_arena_tunic_green_pl|Arena Tunic Green
+itm_arena_tunic_yellow|Arena Tunic Yellow
+itm_arena_tunic_yellow_pl|Arena Tunic Yellow
+itm_arena_helmet_red|Arena Helmet Red
+itm_arena_helmet_red_pl|Arena Helmet Red
+itm_arena_helmet_blue|Arena Helmet Blue
+itm_arena_helmet_blue_pl|Arena Helmet Blue
+itm_arena_helmet_green|Arena Helmet Green
+itm_arena_helmet_green_pl|Arena Helmet Green
+itm_arena_helmet_yellow|Arena Helmet Yellow
+itm_arena_helmet_yellow_pl|Arena Helmet Yellow
+itm_steppe_helmet_white|Steppe Helmet White
+itm_steppe_helmet_white_pl|Steppe Helmet White
+itm_steppe_helmet_red|Steppe Helmet Red
+itm_steppe_helmet_red_pl|Steppe Helmet Red
+itm_steppe_helmet_blue|Steppe Helmet Blue
+itm_steppe_helmet_blue_pl|Steppe Helmet Blue
+itm_steppe_helmet_green|Steppe Helmet Green
+itm_steppe_helmet_green_pl|Steppe Helmet Green
+itm_steppe_helmet_yellow|Steppe Helmet Yellow
+itm_steppe_helmet_yellow_pl|Steppe Helmet Yellow
+itm_tourney_helm_white|Tourney Helm White
+itm_tourney_helm_white_pl|Tourney Helm White
+itm_tourney_helm_red|Tourney Helm Red
+itm_tourney_helm_red_pl|Tourney Helm Red
+itm_tourney_helm_blue|Tourney Helm Blue
+itm_tourney_helm_blue_pl|Tourney Helm Blue
+itm_tourney_helm_green|Tourney Helm Green
+itm_tourney_helm_green_pl|Tourney Helm Green
+itm_tourney_helm_yellow|Tourney Helm Yellow
+itm_tourney_helm_yellow_pl|Tourney Helm Yellow
+itm_book_tactics|Memories of a Pendorian Commander
+itm_book_tactics_pl|Memories of a Pendorian Commander
+itm_book_persuasion|Applied Rhetorics - Vol. 1
+itm_book_persuasion_pl|Applied Rhetorics - Vol. 1
+itm_book_leadership|The Great Leaders of Pendor
+itm_book_leadership_pl|The Great Leaders of Pendor
+itm_book_intelligence|The High Arts - Vol. MV
+itm_book_intelligence_pl|The High Arts - Vol. MV
+itm_book_trade|The Life of the Silver Fox
+itm_book_trade_pl|The Life of the Silver Fox
+itm_book_weapon_mastery|The Great Fechtbuch with Pictures
+itm_book_weapon_mastery_pl|The Great Fechtbuch with Pictures
+itm_book_engineering|Advanced Engineering: Codex Dak Drommen
+itm_book_engineering_pl|Advanced Engineering: Codex Dak Drommen
+itm_book_wound_treatment_reference|The Complete Manual of Herbal Remedies of Pendor
+itm_book_wound_treatment_reference_pl|The Complete Manual of Herbal Remedies of Pendor
+itm_book_training_reference|The Life of the Legionnaire - Memories of a Centurion
+itm_book_training_reference_pl|The Life of the Legionnaire - Memories of a Centurion
+itm_book_surgery_reference|The Field Surgeon's Handbook
+itm_book_surgery_reference_pl|The Field Surgeon's Handbook
+itm_spice|Spice
+itm_spice_pl|Spice
+itm_salt|Salt
+itm_salt_pl|Salt
+itm_oil|Oil
+itm_oil_pl|Oil
+itm_pottery|Pottery
+itm_pottery_pl|Pottery
+itm_raw_flax|Flax Bundle
+itm_raw_flax_pl|Flax Bundle
+itm_linen|Linen
+itm_linen_pl|Linen
+itm_wool|Wool
+itm_wool_pl|Wool
+itm_wool_cloth|Wool Cloth
+itm_wool_cloth_pl|Wool Cloth
+itm_raw_silk|Raw Silk
+itm_raw_silk_pl|Raw Silk
+itm_raw_dyes|Dyes
+itm_raw_dyes_pl|Dyes
+itm_velvet|Velvet
+itm_velvet_pl|Velvet
+itm_iron|Iron
+itm_iron_pl|Iron
+itm_tools|Tools
+itm_tools_pl|Tools
+itm_raw_leather|Hides
+itm_raw_leather_pl|Hides
+itm_leatherwork|Leatherwork
+itm_leatherwork_pl|Leatherwork
+itm_raw_date_fruit|Date Fruit
+itm_raw_date_fruit_pl|Date Fruit
+itm_furs|Furs
+itm_furs_pl|Furs
+itm_wine|Wine
+itm_wine_pl|Wine
+itm_ale|Ale
+itm_ale_pl|Ale
+itm_smoked_fish|Smoked Fish
+itm_smoked_fish_pl|Smoked Fish
+itm_cheese|Cheese
+itm_cheese_pl|Cheese
+itm_honey|Honey
+itm_honey_pl|Honey
+itm_sausages|Sausages
+itm_sausages_pl|Sausages
+itm_cabbages|Cabbages
+itm_cabbages_pl|Cabbages
+itm_dried_meat|Dried Meat
+itm_dried_meat_pl|Dried Meat
+itm_apples|Fruits
+itm_apples_pl|Fruits
+itm_raw_grapes|Grapes
+itm_raw_grapes_pl|Grapes
+itm_raw_olives|Olives
+itm_raw_olives_pl|Olives
+itm_grain|Grain
+itm_grain_pl|Grain
+itm_cattle_meat|Beef
+itm_cattle_meat_pl|Beef
+itm_bread|Bread
+itm_bread_pl|Bread
+itm_chicken|Chicken
+itm_chicken_pl|Chicken
+itm_pork|Pork
+itm_pork_pl|Pork
+itm_butter|Butter
+itm_butter_pl|Butter
+itm_baggage_train|Baggage Train
+itm_baggage_train_pl|Baggage Train
+itm_siege_supply|Supplies
+itm_siege_supply_pl|Supplies
+itm_quest_wine|Wine
+itm_quest_wine_pl|Wine
+itm_quest_ale|Ale
+itm_quest_ale_pl|Ale
+itm_gold|Gold Bar
+itm_gold_pl|Gold Bar
+itm_qualis|Qualis Gem
+itm_qualis_pl|Qualis Gem
+itm_noldor_goods|Noldor Trade Goods
+itm_noldor_goods_pl|Noldor Trade Goods
+itm_loot|Various Loot
+itm_loot_pl|Various Loot
+itm_diamond_small|Small Pouch of Diamonds
+itm_diamond_small_pl|Small Pouch of Diamonds
+itm_diamond_medium|Medium Pouch of Diamonds
+itm_diamond_medium_pl|Medium Pouch of Diamonds
+itm_diamond_large|Large Pouch of Diamonds
+itm_diamond_large_pl|Large Pouch of Diamonds
+itm_book_heretic|Heretic Writings
+itm_book_heretic_pl|Heretic Writings
+itm_book_snake|Snake Cult Rituals
+itm_book_snake_pl|Snake Cult Rituals
+itm_book_noldor_1|Codex of the Righteous Ranger
+itm_book_noldor_1_pl|Codex of the Righteous Ranger
+itm_book_noldor_2|Stolen Notes of Luciana of Ethos
+itm_book_noldor_2_pl|Stolen Notes of Luciana of Ethos
+itm_book_noldor_3|The Ebon Libram of Laria
+itm_book_noldor_3_pl|The Ebon Libram of Laria
+itm_book_noldor_end|Noldor Books End
+itm_book_noldor_end_pl|Noldor Books End
+itm_lyre|Lyre
+itm_lyre_pl|Lyre
+itm_lute|Lute
+itm_lute_pl|Lute
+itm_dedal_kufel|Kufel
+itm_dedal_kufel_pl|Kufel
+itm_dedal_lutnia|Lutnia
+itm_dedal_lutnia_pl|Lutnia
+itm_dedal_lira|Lira
+itm_dedal_lira_pl|Lira
+itm_rav_helmet_red|Ravenstern Helmet Red
+itm_rav_helmet_red_pl|Ravenstern Helmet Red
+itm_rav_helmet_blue|Ravenstern Helmet Blue
+itm_rav_helmet_blue_pl|Ravenstern Helmet Blue
+itm_rav_helmet_green|Ravenstern Helmet Green
+itm_rav_helmet_green_pl|Ravenstern Helmet Green
+itm_rav_helmet_yellow|Ravenstern Helmet Yellow
+itm_rav_helmet_yellow_pl|Ravenstern Helmet Yellow
+itm_empire_helmet_red|Empire Helmet Red
+itm_empire_helmet_red_pl|Empire Helmet Red
+itm_empire_helmet_blue|Empire Helmet Blue
+itm_empire_helmet_blue_pl|Empire Helmet Blue
+itm_empire_helmet_green|Empire Helmet Green
+itm_empire_helmet_green_pl|Empire Helmet Green
+itm_empire_helmet_yellow|Empire Helmet Yellow
+itm_empire_helmet_yellow_pl|Empire Helmet Yellow
+itm_practice_lance_red|Tournament Lance
+itm_practice_lance_red_pl|Tournament Lance
+itm_practice_lance_blue|Tournament Lance
+itm_practice_lance_blue_pl|Tournament Lance
+itm_practice_lance_green|Tournament Lance
+itm_practice_lance_green_pl|Tournament Lance
+itm_practice_lance_yellow|Tournament Lance
+itm_practice_lance_yellow_pl|Tournament Lance
+itm_sumpter_horse|Sumpter Horse
+itm_sumpter_horse_pl|Sumpter Horse
+itm_saddle_horse|Saddle Horse
+itm_saddle_horse_pl|Saddle Horse
+itm_dshar_saddle_horse|D'Shar Saddle Horse
+itm_dshar_saddle_horse_pl|D'Shar Saddle Horse
+itm_steppe_horse|Steppe Horse
+itm_steppe_horse_pl|Steppe Horse
+itm_courser|Courser
+itm_courser_pl|Courser
+itm_dark_steppe|Dark Steppe Horse
+itm_dark_steppe_pl|Dark Steppe Horse
+itm_grey_courser|Grey Courser
+itm_grey_courser_pl|Grey Courser
+itm_gold_courser|Golden Maned Courser
+itm_gold_courser_pl|Golden Maned Courser
+itm_grey_steppe|Grey Steppe Horse
+itm_grey_steppe_pl|Grey Steppe Horse
+itm_melitine_hunter2|Melitine Hunter
+itm_melitine_hunter2_pl|Melitine Hunter
+itm_hunter|Hunter
+itm_hunter_pl|Hunter
+itm_white_hunter|White Caparisoned Hunter
+itm_white_hunter_pl|White Caparisoned Hunter
+itm_red_hunter|Red Caparisoned Hunter
+itm_red_hunter_pl|Red Caparisoned Hunter
+itm_green_hunter|Green Caparisoned Hunter
+itm_green_hunter_pl|Green Caparisoned Hunter
+itm_dshar_courser|D'Shar Courser
+itm_dshar_courser_pl|D'Shar Courser
+itm_blue_hunter|Blue Caparisoned Hunter
+itm_blue_hunter_pl|Blue Caparisoned Hunter
+itm_burgundy_hunter|Burgundy Caparisoned Hunter
+itm_burgundy_hunter_pl|Burgundy Caparisoned Hunter
+itm_yellow_hunter|Yellow Caparisoned Hunter
+itm_yellow_hunter_pl|Yellow Caparisoned Hunter
+itm_black_hunter|Black Caparisoned Hunter
+itm_black_hunter_pl|Black Caparisoned Hunter
+itm_melitine_hunter|Melitine Andravida
+itm_melitine_hunter_pl|Melitine Andravida
+itm_darksteel_hunter|Darksteel Hunter
+itm_darksteel_hunter_pl|Darksteel Hunter
+itm_ornate_warhorse|Ornate Draped Warhorse
+itm_ornate_warhorse_pl|Ornate Draped Warhorse
+itm_dun_hunter|Dun Hunter
+itm_dun_hunter_pl|Dun Hunter
+itm_sarleon_hunter|Sarleon Hunter
+itm_sarleon_hunter_pl|Sarleon Hunter
+itm_empire_hunter|Empire Dark Hunter
+itm_empire_hunter_pl|Empire Dark Hunter
+itm_warhorse|War Horse
+itm_warhorse_pl|War Horse
+itm_melitine_arm_hunter|Melitine Barded Purebred
+itm_melitine_arm_hunter_pl|Melitine Barded Purebred
+itm_cropped_hunter|Cropped Mane Hunter
+itm_cropped_hunter_pl|Cropped Mane Hunter
+itm_empire_warbred|Empire Warbred Hunter
+itm_empire_warbred_pl|Empire Warbred Hunter
+itm_wellbred_hunter|Well-bred Hunter
+itm_wellbred_hunter_pl|Well-bred Hunter
+itm_jatu_hunter|Jatu Hunter
+itm_jatu_hunter_pl|Jatu Hunter
+itm_charger|Charger
+itm_charger_pl|Charger
+itm_horse_veccavi|Veccavi Draped Warhorse
+itm_horse_veccavi_pl|Veccavi Draped Warhorse
+itm_war_horse_ravenstern|Ravenstern Draped Warhorse
+itm_war_horse_ravenstern_pl|Ravenstern Draped Warhorse
+itm_draped_warhorse_brown|Leather Draped Warhorse
+itm_draped_warhorse_brown_pl|Leather Draped Warhorse
+itm_falcon_warhorse|Falcon Warhorse
+itm_falcon_warhorse_pl|Falcon Warhorse
+itm_dark_stallion|Imperial Dark Stallion
+itm_dark_stallion_pl|Imperial Dark Stallion
+itm_draped_warhorse_grey|Grey Draped Warhorse
+itm_draped_warhorse_grey_pl|Grey Draped Warhorse
+itm_phoenix_sergeants_horse|Phoenix Draped Warhorse
+itm_phoenix_sergeants_horse_pl|Phoenix Draped Warhorse
+itm_draped_leather_horse|Leather Draped Horse
+itm_draped_leather_horse_pl|Leather Draped Horse
+itm_golden_warhorse|Golden Deer Warhorse
+itm_golden_warhorse_pl|Golden Deer Warhorse
+itm_dshar_armored_hunter|D'Shar Armored Hunter
+itm_dshar_armored_hunter_pl|D'Shar Armored Hunter
+itm_draped_warhorse_green|Green Leather Draped Warhorse
+itm_draped_warhorse_green_pl|Green Leather Draped Warhorse
+itm_draped_warhorse_blue|Blue Leather Draped Warhorse
+itm_draped_warhorse_blue_pl|Blue Leather Draped Warhorse
+itm_war_horse_burgundy|Burgundy Draped Warhorse
+itm_war_horse_burgundy_pl|Burgundy Draped Warhorse
+itm_dark_silver_warhorse|Dark Silver Warhorse
+itm_dark_silver_warhorse_pl|Dark Silver Warhorse
+itm_draped_warhorse_white|White Draped Warhorse
+itm_draped_warhorse_white_pl|White Draped Warhorse
+itm_silver_stallion|Imperial Silver Stallion
+itm_silver_stallion_pl|Imperial Silver Stallion
+itm_jatu_warhorse|Jatu Warhorse
+itm_jatu_warhorse_pl|Jatu Warhorse
+itm_konigur_steed|Fierdsvain Koningur Steed
+itm_konigur_steed_pl|Fierdsvain Koningur Steed
+itm_warhorse_steppe|Jatu Steppe Charger
+itm_warhorse_steppe_pl|Jatu Steppe Charger
+itm_draped_warhorse_black|Black Leather Draped Warhorse
+itm_draped_warhorse_black_pl|Black Leather Draped Warhorse
+itm_draped_warhorse_yellow|Yellow Draped Warhorse
+itm_draped_warhorse_yellow_pl|Yellow Draped Warhorse
+itm_gryphon_warhorse|Griffon Steed
+itm_gryphon_warhorse_pl|Griffon Steed
+itm_larian_caspian|Larian Gelding
+itm_larian_caspian_pl|Larian Gelding
+itm_griffon_warhorse|Griffon Warhorse
+itm_griffon_warhorse_pl|Griffon Warhorse
+itm_marleons_highbreed|Marleons Highbreed
+itm_marleons_highbreed_pl|Marleons Highbreed
+itm_draped_warhorse_red|Red Leather Draped Warhorse
+itm_draped_warhorse_red_pl|Red Leather Draped Warhorse
+itm_phoenix_knight_horse|Phoenix Steed
+itm_phoenix_knight_horse_pl|Phoenix Steed
+itm_falcon_warsteed|Falcon Steed
+itm_falcon_warsteed_pl|Falcon Steed
+itm_timothy_steed|Unicorn Steed
+itm_timothy_steed_pl|Unicorn Steed
+itm_crimson_charger|Dark Crimson Charger
+itm_crimson_charger_pl|Dark Crimson Charger
+itm_lion_warhorse|Lion Warhorse
+itm_lion_warhorse_pl|Lion Warhorse
+itm_ironbred_stallion_1|Ironbred Charger
+itm_ironbred_stallion_1_pl|Ironbred Charger
+itm_warhorse_sarranid|Desert War Horse
+itm_warhorse_sarranid_pl|Desert War Horse
+itm_ironbred_stallion_2|Ironbred Stallion
+itm_ironbred_stallion_2_pl|Ironbred Stallion
+itm_jatu_warbeast|Jatu Warbeast
+itm_jatu_warbeast_pl|Jatu Warbeast
+itm_armored_warhorse_ravenstern|Ravenstern Armored Warhorse
+itm_armored_warhorse_ravenstern_pl|Ravenstern Armored Warhorse
+itm_armored_warhorse_sarleon|Sarleon Armored Warhorse
+itm_armored_warhorse_sarleon_pl|Sarleon Armored Warhorse
+itm_noldor_pony_horse|Noldor Steppe Pony
+itm_noldor_pony_horse_pl|Noldor Steppe Pony
+itm_noldor_dark_horse|Noldor Dark Warhorse
+itm_noldor_dark_horse_pl|Noldor Dark Warhorse
+itm_noldor_grey_horse|Noldor Grey Warhorse
+itm_noldor_grey_horse_pl|Noldor Grey Warhorse
+itm_noldor_gold_horse|Noldor Goldleaf Warhorse
+itm_noldor_gold_horse_pl|Noldor Goldleaf Warhorse
+itm_noldor_spirit_horse|Noldor Spirit Horse
+itm_noldor_spirit_horse_pl|Noldor Spirit Horse
+itm_hyper_horse|Comet Courser
+itm_hyper_horse_pl|Comet Courser
+itm_netherworld_charger|Netherworld Charger
+itm_netherworld_charger_pl|Netherworld Charger
+itm_demon_charger|Demon Charger
+itm_demon_charger_pl|Demon Charger
+itm_pilgrim_disguise|Pilgrim Robe
+itm_pilgrim_disguise_pl|Pilgrim Robe
+itm_pilgrim_hood|Pilgrim Hood
+itm_pilgrim_hood_pl|Pilgrim Hood
+itm_bride_dress|Bride Dress
+itm_bride_dress_pl|Bride Dress
+itm_bride_crown|Crown of Flowers
+itm_bride_crown_pl|Crown of Flowers
+itm_bride_shoes|Bride Shoes
+itm_bride_shoes_pl|Bride Shoes
+itm_dress|Dress
+itm_dress_pl|Dress
+itm_blue_dress|Blue Dress
+itm_blue_dress_pl|Blue Dress
+itm_peasant_dress|Peasant Dress
+itm_peasant_dress_pl|Peasant Dress
+itm_woolen_dress|Woolen Dress
+itm_woolen_dress_pl|Woolen Dress
+itm_lady_dress_ruby|Ruby Lady Dress
+itm_lady_dress_ruby_pl|Ruby Lady Dress
+itm_lady_dress_green|Green Lady Dress
+itm_lady_dress_green_pl|Green Lady Dress
+itm_lady_dress_blue|Azure Lady Dress
+itm_lady_dress_blue_pl|Azure Lady Dress
+itm_red_dress|Red Dress
+itm_red_dress_pl|Red Dress
+itm_brown_dress|Brown Dress
+itm_brown_dress_pl|Brown Dress
+itm_green_dress|Green Dress
+itm_green_dress_pl|Green Dress
+itm_khergit_lady_dress|D'Shar Lady Dress
+itm_khergit_lady_dress_pl|D'Shar Lady Dress
+itm_khergit_lady_dress_b|D'Shar Leather Lady Dress
+itm_khergit_lady_dress_b_pl|D'Shar Leather Lady Dress
+itm_court_dress|Court Dress
+itm_court_dress_pl|Court Dress
+itm_orange_dress|D'Shar Rich Dress
+itm_orange_dress_pl|D'Shar Rich Dress
+itm_blue_sarranid_dress|Light Blue Dress
+itm_blue_sarranid_dress_pl|Light Blue Dress
+itm_gold_pattern_dress|Rich Red Dress
+itm_gold_pattern_dress_pl|Rich Red Dress
+itm_khaki_dress|Khaki Dress
+itm_khaki_dress_pl|Khaki Dress
+itm_fur_lined_coat_over_armor|Common Ornate Dress
+itm_fur_lined_coat_over_armor_pl|Common Ornate Dress
+itm_dshar_dress_1|Purple D'Shar Dress
+itm_dshar_dress_1_pl|Purple D'Shar Dress
+itm_dshar_dress_2|Black D'Shar Dress
+itm_dshar_dress_2_pl|Black D'Shar Dress
+itm_dshar_dress_3|Brown D'Shar Dress
+itm_dshar_dress_3_pl|Brown D'Shar Dress
+itm_dshar_dress_4|Orange D'Shar Dress
+itm_dshar_dress_4_pl|Orange D'Shar Dress
+itm_lady_dress_a_syrian1|Beige Lady Dress
+itm_lady_dress_a_syrian1_pl|Beige Lady Dress
+itm_lady_dress_a_syrian2|Blood Red Lady Dress
+itm_lady_dress_a_syrian2_pl|Blood Red Lady Dress
+itm_lady_dress_a_syrian3|Pistachio Lady Dress
+itm_lady_dress_a_syrian3_pl|Pistachio Lady Dress
+itm_lady_dress_a_syrian4|Pastel Blue Lady Dress
+itm_lady_dress_a_syrian4_pl|Pastel Blue Lady Dress
+itm_lady_dress_lysa_style_1|Dark Red Lady Dress
+itm_lady_dress_lysa_style_1_pl|Dark Red Lady Dress
+itm_lady_dress_lysa_style_2|Dark Green Lady Dress
+itm_lady_dress_lysa_style_2_pl|Dark Green Lady Dress
+itm_lady_dress_lysa_style_3|Emerald Lady Dress
+itm_lady_dress_lysa_style_3_pl|Emerald Lady Dress
+itm_lady_dress_lysa_style_4|Aquamarine Lady Dress
+itm_lady_dress_lysa_style_4_pl|Aquamarine Lady Dress
+itm_lady_dress_lysa_style_5|Ornate Orange Lady Dress
+itm_lady_dress_lysa_style_5_pl|Ornate Orange Lady Dress
+itm_lady_dress_lysa_style_6|Dark Lady Dress
+itm_lady_dress_lysa_style_6_pl|Dark Lady Dress
+itm_lady_dress_sansa_style_1|Red Lady Dress
+itm_lady_dress_sansa_style_1_pl|Red Lady Dress
+itm_lady_dress_sansa_style_2|Blue Lady Dress
+itm_lady_dress_sansa_style_2_pl|Blue Lady Dress
+itm_lady_dress_sansa_style_3|Tawny Lady Dress
+itm_lady_dress_sansa_style_3_pl|Tawny Lady Dress
+itm_lady_dress_sansa_style_4|Olive Lady Dress
+itm_lady_dress_sansa_style_4_pl|Olive Lady Dress
+itm_lady_dress_sansa_style_5|Purple Lady Dress
+itm_lady_dress_sansa_style_5_pl|Purple Lady Dress
+itm_lady_dress_sansa_style_6|Ornate Lady Dress
+itm_lady_dress_sansa_style_6_pl|Ornate Lady Dress
+itm_lady_dress_sansa_style_7|Powder Blue Lady Dress
+itm_lady_dress_sansa_style_7_pl|Powder Blue Lady Dress
+itm_lady_dress_margaery_style_1|Red & Beige Lady Dress
+itm_lady_dress_margaery_style_1_pl|Red & Beige Lady Dress
+itm_lady_dress_margaery_style_2|Orange & Beige Lady Dress
+itm_lady_dress_margaery_style_2_pl|Orange & Beige Lady Dress
+itm_lady_dress_margaery_style_3|Teal Pastel Lady Dress
+itm_lady_dress_margaery_style_3_pl|Teal Pastel Lady Dress
+itm_lady_dress_margaery_style_4|Dark Blue Lady Dress
+itm_lady_dress_margaery_style_4_pl|Dark Blue Lady Dress
+itm_lady_dress_margaery_style_5|Light Blue Lady Dress
+itm_lady_dress_margaery_style_5_pl|Light Blue Lady Dress
+itm_lady_dress_margaery_style_6|Scarlet Lady Dress
+itm_lady_dress_margaery_style_6_pl|Scarlet Lady Dress
+itm_lady_dress_margaery_style_7|Parakeet Lady Dress
+itm_lady_dress_margaery_style_7_pl|Parakeet Lady Dress
+itm_lady_dress_margaery_style_8|Cyan Lady Dress
+itm_lady_dress_margaery_style_8_pl|Cyan Lady Dress
+itm_lady_dress_margaery_style_9|Ocean Lady Dress
+itm_lady_dress_margaery_style_9_pl|Ocean Lady Dress
+itm_lady_dress_margaery_style_10|Light Grey Lady Dress
+itm_lady_dress_margaery_style_10_pl|Light Grey Lady Dress
+itm_lady_dress_margaery_style_11|Basil Lady Dress
+itm_lady_dress_margaery_style_11_pl|Basil Lady Dress
+itm_nobleman_outfit|Nobleman Outfit
+itm_nobleman_outfit_pl|Nobleman Outfit
+itm_leather_jacket|Northern Leather Jacket
+itm_leather_jacket_pl|Northern Leather Jacket
+itm_darkgreen_clothing1|Dark Green Clothing
+itm_darkgreen_clothing1_pl|Dark Green Clothing
+itm_leather_jacket_acok|Leather Jacket
+itm_leather_jacket_acok_pl|Leather Jacket
+itm_grey_clothing|Grey Clothing
+itm_grey_clothing_pl|Grey Clothing
+itm_bookseller_vest1|Bookseller Leather Tunic
+itm_bookseller_vest1_pl|Bookseller Leather Tunic
+itm_bookseller_vest2|Bookseller Surcoat on Tunic
+itm_bookseller_vest2_pl|Bookseller Surcoat on Tunic
+itm_robe|Robe
+itm_robe_pl|Robe
+itm_sarleon_clothing1|Sarleon Clothing
+itm_sarleon_clothing1_pl|Sarleon Clothing
+itm_sarleon_clothing2|Sarleon Clothing with Emblem
+itm_sarleon_clothing2_pl|Sarleon Clothing with Emblem
+itm_sarleon_clothing3|Squared Sarleon Clothing
+itm_sarleon_clothing3_pl|Squared Sarleon Clothing
+itm_tabard|Tabard
+itm_tabard_pl|Tabard
+itm_common_clothing2|Common Clothes
+itm_common_clothing2_pl|Common Clothes
+itm_merchant_outfit_2|Merchant Clothing
+itm_merchant_outfit_2_pl|Merchant Clothing
+itm_red_shirt|Rich Red Shirt
+itm_red_shirt_pl|Rich Red Shirt
+itm_red_tunic|Red Tunic
+itm_red_tunic_pl|Red Tunic
+itm_studded_leather_hauberk|Studded Leather Hauberk
+itm_studded_leather_hauberk_pl|Studded Leather Hauberk
+itm_sarleon_clothing4|Squared Common Clothing
+itm_sarleon_clothing4_pl|Squared Common Clothing
+itm_leather_coat|Red & White Leather Vest
+itm_leather_coat_pl|Red & White Leather Vest
+itm_leather02|Dark Padded Leather
+itm_leather02_pl|Dark Padded Leather
+itm_leather04|Red & Blue Padded Leather
+itm_leather04_pl|Red & Blue Padded Leather
+itm_leather_armor|Leather Armor
+itm_leather_armor_pl|Leather Armor
+itm_padded_leather|Padded Leather
+itm_padded_leather_pl|Padded Leather
+itm_leather07|Gaudy Padded Leather
+itm_leather07_pl|Gaudy Padded Leather
+itm_leather_sarleon|Sarleon Leather on Mail
+itm_leather_sarleon_pl|Sarleon Leather on Mail
+itm_padded_leather_brown|Layered Padded Leather
+itm_padded_leather_brown_pl|Layered Padded Leather
+itm_padded_striped_sar|Sarleon Padded Leather
+itm_padded_striped_sar_pl|Sarleon Padded Leather
+itm_ravenstern_clothing2|Ravenstern Clothing
+itm_ravenstern_clothing2_pl|Ravenstern Clothing
+itm_ravenstern_clothing1|Caped Ravenstern Clothing
+itm_ravenstern_clothing1_pl|Caped Ravenstern Clothing
+itm_ravenstern_clothing3|Ravenstern Clothing with Emblem
+itm_ravenstern_clothing3_pl|Ravenstern Clothing with Emblem
+itm_merchant_outfit|Merchant Outfit
+itm_merchant_outfit_pl|Merchant Outfit
+itm_blue_tunic|Blue Tunic
+itm_blue_tunic_pl|Blue Tunic
+itm_rawhide_coat|Rawhide Coat
+itm_rawhide_coat_pl|Rawhide Coat
+itm_fur_coat|Fur Coat
+itm_fur_coat_pl|Fur Coat
+itm_ragged_outfit|Old Leather Outfit
+itm_ragged_outfit_pl|Old Leather Outfit
+itm_tribal_warrior_outfit|Tribal Warrior Outfit
+itm_tribal_warrior_outfit_pl|Tribal Warrior Outfit
+itm_leather05|Blue Padded Leather
+itm_leather05_pl|Blue Padded Leather
+itm_leather06|Blue & White Padded Leather
+itm_leather06_pl|Blue & White Padded Leather
+itm_studded_leather_coat|Studded Leather Coat
+itm_studded_leather_coat_pl|Studded Leather Coat
+itm_noblefur_clothing1|Noble's Fur Clothing
+itm_noblefur_clothing1_pl|Noble's Fur Clothing
+itm_fur_clothing1|Wolf Fur Clothing
+itm_fur_clothing1_pl|Wolf Fur Clothing
+itm_fur_clothing2|Light Brown Fur Clothing
+itm_fur_clothing2_pl|Light Brown Fur Clothing
+itm_dshar_noble_clothing1|D'Shar Noble's Clothing
+itm_dshar_noble_clothing1_pl|D'Shar Noble's Clothing
+itm_dshar_clothing2|Bright D'Shar Clothing
+itm_dshar_clothing2_pl|Bright D'Shar Clothing
+itm_dshar_clothing1|D'Shar Clothing
+itm_dshar_clothing1_pl|D'Shar Clothing
+itm_nomad_vest|Nomad Vest
+itm_nomad_vest_pl|Nomad Vest
+itm_gold_purple_clothing1|Gold & Purple Clothing
+itm_gold_purple_clothing1_pl|Gold & Purple Clothing
+itm_noble_clothing2|Green Upper Class Clothing
+itm_noble_clothing2_pl|Green Upper Class Clothing
+itm_padded_cloth|Aketon
+itm_padded_cloth_pl|Aketon
+itm_steppe_armor|Steppe Armor
+itm_steppe_armor_pl|Steppe Armor
+itm_northern_clothing1|Western Clothing
+itm_northern_clothing1_pl|Western Clothing
+itm_nomad_robe|Nomad Robe
+itm_nomad_robe_pl|Nomad Robe
+itm_khergit_armor|D'Shar Armor
+itm_khergit_armor_pl|D'Shar Armor
+itm_nomad_armor|Nomad Armor
+itm_nomad_armor_pl|Nomad Armor
+itm_dshar_robe_c|Brown Nomad Robe
+itm_dshar_robe_c_pl|Brown Nomad Robe
+itm_dshar_robe_a|Goldbraided Nomad Robe
+itm_dshar_robe_a_pl|Goldbraided Nomad Robe
+itm_dshar_robe_d|Dark Nomad Robe
+itm_dshar_robe_d_pl|Dark Nomad Robe
+itm_dshar_armor_leather|D'Shar Leather
+itm_dshar_armor_leather_pl|D'Shar Leather
+itm_dshar_clothing_on_mail|Southern Robe on Mail
+itm_dshar_clothing_on_mail_pl|Southern Robe on Mail
+itm_dshar_clothing3|Striped D'Shar Clothing
+itm_dshar_clothing3_pl|Striped D'Shar Clothing
+itm_dshar_clothing4|Rich D'Shar Clothing
+itm_dshar_clothing4_pl|Rich D'Shar Clothing
+itm_fierdsvain_clothing1|Fierdsvain Clothing
+itm_fierdsvain_clothing1_pl|Fierdsvain Clothing
+itm_fierdsvain_clothing2|Green Fierdsvain Clothing
+itm_fierdsvain_clothing2_pl|Green Fierdsvain Clothing
+itm_clothing_scale_fierdsvain1|Fierdsvain Mail Clothing
+itm_clothing_scale_fierdsvain1_pl|Fierdsvain Mail Clothing
+itm_clothing_scale_fierdsvain3|Padded Fierdsvain Clothing
+itm_clothing_scale_fierdsvain3_pl|Padded Fierdsvain Clothing
+itm_common_clothing3|Common Leather Coat
+itm_common_clothing3_pl|Common Leather Coat
+itm_rich_outfit|Rich Outfit
+itm_rich_outfit_pl|Rich Outfit
+itm_green_tunic|Rich Green Tunic
+itm_green_tunic_pl|Rich Green Tunic
+itm_fierdsvain_clothing3|Ravenstern Clothes
+itm_fierdsvain_clothing3_pl|Ravenstern Clothes
+itm_aketon_green|Padded Cloth
+itm_aketon_green_pl|Padded Cloth
+itm_leather_jerkin|Leather Jerkin
+itm_leather_jerkin_pl|Leather Jerkin
+itm_clan_leather_fier|Fierdsvain Clan Leather
+itm_clan_leather_fier_pl|Fierdsvain Clan Leather
+itm_padded_tunic_1|Padded Tunic
+itm_padded_tunic_1_pl|Padded Tunic
+itm_padded_tunic_2|Fierdsvain Padded Tunic
+itm_padded_tunic_2_pl|Fierdsvain Padded Tunic
+itm_padded_tunic_3|Fierdsvain Padded Coat
+itm_padded_tunic_3_pl|Fierdsvain Padded Coat
+itm_padded_tunic_4|Fierdsvain Padded Leather
+itm_padded_tunic_4_pl|Fierdsvain Padded Leather
+itm_clothing_empire_citizen|Empire Citizen Clothing
+itm_clothing_empire_citizen_pl|Empire Citizen Clothing
+itm_empire_buckled_leather|Empire Buckled Leather
+itm_empire_buckled_leather_pl|Empire Buckled Leather
+itm_tabard_padded1|Sienna Padded Tabard
+itm_tabard_padded1_pl|Sienna Padded Tabard
+itm_short_tunic|Rich Tunic
+itm_short_tunic_pl|Rich Tunic
+itm_shirt|Olive Shirt
+itm_shirt_pl|Olive Shirt
+itm_linen_tunic|Linen Tunic
+itm_linen_tunic_pl|Linen Tunic
+itm_common_clothing4|Merchant Garb
+itm_common_clothing4_pl|Merchant Garb
+itm_common_clothing1|Common Clothing
+itm_common_clothing1_pl|Common Clothing
+itm_empire_padded_shirt|Empire Padded Shirt
+itm_empire_padded_shirt_pl|Empire Padded Shirt
+itm_empire_leather_vest|Empire Leather Coat
+itm_empire_leather_vest_pl|Empire Leather Coat
+itm_tabard_worn_red|Worn Red Tabard
+itm_tabard_worn_red_pl|Worn Red Tabard
+itm_empire_leather_on_fabric|Empire Leather Vest
+itm_empire_leather_on_fabric_pl|Empire Leather Vest
+itm_empire_leather_jacket|Empire Leather Jacket
+itm_empire_leather_jacket_pl|Empire Leather Jacket
+itm_common_clothing5|Fierdsvain Leather Coat
+itm_common_clothing5_pl|Fierdsvain Leather Coat
+itm_leather_vest|Leather Vest
+itm_leather_vest_pl|Leather Vest
+itm_gambeson|Gambeson
+itm_gambeson_pl|Gambeson
+itm_blue_gambeson|Blue Gambeson
+itm_blue_gambeson_pl|Blue Gambeson
+itm_red_gambeson|Red Gambeson
+itm_red_gambeson_pl|Red Gambeson
+itm_travel_clothing1|Common Traveling Clothing
+itm_travel_clothing1_pl|Common Traveling Clothing
+itm_coarse_tunic|Tunic with Vest
+itm_coarse_tunic_pl|Tunic with Vest
+itm_leather_coat_dark|Dark Leather Vest
+itm_leather_coat_dark_pl|Dark Leather Vest
+itm_travel_clothing_green|Common Green Traveling Clothing
+itm_travel_clothing_green_pl|Common Green Traveling Clothing
+itm_leather01|Dark Fir Leather
+itm_leather01_pl|Dark Fir Leather
+itm_leather03|Green Padded Leather
+itm_leather03_pl|Green Padded Leather
+itm_light_leather|Light Leather
+itm_light_leather_pl|Light Leather
+itm_leather08|Brown Padded Leather
+itm_leather08_pl|Brown Padded Leather
+itm_lamellar_plate_01|Clan Armor
+itm_lamellar_plate_01_pl|Clan Armor
+itm_noble_clothing1|Noble Clothing
+itm_noble_clothing1_pl|Noble Clothing
+itm_noble_clothing3|Brown Noble Clothing
+itm_noble_clothing3_pl|Brown Noble Clothing
+itm_leather_lady1|Crafted Leather Armor
+itm_leather_lady1_pl|Crafted Leather Armor
+itm_white_gambeson_d|White Padded Leather
+itm_white_gambeson_d_pl|White Padded Leather
+itm_heavy_leather|Heavy Leather
+itm_heavy_leather_pl|Heavy Leather
+itm_leather_apron|Leather Apron
+itm_leather_apron_pl|Leather Apron
+itm_noldor_clothing_1|Noldor Clothing
+itm_noldor_clothing_1_pl|Noldor Clothing
+itm_noldor_clothing_2|Noldor Noble Clothing
+itm_noldor_clothing_2_pl|Noldor Noble Clothing
+itm_dshar_robe_assassin|D'Shar Assassin Robe
+itm_dshar_robe_assassin_pl|D'Shar Assassin Robe
+itm_lamellar_vest|Lamellar Vest
+itm_lamellar_vest_pl|Lamellar Vest
+itm_byrnie|Byrnie
+itm_byrnie_pl|Byrnie
+itm_haubergeon|Haubergeon
+itm_haubergeon_pl|Haubergeon
+itm_brigandine_red|Red Brigandine
+itm_brigandine_red_pl|Red Brigandine
+itm_hera_brigandine_b|Heraldic Brigandine
+itm_hera_brigandine_b_pl|Heraldic Brigandine
+itm_plate_brig_armor|Black Brigandine & Plate
+itm_plate_brig_armor_pl|Black Brigandine & Plate
+itm_plate_brig_armor_cape|Black Brigandine & Plate with Cape
+itm_plate_brig_armor_cape_pl|Black Brigandine & Plate with Cape
+itm_hera_brig_plate_black|Heraldic Elite Brigandine
+itm_hera_brig_plate_black_pl|Heraldic Elite Brigandine
+itm_lamellar_armor|Lamellar Armor
+itm_lamellar_armor_pl|Lamellar Armor
+itm_scale_armor|Scale Armor
+itm_scale_armor_pl|Scale Armor
+itm_banded_armor|Banded Armor
+itm_banded_armor_pl|Banded Armor
+itm_cuir_bouilli|Cuir Bouilli
+itm_cuir_bouilli_pl|Cuir Bouilli
+itm_hera_cuir_bouilli_a|Heraldic Cuir Bouilli
+itm_hera_cuir_bouilli_a_pl|Heraldic Cuir Bouilli
+itm_coat_of_plates|Coat of Plates
+itm_coat_of_plates_pl|Coat of Plates
+itm_coat_of_plates_red|Red Coat of Plates
+itm_coat_of_plates_red_pl|Red Coat of Plates
+itm_dark_byrnie|Dark Byrnie
+itm_dark_byrnie_pl|Dark Byrnie
+itm_dark_reinf_jerkin|Dark Strapped Mail Coat
+itm_dark_reinf_jerkin_pl|Dark Strapped Mail Coat
+itm_dark_chain_armor|Dark Chain Coat
+itm_dark_chain_armor_pl|Dark Chain Coat
+itm_coatplates|Vanskerry Mail & Leather Armor
+itm_coatplates_pl|Vanskerry Mail & Leather Armor
+itm_mail_archer_hauberk|Mail & Leather Archer Hauberk
+itm_mail_archer_hauberk_pl|Mail & Leather Archer Hauberk
+itm_plate_harness_yellow|Yellow Plate Harness
+itm_plate_harness_yellow_pl|Yellow Plate Harness
+itm_barclay_plate|Barclay Plate & Leather
+itm_barclay_plate_pl|Barclay Plate & Leather
+itm_breastplate_on_plain|Breastplate over Padding
+itm_breastplate_on_plain_pl|Breastplate over Padding
+itm_tunic_padded1|Light Brown Padded Tunic
+itm_tunic_padded1_pl|Light Brown Padded Tunic
+itm_squire_outfit_northern1|Northern Squires Outfit
+itm_squire_outfit_northern1_pl|Northern Squires Outfit
+itm_dark_std_lthr_coat|Dark Strapped Studded Leather Hauberk
+itm_dark_std_lthr_coat_pl|Dark Strapped Studded Leather Hauberk
+itm_surcoat_brown_padded|Brown Padded Surcoat
+itm_surcoat_brown_padded_pl|Brown Padded Surcoat
+itm_tunic_padded2|Padded Outfit
+itm_tunic_padded2_pl|Padded Outfit
+itm_monk_robe_padded|Padded Black & White Tunic
+itm_monk_robe_padded_pl|Padded Black & White Tunic
+itm_sellsword_armor|Leather over Mail Tunic
+itm_sellsword_armor_pl|Leather over Mail Tunic
+itm_breastplate_mail_1|Breastplate over Mail
+itm_breastplate_mail_1_pl|Breastplate over Mail
+itm_breastplate_mail_1_cape|Breastplate over Mail with Cape
+itm_breastplate_mail_1_cape_pl|Breastplate over Mail with Cape
+itm_breastplate_mail_2|Ravenstern Breastplate over Mail
+itm_breastplate_mail_2_pl|Ravenstern Breastplate over Mail
+itm_plate_armor_northern1|Northern Plate Armor
+itm_plate_armor_northern1_pl|Northern Plate Armor
+itm_breastplate_mail_gold_ornate|Gold Ornate Plate Armor
+itm_breastplate_mail_gold_ornate_pl|Gold Ornate Plate Armor
+itm_burnished_heavy_armor|Burnished Heavy Armor
+itm_burnished_heavy_armor_pl|Burnished Heavy Armor
+itm_griffon_plate|Griffon Plate Harness
+itm_griffon_plate_pl|Griffon Plate Harness
+itm_griffon_plate_cape|Griffon Plate Harness with Cape
+itm_griffon_plate_cape_pl|Griffon Plate Harness with Cape
+itm_plate_armor|Plate Armor
+itm_plate_armor_pl|Plate Armor
+itm_plate_armor_polished1|Polished Plate Armor
+itm_plate_armor_polished1_pl|Polished Plate Armor
+itm_plate_armor_polished1_cape|Polished Plate Armor with Cape
+itm_plate_armor_polished1_cape_pl|Polished Plate Armor with Cape
+itm_plate_madame_light|Light Plate Armor
+itm_plate_madame_light_pl|Light Plate Armor
+itm_dawn_plate|Knight of the Dawn Plate Harness
+itm_dawn_plate_pl|Knight of the Dawn Plate Harness
+itm_dawn_plate_cape|Knight of the Dawn Plate Harness with Cape
+itm_dawn_plate_cape_pl|Knight of the Dawn Plate Harness with Cape
+itm_pendor_ornate_armor|Pendor Ornate Plate Armor
+itm_pendor_ornate_armor_pl|Pendor Ornate Plate Armor
+itm_pendor_ornate_armor_cape|Pendor Ornate Plate Armor with Cape
+itm_pendor_ornate_armor_cape_pl|Pendor Ornate Plate Armor with Cape
+itm_plate_studded_pauldron|Southern Plate Armor
+itm_plate_studded_pauldron_pl|Southern Plate Armor
+itm_plate_studded_pauldron_cape|Southern Plate Armor with Cape
+itm_plate_studded_pauldron_cape_pl|Southern Plate Armor with Cape
+itm_marleons_plate_normal|Marleons Plate Armor
+itm_marleons_plate_normal_pl|Marleons Plate Armor
+itm_imperial_armor|Imperial Heavy Armor
+itm_imperial_armor_pl|Imperial Heavy Armor
+itm_immortal_armor|Immortal Armor
+itm_immortal_armor_pl|Immortal Armor
+itm_coat_plates_black|Coat of Plates - Black
+itm_coat_plates_black_pl|Coat of Plates - Black
+itm_coat_plates_blue|Coat of Plates - Blue
+itm_coat_plates_blue_pl|Coat of Plates - Blue
+itm_coat_plates_green|Coat of Plates - Green
+itm_coat_plates_green_pl|Coat of Plates - Green
+itm_coat_plates_red|Coat of Plates - Red
+itm_coat_plates_red_pl|Coat of Plates - Red
+itm_coat_plates_yellow|Coat of Plates - Yellow
+itm_coat_plates_yellow_pl|Coat of Plates - Yellow
+itm_platemail_harness_whitegreen|Western Platemail
+itm_platemail_harness_whitegreen_pl|Western Platemail
+itm_red_platemail|Red Platemail Harness
+itm_red_platemail_pl|Red Platemail Harness
+itm_red_platemail_cape|Red Platemail Harness with Cape
+itm_red_platemail_cape_pl|Red Platemail Harness with Cape
+itm_dark_blue_platemail|Dark Blue Platemail
+itm_dark_blue_platemail_pl|Dark Blue Platemail
+itm_dark_blue_platemail_cape|Dark Blue Platemail with Cape
+itm_dark_blue_platemail_cape_pl|Dark Blue Platemail with Cape
+itm_plate_harness_dragon|Dragon Plate Harness
+itm_plate_harness_dragon_pl|Dragon Plate Harness
+itm_plate_harness_dragon_cape|Dragon Plate Harness with Cape
+itm_plate_harness_dragon_cape_pl|Dragon Plate Harness with Cape
+itm_plate_harness_green|Green Plate Harness
+itm_plate_harness_green_pl|Green Plate Harness
+itm_plate_harness_white|White Plate Harness
+itm_plate_harness_white_pl|White Plate Harness
+itm_plate_harness_white_cape|White Plate Harness with Cape
+itm_plate_harness_white_cape_pl|White Plate Harness with Cape
+itm_plate_harness_unicorn|Unicorn Plate Harness
+itm_plate_harness_unicorn_pl|Unicorn Plate Harness
+itm_plate_harness_unicorn_cape|Unicorn Plate Harness with Cape
+itm_plate_harness_unicorn_cape_pl|Unicorn Plate Harness with Cape
+itm_marleons_plate_ornate|Ornate Marleons Plate Armor
+itm_marleons_plate_ornate_pl|Ornate Marleons Plate Armor
+itm_marleons_plate_ornate_cape|Ornate Marleons Plate Armor with Cape
+itm_marleons_plate_ornate_cape_pl|Ornate Marleons Plate Armor with Cape
+itm_pendor_old_harness|Pendor Heavy Plate Harness
+itm_pendor_old_harness_pl|Pendor Heavy Plate Harness
+itm_pendor_old_harness_cape|Pendor Heavy Plate Harness with Cape
+itm_pendor_old_harness_cape_pl|Pendor Heavy Plate Harness with Cape
+itm_heraldic_harness|Heraldic Platemail Harness
+itm_heraldic_harness_pl|Heraldic Platemail Harness
+itm_royal_platemail|Royal Platemail
+itm_royal_platemail_pl|Royal Platemail
+itm_breastplate_mail_falcon|Golden Valkyrie Armor
+itm_breastplate_mail_falcon_pl|Golden Valkyrie Armor
+itm_ebony_gauntlet_armor|Ebony Gauntlet Heavy Plate Armor
+itm_ebony_gauntlet_armor_pl|Ebony Gauntlet Heavy Plate Armor
+itm_plate_armor_pendor1|Pendorian Knight Armor
+itm_plate_armor_pendor1_pl|Pendorian Knight Armor
+itm_plate_armor_pendor1_cape|Pendorian Knight Armor with Cape
+itm_plate_armor_pendor1_cape_pl|Pendorian Knight Armor with Cape
+itm_heraldic_plate|Heraldic Plate Armor
+itm_heraldic_plate_pl|Heraldic Plate Armor
+itm_pendor_old_armor|Pendor Heavy Plate Armor
+itm_pendor_old_armor_pl|Pendor Heavy Plate Armor
+itm_pendor_old_armor_cape|Pendor Heavy Plate Armor with Cape
+itm_pendor_old_armor_cape_pl|Pendor Heavy Plate Armor with Cape
+itm_plate_madame_azure|Azure Plate
+itm_plate_madame_azure_pl|Azure Plate
+itm_plate_madame_azure_cape|Azure Plate with Cape
+itm_plate_madame_azure_cape_pl|Azure Plate with Cape
+itm_breastplate_mail_silver_ornate|Silver Ornate Plated Armor
+itm_breastplate_mail_silver_ornate_pl|Silver Ornate Plated Armor
+itm_breastplate_mail_silver_ornate_cape|Silver Ornate Plated Armor with Cape
+itm_breastplate_mail_silver_ornate_cape_pl|Silver Ornate Plated Armor with Cape
+itm_mett_plate|Mettenheim Plate
+itm_mett_plate_pl|Mettenheim Plate
+itm_mett_plate_cape|Mettenheim Plate with Cape
+itm_mett_plate_cape_pl|Mettenheim Plate with Cape
+itm_full_plate_armor|Full Plate Armor
+itm_full_plate_armor_pl|Full Plate Armor
+itm_ebony_platemail|Ebony Platemail
+itm_ebony_platemail_pl|Ebony Platemail
+itm_ebony_platemail_cape|Ebony Platemail with Cape
+itm_ebony_platemail_cape_pl|Ebony Platemail with Cape
+itm_forlorn_plate|Forlorn Hope Heavy Suit of Plate
+itm_forlorn_plate_pl|Forlorn Hope Heavy Suit of Plate
+itm_platemail_26_kraken|Kraken Platemail
+itm_platemail_26_kraken_pl|Kraken Platemail
+itm_platemail_26_red|Red Platemail
+itm_platemail_26_red_pl|Red Platemail
+itm_platemail_26_blue|Blue Platemail
+itm_platemail_26_blue_pl|Blue Platemail
+itm_platemail_26_whiteblack|White & Black Platemail
+itm_platemail_26_whiteblack_pl|White & Black Platemail
+itm_platemail_26_goldpurple|Gold & Purple Platemail
+itm_platemail_26_goldpurple_pl|Gold & Purple Platemail
+itm_platemail_26_bluegrey|Blue & Gray Platemail
+itm_platemail_26_bluegrey_pl|Blue & Gray Platemail
+itm_dread_armor|Dread Armor
+itm_dread_armor_pl|Dread Armor
+itm_demonplate|Demonplate Armor
+itm_demonplate_pl|Demonplate Armor
+itm_demonskin|Demonskin
+itm_demonskin_pl|Demonskin
+itm_heretic_robe|Heretic Robe
+itm_heretic_robe_pl|Heretic Robe
+itm_heretic_armor|Heretic Padded Coat
+itm_heretic_armor_pl|Heretic Padded Coat
+itm_heretic_leather|Heretic Leather
+itm_heretic_leather_pl|Heretic Leather
+itm_breastplate_on_red|Breastplate over Red Padding
+itm_breastplate_on_red_pl|Breastplate over Red Padding
+itm_breastplate_on_black|Breastplate over Black & White Padding
+itm_breastplate_on_black_pl|Breastplate over Black & White Padding
+itm_breastplate_on_black_cape|Breastplate over Black & White Padding with Cape
+itm_breastplate_on_black_cape_pl|Breastplate over Black & White Padding with Cape
+itm_breastplate_on_blue|Breastplate over Blue Padding
+itm_breastplate_on_blue_pl|Breastplate over Blue Padding
+itm_breastplate_on_green|Breastplate over Green Padding
+itm_breastplate_on_green_pl|Breastplate over Green Padding
+itm_barclay_light_armor|Barclay Light Armor
+itm_barclay_light_armor_pl|Barclay Light Armor
+itm_ranger_leather|Ranger Mail
+itm_ranger_leather_pl|Ranger Mail
+itm_ranger_plate|Ranger Elite Armor
+itm_ranger_plate_pl|Ranger Elite Armor
+itm_ranger_plate_cape|Ranger Elite Armor with Cape
+itm_ranger_plate_cape_pl|Ranger Elite Armor with Cape
+itm_melitine_armor|Melitine Lancer Lamellar Armor
+itm_melitine_armor_pl|Melitine Lancer Lamellar Armor
+itm_melitine_armor_regular|Melitine Lamellar Armor
+itm_melitine_armor_regular_pl|Melitine Lamellar Armor
+itm_melitine_armor_plate|Melitine Plate Armor
+itm_melitine_armor_plate_pl|Melitine Plate Armor
+itm_early_transitional_heraldic|Heraldic Mail & Plate
+itm_early_transitional_heraldic_pl|Heraldic Mail & Plate
+itm_silvermist_plate|Silvermist Plate & Chain
+itm_silvermist_plate_pl|Silvermist Plate & Chain
+itm_fierd_berskerker_armor|Berserker Armor
+itm_fierd_berskerker_armor_pl|Berserker Armor
+itm_pendor_lamellar|Pendorian Lamellar Armor
+itm_pendor_lamellar_pl|Pendorian Lamellar Armor
+itm_veccavi_plate|Veccavian Plate
+itm_veccavi_plate_pl|Veccavian Plate
+itm_barclay_armor|Barclay Plate
+itm_barclay_armor_pl|Barclay Plate
+itm_mail_coat_red|Red Mail Coat
+itm_mail_coat_red_pl|Red Mail Coat
+itm_hauberk_chain_studded_leather|Chain & Studded Leather Hauberk
+itm_hauberk_chain_studded_leather_pl|Chain & Studded Leather Hauberk
+itm_plate_mail_polished|Polished Breastplate over Mail
+itm_plate_mail_polished_pl|Polished Breastplate over Mail
+itm_plate_mail_polished_cape|Polished Breastplate over Mail with Cape
+itm_plate_mail_polished_cape_pl|Polished Breastplate over Mail with Cape
+itm_plate_red_white_tabard|Red & White Tabard on Plate Armor
+itm_plate_red_white_tabard_pl|Red & White Tabard on Plate Armor
+itm_hauberk_silver_mail|Silvermist Mail Hauberk
+itm_hauberk_silver_mail_pl|Silvermist Mail Hauberk
+itm_mail_shirt|Mail Shirt
+itm_mail_shirt_pl|Mail Shirt
+itm_mail_hauberk|Mail Byrnie
+itm_mail_hauberk_pl|Mail Byrnie
+itm_green_garb|Green Garb
+itm_green_garb_pl|Green Garb
+itm_tabard_red_and_white|Red & White Tabard
+itm_tabard_red_and_white_pl|Red & White Tabard
+itm_heraldic_surcoat_over_mail_04|Heraldic Mail with Surcoat
+itm_heraldic_surcoat_over_mail_04_pl|Heraldic Mail with Surcoat
+itm_heraldic_mail_with_tunic|Heraldic Mail
+itm_heraldic_mail_with_tunic_pl|Heraldic Mail
+itm_heraldic_mail_with_tunic_b|Heraldic Mail with Leggings
+itm_heraldic_mail_with_tunic_b_pl|Heraldic Mail with Leggings
+itm_heraldic_mail_with_tabard|Heraldic Mail with Tabard
+itm_heraldic_mail_with_tabard_pl|Heraldic Mail with Tabard
+itm_heraldic_surcoat_over_mail_04_for_tableau|Heraldic Mail with Surcoat
+itm_heraldic_surcoat_over_mail_04_for_tableau_pl|Heraldic Mail with Surcoat
+itm_surcoat_over_mail_01|Black Mail & Plate
+itm_surcoat_over_mail_01_pl|Black Mail & Plate
+itm_surcoat_over_mail_04|Mail with Surcoat
+itm_surcoat_over_mail_04_pl|Mail with Surcoat
+itm_surcoat_over_mail_05|Surcoat over Mail
+itm_surcoat_over_mail_05_pl|Surcoat over Mail
+itm_surcoat_over_mail_rav|Ravenstern Surcoat over Mail
+itm_surcoat_over_mail_rav_pl|Ravenstern Surcoat over Mail
+itm_surcoat_over_mail_06|Long Mail with Surcoat
+itm_surcoat_over_mail_06_pl|Long Mail with Surcoat
+itm_surcoat_over_mail_07|Lion Squire's Surcoat
+itm_surcoat_over_mail_07_pl|Lion Squire's Surcoat
+itm_surcoat_over_mail_08|White Lion on Blue Mail with Surcoat
+itm_surcoat_over_mail_08_pl|White Lion on Blue Mail with Surcoat
+itm_surcoat_over_mail_09|White & Green Long Surcoat
+itm_surcoat_over_mail_09_pl|White & Green Long Surcoat
+itm_surcoat_over_mail_10|White V on Green Surcoat
+itm_surcoat_over_mail_10_pl|White V on Green Surcoat
+itm_surcoat_over_mail_11|Double Headed Eagle Surcoat
+itm_surcoat_over_mail_11_pl|Double Headed Eagle Surcoat
+itm_surcoat_over_mail_12|Knight's Black & White Surcoat
+itm_surcoat_over_mail_12_pl|Knight's Black & White Surcoat
+itm_surcoat_over_mail_13|Knight's Surcoat
+itm_surcoat_over_mail_13_pl|Knight's Surcoat
+itm_surcoat_over_mail_14|Squire's Light Chainmail
+itm_surcoat_over_mail_14_pl|Squire's Light Chainmail
+itm_surcoat_over_mail_15|Bull Surcoat
+itm_surcoat_over_mail_15_pl|Bull Surcoat
+itm_surcoat_over_mail_16|White Cross on Black Surcoat
+itm_surcoat_over_mail_16_pl|White Cross on Black Surcoat
+itm_surcoat_over_mail_17|Double Headed Hawk on Violet Surcoat
+itm_surcoat_over_mail_17_pl|Double Headed Hawk on Violet Surcoat
+itm_surcoat_over_mail_18|Knight's Black & Yellow Surcoat
+itm_surcoat_over_mail_18_pl|Knight's Black & Yellow Surcoat
+itm_surcoat_over_mail_19|Fierdsvain Nobility's Surcoat
+itm_surcoat_over_mail_19_pl|Fierdsvain Nobility's Surcoat
+itm_surcoat_over_mail_20|Knight's Yellow Surcoat
+itm_surcoat_over_mail_20_pl|Knight's Yellow Surcoat
+itm_surcoat_over_mail_21|Knight's Mint Green Surcoat
+itm_surcoat_over_mail_21_pl|Knight's Mint Green Surcoat
+itm_surcoat_over_mail_22|Knight's Blue Surcoat
+itm_surcoat_over_mail_22_pl|Knight's Blue Surcoat
+itm_surcoat_over_mail_23|Dark Blue Surcoat
+itm_surcoat_over_mail_23_pl|Dark Blue Surcoat
+itm_surcoat_over_mail_24|Knight's Red Surcoat
+itm_surcoat_over_mail_24_pl|Knight's Red Surcoat
+itm_surcoat_over_mail_25|Golden Sun Mail
+itm_surcoat_over_mail_25_pl|Golden Sun Mail
+itm_surcoat_over_mail_26|Red Laced Surcoat
+itm_surcoat_over_mail_26_pl|Red Laced Surcoat
+itm_surcoat_over_mail_27|Three Lions Mail & Surcoat
+itm_surcoat_over_mail_27_pl|Three Lions Mail & Surcoat
+itm_surcoat_over_mail_28|Red Surcoat on Fine Mail
+itm_surcoat_over_mail_28_pl|Red Surcoat on Fine Mail
+itm_surcoat_over_mail_29|Ornate Mail Clothing
+itm_surcoat_over_mail_29_pl|Ornate Mail Clothing
+itm_surcoat_over_mail_30|Blue Rampant Lion Surcoat
+itm_surcoat_over_mail_30_pl|Blue Rampant Lion Surcoat
+itm_surcoat_over_mail_31|Light Mail & Plate
+itm_surcoat_over_mail_31_pl|Light Mail & Plate
+itm_surcoat_over_mail_32|Blue & White Eagle on Mail
+itm_surcoat_over_mail_32_pl|Blue & White Eagle on Mail
+itm_surcoat_over_mail_34|Griffon Surcoat on Mail
+itm_surcoat_over_mail_34_pl|Griffon Surcoat on Mail
+itm_surcoat_over_mail_heretics|Heretic Skull Chain Hauberk
+itm_surcoat_over_mail_heretics_pl|Heretic Skull Chain Hauberk
+itm_surcoat_over_mail_snakecult|Serpent Breastplate over Chainmail
+itm_surcoat_over_mail_snakecult_pl|Serpent Breastplate over Chainmail
+itm_plate_armor_sarleon_kn1|Sarleon Knight's Plate Armor
+itm_plate_armor_sarleon_kn1_pl|Sarleon Knight's Plate Armor
+itm_plate_armor_sarleon_kn1_cape|Sarleon Knight's Plate Armor with Cape
+itm_plate_armor_sarleon_kn1_cape_pl|Sarleon Knight's Plate Armor with Cape
+itm_plate_armor_lion1|Lion Breastplate over Chainmail
+itm_plate_armor_lion1_pl|Lion Breastplate over Chainmail
+itm_plate_armor_lion1_cape|Lion Breastplate over Chainmail with Cape
+itm_plate_armor_lion1_cape_pl|Lion Breastplate over Chainmail with Cape
+itm_plate_armor_lion2|Lion Engraved Breastplate over Chainmail
+itm_plate_armor_lion2_pl|Lion Engraved Breastplate over Chainmail
+itm_plate_armor_lion2_cape|Lion Engraved Breastplate over Chainmail with Cape
+itm_plate_armor_lion2_cape_pl|Lion Engraved Breastplate over Chainmail with Cape
+itm_corrazina_red_armor|Sarleon Red Platemail
+itm_corrazina_red_armor_pl|Sarleon Red Platemail
+itm_corrazina_grey_armor|Sarleon Grey Platemail
+itm_corrazina_grey_armor_pl|Sarleon Grey Platemail
+itm_hera_corrazina|Heraldic Sarleon Platemail
+itm_hera_corrazina_pl|Heraldic Sarleon Platemail
+itm_rav_leather_kilt|Northern Leather Kilt
+itm_rav_leather_kilt_pl|Northern Leather Kilt
+itm_rav_caped_leather_kilt|Northern Leather Kilt with Cape
+itm_rav_caped_leather_kilt_pl|Northern Leather Kilt with Cape
+itm_rav_mail_kilt|Northern Kilt over Mail
+itm_rav_mail_kilt_pl|Northern Kilt over Mail
+itm_rav_caped_mail_kilt|Northern Kilt over Mail with Cape
+itm_rav_caped_mail_kilt_pl|Northern Kilt over Mail with Cape
+itm_rav_platemail|Ravenstern Plate & Mail
+itm_rav_platemail_pl|Ravenstern Plate & Mail
+itm_rav_caped_platemail|Ravenstern Plate & Mail with Cape
+itm_rav_caped_platemail_pl|Ravenstern Plate & Mail with Cape
+itm_rav_kierguard_plate|Ravenstern Kierguard Plate
+itm_rav_kierguard_plate_pl|Ravenstern Kierguard Plate
+itm_dragon_knight_plate|Dragon Knight Plate
+itm_dragon_knight_plate_pl|Dragon Knight Plate
+itm_rav_highlander_armor|Ravenstern Highlander Armor
+itm_rav_highlander_armor_pl|Ravenstern Highlander Armor
+itm_falcon_surcoat|Falcon Surcoat
+itm_falcon_surcoat_pl|Falcon Surcoat
+itm_falcon_plate|Falcon Plate
+itm_falcon_plate_pl|Falcon Plate
+itm_myst_warrior_armor|Bearclaw Armor
+itm_myst_warrior_armor_pl|Bearclaw Armor
+itm_dshar_robe_b|Scarlet Nomad Robe
+itm_dshar_robe_b_pl|Scarlet Nomad Robe
+itm_dshar_armor_studded_leather|D'Shar Studded Leather
+itm_dshar_armor_studded_leather_pl|D'Shar Studded Leather
+itm_dshar_elite_armor|D'Shar Padded Armor
+itm_dshar_elite_armor_pl|D'Shar Padded Armor
+itm_dshar_mail_shirt1|D'Shar Mail Shirt
+itm_dshar_mail_shirt1_pl|D'Shar Mail Shirt
+itm_dshar_armor_lamellar_vest|D'Shar Lamellar Vest
+itm_dshar_armor_lamellar_vest_pl|D'Shar Lamellar Vest
+itm_dshar_plate_over_mail|D'Shar Breastplate over Mail
+itm_dshar_plate_over_mail_pl|D'Shar Breastplate over Mail
+itm_dshar_heavy_mail|D'Shar Heavy Mail
+itm_dshar_heavy_mail_pl|D'Shar Heavy Mail
+itm_dshar_dervish_scale|D'Shar Dervish Scale
+itm_dshar_dervish_scale_pl|D'Shar Dervish Scale
+itm_dervish_lamellar_armor|Dustrider Armor
+itm_dervish_lamellar_armor_pl|Dustrider Armor
+itm_dshar_dueling_armor|D'Shar Dueling Armor
+itm_dshar_dueling_armor_pl|D'Shar Dueling Armor
+itm_dshar_brass_plate|D'Shar Brass Plate & Mail
+itm_dshar_brass_plate_pl|D'Shar Brass Plate & Mail
+itm_dshar_heavy_scale|D'Shar Heavy Scale
+itm_dshar_heavy_scale_pl|D'Shar Heavy Scale
+itm_dshar_armor_noble_scale|D'Shar Noble Scale
+itm_dshar_armor_noble_scale_pl|D'Shar Noble Scale
+itm_dshar_windrider_armor|D'Shar Windrider Armor
+itm_dshar_windrider_armor_pl|D'Shar Windrider Armor
+itm_dshar_heavy_plate|D'Shar Plate Armor
+itm_dshar_heavy_plate_pl|D'Shar Plate Armor
+itm_eventide_plate|Eventide Plate Harness
+itm_eventide_plate_pl|Eventide Plate Harness
+itm_fierd_kilt|Fierdsvain Leather Kilt
+itm_fierd_kilt_pl|Fierdsvain Leather Kilt
+itm_fierd_scale|Fierdsvain Leather Scale
+itm_fierd_scale_pl|Fierdsvain Leather Scale
+itm_fierd_mail_hauberk|Fierdsvain Mail Hauberk
+itm_fierd_mail_hauberk_pl|Fierdsvain Mail Hauberk
+itm_valk_stag_surcoat|Stag Surcoat
+itm_valk_stag_surcoat_pl|Stag Surcoat
+itm_valk_unicorn_surcoat|Unicorn Surcoat
+itm_valk_unicorn_surcoat_pl|Unicorn Surcoat
+itm_valdis_armor|Valdis Huscarl Armor
+itm_valdis_armor_pl|Valdis Huscarl Armor
+itm_fierd_valk_surcoat|Fierdsvain Noble Surcoat
+itm_fierd_valk_surcoat_pl|Fierdsvain Noble Surcoat
+itm_plate_armor_fierdsvain1|Eagle Breastplate over Mail
+itm_plate_armor_fierdsvain1_pl|Eagle Breastplate over Mail
+itm_valk_stag_plate|Stag Plate
+itm_valk_stag_plate_pl|Stag Plate
+itm_valk_unicorn_plate|Unicorn Plate
+itm_valk_unicorn_plate_pl|Unicorn Plate
+itm_empire_inlayed_armor|Empire Inlayed Armor
+itm_empire_inlayed_armor_pl|Empire Inlayed Armor
+itm_empire_leather_l_s|Empire Leather Lorica Segmentata
+itm_empire_leather_l_s_pl|Empire Leather Lorica Segmentata
+itm_empire_legionnaire_armor|Empire Legionnaire Armor
+itm_empire_legionnaire_armor_pl|Empire Legionnaire Armor
+itm_empire_consul_armor|Empire Consul Armor
+itm_empire_consul_armor_pl|Empire Consul Armor
+itm_empire_silk_garmet|Empire Silk Garmet
+itm_empire_silk_garmet_pl|Empire Silk Garmet
+itm_breastplate_empire|Empire Breastplate
+itm_breastplate_empire_pl|Empire Breastplate
+itm_breastplate_empire_cape|Empire Breastplate with Cape
+itm_breastplate_empire_cape_pl|Empire Breastplate with Cape
+itm_empire_hastatus_armor|Empire Hastatus Armor
+itm_empire_hastatus_armor_pl|Empire Hastatus Armor
+itm_empire_princeps_armor|Empire Princeps Armor
+itm_empire_princeps_armor_pl|Empire Princeps Armor
+itm_shadow_legion_armor|Shadow Legion Armor
+itm_shadow_legion_armor_pl|Shadow Legion Armor
+itm_shadow_legion_armor_cape|Shadow Legion Armor with Cape
+itm_shadow_legion_armor_cape_pl|Shadow Legion Armor with Cape
+itm_empire_triarius_armor|Imperial Triarius Armor
+itm_empire_triarius_armor_pl|Imperial Triarius Armor
+itm_empire_triarius_armor_cape|Imperial Triarius Armor with Cape
+itm_empire_triarius_armor_cape_pl|Imperial Triarius Armor with Cape
+itm_empire_primus_armor|Immortal Primus Armor
+itm_empire_primus_armor_pl|Immortal Primus Armor
+itm_imperial_radiant_plate|Imperial Radiant Cross Plate
+itm_imperial_radiant_plate_pl|Imperial Radiant Cross Plate
+itm_empire_knight_plate|Empire Knight Plate
+itm_empire_knight_plate_pl|Empire Knight Plate
+itm_empire_knight_plate_cape|Empire Knight Plate with Cape
+itm_empire_knight_plate_cape_pl|Empire Knight Plate with Cape
+itm_empire_guardian_plate|Empire Guardian Plate
+itm_empire_guardian_plate_pl|Empire Guardian Plate
+itm_empire_guardian_plate_cape|Empire Guardian Plate with Cape
+itm_empire_guardian_plate_cape_pl|Empire Guardian Plate with Cape
+itm_empire_mortal_plate|Imperial Scale Armor
+itm_empire_mortal_plate_pl|Imperial Scale Armor
+itm_quigfen_armor|Larian Noble Armor
+itm_quigfen_armor_pl|Larian Noble Armor
+itm_sing_black_leather|Singalian Black Studded Leather
+itm_sing_black_leather_pl|Singalian Black Studded Leather
+itm_sing_temptress_armor|Singalian Temptress Armor
+itm_sing_temptress_armor_pl|Singalian Temptress Armor
+itm_jatu_nomad_armor|Jatu Nomad Lamellar Armor
+itm_jatu_nomad_armor_pl|Jatu Nomad Lamellar Armor
+itm_jatu_raider_armor|Jatu Raider Spiked Coat
+itm_jatu_raider_armor_pl|Jatu Raider Spiked Coat
+itm_jatu_nomad_coat|Jatu Nomad Chain & Mail
+itm_jatu_nomad_coat_pl|Jatu Nomad Chain & Mail
+itm_jatu_warrior_lamellar|Jatu Warrior Mail
+itm_jatu_warrior_lamellar_pl|Jatu Warrior Mail
+itm_khergit_guard_armor|Jatu Guard Armor
+itm_khergit_guard_armor_pl|Jatu Guard Armor
+itm_jatu_honor_armor|Jatu Honor Armor
+itm_jatu_honor_armor_pl|Jatu Honor Armor
+itm_jatu_noble_armor|Jatu Noble Armor
+itm_jatu_noble_armor_pl|Jatu Noble Armor
+itm_scorpion_armor_2|Assassin Sophisticated Armor
+itm_scorpion_armor_2_pl|Assassin Sophisticated Armor
+itm_scorpion_armor|Scorpion Harness
+itm_scorpion_armor_pl|Scorpion Harness
+itm_wolf_armor_2|Shadow Hunter Armor
+itm_wolf_armor_2_pl|Shadow Hunter Armor
+itm_wolf_armor_1|Shadow Wolf Mail with Fur
+itm_wolf_armor_1_pl|Shadow Wolf Mail with Fur
+itm_phoenix_armor|Phoenix Leather & Mail
+itm_phoenix_armor_pl|Phoenix Leather & Mail
+itm_phoenix_plate|Phoenix Heavy Platemail
+itm_phoenix_plate_pl|Phoenix Heavy Platemail
+itm_priestess_high_armor|High Priestess Snake Armor
+itm_priestess_high_armor_pl|High Priestess Snake Armor
+itm_priestess_armor|Priestess Snake Armor
+itm_priestess_armor_pl|Priestess Snake Armor
+itm_cobra_plate|Cobra Plate Armor
+itm_cobra_plate_pl|Cobra Plate Armor
+itm_anaconda_plate|Anaconda Plate Armor
+itm_anaconda_plate_pl|Anaconda Plate Armor
+itm_asp_plate|Asp Armor
+itm_asp_plate_pl|Asp Armor
+itm_asp_plate_supreme|Supreme Asp Armor
+itm_asp_plate_supreme_pl|Supreme Asp Armor
+itm_xena_leather|Doomguide Leather
+itm_xena_leather_pl|Doomguide Leather
+itm_noldor_archer_garb|Noldor Archer Garb
+itm_noldor_archer_garb_pl|Noldor Archer Garb
+itm_noldor_archer_garb_cape|Noldor Archer Garb with Cape
+itm_noldor_archer_garb_cape_pl|Noldor Archer Garb with Cape
+itm_noldor_ranger_garb|Noldor Trimmed Ranger Garb
+itm_noldor_ranger_garb_pl|Noldor Trimmed Ranger Garb
+itm_noldor_ranger_garb_cape|Noldor Trimmed Ranger Garb with Cape
+itm_noldor_ranger_garb_cape_pl|Noldor Trimmed Ranger Garb with Cape
+itm_noldor_female_armor|Female Noldor Armor
+itm_noldor_female_armor_pl|Female Noldor Armor
+itm_noldor_female_armor_cape|Female Noldor Armor with Cape
+itm_noldor_female_armor_cape_pl|Female Noldor Armor with Cape
+itm_noldor_rune_armor|Noldor Rune Armor
+itm_noldor_rune_armor_pl|Noldor Rune Armor
+itm_noldor_ancient_plate|Noldor Ancient Plate
+itm_noldor_ancient_plate_pl|Noldor Ancient Plate
+itm_noldor_noble_armor|Noldor Noble Armor
+itm_noldor_noble_armor_pl|Noldor Noble Armor
+itm_noldor_noble_armor_cape|Noldor Noble Armor with Cape
+itm_noldor_noble_armor_cape_pl|Noldor Noble Armor with Cape
+itm_rune_plate_strange|Mystical Rune Plate
+itm_rune_plate_strange_pl|Mystical Rune Plate
+itm_rune_plate_saphire|Sapphire Rune Plate
+itm_rune_plate_saphire_pl|Sapphire Rune Plate
+itm_rune_plate_ruby|Ruby Rune Plate
+itm_rune_plate_ruby_pl|Ruby Rune Plate
+itm_rune_plate_emerald|Emerald Rune Plate
+itm_rune_plate_emerald_pl|Emerald Rune Plate
+itm_leather_gloves|Leather Gloves
+itm_leather_gloves_pl|Leather Gloves
+itm_mail_mittens|Mail Mittens
+itm_mail_mittens_pl|Mail Mittens
+itm_black_steel_mittens|Black Steel Mittens
+itm_black_steel_mittens_pl|Black Steel Mittens
+itm_scale_gauntlets|Scale Gauntlets
+itm_scale_gauntlets_pl|Scale Gauntlets
+itm_lamellar_gauntlets|Lamellar Gauntlets
+itm_lamellar_gauntlets_pl|Lamellar Gauntlets
+itm_gauntlets_normal|Gauntlets
+itm_gauntlets_normal_pl|Gauntlets
+itm_dark_leather_gloves|Dark Leather Gloves
+itm_dark_leather_gloves_pl|Dark Leather Gloves
+itm_scorpion_gauntlets|Scorpion Gauntlets
+itm_scorpion_gauntlets_pl|Scorpion Gauntlets
+itm_wolf_mittens|Wolf Steel Mittens
+itm_wolf_mittens_pl|Wolf Steel Mittens
+itm_wolf_gauntlets|Shadow Wolf Paws
+itm_wolf_gauntlets_pl|Shadow Wolf Paws
+itm_snake_gloves|Snake Gloves
+itm_snake_gloves_pl|Snake Gloves
+itm_asp_gauntlets|Asp Gauntlets
+itm_asp_gauntlets_pl|Asp Gauntlets
+itm_black_steel_gauntlets|Black Steel Gauntlets
+itm_black_steel_gauntlets_pl|Black Steel Gauntlets
+itm_hourglass_gauntlets_black|Black Hourglass Gauntlets
+itm_hourglass_gauntlets_black_pl|Black Hourglass Gauntlets
+itm_hourglass_gauntlets|Hourglass Gauntlets
+itm_hourglass_gauntlets_pl|Hourglass Gauntlets
+itm_hourglass_gauntlets_ornate|Golden Mittens
+itm_hourglass_gauntlets_ornate_pl|Golden Mittens
+itm_mett_mittens|Mettenheim Steel Mittens
+itm_mett_mittens_pl|Mettenheim Steel Mittens
+itm_myst_gauntlets|Bearclaw Gauntlets
+itm_myst_gauntlets_pl|Bearclaw Gauntlets
+itm_iron_gold_gauntlets|Gold & Iron Gauntlets
+itm_iron_gold_gauntlets_pl|Gold & Iron Gauntlets
+itm_steel_gauntlets|Steel Gauntlets
+itm_steel_gauntlets_pl|Steel Gauntlets
+itm_iron_gauntlets|Iron Gauntlets
+itm_iron_gauntlets_pl|Iron Gauntlets
+itm_silver_gauntlets|Silver Gauntlets
+itm_silver_gauntlets_pl|Silver Gauntlets
+itm_black_iron_gauntlets|Black & Iron Gauntlets
+itm_black_iron_gauntlets_pl|Black & Iron Gauntlets
+itm_clarion_gauntlets|Clarion Gauntlets
+itm_clarion_gauntlets_pl|Clarion Gauntlets
+itm_green_gauntlets|Green Gauntlets
+itm_green_gauntlets_pl|Green Gauntlets
+itm_azure_gauntlets|Azure Gauntlets
+itm_azure_gauntlets_pl|Azure Gauntlets
+itm_azure_gold_gauntlets|Azure & Gold Gauntlets
+itm_azure_gold_gauntlets_pl|Azure & Gold Gauntlets
+itm_black_gold_gauntlets|Black & Gold Gauntlets
+itm_black_gold_gauntlets_pl|Black & Gold Gauntlets
+itm_black_ebony_gauntlets|Ebony Gauntlets
+itm_black_ebony_gauntlets_pl|Ebony Gauntlets
+itm_reinforced_steel_gauntlets|Supreme Steel Gauntlets
+itm_reinforced_steel_gauntlets_pl|Supreme Steel Gauntlets
+itm_reinforced_silver_gauntlets|Supreme Silver Gauntlets
+itm_reinforced_silver_gauntlets_pl|Supreme Silver Gauntlets
+itm_noldor_silver_gauntlets|Noldor Silver Ornate Gauntlets
+itm_noldor_silver_gauntlets_pl|Noldor Silver Ornate Gauntlets
+itm_noldor_leather_gloves|Noldor Leather Ornate Gloves
+itm_noldor_leather_gloves_pl|Noldor Leather Ornate Gloves
+itm_ghost_woolen_hose|Ghost Woolen Hose
+itm_ghost_woolen_hose_pl|Ghost Woolen Hose
+itm_ghost_pilgrim_disguise|Ghost Pilgrim Robe
+itm_ghost_pilgrim_disguise_pl|Ghost Pilgrim Robe
+itm_ghost_head|Ghost Head
+itm_ghost_head_pl|Ghost Head
+itm_ghost_hands|Ghost Hands
+itm_ghost_hands_pl|Ghost Hands
+itm_mail_boots_for_tableau|Retirement Mail Boots
+itm_mail_boots_for_tableau_pl|Retirement Mail Boots
+itm_wrapping_boots|Wrapping Boots
+itm_wrapping_boots_pl|Wrapping Boots
+itm_woolen_hose|Woolen Hose
+itm_woolen_hose_pl|Woolen Hose
+itm_blue_hose|Blue Hose
+itm_blue_hose_pl|Blue Hose
+itm_hide_boots|Hide Boots
+itm_hide_boots_pl|Hide Boots
+itm_common_rus_shoes|Common Shoes
+itm_common_rus_shoes_pl|Common Shoes
+itm_hunter_boots|Hunter Boots
+itm_hunter_boots_pl|Hunter Boots
+itm_ankle_boots|Ankle Boots
+itm_ankle_boots_pl|Ankle Boots
+itm_looter_boots|Looter Boots
+itm_looter_boots_pl|Looter Boots
+itm_nomad_boots|Nomad Boots
+itm_nomad_boots_pl|Nomad Boots
+itm_light_leather_boots|Light Leather Boots
+itm_light_leather_boots_pl|Light Leather Boots
+itm_leather_boots|Leather Boots
+itm_leather_boots_pl|Leather Boots
+itm_leather_boots2|Black Leather Boots
+itm_leather_boots2_pl|Black Leather Boots
+itm_melitine_greaves|Dark Leather Greaves
+itm_melitine_greaves_pl|Dark Leather Greaves
+itm_splinted_leather_greaves|Splinted Leather Greaves
+itm_splinted_leather_greaves_pl|Splinted Leather Greaves
+itm_mail_chausses|Mail Chausses
+itm_mail_chausses_pl|Mail Chausses
+itm_myst_boots|Bearclaw Boots
+itm_myst_boots_pl|Bearclaw Boots
+itm_splinted_greaves|Splinted Greaves
+itm_splinted_greaves_pl|Splinted Greaves
+itm_ranger_boots|Ranger Leather Boots
+itm_ranger_boots_pl|Ranger Leather Boots
+itm_rav_highlander_boots|Ravenstern Highlander Boots
+itm_rav_highlander_boots_pl|Ravenstern Highlander Boots
+itm_greaves_empire_consul|Empire Consul Greaves
+itm_greaves_empire_consul_pl|Empire Consul Greaves
+itm_brass_plated_boots|D'Shar Brass Plated Boots
+itm_brass_plated_boots_pl|D'Shar Brass Plated Boots
+itm_mail_boots|Mail Boots
+itm_mail_boots_pl|Mail Boots
+itm_greaves_soft_soled_plate|Soft Soled Plate Greaves
+itm_greaves_soft_soled_plate_pl|Soft Soled Plate Greaves
+itm_soft_greaves|Soft Soled Ornate Greaves
+itm_soft_greaves_pl|Soft Soled Ornate Greaves
+itm_silvered_boots|Ornate Silvered Boots
+itm_silvered_boots_pl|Ornate Silvered Boots
+itm_iron_greaves|Iron Greaves
+itm_iron_greaves_pl|Iron Greaves
+itm_plate_boots|Plate Boots
+itm_plate_boots_pl|Plate Boots
+itm_melitine_plate_boots|Melitine Plate Boots
+itm_melitine_plate_boots_pl|Melitine Plate Boots
+itm_dshar_orange_boots|D'Shar Splinted Greaves
+itm_dshar_orange_boots_pl|D'Shar Splinted Greaves
+itm_greaves_ornate_plate|Ornate Plate Boots
+itm_greaves_ornate_plate_pl|Ornate Plate Boots
+itm_greaves_polished_plate|Polished Plate Boots
+itm_greaves_polished_plate_pl|Polished Plate Boots
+itm_black_steel_boots|Dark Green Shynbaulds
+itm_black_steel_boots_pl|Dark Green Shynbaulds
+itm_shynbaulds|Shynbaulds
+itm_shynbaulds_pl|Shynbaulds
+itm_steel_greaves_black|Black Steel Greaves
+itm_steel_greaves_black_pl|Black Steel Greaves
+itm_decurion_boots|Decurion Boots
+itm_decurion_boots_pl|Decurion Boots
+itm_khergit_guard_boots|Jatu Guard Boots
+itm_khergit_guard_boots_pl|Jatu Guard Boots
+itm_steel_boots_new|Polished Steel Boots
+itm_steel_boots_new_pl|Polished Steel Boots
+itm_steel_greaves|Steel Greaves
+itm_steel_greaves_pl|Steel Greaves
+itm_steel_greaves_dark|Dark Green Greaves
+itm_steel_greaves_dark_pl|Dark Green Greaves
+itm_black_greaves|Black Greaves
+itm_black_greaves_pl|Black Greaves
+itm_greaves_shadow_legion|Shadow Legion Boots
+itm_greaves_shadow_legion_pl|Shadow Legion Boots
+itm_heavy_iron_greaves|Heavy Iron Greaves
+itm_heavy_iron_greaves_pl|Heavy Iron Greaves
+itm_greaves_heavy_plate|Heavy Plate Greaves
+itm_greaves_heavy_plate_pl|Heavy Plate Greaves
+itm_noldor_boots|Noldor Enchanted Boots
+itm_noldor_boots_pl|Noldor Enchanted Boots
+itm_noldor_plate_greaves|Noldor Plate Greaves
+itm_noldor_plate_greaves_pl|Noldor Plate Greaves
+itm_only_sandals|Sandals
+itm_only_sandals_pl|Sandals
+itm_ebony_greaves|Ebony Greaves
+itm_ebony_greaves_pl|Ebony Greaves
+itm_empire_shynbaulds|Empire Shynbaulds
+itm_empire_shynbaulds_pl|Empire Shynbaulds
+itm_azure_greaves|Azure Greaves
+itm_azure_greaves_pl|Azure Greaves
+itm_silver_gold_greaves|Silver & Gold Greaves
+itm_silver_gold_greaves_pl|Silver & Gold Greaves
+itm_dark_leather_boots|Dark Leather Boots
+itm_dark_leather_boots_pl|Dark Leather Boots
+itm_wolf_greaves_1|Shadow Wolf Greaves
+itm_wolf_greaves_1_pl|Shadow Wolf Greaves
+itm_priestess_boots|Priestess Snake Boots
+itm_priestess_boots_pl|Priestess Snake Boots
+itm_xena_boots|Ornate Leather Boots
+itm_xena_boots_pl|Ornate Leather Boots
+itm_asp_greaves|Asp Greaves
+itm_asp_greaves_pl|Asp Greaves
+itm_female_hood|Lady's Hood
+itm_female_hood_pl|Lady's Hood
+itm_khergit_lady_hat|D'Shar Lady Hat
+itm_khergit_lady_hat_pl|D'Shar Lady Hat
+itm_khergit_lady_hat_b|D'Shar Lady Leather Hat
+itm_khergit_lady_hat_b_pl|D'Shar Lady Leather Hat
+itm_head_wrappings|Head Wrapping
+itm_head_wrappings_pl|Head Wrapping
+itm_turret_hat_ruby|Ruby Turret Hat
+itm_turret_hat_ruby_pl|Ruby Turret Hat
+itm_turret_hat_blue|Blue Turret Hat
+itm_turret_hat_blue_pl|Blue Turret Hat
+itm_turret_hat_green|Barbette
+itm_turret_hat_green_pl|Barbette
+itm_court_hat|Turret Hat
+itm_court_hat_pl|Turret Hat
+itm_wimple_a|Wimple
+itm_wimple_a_pl|Wimple
+itm_wimple_with_veil|Wimple with Veil
+itm_wimple_with_veil_pl|Wimple with Veil
+itm_straw_hat|Straw Hat
+itm_straw_hat_pl|Straw Hat
+itm_common_hood|Hood
+itm_common_hood_pl|Hood
+itm_black_hood|Black Hood
+itm_black_hood_pl|Black Hood
+itm_empire_hood|Empire Hood
+itm_empire_hood_pl|Empire Hood
+itm_headcloth|Headcloth
+itm_headcloth_pl|Headcloth
+itm_arming_cap|Arming Cap
+itm_arming_cap_pl|Arming Cap
+itm_fur_hat|Fur Hat
+itm_fur_hat_pl|Fur Hat
+itm_nomad_cap|Spiked Nomad Cap
+itm_nomad_cap_pl|Spiked Nomad Cap
+itm_nomad_cap_b|Nomad Cap
+itm_nomad_cap_b_pl|Nomad Cap
+itm_woolen_cap|Woolen Cap
+itm_woolen_cap_pl|Woolen Cap
+itm_felt_hat|Pointed Felt Hat
+itm_felt_hat_pl|Pointed Felt Hat
+itm_felt_hat_b|Felt Hat
+itm_felt_hat_b_pl|Felt Hat
+itm_leather_cap|Leather Cap
+itm_leather_cap_pl|Leather Cap
+itm_padded_coif|Padded Coif
+itm_padded_coif_pl|Padded Coif
+itm_nordic_archer_helmet|Fierdsvain Leather Helmet
+itm_nordic_archer_helmet_pl|Fierdsvain Leather Helmet
+itm_leather_warrior_cap|Leather Warrior Cap
+itm_leather_warrior_cap_pl|Leather Warrior Cap
+itm_leather_steppe_cap_b|Steppe Cap
+itm_leather_steppe_cap_b_pl|Steppe Cap
+itm_leather_steppe_cap_c|Fur Steppe Cap
+itm_leather_steppe_cap_c_pl|Fur Steppe Cap
+itm_leather_steppe_cap_a|Leather Steppe Cap
+itm_leather_steppe_cap_a_pl|Leather Steppe Cap
+itm_nordic_veteran_archer_helmet|Fierdsvain Veteran Leather Helmet
+itm_nordic_veteran_archer_helmet_pl|Fierdsvain Veteran Leather Helmet
+itm_skullcap|Skullcap
+itm_skullcap_pl|Skullcap
+itm_mail_coif|Mail Coif
+itm_mail_coif_pl|Mail Coif
+itm_footman_helmet|Footman's Helmet
+itm_footman_helmet_pl|Footman's Helmet
+itm_nasal_helmet|Nasal Helmet
+itm_nasal_helmet_pl|Nasal Helmet
+itm_leather_neck_helmet|Iron & Leather Helmet
+itm_leather_neck_helmet_pl|Iron & Leather Helmet
+itm_sipahi_helmet_a|Sipahi Helmet
+itm_sipahi_helmet_a_pl|Sipahi Helmet
+itm_norman_helmet|Helmet with Cap
+itm_norman_helmet_pl|Helmet with Cap
+itm_spiked_helmet|Spiked Helmet
+itm_spiked_helmet_pl|Spiked Helmet
+itm_nordic_footman_helmet|Fierdsvain Footman Helmet
+itm_nordic_footman_helmet_pl|Fierdsvain Footman Helmet
+itm_dshar_war_helmet|D'Shar War Helmet
+itm_dshar_war_helmet_pl|D'Shar War Helmet
+itm_segmented_helmet|Segmented Helmet
+itm_segmented_helmet_pl|Segmented Helmet
+itm_helmet_empire_conscript|Empire Conscript Helm
+itm_helmet_empire_conscript_pl|Empire Conscript Helm
+itm_mail_neck_helmet|Mail Neck Helmet
+itm_mail_neck_helmet_pl|Mail Neck Helmet
+itm_nordic_fighter_helmet|Fierdsvain Fighter Helmet
+itm_nordic_fighter_helmet_pl|Fierdsvain Fighter Helmet
+itm_helmet_with_neckguard|Helmet with Neckguard
+itm_helmet_with_neckguard_pl|Helmet with Neckguard
+itm_helmet_shahi|Shahi
+itm_helmet_shahi_pl|Shahi
+itm_melitine_helmet|Melitine Helmet
+itm_melitine_helmet_pl|Melitine Helmet
+itm_kettle_hat|Kettle Hat
+itm_kettle_hat_pl|Kettle Hat
+itm_nordic_helmet|Vanskerry Helmet
+itm_nordic_helmet_pl|Vanskerry Helmet
+itm_flat_topped_helmet|Flat Topped Helmet
+itm_flat_topped_helmet_pl|Flat Topped Helmet
+itm_visorless_sallet|Visorless Sallet
+itm_visorless_sallet_pl|Visorless Sallet
+itm_jacok_morion_pop|Morion
+itm_jacok_morion_pop_pl|Morion
+itm_helmet_cap_and_chain|Cap & Chain Helm
+itm_helmet_cap_and_chain_pl|Cap & Chain Helm
+itm_skull_helm|Shaman Skull Helm
+itm_skull_helm_pl|Shaman Skull Helm
+itm_spangenhelm|Spangenhelm
+itm_spangenhelm_pl|Spangenhelm
+itm_barclay_pot_helm|Barclay Pot Helmet
+itm_barclay_pot_helm_pl|Barclay Pot Helmet
+itm_helmet_chain_mask_kettlehelm|Chain Mask Kettlehelm
+itm_helmet_chain_mask_kettlehelm_pl|Chain Mask Kettlehelm
+itm_bascinet|Bascinet
+itm_bascinet_pl|Bascinet
+itm_bascinet_2|Bascinet with Aventail
+itm_bascinet_2_pl|Bascinet with Aventail
+itm_bascinet_3|Bascinet with Nose Guard
+itm_bascinet_3_pl|Bascinet with Nose Guard
+itm_vaegir_noble_helmet|Ravenstern Nobleman Helmet
+itm_vaegir_noble_helmet_pl|Ravenstern Nobleman Helmet
+itm_armet_normal|Armet
+itm_armet_normal_pl|Armet
+itm_armet_plumed|Armet with Plume
+itm_armet_plumed_pl|Armet with Plume
+itm_armet_open|Armet - Open
+itm_armet_open_pl|Armet - Open
+itm_armet_open_plumed|Armet with Plume - Open
+itm_armet_open_plumed_pl|Armet with Plume - Open
+itm_faceplate_iron|Iron Faceplate Helmet
+itm_faceplate_iron_pl|Iron Faceplate Helmet
+itm_guard_helmet|Guard Helmet
+itm_guard_helmet_pl|Guard Helmet
+itm_vaegir_war_helmet|Ravenstern War Helmet
+itm_vaegir_war_helmet_pl|Ravenstern War Helmet
+itm_nemean_helm|Nemean Helm
+itm_nemean_helm_pl|Nemean Helm
+itm_helmet_empire_legion|Legion Helm
+itm_helmet_empire_legion_pl|Legion Helm
+itm_fluted_helmet|Fluted Helmet
+itm_fluted_helmet_pl|Fluted Helmet
+itm_nordic_huscarl_helmet|Fierdsvain Huscarl's Helmet
+itm_nordic_huscarl_helmet_pl|Fierdsvain Huscarl's Helmet
+itm_dshar_spiked_helmet|D'Shar Spiked Helmet
+itm_dshar_spiked_helmet_pl|D'Shar Spiked Helmet
+itm_bear_helm|Bearclaw Helm
+itm_bear_helm_pl|Bearclaw Helm
+itm_helmet_mercenary|Mercenary Helm
+itm_helmet_mercenary_pl|Mercenary Helm
+itm_helmet_vanskerry_warleader|Vanskerry Warleader Helm
+itm_helmet_vanskerry_warleader_pl|Vanskerry Warleader Helm
+itm_helm_dshar_warrior|D'Shar Warrior Helm
+itm_helm_dshar_warrior_pl|D'Shar Warrior Helm
+itm_helmet_torbah_warrior|Torbah Warrior Helm
+itm_helmet_torbah_warrior_pl|Torbah Warrior Helm
+itm_helmet_marinus|Empire Marinus Helm
+itm_helmet_marinus_pl|Empire Marinus Helm
+itm_empire_steel_helmet|Empire Steel Helmet
+itm_empire_steel_helmet_pl|Empire Steel Helmet
+itm_vendel|Fierdsvain Vendel Helm
+itm_vendel_pl|Fierdsvain Vendel Helm
+itm_nordic_warlord_helmet|Fierdsvain Warlord Helmet
+itm_nordic_warlord_helmet_pl|Fierdsvain Warlord Helmet
+itm_faceplate_mail_helmet|Faceplate & Mail Helmet
+itm_faceplate_mail_helmet_pl|Faceplate & Mail Helmet
+itm_helmet_faceplate|Faceplate
+itm_helmet_faceplate_pl|Faceplate
+itm_adventurer_helm|Adventurer Helm
+itm_adventurer_helm_pl|Adventurer Helm
+itm_helmet_vanskerry_snouz|Vanskerry Valsgarde Helm
+itm_helmet_vanskerry_snouz_pl|Vanskerry Valsgarde Helm
+itm_jarl_helmet|Fierdsvain Jarl Helmet
+itm_jarl_helmet_pl|Fierdsvain Jarl Helmet
+itm_sallet_open_only_steel2|Iron Sallet
+itm_sallet_open_only_steel2_pl|Iron Sallet
+itm_sallet_celata|Celata Sallet
+itm_sallet_celata_pl|Celata Sallet
+itm_adventurer_heume|Adventurer Heume
+itm_adventurer_heume_pl|Adventurer Heume
+itm_helmet_ravenstern|Ravenstern Helm
+itm_helmet_ravenstern_pl|Ravenstern Helm
+itm_steel_barbutte|Barbutte
+itm_steel_barbutte_pl|Barbutte
+itm_sallet_open|Simple Sallet
+itm_sallet_open_pl|Simple Sallet
+itm_sallet_open_only_steel|Steel Sallet
+itm_sallet_open_only_steel_pl|Steel Sallet
+itm_sallet_open_only_steel_red|Steel Sallet with Red Feather
+itm_sallet_open_only_steel_red_pl|Steel Sallet with Red Feather
+itm_sarleon_sallet_01|Sarleon Sallet
+itm_sarleon_sallet_01_pl|Sarleon Sallet
+itm_sallet_closed_feather_yellow|Steel Sallet with Feathers
+itm_sallet_closed_feather_yellow_pl|Steel Sallet with Feathers
+itm_full_helm|Full Helm
+itm_full_helm_pl|Full Helm
+itm_empire_blacksteel_helmet|Empire Guardian Helmet
+itm_empire_blacksteel_helmet_pl|Empire Guardian Helmet
+itm_dread_helm|Dread Helm
+itm_dread_helm_pl|Dread Helm
+itm_valsgarde|Fierdsvain Valsgarde Helm
+itm_valsgarde_pl|Fierdsvain Valsgarde Helm
+itm_kiergard_helm_with_mail|Kierguard Helm with Mail
+itm_kiergard_helm_with_mail_pl|Kierguard Helm with Mail
+itm_kiergard_helm|Kierguard Helm
+itm_kiergard_helm_pl|Kierguard Helm
+itm_sallet_strange_steel|Strange Steel Sallet
+itm_sallet_strange_steel_pl|Strange Steel Sallet
+itm_helmet_torbah_mask|Torbah Mask Helm
+itm_helmet_torbah_mask_pl|Torbah Mask Helm
+itm_kiergard_helm_silver_with_mail|Silvermist Helm with Mail
+itm_kiergard_helm_silver_with_mail_pl|Silvermist Helm with Mail
+itm_kiergard_helm_silver|Silvermist Helm
+itm_kiergard_helm_silver_pl|Silvermist Helm
+itm_maciejowski_helmet|Maciejowski Helmet
+itm_maciejowski_helmet_pl|Maciejowski Helmet
+itm_great_helmet|Great Helmet
+itm_great_helmet_pl|Great Helmet
+itm_fierd_helm_2|Fierdsvain Heavy Spangenhelm
+itm_fierd_helm_2_pl|Fierdsvain Heavy Spangenhelm
+itm_fierd_helm_1|Fierdsvain Riveted Spangenhelm
+itm_fierd_helm_1_pl|Fierdsvain Riveted Spangenhelm
+itm_fierd_helm_1_horned|Fierdsvain Horned Spangenhelm
+itm_fierd_helm_1_horned_pl|Fierdsvain Horned Spangenhelm
+itm_immortal_helmet|Immortal Helmet
+itm_immortal_helmet_pl|Immortal Helmet
+itm_empire_gold_helmet|Empire Gold Helmet
+itm_empire_gold_helmet_pl|Empire Gold Helmet
+itm_helmet_empire_immortal|Centurion Helm
+itm_helmet_empire_immortal_pl|Centurion Helm
+itm_sallet_closed|Steel Sallet with Mail
+itm_sallet_closed_pl|Steel Sallet with Mail
+itm_ishkam_helm|Ishkam Helm
+itm_ishkam_helm_pl|Ishkam Helm
+itm_helmet_torbah_chieftain|Torbah Chieftain Helm
+itm_helmet_torbah_chieftain_pl|Torbah Chieftain Helm
+itm_barclay_helm|Barclay Great Helmet
+itm_barclay_helm_pl|Barclay Great Helmet
+itm_great_sugarloaf_helm|Knight's Great Helm
+itm_great_sugarloaf_helm_pl|Knight's Great Helm
+itm_melitine_mask_bronze|Melitine Bronze Mask
+itm_melitine_mask_bronze_pl|Melitine Bronze Mask
+itm_maximilian_helmet|Maximilian Helmet
+itm_maximilian_helmet_pl|Maximilian Helmet
+itm_maximilian_helmet_open|Maximilian Helmet - Open
+itm_maximilian_helmet_open_pl|Maximilian Helmet - Open
+itm_maximilian_helmet_horned|Maximilian Helmet with Horns
+itm_maximilian_helmet_horned_pl|Maximilian Helmet with Horns
+itm_maximilian_helmet_horned2|Maximilian Helmet with Low Horns
+itm_maximilian_helmet_horned2_pl|Maximilian Helmet with Low Horns
+itm_zitta_bascinet|Zitta Bascinet
+itm_zitta_bascinet_pl|Zitta Bascinet
+itm_zitta_bascinet_horned|Zitta Bascinet with Horns
+itm_zitta_bascinet_horned_pl|Zitta Bascinet with Horns
+itm_khergit_helmet|Jatu Helmet
+itm_khergit_helmet_pl|Jatu Helmet
+itm_khergit_cavalry_helmet|Jatu Cavalry Helmet
+itm_khergit_cavalry_helmet_pl|Jatu Cavalry Helmet
+itm_khergit_war_helmet|Jatu War Helmet
+itm_khergit_war_helmet_pl|Jatu War Helmet
+itm_khergit_guard_helmet|Jatu Guard Helmet
+itm_khergit_guard_helmet_pl|Jatu Guard Helmet
+itm_jatu_mask_helm|Jatu Mask Helm
+itm_jatu_mask_helm_pl|Jatu Mask Helm
+itm_jatu_faceless_helm|Jatu Faceless Helm
+itm_jatu_faceless_helm_pl|Jatu Faceless Helm
+itm_rav_footman_helm|Ravenstern Footman Helm
+itm_rav_footman_helm_pl|Ravenstern Footman Helm
+itm_rav_bascinet|Ravenstern Bascinet
+itm_rav_bascinet_pl|Ravenstern Bascinet
+itm_rav_open_bascinet|Ravenstern Bascinet - Open
+itm_rav_open_bascinet_pl|Ravenstern Bascinet - Open
+itm_sarleon_greathelm|Sarleon Rounded Bascinet
+itm_sarleon_greathelm_pl|Sarleon Rounded Bascinet
+itm_helmet_sarleon_knight_plume|Sarleon Rounded Bascinet - Open
+itm_helmet_sarleon_knight_plume_pl|Sarleon Rounded Bascinet - Open
+itm_great_helm|Faceplate Helm
+itm_great_helm_pl|Faceplate Helm
+itm_feather_bascinet_1|Hounskull Bascinet with Black Feather
+itm_feather_bascinet_1_pl|Hounskull Bascinet with Black Feather
+itm_helmet_hounskull_royal_open|Royal Hounskull Bascinet - Open
+itm_helmet_hounskull_royal_open_pl|Royal Hounskull Bascinet - Open
+itm_helmet_hounskull_bascinet|Hounskull Bascinet with Feathers
+itm_helmet_hounskull_bascinet_pl|Hounskull Bascinet with Feathers
+itm_visored_bascinet|Visored Bascinet
+itm_visored_bascinet_pl|Visored Bascinet
+itm_visored_bascinet_tailed|Visored Bascinet with Tail
+itm_visored_bascinet_tailed_pl|Visored Bascinet with Tail
+itm_visored_bascinet_open|Visored Bascinet - Open
+itm_visored_bascinet_open_pl|Visored Bascinet - Open
+itm_helmet_hounskull_bascinet_open_a|Barclay Hounskull Bascinet - Open
+itm_helmet_hounskull_bascinet_open_a_pl|Barclay Hounskull Bascinet - Open
+itm_helmet_hounskull_bascinet_open_b|Barclay Hounskull Bascinet with Feathers - Open
+itm_helmet_hounskull_bascinet_open_b_pl|Barclay Hounskull Bascinet with Feathers - Open
+itm_helmet_hounskull_bascinet_open_c|Rounded Bascinet - Open
+itm_helmet_hounskull_bascinet_open_c_pl|Rounded Bascinet - Open
+itm_feather_bascinet_2|Rounded Bascinet with Black Feather
+itm_feather_bascinet_2_pl|Rounded Bascinet with Black Feather
+itm_open_bascinet_irb|Open Bascinet with Feathers
+itm_open_bascinet_irb_pl|Open Bascinet with Feathers
+itm_flat_bascinet_tailed_open_irb|Flat Bascinet with Tail - Open
+itm_flat_bascinet_tailed_open_irb_pl|Flat Bascinet with Tail - Open
+itm_flat_bascinet_tailed_irb|Flat Bascinet with Tail
+itm_flat_bascinet_tailed_irb_pl|Flat Bascinet with Tail
+itm_gold_rounded_bascinet_open|Gold Rounded Bascinet - Open
+itm_gold_rounded_bascinet_open_pl|Gold Rounded Bascinet - Open
+itm_hounskull_bascinet_tailed_irb|Hounskull Bascinet with Tail
+itm_hounskull_bascinet_tailed_irb_pl|Hounskull Bascinet with Tail
+itm_silver_7_helmet|Silver Dawn Helm
+itm_silver_7_helmet_pl|Silver Dawn Helm
+itm_silver_3_helmet|Silver Dawn Helm - Open
+itm_silver_3_helmet_pl|Silver Dawn Helm - Open
+itm_silver_4_helmet|Silver Helmet - Open
+itm_silver_4_helmet_pl|Silver Helmet - Open
+itm_silver_9_helmet|Silver Pointy Bascinet
+itm_silver_9_helmet_pl|Silver Pointy Bascinet
+itm_silver_10_helmet|Silver Rounded Bascinet
+itm_silver_10_helmet_pl|Silver Rounded Bascinet
+itm_silver_1_helmet|Silver Rounded Bascinet with Tail
+itm_silver_1_helmet_pl|Silver Rounded Bascinet with Tail
+itm_silver_2_helmet|Silver Flat Helm with Feathers
+itm_silver_2_helmet_pl|Silver Flat Helm with Feathers
+itm_silver_1b_helmet|Silver Helm
+itm_silver_1b_helmet_pl|Silver Helm
+itm_silver_2b_helmet|Silver Pointy Bascinet with Tail
+itm_silver_2b_helmet_pl|Silver Pointy Bascinet with Tail
+itm_silver_3b_helmet|Silver Helm with Tail
+itm_silver_3b_helmet_pl|Silver Helm with Tail
+itm_silver_4b_helmet|Silver Hounskull Bascinet
+itm_silver_4b_helmet_pl|Silver Hounskull Bascinet
+itm_azure_6_helmet|Azure Helm
+itm_azure_6_helmet_pl|Azure Helm
+itm_azure_7_helmet|Azure Helm - Open
+itm_azure_7_helmet_pl|Azure Helm - Open
+itm_azure_8_helmet|Flat Azure Helm with Tail
+itm_azure_8_helmet_pl|Flat Azure Helm with Tail
+itm_azure_9_helmet|Azure Pointy Bascinet - Open
+itm_azure_9_helmet_pl|Azure Pointy Bascinet - Open
+itm_azure_10_helmet|Azure Rounded Bascinet
+itm_azure_10_helmet_pl|Azure Rounded Bascinet
+itm_outrider_helm|Outrider Helm
+itm_outrider_helm_pl|Outrider Helm
+itm_green_2_helmet|Ranger Helm with Tail
+itm_green_2_helmet_pl|Ranger Helm with Tail
+itm_green_1_helmet|Green Helm with Feathers
+itm_green_1_helmet_pl|Green Helm with Feathers
+itm_green_4_helmet|Green Rounded Bascinet - Open
+itm_green_4_helmet_pl|Green Rounded Bascinet - Open
+itm_green_3_helmet|Green Pointy Bascinet with Feathers
+itm_green_3_helmet_pl|Green Pointy Bascinet with Feathers
+itm_black_1_helmet|Black Helm with Feathers
+itm_black_1_helmet_pl|Black Helm with Feathers
+itm_helmet_knight_unicorn_open|Open Unicorn Helm
+itm_helmet_knight_unicorn_open_pl|Open Unicorn Helm
+itm_helmet_knight_unicorn|Unicorn Helm
+itm_helmet_knight_unicorn_pl|Unicorn Helm
+itm_black_2_helmet|Flat Helm with Feather
+itm_black_2_helmet_pl|Flat Helm with Feather
+itm_black_3_helmet|Black Rounded Bascinet with Tail
+itm_black_3_helmet_pl|Black Rounded Bascinet with Tail
+itm_helmet_black_hounskull_a|Black Rounded Bascinet
+itm_helmet_black_hounskull_a_pl|Black Rounded Bascinet
+itm_helmet_black_hounskull_b|Black Rounded Bascinet with Feathers
+itm_helmet_black_hounskull_b_pl|Black Rounded Bascinet with Feathers
+itm_black_7_helmet|Ebony Helm with Feathers
+itm_black_7_helmet_pl|Ebony Helm with Feathers
+itm_black_8_helmet|Raven Helm
+itm_black_8_helmet_pl|Raven Helm
+itm_supreme_raven_helm|Supreme Raven Helm
+itm_supreme_raven_helm_pl|Supreme Raven Helm
+itm_black_9_helmet|Griffon Bascinet
+itm_black_9_helmet_pl|Griffon Bascinet
+itm_steel_1_helmet|Steel Helm with Feathers
+itm_steel_1_helmet_pl|Steel Helm with Feathers
+itm_steel_2_helmet|Visored Steel Helm
+itm_steel_2_helmet_pl|Visored Steel Helm
+itm_steel_3_helmet|Steel Flat Bascinet
+itm_steel_3_helmet_pl|Steel Flat Bascinet
+itm_darkhelm|Dark Knight Helm
+itm_darkhelm_pl|Dark Knight Helm
+itm_helmet_hounskull_sarleon|Sarleon Hounskull Bascinet
+itm_helmet_hounskull_sarleon_pl|Sarleon Hounskull Bascinet
+itm_helmet_hounskull_sarleon_open|Sarleon Hounskull Bascinet - Open
+itm_helmet_hounskull_sarleon_open_pl|Sarleon Hounskull Bascinet - Open
+itm_helmet_rounded_bascinet|Steel Rounded Bascinet
+itm_helmet_rounded_bascinet_pl|Steel Rounded Bascinet
+itm_steel_4_helmet|Steel Rounded Bascinet with Tail
+itm_steel_4_helmet_pl|Steel Rounded Bascinet with Tail
+itm_steel_5_helmet|Lion Bascinet
+itm_steel_5_helmet_pl|Lion Bascinet
+itm_helmet_great_gold_plated|Black & White Winged Helm with Crown
+itm_helmet_great_gold_plated_pl|Black & White Winged Helm with Crown
+itm_helmet_knight_helm|Great Helm
+itm_helmet_knight_helm_pl|Great Helm
+itm_helmet_horned_01|Dragon Great Helm with Horns
+itm_helmet_horned_01_pl|Dragon Great Helm with Horns
+itm_great_helm_2|Dragon Great Helm
+itm_great_helm_2_pl|Dragon Great Helm
+itm_winged_great_helmet|Griffon Helm
+itm_winged_great_helmet_pl|Griffon Helm
+itm_helmet_molded_great|Molded Great Helm
+itm_helmet_molded_great_pl|Molded Great Helm
+itm_great_helm_1|Riveted Great Helm
+itm_great_helm_1_pl|Riveted Great Helm
+itm_winged_great_helmet_1|Red & Green Winged Helm
+itm_winged_great_helmet_1_pl|Red & Green Winged Helm
+itm_great_helmet_silver_1|Silver Knight Helm
+itm_great_helmet_silver_1_pl|Silver Knight Helm
+itm_great_helmet_silver_3|Silver Riveted Great Helm
+itm_great_helmet_silver_3_pl|Silver Riveted Great Helm
+itm_great_helmet_silver_6|Horned Silver Great Helm
+itm_great_helmet_silver_6_pl|Horned Silver Great Helm
+itm_great_helmet_silver_7|Blue & Yellow Great Helm
+itm_great_helmet_silver_7_pl|Blue & Yellow Great Helm
+itm_great_helmet_silver_8|Horned Silver Knight Helm
+itm_great_helmet_silver_8_pl|Horned Silver Knight Helm
+itm_great_helmet_silver_5|Dawn Winged Great Helm
+itm_great_helmet_silver_5_pl|Dawn Winged Great Helm
+itm_great_helmet_silver_2|Silver Great Helm
+itm_great_helmet_silver_2_pl|Silver Great Helm
+itm_helmet_knight_helm_black|Black Knight Helm
+itm_helmet_knight_helm_black_pl|Black Knight Helm
+itm_eventide_helm_cape|Eventide Helm with Cape
+itm_eventide_helm_cape_pl|Eventide Helm with Cape
+itm_eventide_helm|Eventide Helm
+itm_eventide_helm_pl|Eventide Helm
+itm_great_horned_helm_3|White & Green Knight Helm
+itm_great_horned_helm_3_pl|White & Green Knight Helm
+itm_great_helmet_black_1|Black Great Helm
+itm_great_helmet_black_1_pl|Black Great Helm
+itm_great_helmet_black_3|Red & Yellow Knight Helm
+itm_great_helmet_black_3_pl|Red & Yellow Knight Helm
+itm_helmet_horned_02|Horned Black Helm
+itm_helmet_horned_02_pl|Horned Black Helm
+itm_hood_white_silver_1|Silver Helm & White Hood
+itm_hood_white_silver_1_pl|Silver Helm & White Hood
+itm_hood_white_silver_2|Silver Hounskull Bascinet & White Hood
+itm_hood_white_silver_2_pl|Silver Hounskull Bascinet & White Hood
+itm_hood_white_black_1|Black Helm & White Hood
+itm_hood_white_black_1_pl|Black Helm & White Hood
+itm_hood_white_black_2|Dark Hounskull Bascinet & White Hood
+itm_hood_white_black_2_pl|Dark Hounskull Bascinet & White Hood
+itm_hood_white_iron_1|Iron Helm & White Hood
+itm_hood_white_iron_1_pl|Iron Helm & White Hood
+itm_hood_white_iron_2|Rounded Bascinet & White Hood
+itm_hood_white_iron_2_pl|Rounded Bascinet & White Hood
+itm_hood_white_silver_3|Silver & Gold Helm with White Hood
+itm_hood_white_silver_3_pl|Silver & Gold Helm with White Hood
+itm_hood_white_silver_4|Silver Rounded Bascinet & White Hood
+itm_hood_white_silver_4_pl|Silver Rounded Bascinet & White Hood
+itm_hood_white_iron_3|Gold Helm & White Hood
+itm_hood_white_iron_3_pl|Gold Helm & White Hood
+itm_hood_white_iron_4|Hounskull Bascinet & White Hood
+itm_hood_white_iron_4_pl|Hounskull Bascinet & White Hood
+itm_hood_black_black_1|Dark & Gold Helm with Black Hood
+itm_hood_black_black_1_pl|Dark & Gold Helm with Black Hood
+itm_hood_black_black_2|Dark Hounskull Bascinet & Black Hood
+itm_hood_black_black_2_pl|Dark Hounskull Bascinet & Black Hood
+itm_hood_black_black_3|Dark Helm & Black Hood
+itm_hood_black_black_3_pl|Dark Helm & Black Hood
+itm_hood_black_black_4|Dark Rounded Bascinet & Black Hood
+itm_hood_black_black_4_pl|Dark Rounded Bascinet & Black Hood
+itm_hood_black_black_5|Black Helm & Black Hood
+itm_hood_black_black_5_pl|Black Helm & Black Hood
+itm_hood_black_iron_1|Gold Helm & Black Hood
+itm_hood_black_iron_1_pl|Gold Helm & Black Hood
+itm_hood_black_iron_2|Gold Rounded Bascinet & Black Hood
+itm_hood_black_iron_2_pl|Gold Rounded Bascinet & Black Hood
+itm_hood_black_iron_3|Helm with Black Hood
+itm_hood_black_iron_3_pl|Helm with Black Hood
+itm_hood_black_iron_4|Hounskull Bascinet & Black Hood
+itm_hood_black_iron_4_pl|Hounskull Bascinet & Black Hood
+itm_hood_black_iron_5|Black & Iron Helm with Black Hood
+itm_hood_black_iron_5_pl|Black & Iron Helm with Black Hood
+itm_hood_red_iron_1|Gold Helm & Red Hood
+itm_hood_red_iron_1_pl|Gold Helm & Red Hood
+itm_hood_red_iron_2|Gold Hounskull Bascinet & Red Hood
+itm_hood_red_iron_2_pl|Gold Hounskull Bascinet & Red Hood
+itm_hood_red_black_1|Dark Helm & Red Hood
+itm_hood_red_black_1_pl|Dark Helm & Red Hood
+itm_hood_red_black_2|Gold Rounded Bascinet & Red Hood
+itm_hood_red_black_2_pl|Gold Rounded Bascinet & Red Hood
+itm_hood_red_iron_3|Helm & Red Hood
+itm_hood_red_iron_3_pl|Helm & Red Hood
+itm_hood_red_steel_1|Sarleon Hounskull Bascinet & Red Hood
+itm_hood_red_steel_1_pl|Sarleon Hounskull Bascinet & Red Hood
+itm_hood_red_steel_2|Sarleon Rounded Bascinet & Red Hood
+itm_hood_red_steel_2_pl|Sarleon Rounded Bascinet & Red Hood
+itm_hood_green_iron_1|Helm & Green Hood
+itm_hood_green_iron_1_pl|Helm & Green Hood
+itm_hood_green_iron_2|Rounded Bascinet & Green Hood
+itm_hood_green_iron_2_pl|Rounded Bascinet & Green Hood
+itm_hood_blue_iron_1|Helm & Blue Hood
+itm_hood_blue_iron_1_pl|Helm & Blue Hood
+itm_hood_blue_iron_2|Hounskull Bascinet & Blue Hood
+itm_hood_blue_iron_2_pl|Hounskull Bascinet & Blue Hood
+itm_hood_purple_iron_1|Helm & Purple Hood
+itm_hood_purple_iron_1_pl|Helm & Purple Hood
+itm_hood_purple_iron_2|Rounded Bascinet & Purple Hood
+itm_hood_purple_iron_2_pl|Rounded Bascinet & Purple Hood
+itm_hood_purple_blue_1|Blue Hounskull Bascinet & Purple Hood
+itm_hood_purple_blue_1_pl|Blue Hounskull Bascinet & Purple Hood
+itm_hood_purple_blue_2|Blue Rounded Bascinet & Purple Hood
+itm_hood_purple_blue_2_pl|Blue Rounded Bascinet & Purple Hood
+itm_hood_green_cyan_1|Green Hounskull Bascinet & Cyan Hood
+itm_hood_green_cyan_1_pl|Green Hounskull Bascinet & Cyan Hood
+itm_hood_green_cyan_2|Green Rounded Bascinet & Cyan Hood
+itm_hood_green_cyan_2_pl|Green Rounded Bascinet & Cyan Hood
+itm_hood_yellow_silver_1|Silver Helm & Yellow Hood
+itm_hood_yellow_silver_1_pl|Silver Helm & Yellow Hood
+itm_hood_yellow_silver_2|Silver Rounded Bascinet & Yellow Hood
+itm_hood_yellow_silver_2_pl|Silver Rounded Bascinet & Yellow Hood
+itm_hood_yellow_iron_1|Helm & Yellow Hood
+itm_hood_yellow_iron_1_pl|Helm & Yellow Hood
+itm_hood_yellow_iron_2|Hounskull Bascinet & Yellow Hood
+itm_hood_yellow_iron_2_pl|Hounskull Bascinet & Yellow Hood
+itm_hood_yellow_black_1|Dark Helm & Yellow Hood
+itm_hood_yellow_black_1_pl|Dark Helm & Yellow Hood
+itm_hood_yellow_black_2|Black Rounded Bascinet & Yellow Hood
+itm_hood_yellow_black_2_pl|Black Rounded Bascinet & Yellow Hood
+itm_royal_crown|Royal Crown
+itm_royal_crown_pl|Royal Crown
+itm_sarleon_king_helm|New King Helm
+itm_sarleon_king_helm_pl|New King Helm
+itm_ravenstern_king_helm|Northern King Helm
+itm_ravenstern_king_helm_pl|Northern King Helm
+itm_dshar_king_helm|Southern King Helm
+itm_dshar_king_helm_pl|Southern King Helm
+itm_fierdsvain_crown_helm|Western King Helm
+itm_fierdsvain_crown_helm_pl|Western King Helm
+itm_marius_helmet|Empire King Helm
+itm_marius_helmet_pl|Empire King Helm
+itm_pendor_king_helm|Old King Helm
+itm_pendor_king_helm_pl|Old King Helm
+itm_sarleon_pret_helm|Black Helm with Crown
+itm_sarleon_pret_helm_pl|Black Helm with Crown
+itm_ravenstern_pret_helm|Silver Helm with Crown
+itm_ravenstern_pret_helm_pl|Silver Helm with Crown
+itm_dshar_pert_helm|D'Shar Helm with Crown
+itm_dshar_pert_helm_pl|D'Shar Helm with Crown
+itm_fierdsvain_pret_helm|Fierdsvain Helm with Crown
+itm_fierdsvain_pret_helm_pl|Fierdsvain Helm with Crown
+itm_empire_pret_helmet|Empire Primus Helm
+itm_empire_pret_helmet_pl|Empire Primus Helm
+itm_noldor_inf_helm|Noldor Infantry Helm
+itm_noldor_inf_helm_pl|Noldor Infantry Helm
+itm_noldor_capt_helm|Noldor Captain Helm
+itm_noldor_capt_helm_pl|Noldor Captain Helm
+itm_noldor_knight_helm|Noldor Knight Helm
+itm_noldor_knight_helm_pl|Noldor Knight Helm
+itm_noldor_inf_helm_hooded|Noldor Infantry Helm with Hood
+itm_noldor_inf_helm_hooded_pl|Noldor Infantry Helm with Hood
+itm_noldor_capt_helm_hooded|Noldor Captain Helm with Hood
+itm_noldor_capt_helm_hooded_pl|Noldor Captain Helm with Hood
+itm_noldor_knight_helm_hooded|Noldor Knight Helm with Hood
+itm_noldor_knight_helm_hooded_pl|Noldor Knight Helm with Hood
+itm_scorpion_helmet_2|Assassin Hood
+itm_scorpion_helmet_2_pl|Assassin Hood
+itm_assassin_helmet|Assassin Helmet
+itm_assassin_helmet_pl|Assassin Helmet
+itm_wolf_helmet_2|Wolf Skull Helm
+itm_wolf_helmet_2_pl|Wolf Skull Helm
+itm_wolf_helmet_1|Shadow Wolf Faceplate
+itm_wolf_helmet_1_pl|Shadow Wolf Faceplate
+itm_phoenix_barbutte_helmet|Phoenix Barbutte
+itm_phoenix_barbutte_helmet_pl|Phoenix Barbutte
+itm_phoenix_helmet|Phoenix Knight Barbutte
+itm_phoenix_helmet_pl|Phoenix Knight Barbutte
+itm_valkyrie_helmet|Valkyrie Helmet
+itm_valkyrie_helmet_pl|Valkyrie Helmet
+itm_kraken_helm|Kraken Mask
+itm_kraken_helm_pl|Kraken Mask
+itm_demon_helmet|Demon Helmet
+itm_demon_helmet_pl|Demon Helmet
+itm_snake_helm|Snake Mask Helmet
+itm_snake_helm_pl|Snake Mask Helmet
+itm_cobra_helm|Cobra Great Helm
+itm_cobra_helm_pl|Cobra Great Helm
+itm_helmet_fel_great|Anaconda Great Helm
+itm_helmet_fel_great_pl|Anaconda Great Helm
+itm_anaconda_snake_helm|Anaconda Knight Helm
+itm_anaconda_snake_helm_pl|Anaconda Knight Helm
+itm_asp_helm|Asp Helm
+itm_asp_helm_pl|Asp Helm
+itm_asp_helm_supreme|Supreme Asp Helm
+itm_asp_helm_supreme_pl|Supreme Asp Helm
+itm_hood_white|White Hood
+itm_hood_white_pl|White Hood
+itm_hood_dark|Dark Hood
+itm_hood_dark_pl|Dark Hood
+itm_hood_silver|Silver Hood
+itm_hood_silver_pl|Silver Hood
+itm_hood_cyan|Cyan Hood
+itm_hood_cyan_pl|Cyan Hood
+itm_practice_bow_2|Practice Bow
+itm_practice_bow_2_pl|Practice Bow
+itm_hunting_bow|Hunting Bow
+itm_hunting_bow_pl|Hunting Bow
+itm_short_bow|Short Bow
+itm_short_bow_pl|Short Bow
+itm_nomad_bow|Nomad Bow
+itm_nomad_bow_pl|Nomad Bow
+itm_long_bow|Long Bow
+itm_long_bow_pl|Long Bow
+itm_khergit_bow|D'Shar Bow
+itm_khergit_bow_pl|D'Shar Bow
+itm_strong_bow|Short Composite Bow
+itm_strong_bow_pl|Short Composite Bow
+itm_war_bow|Long Composite Bow
+itm_war_bow_pl|Long Composite Bow
+itm_melitine_bow|Melitine Horseman Bow
+itm_melitine_bow_pl|Melitine Horseman Bow
+itm_melitine_longbow|Melitine Army Bow
+itm_melitine_longbow_pl|Melitine Army Bow
+itm_hawkstorm_bow|Hawkstorm Bow
+itm_hawkstorm_bow_pl|Hawkstorm Bow
+itm_pendor_bow|Ebon Bow
+itm_pendor_bow_pl|Ebon Bow
+itm_dshar_horn_bow|Hornbow
+itm_dshar_horn_bow_pl|Hornbow
+itm_heretic_bow|Darkwood Bow
+itm_heretic_bow_pl|Darkwood Bow
+itm_noldor_bow|Noldor Composite Bow
+itm_noldor_bow_pl|Noldor Composite Bow
+itm_kadan_bow|Heritage Daja Bow
+itm_kadan_bow_pl|Heritage Daja Bow
+itm_duskfall_bow|Duskfall
+itm_duskfall_bow_pl|Duskfall
+itm_strange_rune_bow|Strange Rune Bow
+itm_strange_rune_bow_pl|Strange Rune Bow
+itm_ullrvetr_manifest|UllrVetr Manifest
+itm_ullrvetr_manifest_pl|UllrVetr Manifest
+itm_saphire_rune_bow|Sapphire Rune Bow
+itm_saphire_rune_bow_pl|Sapphire Rune Bow
+itm_ruby_rune_bow|Ruby Rune Bow
+itm_ruby_rune_bow_pl|Ruby Rune Bow
+itm_emerald_rune_bow|Emerald Rune Bow
+itm_emerald_rune_bow_pl|Emerald Rune Bow
+itm_practice_arrows_2|Practice Arrows
+itm_practice_arrows_2_pl|Practice Arrows
+itm_arrows|Arrows
+itm_arrows_pl|Arrows
+itm_barbed_arrows|Barbed Arrows
+itm_barbed_arrows_pl|Barbed Arrows
+itm_singalian_arrows|Singalian Arrows
+itm_singalian_arrows_pl|Singalian Arrows
+itm_melitine_arrows|Melitine Arrows
+itm_melitine_arrows_pl|Melitine Arrows
+itm_bodkin_arrows|Bodkin Arrows
+itm_bodkin_arrows_pl|Bodkin Arrows
+itm_melitine_arrows2|Melitine Horseman Arrows
+itm_melitine_arrows2_pl|Melitine Horseman Arrows
+itm_khergit_arrows|D'Shar Arrows
+itm_khergit_arrows_pl|D'Shar Arrows
+itm_dshar_superior_arrows|Superior D'Shar Arrows
+itm_dshar_superior_arrows_pl|Superior D'Shar Arrows
+itm_dshar_elite_arrows|Ghazi Arrows
+itm_dshar_elite_arrows_pl|Ghazi Arrows
+itm_jatu_arrows|Jatu Arrows
+itm_jatu_arrows_pl|Jatu Arrows
+itm_ranger_arrows|Ranger Arrows
+itm_ranger_arrows_pl|Ranger Arrows
+itm_heretic_arrows|Darkwood Arrows
+itm_heretic_arrows_pl|Darkwood Arrows
+itm_noldor_arrows|Noldor Arrows
+itm_noldor_arrows_pl|Noldor Arrows
+itm_hunting_crossbow|Hunting Crossbow
+itm_hunting_crossbow_pl|Hunting Crossbow
+itm_light_crossbow|Light Crossbow
+itm_light_crossbow_pl|Light Crossbow
+itm_balanced_crossbow|Balanced Crossbow
+itm_balanced_crossbow_pl|Balanced Crossbow
+itm_maiden_crossbow|Maiden Crossbow
+itm_maiden_crossbow_pl|Maiden Crossbow
+itm_heavy_crossbow|Heavy Crossbow
+itm_heavy_crossbow_pl|Heavy Crossbow
+itm_sniper_crossbow|Siege Crossbow
+itm_sniper_crossbow_pl|Siege Crossbow
+itm_arbalest|Mettenheim Arbalest
+itm_arbalest_pl|Mettenheim Arbalest
+itm_bolts|Basic Bolts
+itm_bolts_pl|Basic Bolts
+itm_light_bolts|Light Bolts
+itm_light_bolts_pl|Light Bolts
+itm_balanced_bolts|Balanced Bolts
+itm_balanced_bolts_pl|Balanced Bolts
+itm_steel_bolts|Steel Bolts
+itm_steel_bolts_pl|Steel Bolts
+itm_elite_bolts|Siege Bolts
+itm_elite_bolts_pl|Siege Bolts
+itm_mettenheim_bolts|Mettenheim Bolts
+itm_mettenheim_bolts_pl|Mettenheim Bolts
+itm_stones|Stones
+itm_stones_pl|Stones
+itm_throwing_knives|Throwing Knives
+itm_throwing_knives_pl|Throwing Knives
+itm_throwing_daggers|Throwing Daggers
+itm_throwing_daggers_pl|Throwing Daggers
+itm_assassin_knives|Assassin Throwing Knives
+itm_assassin_knives_pl|Assassin Throwing Knives
+itm_darts|Darts
+itm_darts_pl|Darts
+itm_war_darts|War Darts
+itm_war_darts_pl|War Darts
+itm_javelin|Javelins
+itm_javelin_pl|Javelins
+itm_throwing_spears|Throwing Spears
+itm_throwing_spears_pl|Throwing Spears
+itm_broadhead_spears|Broad Head Throwing Spears
+itm_broadhead_spears_pl|Broad Head Throwing Spears
+itm_jarid|Jarids
+itm_jarid_pl|Jarids
+itm_hasta_spear|Old Empire Hastae
+itm_hasta_spear_pl|Old Empire Hastae
+itm_pilum_light_spear|Old Empire Light Pila
+itm_pilum_light_spear_pl|Old Empire Light Pila
+itm_pilum_spear|Old Empire Pila
+itm_pilum_spear_pl|Old Empire Pila
+itm_ring_of_keys_throwing_axes|Ring of Keys
+itm_ring_of_keys_throwing_axes_pl|Ring of Keys
+itm_light_throwing_axes|Light Throwing Axes
+itm_light_throwing_axes_pl|Light Throwing Axes
+itm_light_throwing_axes_melee|Light Throwing Axe
+itm_light_throwing_axes_melee_pl|Light Throwing Axe
+itm_throwing_axes|Throwing Axes
+itm_throwing_axes_pl|Throwing Axes
+itm_throwing_axes_melee|Throwing Axe
+itm_throwing_axes_melee_pl|Throwing Axe
+itm_heavy_throwing_axes|Heavy Throwing Axes
+itm_heavy_throwing_axes_pl|Heavy Throwing Axes
+itm_heavy_throwing_axes_melee|Heavy Throwing Axe
+itm_heavy_throwing_axes_melee_pl|Heavy Throwing Axe
+itm_asp_throwing_axes|Asp Throwing Axes
+itm_asp_throwing_axes_pl|Asp Throwing Axes
+itm_asp_throwing_axes_melee|Asp Throwing Axe
+itm_asp_throwing_axes_melee_pl|Asp Throwing Axe
+itm_long_throw_spear|Great Gaflaks
+itm_long_throw_spear_pl|Great Gaflaks
+itm_long_throw_spear_melee|Great Gaflak
+itm_long_throw_spear_melee_pl|Great Gaflak
+itm_long_spiked_club|Long Spiked Club
+itm_long_spiked_club_pl|Long Spiked Club
+itm_iron_staff|Iron Staff
+itm_iron_staff_pl|Iron Staff
+itm_quarter_staff|Quarter Staff
+itm_quarter_staff_pl|Quarter Staff
+itm_long_hafted_knobbed_mace|Long Hafted Knobbed Mace
+itm_long_hafted_knobbed_mace_pl|Long Hafted Knobbed Mace
+itm_long_hafted_spiked_mace|Long Hafted Spiked Mace
+itm_long_hafted_spiked_mace_pl|Long Hafted Spiked Mace
+itm_polehammer_1|Polehammer
+itm_polehammer_1_pl|Polehammer
+itm_sarranid_two_handed_mace_1|Steel Mace
+itm_sarranid_two_handed_mace_1_pl|Steel Mace
+itm_torch|Torch
+itm_torch_pl|Torch
+itm_sword_medieval_a|Sword
+itm_sword_medieval_a_pl|Sword
+itm_sword_medieval_b|Iron Sword
+itm_sword_medieval_b_pl|Iron Sword
+itm_sword_medieval_b_small|Short Sword
+itm_sword_medieval_b_small_pl|Short Sword
+itm_sword_medieval_c|Arming Sword
+itm_sword_medieval_c_pl|Arming Sword
+itm_sword_medieval_c_small|Short Steel Sword
+itm_sword_medieval_c_small_pl|Short Steel Sword
+itm_sword_medieval_c_long|Steel Sword
+itm_sword_medieval_c_long_pl|Steel Sword
+itm_sword_medieval_d_long|Long Steel Sword
+itm_sword_medieval_d_long_pl|Long Steel Sword
+itm_empire_broadsword|Empire Broadsword
+itm_empire_broadsword_pl|Empire Broadsword
+itm_silvered_longsword|Silvered Longsword
+itm_silvered_longsword_pl|Silvered Longsword
+itm_crosshilt_sword|Cross Hilt Noble Sword
+itm_crosshilt_sword_pl|Cross Hilt Noble Sword
+itm_knight_war_axe|Knight's War Axe
+itm_knight_war_axe_pl|Knight's War Axe
+itm_vecc_bloodsword|Veccavian Bloodsword
+itm_vecc_bloodsword_pl|Veccavian Bloodsword
+itm_barclay_sword|Barclay Noble Sword
+itm_barclay_sword_pl|Barclay Noble Sword
+itm_ebony_duel_sword|Ebony Dueling Sword
+itm_ebony_duel_sword_pl|Ebony Dueling Sword
+itm_ebony_noble_sword|Ebony Noble Sword
+itm_ebony_noble_sword_pl|Ebony Noble Sword
+itm_ebony_knight_sword|Ebony Knight Sword
+itm_ebony_knight_sword_pl|Ebony Knight Sword
+itm_ebony_arming_sword|Ebony Arming Sword
+itm_ebony_arming_sword_pl|Ebony Arming Sword
+itm_ebony_long_sword|Ebony Long Sword
+itm_ebony_long_sword_pl|Ebony Long Sword
+itm_noldor_longsword|Noldor Longsword
+itm_noldor_longsword_pl|Noldor Longsword
+itm_noldor_runesword|Noldor Runesword
+itm_noldor_runesword_pl|Noldor Runesword
+itm_hidden_dagger|Hidden Dagger
+itm_hidden_dagger_pl|Hidden Dagger
+itm_wooden_stick|Wooden Stick
+itm_wooden_stick_pl|Wooden Stick
+itm_cudgel|Cudgel
+itm_cudgel_pl|Cudgel
+itm_hammer|Hammer
+itm_hammer_pl|Hammer
+itm_club|Club
+itm_club_pl|Club
+itm_winged_mace|Winged Mace
+itm_winged_mace_pl|Winged Mace
+itm_spiked_mace|Metal Spiked Mace
+itm_spiked_mace_pl|Metal Spiked Mace
+itm_military_hammer|Military Hammer
+itm_military_hammer_pl|Military Hammer
+itm_pickaxe|Pickaxe
+itm_pickaxe_pl|Pickaxe
+itm_fighting_pick|Fighting Pick
+itm_fighting_pick_pl|Fighting Pick
+itm_military_pick|Military Pick
+itm_military_pick_pl|Military Pick
+itm_sickle|Sickle
+itm_sickle_pl|Sickle
+itm_cleaver|Cleaver
+itm_cleaver_pl|Cleaver
+itm_knife|Knife
+itm_knife_pl|Knife
+itm_butchering_knife|Butchering Knife
+itm_butchering_knife_pl|Butchering Knife
+itm_dagger|Dagger
+itm_dagger_pl|Dagger
+itm_falchion|Falchion
+itm_falchion_pl|Falchion
+itm_hatchet|Hatchet
+itm_hatchet_pl|Hatchet
+itm_hand_axe|Hand Axe
+itm_hand_axe_pl|Hand Axe
+itm_fighting_axe|Fighting Axe
+itm_fighting_axe_pl|Fighting Axe
+itm_military_cleaver_b|Soldier's Cleaver
+itm_military_cleaver_b_pl|Soldier's Cleaver
+itm_military_cleaver_c|Military Cleaver
+itm_military_cleaver_c_pl|Military Cleaver
+itm_military_sickle_a|Military Sickle
+itm_military_sickle_a_pl|Military Sickle
+itm_one_handed_battle_axe_a|One Handed Axe
+itm_one_handed_battle_axe_a_pl|One Handed Axe
+itm_one_handed_war_axe_b|One Handed War Axe
+itm_one_handed_war_axe_b_pl|One Handed War Axe
+itm_one_handed_battle_axe_b|One Handed Battle Axe
+itm_one_handed_battle_axe_b_pl|One Handed Battle Axe
+itm_one_handed_battle_axe_c|One Handed Veteran Axe
+itm_one_handed_battle_axe_c_pl|One Handed Veteran Axe
+itm_sword_khergit_1|Nomad Sabre
+itm_sword_khergit_1_pl|Nomad Sabre
+itm_sword_khergit_3|Sabre
+itm_sword_khergit_3_pl|Sabre
+itm_sword_khergit_4|Heavy Sabre
+itm_sword_khergit_4_pl|Heavy Sabre
+itm_melitine_sabre|Melitine Sabre
+itm_melitine_sabre_pl|Melitine Sabre
+itm_mace_1|Short Spiked Club
+itm_mace_1_pl|Short Spiked Club
+itm_mace_2|Mace
+itm_mace_2_pl|Mace
+itm_mace_4|Infantry Mace
+itm_mace_4_pl|Infantry Mace
+itm_sarranid_mace_1|Iron Mace
+itm_sarranid_mace_1_pl|Iron Mace
+itm_cavalry_mace|Cavalry Mace
+itm_cavalry_mace_pl|Cavalry Mace
+itm_cavalry_club|Cavalry Club
+itm_cavalry_club_pl|Cavalry Club
+itm_steel_hammer|Steel Hammer
+itm_steel_hammer_pl|Steel Hammer
+itm_doom_mace|Doom Mace
+itm_doom_mace_pl|Doom Mace
+itm_sarranid_axe_a|Iron Battle Axe
+itm_sarranid_axe_a_pl|Iron Battle Axe
+itm_sarranid_axe_b|Iron War Axe
+itm_sarranid_axe_b_pl|Iron War Axe
+itm_warhammer_talek|Warhammer
+itm_warhammer_talek_pl|Warhammer
+itm_dragonspine_axe|Dragonspine Axe
+itm_dragonspine_axe_pl|Dragonspine Axe
+itm_bastard_sword_b|Sarleon Arming Longsword
+itm_bastard_sword_b_pl|Sarleon Arming Longsword
+itm_sarleon_sword|Sarleon Longsword
+itm_sarleon_sword_pl|Sarleon Longsword
+itm_rav_battle_axe|Ravenstern Battle Axe
+itm_rav_battle_axe_pl|Ravenstern Battle Axe
+itm_rav_sword|Ravenstern Sword
+itm_rav_sword_pl|Ravenstern Sword
+itm_rav_longsword|Ravenstern Longsword
+itm_rav_longsword_pl|Ravenstern Longsword
+itm_arabian_sword_a|Desert Sword
+itm_arabian_sword_a_pl|Desert Sword
+itm_arabian_sword_b|Desert Arming Sword
+itm_arabian_sword_b_pl|Desert Arming Sword
+itm_sarranid_cavalry_sword|Desert Cavalry Sword
+itm_sarranid_cavalry_sword_pl|Desert Cavalry Sword
+itm_arabian_sword_d|Desert Guard Sword
+itm_arabian_sword_d_pl|Desert Guard Sword
+itm_eventide_longsword|Eventide Sword
+itm_eventide_longsword_pl|Eventide Sword
+itm_scimitar|Scimitar
+itm_scimitar_pl|Scimitar
+itm_scimitar_b|Raider's Scimitar
+itm_scimitar_b_pl|Raider's Scimitar
+itm_dshar_sabre|D'Shar Sabre
+itm_dshar_sabre_pl|D'Shar Sabre
+itm_heavy_dshar_sabre|Heavy D'Shar Sabre
+itm_heavy_dshar_sabre_pl|Heavy D'Shar Sabre
+itm_sing_death_sabre|Singalian Death Sabre
+itm_sing_death_sabre_pl|Singalian Death Sabre
+itm_sing_noble_sabre|Singalian Noble Sabre
+itm_sing_noble_sabre_pl|Singalian Noble Sabre
+itm_dshar_short_sabre|D'Shar Short Sabre
+itm_dshar_short_sabre_pl|D'Shar Short Sabre
+itm_dshar_scimitar|D'Shar Scimitar
+itm_dshar_scimitar_pl|D'Shar Scimitar
+itm_sword_viking_1|Common Iron Sword
+itm_sword_viking_1_pl|Common Iron Sword
+itm_sword_viking_2|Heavy Iron Sword
+itm_sword_viking_2_pl|Heavy Iron Sword
+itm_sword_viking_2_small|Iron Short Sword
+itm_sword_viking_2_small_pl|Iron Short Sword
+itm_sword_viking_3|Vanskerry Sword
+itm_sword_viking_3_pl|Vanskerry Sword
+itm_sword_viking_3_small|Vanskerry Short War Sword
+itm_sword_viking_3_small_pl|Vanskerry Short War Sword
+itm_fierd_leaf_sword|Fierdsvain Leaf Sword
+itm_fierd_leaf_sword_pl|Fierdsvain Leaf Sword
+itm_fierd_long_sword|Fierdsvain Long Sword
+itm_fierd_long_sword_pl|Fierdsvain Long Sword
+itm_vanskerry_sword|Vanskerry Noble Sword
+itm_vanskerry_sword_pl|Vanskerry Noble Sword
+itm_fierd_war_axe|Fierdsvain War Axe
+itm_fierd_war_axe_pl|Fierdsvain War Axe
+itm_fierd_war_axe_new|Fierdsvain Curved War Axe
+itm_fierd_war_axe_new_pl|Fierdsvain Curved War Axe
+itm_jatu_sabre|Jatu Sabre
+itm_jatu_sabre_pl|Jatu Sabre
+itm_jatu_hsabre|Jatu Heavy Sabre
+itm_jatu_hsabre_pl|Jatu Heavy Sabre
+itm_spiked_club|Spiked Club
+itm_spiked_club_pl|Spiked Club
+itm_viper_sabre|Viper Sabre
+itm_viper_sabre_pl|Viper Sabre
+itm_scorpion_sword|Scorpion Sword
+itm_scorpion_sword_pl|Scorpion Sword
+itm_wolf_sword|Wolf Sword
+itm_wolf_sword_pl|Wolf Sword
+itm_phoenix_broadsword|Phoenix Broadsword
+itm_phoenix_broadsword_pl|Phoenix Broadsword
+itm_phoenix_sword|Phoenix Longsword
+itm_phoenix_sword_pl|Phoenix Longsword
+itm_strange_short_sword|Foreign Short Sabre
+itm_strange_short_sword_pl|Foreign Short Sabre
+itm_heretic_sabre|Strange Ebony Sabre
+itm_heretic_sabre_pl|Strange Ebony Sabre
+itm_strange_rune_axe|Strange Rune Axe
+itm_strange_rune_axe_pl|Strange Rune Axe
+itm_saphire_rune_axe|Sapphire Rune Axe
+itm_saphire_rune_axe_pl|Sapphire Rune Axe
+itm_ruby_rune_axe|Ruby Rune Axe
+itm_ruby_rune_axe_pl|Ruby Rune Axe
+itm_emerald_rune_axe|Emerald Rune Axe
+itm_emerald_rune_axe_pl|Emerald Rune Axe
+itm_strange_rune_sword|Strange Rune Sword
+itm_strange_rune_sword_pl|Strange Rune Sword
+itm_saphire_rune_sword|Sapphire Rune Sword
+itm_saphire_rune_sword_pl|Sapphire Rune Sword
+itm_ruby_rune_sword|Ruby Rune Sword
+itm_ruby_rune_sword_pl|Ruby Rune Sword
+itm_emerald_rune_sword|Emerald Rune Sword
+itm_emerald_rune_sword_pl|Emerald Rune Sword
+itm_marius_sword|Orator Baccus Sword
+itm_marius_sword_pl|Orator Baccus Sword
+itm_maul|Maul
+itm_maul_pl|Maul
+itm_sledgehammer|Sledgehammer
+itm_sledgehammer_pl|Sledgehammer
+itm_warhammer|Great Hammer
+itm_warhammer_pl|Great Hammer
+itm_club_with_spike_head|Club with Spike
+itm_club_with_spike_head_pl|Club with Spike
+itm_morningstar|Morningstar
+itm_morningstar_pl|Morningstar
+itm_battle_hammer|Battle Hammer
+itm_battle_hammer_pl|Battle Hammer
+itm_axe|Axe
+itm_axe_pl|Axe
+itm_voulge|Voulge
+itm_voulge_pl|Voulge
+itm_battle_axe|Battle Axe
+itm_battle_axe_pl|Battle Axe
+itm_war_axe|War Axe
+itm_war_axe_pl|War Axe
+itm_double_axe|Double Axe
+itm_double_axe_pl|Double Axe
+itm_thunder_double_axe|Thunder Double Axe
+itm_thunder_double_axe_pl|Thunder Double Axe
+itm_two_handed_cleaver|War Cleaver
+itm_two_handed_cleaver_pl|War Cleaver
+itm_two_handed_axe|Two Handed Axe
+itm_two_handed_axe_pl|Two Handed Axe
+itm_two_handed_battle_axe_2|Two Handed War Axe
+itm_two_handed_battle_axe_2_pl|Two Handed War Axe
+itm_two_handed_battle_axe_3|Steel Voulge
+itm_two_handed_battle_axe_3_pl|Steel Voulge
+itm_shortened_voulge|Shortened Voulge
+itm_shortened_voulge_pl|Shortened Voulge
+itm_great_axe|Great Axe
+itm_great_axe_pl|Great Axe
+itm_long_axe|Long Axe
+itm_long_axe_pl|Long Axe
+itm_long_axe_alt|Long Axe
+itm_long_axe_alt_pl|Long Axe
+itm_long_axe_b|Long War Axe
+itm_long_axe_b_pl|Long War Axe
+itm_long_axe_b_alt|Long War Axe
+itm_long_axe_b_alt_pl|Long War Axe
+itm_long_axe_c|Great Long Axe
+itm_long_axe_c_pl|Great Long Axe
+itm_long_axe_c_alt|Great Long Axe
+itm_long_axe_c_alt_pl|Great Long Axe
+itm_bardiche|Bardiche
+itm_bardiche_pl|Bardiche
+itm_great_bardiche|Great Bardiche
+itm_great_bardiche_pl|Great Bardiche
+itm_shortened_military_scythe|Shortened Military Scythe
+itm_shortened_military_scythe_pl|Shortened Military Scythe
+itm_sarranid_two_handed_axe_a|Desert Battle Axe
+itm_sarranid_two_handed_axe_a_pl|Desert Battle Axe
+itm_sarranid_two_handed_axe_b|Desert War Axe
+itm_sarranid_two_handed_axe_b_pl|Desert War Axe
+itm_raider_axe|Raider Axe
+itm_raider_axe_pl|Raider Axe
+itm_northern_battle_axe|Northern Battle Axe
+itm_northern_battle_axe_pl|Northern Battle Axe
+itm_ancient_rune_axe|Ancient Rune Axe
+itm_ancient_rune_axe_pl|Ancient Rune Axe
+itm_dire_axe|Dire Axe
+itm_dire_axe_pl|Dire Axe
+itm_valdis_axe|Koningur's Waraxe
+itm_valdis_axe_pl|Koningur's Waraxe
+itm_silver_axe|Runed Silver Axe
+itm_silver_axe_pl|Runed Silver Axe
+itm_sword_of_war|Sword of War
+itm_sword_of_war_pl|Sword of War
+itm_sword_two_handed_a|Two Handed Sword
+itm_sword_two_handed_a_pl|Two Handed Sword
+itm_great_sword|Great Sword
+itm_great_sword_pl|Great Sword
+itm_khergit_sword_two_handed_a|Two Handed Sabre
+itm_khergit_sword_two_handed_a_pl|Two Handed Sabre
+itm_silver_claymore|Silver Great Claymore
+itm_silver_claymore_pl|Silver Great Claymore
+itm_khergit_sword_two_handed_b|Two Handed Heavy Sabre
+itm_khergit_sword_two_handed_b_pl|Two Handed Heavy Sabre
+itm_sword_two_handed_b|Mettenheim Dueling Sword
+itm_sword_two_handed_b_pl|Mettenheim Dueling Sword
+itm_fierd_berserker_sword|Fierdsvain Berserker Sword
+itm_fierd_berserker_sword_pl|Fierdsvain Berserker Sword
+itm_empire_great_sword|Empire Great Sword
+itm_empire_great_sword_pl|Empire Great Sword
+itm_flame_sword|Flame Bladed Sword
+itm_flame_sword_pl|Flame Bladed Sword
+itm_ebony_bastard_sword|Ebony Bastard Sword
+itm_ebony_bastard_sword_pl|Ebony Bastard Sword
+itm_noldor_bastard|Noldor Warsword
+itm_noldor_bastard_pl|Noldor Warsword
+itm_runed_bastard|Runed Bastard Sword
+itm_runed_bastard_pl|Runed Bastard Sword
+itm_claymore|Claymore
+itm_claymore_pl|Claymore
+itm_bastard_sword_a|Bastard Sword
+itm_bastard_sword_a_pl|Bastard Sword
+itm_strange_rune_two_h_sword|Strange Rune Two-handed Sword
+itm_strange_rune_two_h_sword_pl|Strange Rune Two-handed Sword
+itm_saphire_rune_two_h_sword|Sapphire Rune Two-handed Sword
+itm_saphire_rune_two_h_sword_pl|Sapphire Rune Two-handed Sword
+itm_ruby_rune_two_h_sword|Ruby Rune Two-handed Sword
+itm_ruby_rune_two_h_sword_pl|Ruby Rune Two-handed Sword
+itm_emerald_rune_two_h_sword|Emerald Rune Two-handed Sword
+itm_emerald_rune_two_h_sword_pl|Emerald Rune Two-handed Sword
+itm_gregory_sword|Dragon's Tooth
+itm_gregory_sword_pl|Dragon's Tooth
+itm_havathang|Havathang
+itm_havathang_pl|Havathang
+itm_strange_sword|Foreign Sabre
+itm_strange_sword_pl|Foreign Sabre
+itm_strange_great_sword|Foreign Two Handed Sabre
+itm_strange_great_sword_pl|Foreign Two Handed Sabre
+itm_rav_great_sword|Ravenstern Great Sword
+itm_rav_great_sword_pl|Ravenstern Great Sword
+itm_pendor_greatsword|Pendor Great Sword
+itm_pendor_greatsword_pl|Pendor Great Sword
+itm_zweihander|Zweihander
+itm_zweihander_pl|Zweihander
+itm_ebony_great_sword|Ebony Flamberge
+itm_ebony_great_sword_pl|Ebony Flamberge
+itm_jousting_lance|Blunt Tip Lance
+itm_jousting_lance_pl|Blunt Tip Lance
+itm_double_sided_lance|Double Sided Lance
+itm_double_sided_lance_pl|Double Sided Lance
+itm_light_lance|Light Lance
+itm_light_lance_pl|Light Lance
+itm_lance|Lance
+itm_lance_pl|Lance
+itm_heavy_lance|Heavy Lance
+itm_heavy_lance_pl|Heavy Lance
+itm_great_lance|Great Lance
+itm_great_lance_pl|Great Lance
+itm_long_knight_lance|Long Dark Knight Lance
+itm_long_knight_lance_pl|Long Dark Knight Lance
+itm_long_knight_lance2|Long Knight Lance
+itm_long_knight_lance2_pl|Long Knight Lance
+itm_long_knight_lance_dawn|Long Dawn Knight Lance
+itm_long_knight_lance_dawn_pl|Long Dawn Knight Lance
+itm_long_knight_lance_blue|Long Blue Knight Lance
+itm_long_knight_lance_blue_pl|Long Blue Knight Lance
+itm_long_knight_lance_green|Long Green Knight Lance
+itm_long_knight_lance_green_pl|Long Green Knight Lance
+itm_long_knight_lance_red|Long Red Knight Lance
+itm_long_knight_lance_red_pl|Long Red Knight Lance
+itm_long_cavalry_lance|Long Cavalry Lance
+itm_long_cavalry_lance_pl|Long Cavalry Lance
+itm_long_cavalry_lance_white|Long White Cavalry Lance
+itm_long_cavalry_lance_white_pl|Long White Cavalry Lance
+itm_long_cavalry_lance_blue|Long Blue Cavalry Lance
+itm_long_cavalry_lance_blue_pl|Long Blue Cavalry Lance
+itm_long_cavalry_lance_green|Long Green Cavalry Lance
+itm_long_cavalry_lance_green_pl|Long Green Cavalry Lance
+itm_long_cavalry_lance_red|Long Red Cavalry Lance
+itm_long_cavalry_lance_red_pl|Long Red Cavalry Lance
+itm_jatu_lance|Jatu Honor Lance
+itm_jatu_lance_pl|Jatu Honor Lance
+itm_melitine_lance|Melitine Lance
+itm_melitine_lance_pl|Melitine Lance
+itm_melitine_impaler|Melitine Impaler
+itm_melitine_impaler_pl|Melitine Impaler
+itm_sarleon_banner|Banner of Sarleon
+itm_sarleon_banner_pl|Banner of Sarleon
+itm_long_bardiche|Long Bardiche
+itm_long_bardiche_pl|Long Bardiche
+itm_great_long_bardiche|Great Long Bardiche
+itm_great_long_bardiche_pl|Great Long Bardiche
+itm_hafted_blade_b|Hafted Blade
+itm_hafted_blade_b_pl|Hafted Blade
+itm_hafted_blade_a|Long Hafted Blade
+itm_hafted_blade_a_pl|Long Hafted Blade
+itm_scythe|Scythe
+itm_scythe_pl|Scythe
+itm_pitch_fork|Pitch Fork
+itm_pitch_fork_pl|Pitch Fork
+itm_boar_spear|Boar Spear
+itm_boar_spear_pl|Boar Spear
+itm_glaive|Desert Glaive
+itm_glaive_pl|Desert Glaive
+itm_poleaxe|Poleaxe
+itm_poleaxe_pl|Poleaxe
+itm_spear|Spear
+itm_spear_pl|Spear
+itm_bamboo_spear|D'Shar Spear
+itm_bamboo_spear_pl|D'Shar Spear
+itm_war_spear|War Spear
+itm_war_spear_pl|War Spear
+itm_trident|Trident
+itm_trident_pl|Trident
+itm_pike|Long Spear
+itm_pike_pl|Long Spear
+itm_ashwood_pike|Ashwood Pike
+itm_ashwood_pike_pl|Ashwood Pike
+itm_awlpike|Awlpike
+itm_awlpike_pl|Awlpike
+itm_awlpike_long|Long Awlpike
+itm_awlpike_long_pl|Long Awlpike
+itm_bec_de_corbin_a|Bec de Corbin
+itm_bec_de_corbin_a_pl|Bec de Corbin
+itm_black_iron_spear|Black Iron Spear
+itm_black_iron_spear_pl|Black Iron Spear
+itm_southern_glaive|Southern Glaive
+itm_southern_glaive_pl|Southern Glaive
+itm_empire_halberd|Empire Halberd
+itm_empire_halberd_pl|Empire Halberd
+itm_sarleon_halberd|Sarleon Halberd
+itm_sarleon_halberd_pl|Sarleon Halberd
+itm_polehammer_2|Blunt Steel Polehammer
+itm_polehammer_2_pl|Blunt Steel Polehammer
+itm_melitine_spear|Melitine Spear
+itm_melitine_spear_pl|Melitine Spear
+itm_melitine_spear2|Melitine Gutspiller
+itm_melitine_spear2_pl|Melitine Gutspiller
+itm_strange_rune_glaive|Strange Rune Glaive
+itm_strange_rune_glaive_pl|Strange Rune Glaive
+itm_saphire_rune_glaive|Sapphire Rune Glaive
+itm_saphire_rune_glaive_pl|Sapphire Rune Glaive
+itm_ruby_rune_glaive|Ruby Rune Glaive
+itm_ruby_rune_glaive_pl|Ruby Rune Glaive
+itm_emerald_rune_glaive|Emerald Rune Glaive
+itm_emerald_rune_glaive_pl|Emerald Rune Glaive
+itm_manopener|Manopener
+itm_manopener_pl|Manopener
+itm_wolf_halberd|Shadow Wolf Halberd
+itm_wolf_halberd_pl|Shadow Wolf Halberd
+itm_tab_shield_small_round_a|D'Shar Plain Shield
+itm_tab_shield_small_round_a_pl|D'Shar Plain Shield
+itm_tab_shield_small_round_b|Round Cavalry Shield
+itm_tab_shield_small_round_b_pl|Round Cavalry Shield
+itm_tab_shield_small_round_c|Elite Cavalry Shield
+itm_tab_shield_small_round_c_pl|Elite Cavalry Shield
+itm_tab_shield_round_a|Old Round Shield
+itm_tab_shield_round_a_pl|Old Round Shield
+itm_tab_shield_round_b|Plain Round Shield
+itm_tab_shield_round_b_pl|Plain Round Shield
+itm_tab_shield_round_c|Round Shield
+itm_tab_shield_round_c_pl|Round Shield
+itm_tab_shield_round_d|Heavy Round Shield
+itm_tab_shield_round_d_pl|Heavy Round Shield
+itm_tab_shield_round_e|Huscarl's Round Shield
+itm_tab_shield_round_e_pl|Huscarl's Round Shield
+itm_kraken_round_shield|Kraken Shield
+itm_kraken_round_shield_pl|Kraken Shield
+itm_kraken_round_shield_medium|Kraken Round Shield
+itm_kraken_round_shield_medium_pl|Kraken Round Shield
+itm_steel_shield|Steel Round Shield
+itm_steel_shield_pl|Steel Round Shield
+itm_plate_covered_round_shield|Plate Covered Round Shield
+itm_plate_covered_round_shield_pl|Plate Covered Round Shield
+itm_leather_covered_round_shield|Leather Covered Round Shield
+itm_leather_covered_round_shield_pl|Leather Covered Round Shield
+itm_hide_covered_round_shield|Hide Covered Round Shield
+itm_hide_covered_round_shield_pl|Hide Covered Round Shield
+itm_wooden_shield|Wooden Shield
+itm_wooden_shield_pl|Wooden Shield
+itm_nordic_shield|Vanskerry Shield
+itm_nordic_shield_pl|Vanskerry Shield
+itm_noldor_inf_shield|Noldor Infantry Shield
+itm_noldor_inf_shield_pl|Noldor Infantry Shield
+itm_noldor_noble_shield|Noldor Noble Shield
+itm_noldor_noble_shield_pl|Noldor Noble Shield
+itm_shield_round_26|Vanskerry Heavy Shield
+itm_shield_round_26_pl|Vanskerry Heavy Shield
+itm_shield_round_27|Heretic Round Shield
+itm_shield_round_27_pl|Heretic Round Shield
+itm_shield_round_28|Engraved Round Shield
+itm_shield_round_28_pl|Engraved Round Shield
+itm_shield_round_29|Engraved Serpent Shield
+itm_shield_round_29_pl|Engraved Serpent Shield
+itm_shield_round_30|Golden Metal Round Shield
+itm_shield_round_30_pl|Golden Metal Round Shield
+itm_shield_round_01|Round Dragon Shield
+itm_shield_round_01_pl|Round Dragon Shield
+itm_shield_round_02|Embossed Round Shield
+itm_shield_round_02_pl|Embossed Round Shield
+itm_shield_round_03|Vanskerry Raider Shield
+itm_shield_round_03_pl|Vanskerry Raider Shield
+itm_shield_round_04|Metal Round Shield
+itm_shield_round_04_pl|Metal Round Shield
+itm_shield_round_05|Jarl's Shield
+itm_shield_round_05_pl|Jarl's Shield
+itm_shield_round_06|Dark Round Metal Shield
+itm_shield_round_06_pl|Dark Round Metal Shield
+itm_shield_round_07|Old Empire Shield
+itm_shield_round_07_pl|Old Empire Shield
+itm_shield_round_08|Kajahar Shield
+itm_shield_round_08_pl|Kajahar Shield
+itm_shield_round_09|Jatu Nomad Shield
+itm_shield_round_09_pl|Jatu Nomad Shield
+itm_shield_round_10|Jatu Sheik Shield
+itm_shield_round_10_pl|Jatu Sheik Shield
+itm_shield_round_11|Jatu Warlord Shield
+itm_shield_round_11_pl|Jatu Warlord Shield
+itm_shield_round_12|Mystmountain Barbarian Shield
+itm_shield_round_12_pl|Mystmountain Barbarian Shield
+itm_shield_round_13|Torbah Desert Shield
+itm_shield_round_13_pl|Torbah Desert Shield
+itm_shield_round_14|D'Shar Round Shield
+itm_shield_round_14_pl|D'Shar Round Shield
+itm_shield_round_15|Embossed Serpent Shield
+itm_shield_round_15_pl|Embossed Serpent Shield
+itm_shield_round_16|Braced Wooden Round Shield
+itm_shield_round_16_pl|Braced Wooden Round Shield
+itm_shield_round_17|Metal Embossed Star Round Shield
+itm_shield_round_17_pl|Metal Embossed Star Round Shield
+itm_shield_round_18|Northman Round Shield
+itm_shield_round_18_pl|Northman Round Shield
+itm_shield_round_19|Round D'Shar Cross Shield
+itm_shield_round_19_pl|Round D'Shar Cross Shield
+itm_shield_round_20|Netherworld Shield
+itm_shield_round_20_pl|Netherworld Shield
+itm_shield_round_21|Anaconda Shield
+itm_shield_round_21_pl|Anaconda Shield
+itm_shield_round_22|Snake Circle Shield
+itm_shield_round_22_pl|Snake Circle Shield
+itm_shield_round_23|Sage Shield
+itm_shield_round_23_pl|Sage Shield
+itm_shield_round_24|Testament Shield
+itm_shield_round_24_pl|Testament Shield
+itm_shield_heater_c|Battle Shield
+itm_shield_heater_c_pl|Battle Shield
+itm_shield_battle_01|Battle Shield - Black Rampant Lion on Yellow
+itm_shield_battle_01_pl|Battle Shield - Black Rampant Lion on Yellow
+itm_shield_battle_03|Battle Shield - White Fleurs on Blue Field
+itm_shield_battle_03_pl|Battle Shield - White Fleurs on Blue Field
+itm_shield_battle_04|Battle Shield - White & Black Bells
+itm_shield_battle_04_pl|Battle Shield - White & Black Bells
+itm_shield_battle_05|Demon Shield
+itm_shield_battle_05_pl|Demon Shield
+itm_shield_battle_02|Order of the Lion Battle Shield
+itm_shield_battle_02_pl|Order of the Lion Battle Shield
+itm_tab_shield_kite_a|Old Kite Shield
+itm_tab_shield_kite_a_pl|Old Kite Shield
+itm_tab_shield_kite_b|Plain Kite Shield
+itm_tab_shield_kite_b_pl|Plain Kite Shield
+itm_tab_shield_kite_c|Kite Shield
+itm_tab_shield_kite_c_pl|Kite Shield
+itm_tab_shield_kite_d|Heavy Kite Shield
+itm_tab_shield_kite_d_pl|Heavy Kite Shield
+itm_tab_shield_kite_cav_a|Horseman's Kite Shield
+itm_tab_shield_kite_cav_a_pl|Horseman's Kite Shield
+itm_tab_shield_kite_cav_b|Knightly Kite Shield
+itm_tab_shield_kite_cav_b_pl|Knightly Kite Shield
+itm_norman_shield_7|Kite Shield - Black Eagle
+itm_norman_shield_7_pl|Kite Shield - Black Eagle
+itm_norman_shield_8|Kite Shield - Black & White
+itm_norman_shield_8_pl|Kite Shield - Black & White
+itm_fur_covered_shield|Fur Covered Shield
+itm_fur_covered_shield_pl|Fur Covered Shield
+itm_norman_shield_1|Kite Shield - Gold Waterhorse
+itm_norman_shield_1_pl|Kite Shield - Gold Waterhorse
+itm_norman_shield_2|Kite Shield - Red & Gold
+itm_norman_shield_2_pl|Kite Shield - Red & Gold
+itm_norman_shield_3|Kite Shield - Black & Gold
+itm_norman_shield_3_pl|Kite Shield - Black & Gold
+itm_shield_kite_ornate|Ornate Kite Shield
+itm_shield_kite_ornate_pl|Ornate Kite Shield
+itm_norman_shield_4|Kite Shield - White Cross on Blue Field
+itm_norman_shield_4_pl|Kite Shield - White Cross on Blue Field
+itm_norman_shield_5|Kite Shield - White Lion on Blue Field
+itm_norman_shield_5_pl|Kite Shield - White Lion on Blue Field
+itm_norman_shield_6|Kite Shield - Blue Dragon on Gold Field
+itm_norman_shield_6_pl|Kite Shield - Blue Dragon on Gold Field
+itm_shield_tear_simple|Tear Shield
+itm_shield_tear_simple_pl|Tear Shield
+itm_shield_empire_infantry|Empire Infantry Shield
+itm_shield_empire_infantry_pl|Empire Infantry Shield
+itm_noldor_ench_shield|Noldor Enchanted Shield
+itm_noldor_ench_shield_pl|Noldor Enchanted Shield
+itm_tab_shield_pavise_a|Old Board Shield
+itm_tab_shield_pavise_a_pl|Old Board Shield
+itm_tab_shield_pavise_b|Plain Board Shield
+itm_tab_shield_pavise_b_pl|Plain Board Shield
+itm_tab_shield_pavise_c|Board Shield
+itm_tab_shield_pavise_c_pl|Board Shield
+itm_tab_shield_pavise_d|Heavy Board Shield
+itm_tab_shield_pavise_d_pl|Heavy Board Shield
+itm_tab_shield_heater_a|Old Heater Shield
+itm_tab_shield_heater_a_pl|Old Heater Shield
+itm_tab_shield_heater_b|Plain Heater Shield
+itm_tab_shield_heater_b_pl|Plain Heater Shield
+itm_tab_shield_heater_c|Heater Shield
+itm_tab_shield_heater_c_pl|Heater Shield
+itm_tab_shield_heater_d|Heavy Heater Shield
+itm_tab_shield_heater_d_pl|Heavy Heater Shield
+itm_tab_shield_heater_cav_a|Horseman's Heater Shield
+itm_tab_shield_heater_cav_a_pl|Horseman's Heater Shield
+itm_tab_shield_heater_cav_b|Knightly Heater Shield
+itm_tab_shield_heater_cav_b_pl|Knightly Heater Shield
+itm_heater_shield_01|Heater Shield - White Eagle on Red Field
+itm_heater_shield_01_pl|Heater Shield - White Eagle on Red Field
+itm_heater_shield_02|Heater Shield - White & Blue
+itm_heater_shield_02_pl|Heater Shield - White & Blue
+itm_heater_shield_03|Heater Shield - Golden Clovers
+itm_heater_shield_03_pl|Heater Shield - Golden Clovers
+itm_heater_shield_04|Heater Shield - Gold Rampant Lion on Green Field
+itm_heater_shield_04_pl|Heater Shield - Gold Rampant Lion on Green Field
+itm_heater_shield_05|Heater Shield - Black Pegasus on White Field
+itm_heater_shield_05_pl|Heater Shield - Black Pegasus on White Field
+itm_heater_shield_06|Heater Shield - White Griffon on Green Field
+itm_heater_shield_06_pl|Heater Shield - White Griffon on Green Field
+itm_heater_shield_07|Dragon Heater Shield
+itm_heater_shield_07_pl|Dragon Heater Shield
+itm_heater_shield_08|Heater Shield - White Unicorn on Blue Field
+itm_heater_shield_08_pl|Heater Shield - White Unicorn on Blue Field
+itm_heater_shield_09|Heater Shield - Blue & Red Quartered
+itm_heater_shield_09_pl|Heater Shield - Blue & Red Quartered
+itm_heater_shield_10|Heater Shield - Boar Head on Red
+itm_heater_shield_10_pl|Heater Shield - Boar Head on Red
+itm_heater_shield_11|Heater Shield - White Fleur on Blue
+itm_heater_shield_11_pl|Heater Shield - White Fleur on Blue
+itm_heater_shield_12|Empire Heater Shield
+itm_heater_shield_12_pl|Empire Heater Shield
+itm_heater_shield_13|Wyvern Heater Shield
+itm_heater_shield_13_pl|Wyvern Heater Shield
+itm_heater_shield_14|Heater Shield - White & Red with Black
+itm_heater_shield_14_pl|Heater Shield - White & Red with Black
+itm_heater_shield_15|Heater Shield - White Lion on Blue Field
+itm_heater_shield_15_pl|Heater Shield - White Lion on Blue Field
+itm_heater_shield_16|Griffon Heater Shield
+itm_heater_shield_16_pl|Griffon Heater Shield
+itm_heater_shield_17|Heater Shield - Black Eagle on Yellow Field
+itm_heater_shield_17_pl|Heater Shield - Black Eagle on Yellow Field
+itm_heater_shield_18|Heater Shield - Black & White Quartered
+itm_heater_shield_18_pl|Heater Shield - Black & White Quartered
+itm_heater_shield_19|Heater Shield - Black & White
+itm_heater_shield_19_pl|Heater Shield - Black & White
+itm_heater_shield_20|Heater Shield - Black & Yellow Quartered
+itm_heater_shield_20_pl|Heater Shield - Black & Yellow Quartered
+itm_heater_shield_21|Heater Shield - Gold Lions on Red Field
+itm_heater_shield_21_pl|Heater Shield - Gold Lions on Red Field
+itm_heater_shield_22|Heretic Heater Shield
+itm_heater_shield_22_pl|Heretic Heater Shield
+itm_heater_shield_23|Heater Shield - Royal Deer
+itm_heater_shield_23_pl|Heater Shield - Royal Deer
+itm_heater_shield_24|Heater Shield - White Wyvern on Red Field
+itm_heater_shield_24_pl|Heater Shield - White Wyvern on Red Field
+itm_heater_shield_25|Heater Shield - Twin Screaming Eagles on Black Field
+itm_heater_shield_25_pl|Heater Shield - Twin Screaming Eagles on Black Field
+itm_heater_shield_26|Heater Shield - Gold Crosses on Blue Field
+itm_heater_shield_26_pl|Heater Shield - Gold Crosses on Blue Field
+itm_heater_shield_27|Heater Shield - White Lion on Red & Gold Field
+itm_heater_shield_27_pl|Heater Shield - White Lion on Red & Gold Field
+itm_heater_shield_28|Heater Shield - Eagle on Black & White Field
+itm_heater_shield_28_pl|Heater Shield - Eagle on Black & White Field
+itm_heater_shield_29|Heater Shield - Order of the Dawn
+itm_heater_shield_29_pl|Heater Shield - Order of the Dawn
+itm_heater_shield_30|Griffonsword Heater Shield
+itm_heater_shield_30_pl|Griffonsword Heater Shield
+itm_heater_shield_31|Heater Shield - Order of the Ebony Gauntlet
+itm_heater_shield_31_pl|Heater Shield - Order of the Ebony Gauntlet
+itm_heater_shield_32|Mortal Heater Shield
+itm_heater_shield_32_pl|Mortal Heater Shield
+itm_heater_shield_33|Heater Shield - de Fleur Adventure Company
+itm_heater_shield_33_pl|Heater Shield - de Fleur Adventure Company
+itm_heater_shield_34|Eyegrim Heater Shield
+itm_heater_shield_34_pl|Eyegrim Heater Shield
+itm_heater_shield_35|Heater Shield - Order of the Clarion Call
+itm_heater_shield_35_pl|Heater Shield - Order of the Clarion Call
+itm_heater_shield_36|Heater Shield - Order of the Raven Spear
+itm_heater_shield_36_pl|Heater Shield - Order of the Raven Spear
+itm_heater_shield_37|Heater Shield - Three Sages
+itm_heater_shield_37_pl|Heater Shield - Three Sages
+itm_heater_shield_38|Snake Cult Shield
+itm_heater_shield_38_pl|Snake Cult Shield
+itm_heater_shield_39|Heater Shield - Sea Serpent
+itm_heater_shield_39_pl|Heater Shield - Sea Serpent
+itm_heater_shield_40|Heater Shield - Three Gold Dragons on Red Field
+itm_heater_shield_40_pl|Heater Shield - Three Gold Dragons on Red Field
+itm_heater_shield_42|Marleons Heater Shield
+itm_heater_shield_42_pl|Marleons Heater Shield
+itm_wolf_round_shield_1|Shadow Wolf Round Shield
+itm_wolf_round_shield_1_pl|Shadow Wolf Round Shield
+itm_scorpion_round_shield_2|Scorpion Round Shield
+itm_scorpion_round_shield_2_pl|Scorpion Round Shield
+itm_phoenix_heater_shield|Phoenix Heater Shield
+itm_phoenix_heater_shield_pl|Phoenix Heater Shield
+itm_phoenix_battle_shield|Phoenix Battle Shield
+itm_phoenix_battle_shield_pl|Phoenix Battle Shield
+itm_talon_shield|Talon Kite Shield
+itm_talon_shield_pl|Talon Kite Shield
+itm_shield_kite_falcon|Order of the Falcon Kite Shield
+itm_shield_kite_falcon_pl|Order of the Falcon Kite Shield
+itm_eventide_shield|Order of Eventide Kite Shield
+itm_eventide_shield_pl|Order of Eventide Kite Shield
+itm_anaconda_shield|Anaconda Spiked Shield
+itm_anaconda_shield_pl|Anaconda Spiked Shield
+itm_asp_shield|Asp Shield
+itm_asp_shield_pl|Asp Shield
+itm_myst_shield|Bearclaw Shield
+itm_myst_shield_pl|Bearclaw Shield
+itm_melitine_shield|Melitine Tear Shield
+itm_melitine_shield_pl|Melitine Tear Shield
+itm_melitine_metal_shield|Melitine Horseman Shield
+itm_melitine_metal_shield_pl|Melitine Horseman Shield
+itm_shield_empire_immortal|Immortal Shield
+itm_shield_empire_immortal_pl|Immortal Shield
+itm_shield_ancient_engraved|Ancient Engraved Shield
+itm_shield_ancient_engraved_pl|Ancient Engraved Shield
+itm_shield_heretics_1|Heretics Tear Shield
+itm_shield_heretics_1_pl|Heretics Tear Shield
+itm_shield_heretics_2|Red Magnus Shield
+itm_shield_heretics_2_pl|Red Magnus Shield
+itm_shield_heretics_3|Gold Magnus Shield
+itm_shield_heretics_3_pl|Gold Magnus Shield
+itm_demon_body|Demon Body
+itm_demon_body_pl|Demon Body
+itm_demon_hands|Demon Hands
+itm_demon_hands_pl|Demon Hands
+itm_demon_head|Demon Head
+itm_demon_head_pl|Demon Head
+itm_demon_legs|Demon Legs
+itm_demon_legs_pl|Demon Legs
+itm_wolfbode_armor|Wolfbode Armor
+itm_wolfbode_armor_pl|Wolfbode Armor
+itm_wolfbode_axe|Wolfbode Axe
+itm_wolfbode_axe_pl|Wolfbode Axe
+itm_wolfbode_boots|Wolfbode Boots
+itm_wolfbode_boots_pl|Wolfbode Boots
+itm_wolfbode_gloves|Wolfbode Hands
+itm_wolfbode_gloves_pl|Wolfbode Hands
+itm_wolfbode_helmet|Wolfbode Helmet
+itm_wolfbode_helmet_pl|Wolfbode Helmet
+itm_items_end|Items End
+itm_items_end_pl|Items End

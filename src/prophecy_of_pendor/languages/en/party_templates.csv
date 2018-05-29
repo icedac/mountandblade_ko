@@ -1,0 +1,157 @@
+pt_none|none
+pt_rescued_prisoners|Rescued Prisoners
+pt_enemy|Enemy
+pt_hero_party|Hero Party
+pt_village_defenders|Village Defenders
+pt_cattle_herd|Cattle Herd
+pt_looters|Outlaw Band
+pt_militia|Militia Patrol
+pt_steppe_bandits|D'Shar Raiders
+pt_forest_bandits|Forest Bandits
+pt_mountain_bandits|Mountain Men Outlaws
+pt_sea_raiders|Vanskerry Raiders
+pt_snake_bandits|Snake Cult Party
+pt_forest_outcasts|Band of Brigands
+pt_sea_raider_army|Vanskerry Sea Raider Army
+pt_omen_seekers|Omen Seekers
+pt_heretics|Heretic Coven
+pt_heretics_army|Heretic Army
+pt_snake_cult|Snake Cult Party
+pt_snake_cult_warband|Snake Cult Warband
+pt_snake_cult_army|Snake Cult Army
+pt_azi_death_cult|Azi Dahaka Death Cult Marauders
+pt_mystmountain_raiders|Mystmountain Raiders
+pt_mystmountain_army|Mystmountain Army
+pt_jatu_nomads|Jatu Raiding Party
+pt_jatu_warband|Jatu Warband
+pt_jatu_army|Jatu Army
+pt_red_brotherhood|Red Brotherhood
+pt_inquisition_patrol|Inquisition Patrol
+pt_inquisition_warband|Inquisition Theologians
+pt_inquisition_army|Inquisition Holy Army
+pt_fadventurers|Female Adventuring Company
+pt_adventurers|Adventuring Company
+pt_peasant_army|Peasant Revolt Army
+pt_merc_barclay|Conquistadoros de Aventura
+pt_merc_generic|Mercenary Company
+pt_merc_mettenheim|Mettenheim Expeditionary Force
+pt_merc_freikorps_mettenheim|Freikorps Mettenheim
+pt_melitine_medium_spawn|Melitine Scouting Force
+pt_merc_jatu|Jatu Mercenaries
+pt_merc_vanskerry|Vanskerry Leiesoldat
+pt_merc_veccavian|Daughters of Persinoe
+pt_merc_singalian|Singalian Sellsword Company
+pt_slaver_singalian|Singalian Slavers
+pt_player_merc_mettenheim|The Freybrueder
+pt_player_merc_mettenheim_2|The Freybrueder part 2
+pt_player_merc_veccavian|The Veccavian Renegades
+pt_player_merc_barclay|Primera Guardia Real
+pt_player_merc_melitine|The Sarno Expedition
+pt_player_merc_marleons|1st Banneret of Marleons
+pt_player_merc_unicorns|Sir Timothy's Knights
+pt_player_merc_red_brotherhood|Lothario's Brotherhood
+pt_player_merc_red_brotherhood_2|Lothario's Brotherhood part 2
+pt_player_merc_snowlions|The Snowlion Brigade
+pt_player_merc_singalians|Firuz and his Singalian Slavers
+pt_player_merc_jatu|Chosen of Indar
+pt_player_merc_generic|The Free Company
+pt_player_merc_cheaters|Andy's Freeloading Cheaters
+pt_stronghold_patrol|Order Stronghold Patrol
+pt_ren_knights|Renegade Knights
+pt_cb5_results|Fleeing Enemies
+pt_noldor_elves|Noldor Ranger Company
+pt_errant_knights|Errant Knights
+pt_dread_legion_patrol|Dread Legion Patrol
+pt_eyegrim_patrol|Eyegrim's Demon Vanguard
+pt_wolfbode_patrol|Wolfbode's Patrol
+pt_three_seers_patrol|Three Seers Patrol
+pt_inquisitor_rasmus_patrol|Invokers of the Righteous Truth
+pt_wolfbode|Wolfbode the Slayer
+pt_dread_legion|Dread Legion
+pt_jatu_k_juda|K'Juda the Ravager
+pt_jatu_zulkar|Warlord Zulkar
+pt_eyegrim|Eyegrim the Devourer
+pt_brouhaha|Alaric von Brouhaha
+pt_burilgi_the_usurper|Burilgi the Usurper
+pt_oswald|Oswald de Fleur Adventure Company
+pt_griffonsword|Griffonsword Adventure Company
+pt_ironsword|Kodan Ironsword's Adventure Company
+pt_shalavan|Sheik Shalavan's Adventure Company
+pt_boristheraven|Sir Boris the Raven
+pt_three_seers|The Three Seers
+pt_noldor_lord_1|Aeldarian Noldor Lord
+pt_noldor_lord_2|Ithilrandir Noldor Lord
+pt_syla_uzas|Syla Uzas
+pt_mett_obrist|Obrist Heynrich
+pt_vecc_verante|The Renegade Witch Hunt
+pt_barclay_rufio|Tercio Villaviciosia
+pt_melitine_kaspax|Melitine Invasion Force
+pt_inquisitor|Holy Inquisitor Rasmus Devatica
+pt_madame_de_pompadour|Madame de Pompadour
+pt_refugees|Refugees
+pt_refugees_guarded|Armed Refugees
+pt_deserters|Deserters
+pt_merchant_caravan|Merchant Caravan
+pt_troublesome_bandits|Troublesome Bandits
+pt_bandits_awaiting_ransom|Bandits Awaiting Ransom
+pt_kidnapped_girl|Kidnapped Girl
+pt_village_farmers|Village Farmers
+pt_spy_partners|Unremarkable Travellers
+pt_runaway_serfs|Runaway Serfs
+pt_spy|Ordinary Townsman
+pt_sacrificed_messenger|Sacrificed Messenger
+pt_jatu_quest_army|Marauding Jatu Army
+pt_forager_party|Foraging Party
+pt_scout_party|Scouts
+pt_patrol_party|Patrol
+pt_messenger_party|Messenger
+pt_raider_party|Raiders
+pt_raider_captives|Raider Captives
+pt_kingdom_caravan_party|Caravan
+pt_prisoner_train_party|Prisoner Train
+pt_default_prisoners|Default Prisoners
+pt_routed_warriors|Routed Enemies
+pt_center_reinforcements|Reinforcements
+pt_kingdom_hero_party|War Party
+pt_kingdom_4_reinforcements_a|kingdom 4 reinforcements a
+pt_kingdom_4_reinforcements_b|kingdom 4 reinforcements b
+pt_kingdom_4_reinforcements_c|kingdom 4 reinforcements c
+pt_kingdom_5_reinforcements_a|kingdom 5 reinforcements a
+pt_kingdom_5_reinforcements_b|kingdom 5 reinforcements b
+pt_kingdom_5_reinforcements_c|kingdom 5 reinforcements c
+pt_kingdom_6_reinforcements_a|kingdom 6 reinforcements a
+pt_kingdom_6_reinforcements_b|kingdom 6 reinforcements b
+pt_kingdom_6_reinforcements_c|kingdom 6 reinforcements c
+pt_lethaldiran_reinforcements_a|Lethaldiran reinforcements a
+pt_lethaldiran_reinforcements_b|Lethaldiran reinforcements b
+pt_lethaldiran_reinforcements_c|Lethaldiran reinforcements c
+pt_boadice_reinforcements_a|Boadice reinforcements a
+pt_boadice_reinforcements_b|Boadice reinforcements b
+pt_boadice_reinforcements_c|Boadice reinforcements c
+pt_frederick_reinforcements_a|frederick reinforcements a
+pt_frederick_reinforcements_b|frederick reinforcements b
+pt_frederick_reinforcements_c|frederick reinforcements c
+pt_donavan_reinforcements_a|donavan reinforcements a
+pt_donavan_reinforcements_b|donavan reinforcements b
+pt_donavan_reinforcements_c|donavan reinforcements c
+pt_adonja_reinforcements_a|adonja reinforcements a
+pt_adonja_reinforcements_b|adonja reinforcements b
+pt_adonja_reinforcements_c|adonja reinforcements c
+pt_rayne_reinforcements_a|rayne reinforcements a
+pt_rayne_reinforcements_b|rayne reinforcements b
+pt_rayne_reinforcements_c|rayne reinforcements c
+pt_roland_reinforcements_a|roland reinforcements a
+pt_roland_reinforcements_b|roland reinforcements b
+pt_roland_reinforcements_c|roland reinforcements c
+pt_alistair_reinforcements_a|alistair reinforcements a
+pt_alistair_reinforcements_b|alistair reinforcements b
+pt_alistair_reinforcements_c|alistair reinforcements c
+pt_steppe_bandit_lair|D'Shar Raider Lair
+pt_snake_bandit_lair|Snake Cult Shrine
+pt_forest_bandit_lair|Brigand Camp
+pt_mountain_bandit_lair|Mystmountain Hideout
+pt_sea_raider_lair|Vanskerry Landing
+pt_looter_lair|Kidnappers' Hideout
+pt_treasure_lair|Treasure Map Location
+pt_leaded_looters|Band of Robbers
+pt_looters_quest|Band of Looters
