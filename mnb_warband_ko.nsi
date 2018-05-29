@@ -24,7 +24,7 @@ FunctionEnd
 Name "Mount & Blade: Warband Korean Patch"
 
 ; The file to write
-OutFile "mnb_pendor_ko_patch.exe"
+OutFile "mnb_warband_ko_patch.exe"
 
 ; Default installation folder
 InstallDir "$PROGRAMFILES\Steam\steamapps\common\MountBlade Warband"
