@@ -7,12 +7,12 @@ pt_village_defenders|마을 자경단
 pt_cattle_herd|소 떼
 pt_looters|무법자들
 pt_militia|민병 순찰대
-pt_steppe_bandits|드'샤르 도적무리
+pt_steppe_bandits|드'샤르 도적 무리
 pt_forest_bandits|숲도적들
 pt_mountain_bandits|산속 무법자들
 pt_sea_raiders|반스케리 약탈단
 pt_snake_bandits|사교도 부대
-pt_forest_outcasts|노상강도무리
+pt_forest_outcasts|노상강도 무리
 pt_sea_raider_army|반스케리 해적 군대
 pt_omen_seekers|징조 탐구집회
 pt_heretics|이교도 집회
@@ -27,9 +27,9 @@ pt_jatu_nomads|자투 약탈부대
 pt_jatu_warband|자투 전투부대
 pt_jatu_army|자투 군대
 pt_red_brotherhood|붉은 형제단
-pt_inquisition_patrol|Inquisition Patrol
-pt_inquisition_warband|Inquisition Theologians
-pt_inquisition_army|Inquisition Holy Army
+pt_inquisition_patrol|이단 심문단 순찰대
+pt_inquisition_warband|이단 심문단 신학자 부대
+pt_inquisition_army|이단 심문단 신성 군대
 pt_fadventurers|여성 모험단
 pt_adventurers|모험단
 pt_peasant_army|농민 반란군
@@ -66,7 +66,7 @@ pt_dread_legion_patrol|공포의 군단 순찰대
 pt_eyegrim_patrol|아이그림의 선봉대
 pt_wolfbode_patrol|울프보드의 순찰대
 pt_three_seers_patrol|세 예언자 순찰대
-pt_inquisitor_rasmus_patrol|Invokers of the Righteous Truth
+pt_inquisitor_rasmus_patrol|정의로운 진실의 언급자들
 pt_wolfbode|학살자 울프보드의 군대
 pt_dread_legion|공포의 군단
 pt_jatu_k_juda|파괴자 K'유다의 군대
@@ -78,17 +78,17 @@ pt_oswald|오스왈드 드 플뢰르의 모험단
 pt_griffonsword|그리폰검 모험단
 pt_ironsword|강철검 코단의 모험단
 pt_shalavan|족장 샬라반의 모험단
-pt_boristheraven|큰까마귀 보리스 경의 부대
+pt_boristheraven|큰 까마귀 보리스 경의 부대
 pt_three_seers|세 예언자들의 집회
 pt_noldor_lord_1|놀도르 군주 아엘다리언의 부대
 pt_noldor_lord_2|놀도르 군주 이실란디르의 부대
 pt_syla_uzas|실라 우자스의 군대
 pt_mett_obrist|오브리스트 하인리히의 부대
 pt_vecc_verante|이탈한 마녀사냥단
-pt_barclay_rufio|빌랴비시오시아 군대
+pt_barclay_rufio|빌랴비시오시아의 부대
 pt_melitine_kaspax|멜리틴 침략군
-pt_inquisitor|Holy Inquisitor Rasmus Devatica
-pt_madame_de_pompadour|퐁파두르 부인의 군대
+pt_inquisitor|신성한 이단 심문관 라스무스 데바티카의 부대
+pt_madame_de_pompadour|퐁파두르 부인의 부대
 pt_refugees|난민들
 pt_refugees_guarded|무장한 난민들
 pt_deserters|탈영병들
@@ -155,4 +155,4 @@ pt_sea_raider_lair|반스케리 상륙지
 pt_looter_lair|유괴범 은신처
 pt_treasure_lair|보물지도 위치
 pt_leaded_looters|강도 무리
-pt_looters_quest|Band of Looters
+pt_looters_quest|약탈자 무리
