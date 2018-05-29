@@ -1,5 +1,5 @@
 ; compression
-SetCompress					off 	; (auto|force|off)
+SetCompress					auto 	; (auto|force|off)
 SetCompressor				lzma	; (zlib|bzip2|lzma)
 
 Function "GetMyDocs"
