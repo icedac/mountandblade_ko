@@ -1,0 +1,2779 @@
+qstr_Next_Page|다음 페이지
+qstr_Game_Rules:^|게임 규칙:^
+qstr_0|0
+qstr_Show_game_rules|게임 규칙 보기
+qstr_What_will_be_the_nam|부대의 이름을 정해주십시오.
+qstr_Continue...|계속...
+qstr_What_shall_be_the_ne|기사단 지부의 새로운 이름을 정해주십시오.
+qstr_What_shall_be_the_na|기사단의 이름을 정해주십시오.
+qstr_Order_of_the|기사단
+qstr_Knights_of_{s0}|{s0}의 기사
+qstr_What_shall_be_called|당신의 기사단 기사를 뭐라고 부르시겠습니까? (단수, 복수)
+qstr_What_shall_be_called_|당신의 기사단 준기사를 뭐라고 부르시겠습니까? (단수, 복수)
+qstr_Candidate_#1:_{s1}|지원자 #1: {s1}
+qstr_Candidate_#2:_{s1}|지원자 #2: {s1}
+qstr_{s3}_of_{s4}_wishes_|{s4}에 {s3}이(가) 가신회의에서 새로운 총사령관을 선택하길 바라고 있습니다. 후보자는 {s1},{s2} 같습니다.
+qstr_Who_do_you_wish_to_s|누구를 지원하겠습니까?
+qstr_{s1}_gives_his_suppo|{s1}이(가) {s2}를 지원했습니다.
+qstr_Number_of_Supporters|지원병 수: {reg0}
+qstr_{s2}_has_heard_his_v|{s2}은 가신회의로부터 소식을 전해들었습니다. 회의를 마친 후 {s3}의 총사령관으로 {s1}이(가) 선출되었습니다.
+qstr_Action|행동
+qstr_Mount|말에 올라타라
+qstr_Attack_Order|공격 명령
+qstr_Stand_Ground|정지!
+qstr_Charge|돌격!
+qstr_Follow_Me|나를 따르라!
+qstr_Hold_This_Position|이 위치로!
+qstr_Spread_Out|산개
+qstr_Stand_Closer|밀집
+qstr_Fall_Back|후퇴!
+qstr_Advance|전진!
+qstr_Dismount|말에서 내려라
+qstr_Fire_At_Will|자유 사격
+qstr_Hold_Your_Fire|사격 중지
+qstr_Use_Blunt_Weapons|둔기만 사용해라
+qstr_Use_Any_Weapon|모든 무기를 사용해라
+qstr_Ready|생존
+qstr_Wounded|부상
+qstr_Dead|사망
+qstr_Opponents_knocked_do|처치한 사람 수 : {reg1}명
+qstr_Opponents_left:_{reg|남은 사람 수 : {reg1}명
+qstr_Opponents_beaten:_{r|처치한 상대 : {reg1}명
+qstr_Opponents_remaining:|남은 상대 : {reg1}명
+qstr_Remain_in_retirement|모험에서 은퇴한다.
+qstr_Go_back_to_the_adven|모험을 계속한다.
+qstr_You_have_retired_at_|당신은 {reg5}일 동안 모험을 하고 레벨 {reg4}에 은퇴했습니다.
+qstr_Effect_on_Score|효과 점수
+qstr_Settlements_owned_by|정착민들이 당신을 신뢰합니다: {reg0}
+qstr_Friendly_Settlements|호의적인 정착민들: {reg0}
+qstr_Hostile_Settlements:|적대적인 정착민들: {reg0}
+qstr_Friendly_Lords:_{reg|호의적인 군주: {reg0}
+qstr_Enemy_Lords:_{reg0}|적대적 군주: {reg0}
+qstr_Victories:_{reg0}|승리: {reg0}
+qstr_Defeats:_{reg0}|패배: {reg0}
+qstr_Quests_Completed:_{r|퀘스트 완료: {reg0}
+qstr_Companions_Found:_{r|합류한 동료: {reg0}
+qstr_Companions_Lost/Depa|상실/떠난 동료: {reg0}
+qstr_Wealth:_{reg0}_denar|재산: {reg0} 디나르
+qstr_Inventory:_{reg0}_de|인벤토리: {reg0} 디나르
+qstr_Renown:_{reg0}|명성: {reg0}
+qstr_Experience:_{reg0}|경험치: {reg0}
+qstr_Days_Passed:_{reg0}|보낸 일 수: {reg0}
+qstr_Difficulty:_{reg0}%|난이도: {reg0}%
+qstr_TOTAL_SCORE:_{reg0}|총 점: {reg0}
+qstr_the_{s15}|{s15}
+qstr_the_{s16}_and_{s15}|{s16} 그리고 {s15}
+qstr_the_{s16}_{s15}|{s16}, {s15}
+qstr__conquered_{s15}| 정복하다 {s15},
+qstr_self_proclaimed_{reg|자칭 {reg63?왕:여왕}
+qstr_minor_lord|작은 주인
+qstr_mercenary_captain|용병 대장
+qstr_None|없음
+qstr_{s4}_s_achievements_|{reg5}일 동안의 모험에 따른 {s4}의 업적
+qstr_Deathbringer|죽음의 인도자
+qstr__killed_{reg0}_enemi|({reg0}명을 죽이다.)
+qstr_Masterful_Warrior|숙련된 전사
+qstr__{reg0}_enemies_kill|(한 전투에서 적을 {reg0}명 이상 죽이다.)
+qstr_Legendary_Warrior|전설적인 전사
+qstr_Battle_Master|전투의 달인
+qstr__won_{reg0}_victorie|(전투에서 {reg0}번 이상 승리하다.)
+qstr_Great_General|위대한 장군
+qstr_Defender_of_Pendor|펜도르의 방어자
+qstr__defeated_{reg0}_her|({reg0}명의 중립영웅을 막아내다.)
+qstr_Guardian_of_Pendor|펜도르의 수호자
+qstr_Bane_of_Vejovis|베조비스 학살자
+qstr__wiped_out_a_Mystmou|(신비산 군대를 몰아내다.)
+qstr_Cult_Banisher|사교도 추방자
+qstr__wiped_out_a_Snake_C|(사교도 군대를 몰아내다.)
+qstr_Scourge_of_Jatu|자투 징벌자
+qstr__wiped_out_a_Jatu_ar|(자투 군대를 몰아내다.)
+qstr_Purger_of_Heresy|이교도 정벌가
+qstr__wiped_out_a_Heretic|(이교도 군대를 몰아내다.)
+qstr_Arena_Survivor|아레나의 생존자
+qstr__won_in_{reg0}_tourn|(토너먼트에서 {reg0}번 이상 승리하다.)
+qstr_Tournament_Champion|토너먼트 챔피언
+qstr_{reg63?Hero:Heroine}|펜도르의 {reg63?영웅:여걸}
+qstr__gained_{reg0}_renow|({reg0} 만큼의 명성을 얻다.)
+qstr_{reg63?Lion:Lioness}|펜도르의 {reg63?사자:암사자}
+qstr_Chevalier_of_Pendor|펜도르의 협객
+qstr__gained_{reg0}_honor|({reg0} 만큼의 명성을 얻다.)
+qstr_Rogue_{reg63?King:Qu|독자적인 {reg63?왕:여왕}
+qstr__declared_a_sovereig|(자신만의 국가성립을 선언하다.)
+qstr_Great_Persuader|위대한 달변가
+qstr__persuaded_{reg0}_lo|({reg0}명의 영주를 자신의 세력에 참여시키다.)
+qstr_Master_Builder|건축의 달인
+qstr__built_{reg0}_improv|({reg0}개 이상의 건축물을 건축하다.)
+qstr_Competent_Aide|유능한 심부름꾼
+qstr__completed_{reg0}_qu|({reg0}번 이상의 임무를 완수해내다.)
+qstr_Epitome_of_Ineptitud|무능함의 척도
+qstr__failed_{reg0}_quest|({reg0}번 이상의 임무에서 실패하다.)
+qstr_Slippery_Fellow|미꾸라지 같은 놈
+qstr__captured_{reg0}_tim|(적의 손에 {reg0}번 이상 포로가 되다.)
+qstr_Caravan_Marauder|상단 습격자
+qstr__raided_{reg0}_carav|({reg0}번 이상 상단을 습격하다.)
+qstr_Village_Plunderer|마을 파괴자
+qstr__raided_{reg0}_villa|({reg0}번 이상 마을을 습격하다.)
+qstr_Blatant_Deceiver|뻔한 사기꾼
+qstr__cheated_in_battle_|(전투 중 치트사용)
+qstr_Order_Grandmaster|기사단 그랜드마스터
+qstr__became_a_leader_of_|(기사단의 우두머리가 되다.)
+qstr_More.|다음
+qstr_Back.|이전
+qstr_You_have_been_awarde|당신은 업적을 성취했습니다!
+qstr_Continue.|계속
+qstr_A_Knighthood_Order_c|기사단 지부가 설립되었다.
+qstr_{s11}_of_the_{s12}_h|{s12}의 {s11}은(는) {s13} 기사단을 {s14}에 창설했습니다.
+qstr_Pendor_:__Conquered_|펜도르 : {s11}에 의해 정복되었습니다.
+qstr_The_{s11}_has_defeat|{s11}는(은) 적들을 멸망시키고 단 하나의 왕국으로 자리 잡았습니다. 마디간의 예언은 이루어졌으며,^^ 새로운 시대가 열렸습니다.
+qstr_Pendor_:__Conquered_b|펜도르 : 하나의 왕국에 의해 지배되고 있습니다.
+qstr_{s11}_has_defeated_a|{s11}는(은) 적들을 멸망시키고 단 하나의 왕국으로 자리 잡았습니다. 마디간의 예언은 이루어졌으며,^^ 새로운 시대가 열렸습니다.
+qstr_Factions|세력
+qstr_Show_towns|도시 보기
+qstr_Show_castles|성 보기
+qstr_Show_villages|마을 보기
+qstr_Tip:_move_the_mouse_|팁 : 마우스를 해당 거점 위에 올리면 이름이 표시됩니다.
+qstr_The_World_Map|세계 지도
+qstr_Done|완료
+qstr_P_o_P___O_p_t_i_o_n_|펜도르의 예언 설정
+qstr_Scroll_down_for_more|다른 설정을 보기위해 스크롤 내리기
+qstr_Battle_options|전장 설정
+qstr_Battlefield_size_|전장 크기
+qstr_830x830m|830x830m
+qstr_550x550m|550x550m
+qstr_240x240m|240x240m
+qstr_Adaptive|자동조정
+qstr_Battle_reinforcement|야전 원군 증원 : 
+qstr_Unlimited|무제한
+qstr_18|18
+qstr_16|16
+qstr_14|14
+qstr_12|12
+qstr_10|10
+qstr_8|8
+qstr_6|6
+qstr_4|4
+qstr_2|2
+qstr_Siege_reinforcement_|공성전 원군 증원: 
+qstr_36|36
+qstr_32|32
+qstr_28|28
+qstr_24|24
+qstr_20|20
+qstr_Enhanced_horse_arche|강화된 궁기병 AI 
+qstr_Disabled|비활성화
+qstr_NPCs_only|NPC만
+qstr_All_units|모두
+qstr_Disable_troop_routin|병사 도주 비활성화 
+qstr_Enable_Formations_|진형 활성화 
+qstr_Battle_interface|전투 U.I
+qstr_Show_personal_kill_c|킬 카운트 보기 
+qstr_Battle_ratio_bar_|전세 실황 표시기 
+qstr_shows_proportion_of_|각 진영의 생존 병사 비율 보기
+qstr_Ratio_bar_shows_rese|표시기에 예비 전력도 포함 
+qstr_reports_global_battl|증원군을 포함한 전역 전세 표시
+qstr_Display_a_message_on|동맹군의 사망 알림 표시 
+qstr_best_with__report_ca|메인 설정 '사상자 보고' 해제시
+qstr_Display_a_message_on_|플레이어의 처치 알림 표시 
+qstr_Miscellaneous|기타
+qstr_Fade_from_black_|화면전환 시 페이드 효과 
+qstr_when_entering_a_room|건물 입장시
+qstr_Lords_don_t_bring_fi|영주 합류시 해당 영지 미포함 
+qstr_No_auto_defections_|영주의 자동 망명 방지 
+qstr_Village_requests_in_|마을에서 요구사항이 있을시 나타나는 알림만 표시 
+qstr_Village_attacks_in_n|마을이 공격받을시 나타나는 알림만 표시 
+qstr_Important_news_only_|중요한 소식만 
+qstr_Play_companion_dialo|동료의 일상대화 보기 
+qstr_Reinforcement_waves_|야전시 지원군이 {reg0} 번 증원
+qstr_Reinforcement_waves_f|공성전시 지원군이 {reg0} 번 증원
+qstr_Others|Others
+qstr_KOs_Knights|기사단의 기사들
+qstr_KOs_Sergeants|기사단의 준기사들
+qstr_Mercenaries|용병들
+qstr_Adventurers|모험가들
+qstr_Kingdom_of_Pendor|펜도르 왕국
+qstr_Close|닫기
+qstr_Click_the_avatars_to|세부 사항을 보려면 아바타를 클릭하세요
+qstr_Level:_{reg3}^Health|레벨: {reg3}^체력: {reg4}
+qstr_Attributes|능력치
+qstr_STR^AGI^INT^CHA|힘^민첩^지능^매력
+qstr_{reg2}|{reg2}
+qstr_{s1}^{reg2}|{s1}^{reg2}
+qstr_Skills|기술
+qstr_Ironflesh^Power_Stri|단단한 피부^때리는 힘^던지는 힘^당기는 힘^방패기술^운동능력^승마술^기마 궁술
+qstr_Proficiencies|숙련도
+qstr_1H_Weapons^2H_Weapon|한손무기^양손무기^폴암^활^쇠뇌^투척무기
+qstr_Equipment|장비
+qstr_0_kills|0 처치
+qstr_{reg3}_kill|{reg3} 처치
+qstr_{reg3}_kills|{reg3} 처치
+qstr_{s1}_of_the_{s3}_was|{s3}의 {s1}은(는) 전투에서 패배했지만 탈출에 성공했습니다.
+qstr_The_{s2}_have_sacked|{s1}이 {s2}에게 약탈 당했습니다.
+qstr_{s54}_is_a_claimant_|{s54}이(가) {s56}의 왕권에 이의를 제기했습니다 .
+qstr_no_holdings|가지고 있지 않다
+qstr_{s57}_and_{s58}|{s57} 그리고 {s58}
+qstr_{reg3?She:He}|{reg3?그녀:그}
+qstr_The_town_of_{s50}|{s50} 도시
+qstr_The_village_of_{s50}|{s50}은 {s52}의 인근에 위치해 있습니다.^^
+qstr_{s51}_belongs_to_{s1|{s51} {s2}의 {s1}이(가) 통치하고 있습니다.^^
+qstr_{s2}There_is_a_chapt|{s2}{s1} 지부가 있습니다.^^
+qstr_{s2}Garrison_trainin|{s2}주둔군 훈련이 활성화됨.^^
+qstr_{s2}Garrison_training|{s2}주둔군 훈련이 비활성화됨.^^
+qstr_{s7}_and_{s8}|{s7} 그리고 {s8}
+qstr_{s2}It_has_no_villag|{s2}산하 마을이 없습니다.^^
+qstr_{s2}{reg0?Its_villag|{s2}{reg0?산하 마을들은:산하 마을은} {s8}입니다.^^
+qstr_{s2}Its_prosperity_i|{s2}재정 상태 : {s50}
+qstr_noone|없음
+qstr_{s9}_and_{s10}|{s9} 그리고 {s10}
+qstr_{s5}_has_been_defeat|{s5}은(는) 전투에서 패배했습니다.
+qstr_{s7}_opened_the_gate|{s7} 성문이 열렸습니다
+qstr_{s7}_closed_the_gate|{s7} 성문이 닫혔습니다
+qstr_+{reg1}_to_party_mor|부대 사기 +{reg1}
+qstr_Requires_{reg1}_inte|책을 읽는데 {reg1}의 지능이 필요합니다.
+qstr_Reading_Progress:_{r|읽기 진척율 : {reg1}%
+qstr_Improves_Noldor_rela|놀도르와의 관계 향상
+qstr_wound_treament|상처 치료
+qstr_trainer|훈련 교관
+qstr_surgery|수술
+qstr_+2_to_{s1}_while_in_|소지 했을 때 {s1} +2 효과
+qstr_+1_to_{s1}_while_in_|소지 했을 때 {s1} +1 효과
+qstr__interesting_to_Orde|(기사단이 흥미로워합니다)
+qstr_Upgrade_cost:_{reg0}|강화 비용: {reg0}
+qstr_Time_to_upgrade:_{re|강화 시간: {reg1} 일
+qstr_Move_here|이곳으로 이동
+qstr_View_notes|보고서 보기
+qstr_Unstick_from_River|강으로부터 떼어내다
+qstr_Accompany|동행
+qstr_Party_strength:_{reg|부대 사기: {reg0}
+qstr_killed|사망
+qstr_wounded|부상
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^총 : {reg3}명 ({s2})
+qstr_^None|^없음
+qstr_nothing|없음
+qstr_{reg0}_village{reg1?|{reg0} 마을{reg1?s:}
+qstr_{reg0}_castle{reg1?s|{reg0} 성{reg1?s:}
+qstr_{reg0}_castle{reg1?s:|{reg0} 성{reg1?s:}, {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0} 도시{reg1?s:}
+qstr_{reg0}_town{reg1?s:}_|{reg0} 도시{reg1?s:}, {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0} 도시{reg1?s:}, {s0}
+qstr_Your_opponents_are_r|당신의 상대가 전투준비를 완료했습니다.
+qstr_Try_to_destroy_as_ma|2분 30초 동안 가능한 많은 적을 물리치십시오.
+qstr_Stay_behind_the_line|선 뒤에서 목표를 노리세요. 한발 한발을 함부로 낭비해서는 안 됩니다.
+qstr_Battle_Advantage_=_{|전술적 우위 = {reg0}.
+qstr_{s9}_wants_you_to_re|{s9}은(는) 다음 지시가 있을 때까지 다시 그의 군대를 따라오라고 했습니다.
+qstr_{s0}_fails_to_bring_|당신 왕국의 어떤 자리에도 {s0}을(를) 데리고 오지 못했습니다!
+qstr_{s4}_is_awarded_to_{|{s4}은(는) {s6}의 {s5}에게 주어집니다.
+qstr_From_now_{s4}_belong|지금부터 {s4}은(는) {s6}의 {s5}에게 주어집니다.
+qstr__Word_reaches_you_th|세계 소식 : 메어간 키어릭은 울릭 왕의 깃발 아래 그리폰의검 모험단을 이끌게 되었습니다!
+qstr__Word_reaches_you_tha|세계 소식 : 강철검 코단은 귀족들과 기사들을 모아 울릭 왕에게 합류했습니다!
+qstr__Word_reaches_you_that|세계 소식 : 살레온의 울릭 왕이 자유 용병단를 고용했습니다!
+qstr__Word_reaches_you_that_|세계 소식 : 살레온의 울릭 왕이 메텐하임 용병단를 고용했습니다!
+qstr__Word_reaches_you_Sy|세계 소식 : 명성이 자자한 제국의 불멸자 실라 우자스는 베테랑 군단병들로 이루어진 군대를 조직해서 울릭 왕에게 합류했습니다!
+qstr__Word_reaches_you_that_K|세계 소식 : 살레온의 울릭 왕이 베카비안 용병단를 고용했습니다!
+qstr__Word_reaches_you_that_Ki|세계 소식 : 살레온의 울릭 왕이 메텐하임의 자유형제단을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Kin|세계 소식 : 살레온의 울릭 왕이 베카비아 변절자들을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King|세계 소식 : 살레온의 울릭 왕이 바클레이 제1 근위대를 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King_|세계 소식 : 살레온의 울릭 왕이 사르노의 멜리틴 원정대를 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King_U|세계 소식 : 살레온의 울릭 왕이 말레온 제1 기병대를 이끌고 출진합니다.
+qstr__Word_reaches_you_that_King_Ul|세계 소식 : 살레온의 울릭 왕이 눈사자 여단을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King_Ulr|세계 소식 : 살레온의 울릭 왕이 유니콘 기사들을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King_Ulri|세계 소식 : 살레온의 울릭 왕이 용병단을 고용했습니다.
+qstr__Word_reaches_you_that_O|세계 소식 : 오스왈드 드 플뢰르는 그의 모든 탐험대를 이끌고 그레고리 4세에게 합류했습니다!
+qstr__Word_reaches_you_that_B|세계 소식 : 큰까마귀 보리스는 까마귀 창 기사들을 이끌고 그레고리 4세에게 합류했습니다!
+qstr__Word_reaches_you_that_Ko|세계 소식 : 강철검 코단은 귀족들과 기사들을 모아 그레고리 4세에게 합류했습니다!
+qstr__Word_reaches_you_that_King_G|세계 소식 : 레이븐스턴의 왕 그레고리 4세가 자유 용병단을 고용했습니다.
+qstr__Word_reaches_you_that_King_Gr|세계 소식 : 레이븐스턴의 왕 그레고리 4세가 몇몇 반스케리 족장을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King_Gre|세계 소식 : 레이븐스턴의 왕 그레고리 4세가 메텐하임의 자유형제단을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King_Greg|세계 소식 : 레이븐스턴의 왕 그레고리 4세가 베카비아 변절자들을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King_Grego|세계 소식 : 레이븐스턴의 왕 그레고리 4세가 바클레이 제1 근위대를 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King_Gregor|세계 소식 : 레이븐스턴의 왕 그레고리 4세가 사르노의 멜리틴 원정대를 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King_Gregory|세계 소식 : 레이븐스턴의 왕 그레고리 4세가 유니콘 기사들을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_King_Gregory_|세계 소식 : 레이븐스턴의 왕 그레고리 4세가 용병단을 고용했습니다.
+qstr__Word_reaches_you_that_Bu|세계 소식 : 찬탈자 부릴기는 군대를 조직하여 카단 바하둘 칸을 위한 싸움을 시작합니다!
+qstr__Word_reaches_you_that_S|세계 소식 : 셰이크 샬라반은 사막 전사들을 통합하여 카단 바하둘 칸의 깃발 아래 싸움을 시작합니다!
+qstr__Word_reaches_you_that_Ka|세계 소식 : 카단 바하둘 칸이 자유 용병단를 고용했습니다!
+qstr__Word_reaches_you_that_Kad|세계 소식 : 카단 바하둘 칸이 메텐하임 용병단를 고용했습니다!
+qstr__Word_reaches_you_Syl|세계 소식 : 명성이 자자한 제국의 불멸자 실라 우자스는 베테랑 군단병들로 이루어진 군대를 조직해서 카단 바하둘 칸에게 합류했습니다!
+qstr__Word_reaches_you_that_Kada|세계 소식 : 카단 바하둘 칸이 몇몇 반스케리 족장을 용병단으로 고용했습니다
+qstr__Word_reaches_you_that_Kadan|세계 소식 : 카단 바하둘 칸이 자투 장군들을 용병단으로 고용했습니다!
+qstr__Word_reaches_you_that_Kadan_|세계 소식 : 카단 바하둘 칸이 메텐하임의 자유형제단을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Kadan_B|세계 소식 : 카단 바하둘 칸이 베카비아 변절자들을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Kadan_Ba|세계 소식 : 카단 바하둘 칸이 바클레이 제1 근위대를 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Kadan_Bah|세계 소식 : 카단 바하둘 칸이 사르노의 멜리틴 원정대를 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Kadan_Baha|세계 소식 : 카단 바하둘 칸이 싱갈리아 노예 상인단을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Kadan_Bahad|세계 소식 : 카단 바하둘 칸이 인다르의 점지자들을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Kadan_Bahadu|세계 소식 : 카단 바하둘 칸이 싱갈족 용병단을 고용했습니다.
+qstr__Word_reaches_you_that_Bur|세계 소식 : 찬탈자 부릴기는 군대를 조직하여 코닝거 발디스를 위해 싸움을 시작합니다!
+qstr__Word_reaches_you_that_M|세계 소식 : 메어간 키어릭은 코닝거 발디스의 깃발 아래 그리폰검 모험단을 이끌게 되었습니다!
+qstr__Word_reaches_you_that_Kon|세계 소식 : 코닌굴 발디스가 메텐하임 용병단을 고용했습니다!
+qstr__Word_reaches_you_that_Koni|세계 소식 : 코닌굴 발디스가 자유 용병단을 고용했습니다!
+qstr__Word_reaches_you_that_Konin|세계 소식 : 코닌굴 발디스가 베카비아 용병단을 고용했습니다!
+qstr__Word_reaches_you_that_Koning|세계 소식 : 코닌굴 발디스가 자투 장군들을 용병단으로 고용했습니다!
+qstr__Word_reaches_you_that_Koningu|세계 소식 : 코닌굴 발디스가 바클레이 정복자들을 용병단으로 고용했습니다!
+qstr__Word_reaches_you_that_Koningur|세계 소식 : 코닌굴 발디스가 메텐하임의 자유형제단을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Koningur_|세계 소식 : 코닌굴 발디스가 베카비아 변절자들을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Koningur_V|세계 소식 : 코닌굴 발디스가 바클레이 제1 근위대를 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Koningur_Va|세계 소식 : 코닌굴 발디스가 사르노의 멜리틴 원정대를 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Koningur_Val|세계 소식 : 코닌굴 발디스가 인다르의 점지자들을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Koningur_Vald|세계 소식 : 코닌굴 발디스가 몇몇 반스케리 족장을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Os|세계 소식 : 오스왈드 드 플뢰르는 그의 모든 탐험대를 이끌고 마리우스 황제에게 합류했습니다!
+qstr__Word_reaches_you_that_Bo|세계 소식 : 큰까마귀 보리스는 까마귀 창 기사들을 이끌고 마리우스 황제에게 합류했습니다!
+qstr_Word_reaches_you_tha|세계 소식 : 마리우스 황제가 바클레이 정복자들을 용병단으로 고용했습니다!
+qstr__Word_reaches_you_that_Kod|세계 소식 : 강철검 코단은 귀족들과 기사들을 모아 마리우스 황제에게 합류했습니다!
+qstr__Word_reaches_you_that_Ma|세계 소식 : 마리우스 황제가 자유 용병단을 고용했습니다!
+qstr__Word_reaches_you_that_Sh|세계 소식 : 셰이크 샬라반은 사막 전사들을 통합하여 마리우스 황제의 깃발 아래 싸움을 시작합니다!
+qstr_Word_reaches_you_that|세계 소식 : 마리우스 황제가 자투 장군들을 용병단으로 고용했습니다!
+qstr__Word_reaches_you_that_Mar|세계 소식 : 마리우스 황제가 메텐하임의 자유형제단을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Mari|세계 소식 : 마리우스 황제가 베카비아 변절자들을 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Mariu|세계 소식 : 마리우스 황제가 바클레이 제1 근위대를 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Marius|세계 소식 : 마리우스 황제가 사르노의 멜리틴 원정대를 용병단으로 고용했습니다.
+qstr__Word_reaches_you_that_Marius_|세계 소식 : 마리우스 황제가 인다르의 점지자들을 용병단으로 고용했습니다.
+qstr_Word_reaches_you_that_|세계 소식 : 마리우스 황제가 용병단을 고용했습니다.
+qstr_{s1}_Merchant_Carava|{s1} 상행단
+qstr__Being_Raided_|(피습 중)
+qstr__Looted_|(약탈당함)
+qstr__Under_Siege_|(포위당함)
+qstr_The_village_of_{s1}_|{s1}이 {s2}에게 약탈당했습니다.
+qstr_{s3}_is_no_longer_un|{s3}을(를) 포위하던 군대가 물러났습니다.
+qstr_Small_bands_of_enemi|{s1} 부근에서 적 순찰대가 감지되었습니다.
+qstr_Enemy_patrols_spotte|{s1} 부근에서 소규모 적 부대가 감지되었습니다.
+qstr_Medium_sized_group_o|{s1} 부근에서 중규모 적 부대가 감지되었습니다.
+qstr_Significant_group_of|{s1} 부근에서 대규모 적 부대가 감지되었습니다.
+qstr_Army_of_enemies_spot|{s1} 부근에서 소규모 적 군단이 감지되었습니다.
+qstr_Large_army_of_enemie|{s1} 부근에서 중규모 적 군단이 감지되었습니다.
+qstr_Great_host_of_enemie|{s1} 부근에서 대규모 적 군단이 감지되었습니다.
+qstr_{s1}_has_been_besieg|{s1}은(는) {s3}의 {s2}에게 포위되었습니다.
+qstr__{s1}__{s11}:_{s14}|({s1}) {s11} : {s14}
+qstr_{s14}__{s21}_|{s14} ({s21})
+qstr_{s1}_is_the_new_mars|{s1}은(는) {s2}의 새로운 총사령관이 되었습니다.
+qstr_You_gained_{reg12}_r|{reg12}의 명성을 얻었습니다.
+qstr_You_lose_{reg12}_ren|{reg12}의 명성을 잃었습니다.
+qstr_Your_relation_with_{|{s1}의 관계가 향상 되었습니다.
+qstr_Your_relation_with_{s|{s1}의 관계가 악화 되었습니다.
+qstr_You_have_broken_the_|You have broken the mercenary contract.
+qstr_You_gain_honor.|명예를 얻었습니다.
+qstr_You_lose_honor.|명예를 잃었습니다.
+qstr_The_{s1}_declared_wa|{s1}이(가) {s2}에게 선전포고 했습니다!
+qstr_The_{s1}_and_the_{s2|{s1}와(과) {s2}은(는) 평화조약을 맺었습니다.
+qstr_{s2}_{reg3?was:is_cu|{s2}은(는) {s3}에 {reg3?있었습니다:있습니다}.
+qstr_{s2}_{reg3?was:is}_t|{s2}은(는) {s3} 방면으로 {reg3?향하고 있었고:향하고 있고}, {reg4?그녀는:그는} {s4} 근방에 {reg3?있었습니다.:있을 겁니다}{reg3?:, 바로 지금.}
+qstr_{s2}_{reg3?was:is}_i|{s2}은(는) 야외에 {reg3?있었고:있고}, {reg4?그녀는:그는} {s3} 근방에 {reg3?있었습니다.:있을 겁니다}{reg3?:, 바로 지금.}
+qstr_{s2}_{reg3?was:is}_b|{s2}은(는) {s3}에 포로로 억류돼 {reg3?있었습니다:있습니다}.
+qstr_{s2}_{reg3?was:has_b|{s2}은(는) {reg4?그녀의:그의} 적에게 붙잡혀 {reg3?있었습니다:있습니다}.
+qstr_{reg3?{s2}_s_locatio|{reg3?{s2}의 위치를 알 수 없습니다:나는 {s2}가 어디에 있는지 모른다}.
+qstr_{s6}_has_joined_your|부대에 합류 : {s6}
+qstr_You_now_owe_{reg2}_d|당신은 {s1}에게 {reg2}디나르를 빚지고 있다.
+qstr_Renown_value_for_thi|이 전투에서 얻게 될 명성은 {reg8}입니다.
+qstr_You_have_run_into_a_|함정에 빠졌습니다.
+qstr_You_are_attacked_by_|도적 무리에게 공격당했습니다!
+qstr_Holding|위치고수
+qstr_Following|나를 따르라
+qstr_Charging|돌격
+qstr_Advancing|전진
+qstr_Falling_Back|후퇴
+qstr_Standing_Closer|밀집
+qstr_Spreading_Out|산개
+qstr_Standing|정지
+qstr_N/A|N/A
+qstr_Free|자유
+qstr_Any_Weapon|모든 무기
+qstr_Blunt_Weapons|둔기
+qstr_{s1}_Farmers|{s1} 농부들
+qstr_{s1}_Rebels|{s1} 반란군
+qstr_Given_by:_{s62}|지 시 자 : {s62}
+qstr_Given_on:_{s60}|일    자 : {s60}
+qstr_You_have_{reg0}_days|{reg0}일 이내에 임무를 완료해야 합니다.
+qstr_This_quest_has_been_|이 임무는 종료되었습니다. 임무 완료를 위해 {s59}에게 돌아가십시오.
+qstr_This_quest_has_been_s|이 임무를 성공적으로 완료했습니다. 사례금을 받기 위해 {s59}에게 돌아가십시오.
+qstr_This_quest_has_faile|이 임무는 실패로 끝났습니다. 상황 설명을 위해 {s59}에게 돌아가십시오.
+qstr_At_the_time_quest_wa|퀘스트를 부여 받았습니다.:^{s1}
+qstr_{s5}_has_a_strength_|{s5}은(는) 총 {reg1}명 분의 힘을 지녔다.
+qstr_The_last_time_you_sa|마지막으로 {reg1?봤을 땐:봤을 땐}, {s1}
+qstr_The_last_time_you_he|마지막으로 {reg1?접한:접한} 소식에 따르면, {s1}
+qstr_Current_garrison_con|현재 주둔군은 {reg5}명이고, {reg6}일 분량의 식량을 비축하고 있습니다.
+qstr_Impoverished|찢어지게 가난함
+qstr_Extremely_Poor|매우 가난함
+qstr_Very_Poor|조금 가난함
+qstr_Poor|가난함
+qstr_Very_Neglected|매우 방치됨
+qstr_Neglected|방치됨
+qstr_Below_Average|보통 이하
+qstr_Average|보통
+qstr_Above_Average|보통 이상
+qstr_Prosperous|번영함
+qstr_Wealthy|부유함
+qstr_Rich|풍족함
+qstr_Opulent|매우 풍족함
+qstr_Loyal|충성스러운
+qstr_Devoted|헌신적인
+qstr_Fond|다정한
+qstr_Gracious|자애로운
+qstr_Friendly|친절한
+qstr_Supportive|지지하는
+qstr_Favorable|호의적인
+qstr_Cooperative|협동적인
+qstr_Accepting|받아들이는
+qstr_Indifferent|무관심한
+qstr_Wary|경계하는
+qstr_Suspicious|수상쩍어 하는
+qstr_Hostile|적대적인
+qstr_Resentful|분개하는
+qstr_Angry|분노하는
+qstr_Hateful|증오하는
+qstr_Revengeful|복수심을 보이는
+qstr_Vengeful|복수심에 불타는
+qstr_{s1}_militia_patrol|{s1} 시민 정찰대
+qstr_Red_Brotherhood_from|{s1}에서 온 붉은형제단
+qstr_Red_Brotherhood_Thie|붉은형제 도적들
+qstr_Rogue_Red_Brotherhoo|악당 붉은형제 무법자들
+qstr_Red_Brotherhood_Slav|붉은형제 노예상들
+qstr_Singalian_Slavers|싱갈족 노예상들
+qstr_Singalian_Raiders|싱갈족 습격자들
+qstr_Rogue_Singalian_Slav|악당 싱갈족 노예상들
+qstr_Singalian_Hunters|싱갈족 사냥꾼들
+qstr_Snake_Cult_Patrol|사교도 순찰대
+qstr_Snake_Worshippers|뱀 숭배자들
+qstr_Serpent_Coven|뱀 집회
+qstr_Snake_Cult_Killers|사교도 살인청부업자들
+qstr_Snake_Cult_Virgin_Hu|사교도 처녀 사냥꾼들
+qstr_Snake_Cult_Kidnapper|사교도 납치범들
+qstr_Snake_Cult_Warband|사교도 전투부대
+qstr_Snake_Cult_Doomrider|사교도 파멸 기수들
+qstr_Serpent_High_Prieste|사교도 고위 여사제 호위단
+qstr_Snake_Cult_Raiders|사교도 습격자들
+qstr__A_wandering_travele|여행자 소식 : '말티세'와 공포의 군단이 체즈 근처에 상륙했고. 펜도르를 침공중입니다. 중립영웅 발견!
+qstr__A_wandering_traveler|여행자 소식 : 뱀 여신의 추종자들이 체즈 근처에 상륙했고. 펜도르를 침공중입니다!
+qstr_Heretic_Coven|이교도 집회
+qstr_Demon_Worshippers|악마 숭배자들
+qstr_Black_Coven|검은 집회
+qstr_Death_Cult|죽음의 교단
+qstr_Heretic_Virgin_Hunte|이교도 처녀 사냥꾼들
+qstr_Heretic_Sacrifice_Ki|이교도 제물 납치범들
+qstr__You_come_across_a_m|순례자 소식 : '먹어치우는자 - 아이그림'이라고 불리우는 악마가 언데드 군대를 이끌고 펜도르를 침공중입니다! 중립영웅 발견!
+qstr__Word_reaches_you_that_a|세계 소식 : 신비로운 마녀 3자매, '세 예언자'가 추종자들을 이끌고 교외지역을 배회하고 있습니다! 중립영웅 발견!
+qstr__You_receive_word_fr|여행자 소식 : 이교도가 악마 전사들를 소환하여 군대를 일으켰습니다!
+qstr_Inquisition_Patrol|이단 심문단 순찰대
+qstr_Interrogation_Band|심문 무리
+qstr_Inquisition_Missiona|이단 심문단 선교사들
+qstr_Inquisition_Devoted|이단 심문단 헌신자들
+qstr_Inquisition_Heathen_|이단 심문단 이교도 사냥꾼들
+qstr_Inquisition_Crusader|이단 심문단 성전사들
+qstr_Zealot_Purgers|광신도 정화자들
+qstr_Inquisition_Holy_Gua|이단 심문단 신성 수호자들
+qstr_Heresy_Hunters|이단 사냥꾼들
+qstr_Inquisition_Heretic_|이단 심문단 사냥꾼들
+qstr__Word_reaches_you_that_H|세계 소식 : 신성 이단 심문관 라스무스 데바티카가 군대를 결성해 이교도를 사냥하고 드'샤르 부족에게 종교를 전파합니다. 중립영웅 발견!
+qstr__A_wandering_traveler_|여행자 소식 : 신성 이단 심문단이 군대를 모아 드'샤르 부족에게 성전을 선포했습니다.
+qstr__Word_reaches_you_that_Buri|세계 소식 : '찬탈자 - 부릴기'가 토바 근처에서 군대를 일으켰습니다! 중립영웅 발견!
+qstr__Word_reaches_you_that_Osw|세계 소식 : '오스왈드 드 플뢰르'가 그의 모든 모험가 부대를 모아 하나의 군대로 편성했습니다!! 중립영웅 발견!
+qstr__Word_reaches_you_that_Bor|세계 소식 : '큰까마귀 보리스'가 까마귀 창 기사단과 함께 등장했습니다! 중립영웅 발견!
+qstr__Word_reaches_you_Me|세계 소식 : '메어간 키어릭'이 그리폰검 모험단과 함께 등장했습니다! 중립영웅 발견!
+qstr__Word_reaches_you_that_t|세계 소식 : 문제아라 불리는 '선동꾼 알라릭 공'이 흥청망청대는 탈영병들로 이루어진 작은 군대를 이끌고 살레온 근처를 행진합니다! 중립영웅 발견!
+qstr__Word_reaches_you_that_Koda|세계 소식 : '강철검 코단'이 귀족들과 기사를 이끌고 그를 가로막는 모든것들에게 도전장을 내밀었습니다! 중립영웅 발견!
+qstr__Word_reaches_you_that_She|세계 소식 : '셰이크 샬라반'이 사막 전사들은 통합하고 드샤르 평원의 거주자들에게 도전합니다. 중립영웅 발견!
+qstr__Word_reaches_you_Syla|세계 소식 : 명성이 자자한 제국의 불멸자인 '실라 우자스'가 베테랑 군단병들을 이끌고 야노스 근처에서 반란을 일으켰습니다. 중립영웅 발견!
+qstr__You_come_across_a_mo|순례자 소식 : 반스케리의 대족장이 군대를 이끌고 서쪽 해안에 상륙했다는 소식을 전합니다!
+qstr__You_overhear_two_yo|여행자 소식 : 농민반란을 이끄는 영웅적인 모험가에 대한 이야기를 들었습니다.
+qstr__You_have_the_feelin| 당신은 무언가,누군가가 당신을 보고있다는 것을 느꼈습니다. 당신의 '감지' 기술이 1 증가합니다.
+qstr__You_suddenly_realiz| 당신은 갑자기 주변이 깊은 정적에 빠지는 것을 깨달았습니다. 소리의 부재에 귀가 먹은듯 합니다. 당신의 '지도력' 기술이 1 증가합니다.
+qstr__Suddenly_you_feel_u| 갑자기 당신은 평소와 다르게 경계심을 느낍니다. 목뒤에 머리카락이 빳빳해집니다. 당신의 '훈련교관' 기술이 1 증가합니다.
+qstr__As_if_in_a_daze_you| 당신은 정신이 나간것처럼 기시감을 느끼며 주위를 둘러보았습니다. 당신은 꿈속에서 만난 긴 검은머리에 아몬드같은 눈을 가진 그녀와의 대화를 떠올려봅니다. 그 대화는 아주 중요합니다. 하지만, 아무리 생각해도 어떤 내용이었는지 기억이 나지 않습니다. 당신의 '전략가' 기술이 1 증가합니다.
+qstr__There_is_a_strangel| 이상하게 최면적인 멜로디가 당신의 마음속에서 울려퍼집니다. 전에 이 멜로디를 들었을 때, 당신은 손가락을 그대로 두지 못하고 멜로디는 머리속에 계속해서 울려퍼져 떨쳐 버릴수가 없습니다. 당신은 누군가가 이 중요한 멜로디를 누가 연주 했었는지 떠올려보려 합니다. 당신의 '기계공' 기술이 1 증가합니다.
+qstr__You_were_idly_watch| 당신은 하늘에 떠있는 구름의 진형을 보며 어릴 적에 보았던 형태라는 생각을 하며 이상적인 진형이라 생각합니다. 진형은 재바른 기마 궁수가 하늘을 지나 경주를 하는 것처럼 보입니다. 갑자기, 하늘에 있는 궁수가 쏜 듯한 하나의 화살이 땅을 향해 당신에게 떨어집니다. 당신의 '기마궁술' 기술이 1 증가합니다.
+qstr__In_the_sound_of_a_g| 세찬 돌풍이 당신에게 말하는듯합지만, 당신은 무슨 뜻인지 알아들을 수 없습니다. 당신은 소리를 듣기 위해 집중하지만, 소리는 점점 희미해져 갑니다. 당신은 그것이 당에게 어떤 이야기를 하려 했다는 것을 알지만, 무슨 의미를 담고 있는지는 알수 없습니다. 당신의 '포로관리' 기술이 1 증가합니다.
+qstr__As_you_travel_you_s| 당신은 모험중에 저 멀리 지평선에 당신의 눈을 집중합니다. 그곳엔 뭔가 있습니다. 당신은 재빨리 다가가서 보려하지만 무엇인지 분명하게 보이지는 않습니다. 숲 앞에 있던 신비한 형태의 그것은 이내 번쩍이더니 가버립니다. 당신의 '무기숙련' 기술이 1 증가합니다.
+qstr__Last_night_you_drea| 지난밤 당신은 꿈을 꾸었습니다. 당신은 말을 타고 있었고 말을 타는 그 긴 시간동안, 당신은 바람보다 빨랐으며 지치지도 않았습니다. 당신은 그의 목을 구부리고 그의 갈기에 얼굴을 대었습니다. 당신은 그 꿈을 모두 다 기억할수 있었고, 무슨 징조인지 궁금하게 되었습니다. 당신의 '승마술' 기술이 1 증가합니다.
+qstr__Carried_by_the_wind| 놀도르의 플루트로 연주된 용기를 복돋워 주는 소리가 바람을 통해 전해지지만, 아무도 보이지 않습니다. 당신이 연주자를 찾게 되면, 그 음악에 완전히 빠져들것이라는 걸 당신은 알고 있습니다. 음악이 끝나버렸습니다. 당신의 '응급처치' 기술이 1 증가합니다.
+qstr__A_chill_runs_down_y| 한기가 당신의 척추로 스며들어 당신을 추위에 떨게 합니다. 누군가는 당신의 무덤을 넘어가야 합니다. 당신의 '운동능력' 기술이 1 증가합니다.
+qstr__You_have_the_oddest| 당신은 어떤 유령이 당신의 뒤에서 당신의 어깨를 내려다 보는듯한 이상한 기분을 느낍니다. 당신에게 보이는것은 동료들 뿐입니다. 차가운 손이 당신의 뺨을 쓰다듬습니다. 당신의 '재고관리' 기술이 1 증가합니다.
+qstr__As_you_travel_somet| 여행중에 뭔가가 수풀에서 번쩍입니다. 당신이 그것을 들어서 살펴보니, 고대의 것이 분명한 기이하게 굽은 단검이었습니다. 당신의 '수술' 기술이 1 증가합니다.
+qstr_You_overhear_talk_of| 당신은 아지 다하카의 이름으로 대지를 황폐화시키는 죽음의 교단 약탈자들에 대한 이야기를 들었습니다!
+qstr_Questing_Lords|수색중인 영주들
+qstr_Errant_Knights|편력 기사들
+qstr_Patrolling_Knights|순찰중인 기사들
+qstr_Errant_Lords|편력 영주들
+qstr_Secular_Knights|세속적인 기사들
+qstr_Knight_Company|기사단
+qstr_Order_Knights|지시받은 기사들
+qstr_Knight_Adventurers|모험중인 기사들
+qstr_Questing_Honour_Knig|수색중인 명예로운 기사들
+qstr_Loyal_Knights|왕실 기사들
+qstr_Questing_Knights|수색중인 기사들
+qstr_Lost_Knight_Patrol|길잃은 기사 순찰대
+qstr_Clandestine_Patrol|은밀한 순찰대
+qstr_Jatu_Black_Hand_Trib|자투 검은손 부족민들
+qstr_Jatu_Thunder_Tribe_W|자투 천둥 부족 전사들
+qstr_Jatu_Horsemen|자투 기병들
+qstr_Jatu_Raiding_Party|자투 약탈 부대
+qstr__A_traveling_peddler|여행자 소식 : 자투 부족들이 연합해 강력한 군대를 일으켰다고, 지나가던 여행자가 전해줍니다!
+qstr__A_traveling_peddler_|여행자 소식 : 자투 부족들이 연합해, '파괴자 K'유다'의 이름으로 강력한 군대를 일으켰다고, 지나가던 여행자가 전해줍니다! 중립영웅 발견!
+qstr__A_traveling_peddler_h|여행자 소식 : 자투 부족들이 연합해, '전쟁군주 줄카'의 이름으로 강력한 군대를 일으켰다고, 지나가던 여행자가 전해줍니다! 중립영웅 발견!
+qstr_Mystmountain_Raiders|신비산 습격자들
+qstr_Blackroot_Clan_Warri|검은뿌리 부족 전사들
+qstr_Blood_Valley_Clan_Ra|피의 계곡 부족 습격자들
+qstr_Snow_Wolf_Clan_Warri|설원늑대 부족 전사들
+qstr_Bear_Tooth_Clan_Raid|곰이빨 부족 습격자들
+qstr_A_farmer_hails_you_a|농부 소식 : 신비산 부족들이 강력한 영웅하에 연합해 펜도르를 침공하고 있다고, 농부가 소식을 전해주었습니다!
+qstr_A_farmer_hails_you_an|농부 소식 : 신비산 부족들이 '학살자 울프보드'의 이름하에 연합해 펜도르를 침공하고 있다고, 농부가 소식을 전해주었습니다! 중립영웅 발견!
+qstr_Jarl_Haggar_Three_Fi|세손가락 하가 수령의 반스케리 습격자들
+qstr_Jarl_Hrolf_Ironbreek|강철바지 롤프 수령의 습격자들
+qstr_Jarl_Ivan_the_Bersar|광전사 이반 수령의 피의 습격자들
+qstr_Jarl_Thon_Redsword_s|붉은검 손 수령의 반스케리 습격자들
+qstr_Jarl_Ragnar_the_Drag|라그나 수령의 용의 광전사들
+qstr_Jarl_Gunder_Goldtoot|금니 군더 수령의 죽음의 습격자들
+qstr_Queen_Agnus_One_eye_|짝눈 아그누스 여왕의 악녀 약탈자들
+qstr_Vanskerry_Raiders|반스케리 습격자들
+qstr_Noldor_House_of_Aeld|놀도르 아엘다리언 가문의 순찰자들
+qstr_Noldor_House_of_Ithi|놀도르 이실란디르 가문의 정찰병들
+qstr_Noldor_House_of_Cael|놀도르 켈바니르 가문의 순찰자들
+qstr_Noldor_House_of_Faer|놀도르 페르그사니르 가문의 전사들
+qstr_Noldor_Rangers|놀도르 순찰자들
+qstr_Noldor_Patrol|놀도르 정찰자들
+qstr__You_receive_word_fro|여행자 소식 : 놀도르 영주인 '아엘다리언'이 라리아 숲을 침입한 인간들을 척살하기 위해 강력한 군대를 조직했다고, 지나가던 여행자가 전해줍니다. 중립영웅 발견!
+qstr__You_receive_word_from|여행자 소식 : 놀도르 영주인 '이실란디르'가 자투부족들을 초원으로 몰아내기 위해 강력한 군대를 조직했다고, 지나가던 여행자가 전해줍니다. 중립영웅 발견!
+qstr_Sarleon|살레온
+qstr_Ravenstern|레이븐스턴
+qstr_D_Shar|드'샤르
+qstr_Fierdsvain|파이어즈베인
+qstr_Baccus|바쿠스
+qstr_Red_Fletcher_Hunting|붉은 화살제조 사냥단
+qstr_Order_of_the_Boar_Ou|무법 멧돼지 기사 불한당
+qstr_Outlaw_Order_of_the_|무법 올빼미 기사단
+qstr_House_of_Morgan_Rene|모르간 가문의 변절자들
+qstr_Outlaw_Merchant_Hous|펠린 가문의 무법광들
+qstr_Outlaw_Melitine_Adve|멜리틴 무법 모험가들
+qstr_Deathwind_Renegades|죽음바람 변절자들
+qstr_Renegade_Omen_Seeker|징조 탐구자 변절자들
+qstr_Outlaw_Skyblade_Assa|하늘칼날 무법 암살자들
+qstr_Disgraced_Zelshai_Re|실각한 젤샤이 변절 부족원들
+qstr_Outlaw_Barclay_Noble|바클레이 무법 귀족들
+qstr_Vecavian_Slavers|베카비안 노예상들
+qstr_First_Blood_Hunting_|선제공격 사냥꾼 부대
+qstr_Outlaw_Heretic_Svarg|스바르게온 귀족출신 무법 이교도들
+qstr_Outlaw_Iceguard_Rang|무법 얼음수호 수색대
+qstr_Renegade_Ravenstern_|레이븐스턴 혼혈 기사 변절자들
+qstr_Outlaw_Knights_of_th|무법 매 기사들
+qstr_Outlaw_Snow_Lion_Kni|무법 눈사자 기사들
+qstr_Renegades_of_House_B|브리나크 가문의 변절자들
+qstr_Ebony_Knights_Huntin|흑단 기사 사냥 간부들
+qstr_House_Gnaeus_Outlaw_|그나에우스 가문의 무법 기사들
+qstr_Renegade_Centurions_|강철의 원 백인대장 변절자들
+qstr_Outlaw_Merchant_House|에토스의 개를 고문하는 악랄한 마니우스의 무법광들
+qstr_Escaped_Gladiators.|탈영 검투사들
+qstr_Red_Brotherhood_Elve|붉은형제단 엘프 노예 마차
+qstr_Ebony_Gauntlet_Priso|흑단 장갑의 죄수 행렬
+qstr_Grave_Robber_Corpse_|공동묘지 도굴꾼 마차
+qstr_Outlawed_Adventure_C|무법자 모험단
+qstr_Renegade_Adventure_C|변절자 모험단
+qstr_Treasure_Seekers|보물 탐색단
+qstr_Treasure_Hunters|보물 사냥꾼들
+qstr_Adventure_Company|모험단
+qstr_Bounty_Hunter_Advent|현상금 사냥 모험단
+qstr__Word_reaches_you_a_|세계 소식 : 바클레이 제국으로부터 건너온 대규모 무법자 전투단(루피오 빈센트)이 교외 지역에 도착하여 배회하고 있습니다. 중립영웅 발견!
+qstr__Word_reaches_you_Ob|세계 소식 : 예전에 바클레이제국 장군이였던 '오브리스트 하인리히'가 메텐하임에서 그의 군대을 앞세워 펜도르에 상륙했습니다. 중립영웅 발견!
+qstr__Word_reaches_you_Th|세계 소식 : 베카비아로부터 변절 마녀사냥 부대(베랑트 크루스)가 베카비아 반역자들을 처단하기 위해서 펜도르에 상륙했습니다. 중립영웅 발견!
+qstr__Word_reaches_you_Se|세계 소식 : 멜리틴 제국의 '변방의 왕 카스팍스'가 그의 군대를 이끌고 예상치 못하게 펜도르에 상륙했습니다. 중립영웅 발견!
+qstr_Singalian_Warband|싱갈족 전쟁부대
+qstr_Singalian_Temptress_|싱갈족 요부 순찰대
+qstr_Mountain_Outlaws|산적들
+qstr_Mystmountain_Outcast|신비산 낙오자들
+qstr_Renegade_Mountain_Me|이탈한 산악인들
+qstr_Mountain_Hermits|산속의 은둔자들
+qstr_Forest_Outlaws|추방된 숲도적들
+qstr_Brigands|불한당
+qstr_Robbers|강도들
+qstr_Desperate_Highwaymen|발악하는 노상강도들
+qstr_Highwaymen|노상강도들
+qstr_Forest_Bandits|숲속 도적들
+qstr_Forest_Robbers|숲속 강도들
+qstr_Thieves|도둑들
+qstr_D_Shar_Yusafzai_Raid|드'샤르 유사프자이 습격자들
+qstr_D_Shar_Afridi_Warrio|드'샤르 아프라이디 습격자들
+qstr_D_Shar_Turkmani_Ride|드'샤르 투르크마니 습격자들
+qstr_D_Shar_Pathani_Tribe|드'샤르 파사니 부족 습격자들
+qstr_D_Shar_Pansjiri_Warr|드'샤르 판스지리 전사들
+qstr__Yusafzai_Omen_Seeke|유사프자이 징조 탐구자들
+qstr_Death_Seekers|죽음의 탐구자들
+qstr_D_Shar_Pansjiri_Omen|드'샤르 판스지리 징조 탐구자들
+qstr_D_Shar_Raiders|드'샤르 습격자들
+qstr_Desperate_Outcasts|발악하는 낙오자들
+qstr_Foraging_Looters|밀렵꾼들
+qstr_Hungry_Bandits|굶주린 도적들
+qstr_Desperate_Dirt_Bandi|발악하는 먼지 도적들
+qstr_Angry_Outcasts|화난 낙오자들
+qstr_Desperate_Refugees|절박한 난민들
+qstr_Rabble|폭도무리
+qstr_Hungry_Refugees|굶주린 난민들
+qstr_Angry_Peasants|화난 농부들
+qstr_Red_Brotherhood_Hunt|붉은형제단 사냥꾼들
+qstr_Barclay_Assassins|바클레이 암살자들
+qstr_Murdering_Outlaw|살인하는 무법자들
+qstr_Murdering_Arsonist|살인하는 방화범들
+qstr_Murdering_Barclay_No|살인하는 바클레이 귀족들
+qstr_Hired_Hunters|고용된 사냥꾼들
+qstr_Hired_Sky_Blade_Assa|고용된 하늘칼날 암살자들
+qstr_Hired_Assassins|고용된 암살자들
+qstr_Red_Brotherhood_Kill|붉은형제단 살인청부업자들
+qstr_Mine|광산
+qstr_A_mine_creates_direc|광산을 만들면 자원조사를 통해 확인한 자원 가치로 정해지는 직접적인 소득을 얻고 번영도를 5% 증가시킵니다.
+qstr_Prospecting|자원조사
+qstr_Hires_and_sends_out_|주위의 산에 미네랄과 돌을 찾을 탐광자를 고용하여 보냅니다.
+qstr_Herbalist|약초가게
+qstr_A_herbalist_helps_th|약초가게는 지역사회 건강에 도움을 주어 번영도 10%와 관계도를 5 증가시킵니다.
+qstr_Market|시장
+qstr_A_market_increases_b|시장은 번영도 50%와 기본 수입을 50 증가시킵니다.
+qstr_Skilled_Craftsmen|장인
+qstr_Skilled_Craftsmen_in|장인은 번영도 20%를 증가시킵니다. 기본 수입을 100 증가시킵니다. 또한 그들은 자체적으로 매주 건물을 수리합니다.
+qstr_Manor|장원
+qstr_A_manor_lets_you_res|장원은 당신이 마을에서 쉴수 있게 해주며, 번영도를 10% 그리고 기본 수입을 10 증가시킵니다.
+qstr_Fish_Pond|양식장
+qstr_A_fish_pond_increase|양식장은 번영도 10%와 수입을 10 증가시킵니다.
+qstr_School|학교
+qstr_A_school_increases_t|학교는 관계도를 매 주마다 1씩 증가시킵니다.
+qstr_Watch_Tower|감시탑
+qstr_A_watch_tower_lets_t|감시탑은 경보를 더 빨리 울리게 합니다. 약탈시간을 25% 지연시킵니다. 마을과의 관계도가 5 증가합니다.
+qstr_Messenger_Post|전령 초소
+qstr_A_messenger_post_let|전령 초소는 적이 마을 근처에 접근했을때, 당신에게 메세지를 보냅니다. 마을과의 관계도가 5 증가합니다.
+qstr_Prison_Tower|감옥탑
+qstr_A_prison_tower_reduc|감옥탑은 포로들이 탈출 할 확률을 줄여줍니다.
+qstr_Winery|양조장
+qstr_A_Winery_increases_b|양조장은 수입 50과 번영도 5% 관계도를 3 증가시킵니다.
+qstr_Hunting_Lodge|수렵꾼 집회소
+qstr_A_Hunting_Lodge_send|수렵꾼 집회에서 샤냥꾼 무리를 보냅니다.수입 5와 번영도 10%를 증가시킵니다.
+qstr_Foresters|숲지기
+qstr_Foresters_organize_t|숲지기는 나무와 자원을 캐옵니다.번영도 5%와 수입5를 증가시킵니다.
+qstr_Sheriff|보안관
+qstr_This_keeper_of_order|보안관은 번영도 10%와 관계도를 5 증가시키고 지역내에 도적 발생이 줄어들고 순찰대를 보냅니다.
+qstr_Shrine|성지
+qstr_A_shrine_increases_t|성지는 지역내의 번영도 5%와 관계도를 5 증가시킵니다. 그리고 귀족들이 당신에게 합류합니다
+qstr_Blacksmith|대장간
+qstr_A_blacksmith_increas|대장간은 수입 5와 번영도를 5% 증가시킵니다.
+qstr_Hospital|병원
+qstr_A_hospital_increases|병원은 수입 5와 지역내 번영도 10%와 관계도를 5 증가시킵니다.
+qstr_University|대학
+qstr_A_University_increas|대학은 수입 10와 지역내 번영도 10%와 관계도를 5 증가시킵니다.
+qstr_Thieves_Guild|도둑길드
+qstr_The_Thieves_Guild_br|도둑길드는 붉은 형제단을 불러들여 수입 20과 번영도 15%가 증가하지만 관계도 10을 감소시킵니다.
+qstr_Training_Grounds|연병장
+qstr_Training_grounds_inc|연병장은 즉각적인 영지 수입을 3 증가시키며, 주둔군을 훈련시킬 수 있으며, 귀족을 모집할 수 있게 합니다.
+qstr_Church|교회
+qstr_A_Church_increases_i|교회는 수입 5와 번영도 10%와 관계도를 5 증가시킵니다. 그리고 귀족들이 당신에게 합류합니다
+qstr_Cathedral|대성당
+qstr_A_Cathedral_increase|대성당은 수입 20과 번영도 20%와 관계도를 10 증가시킵니다.
+qstr_Monastery|수도원
+qstr_A_Monastery_increase|수도원은 수입 5와 번영도 5%와 관계도를 5 증가시킵니다.
+qstr_Chapel|예배당
+qstr_A_Chapel_increases_i|예배당은 수입 5를 증가시킵니다.
+qstr_Crop_Rotation|윤작
+qstr_Crop_Rotation_increa|윤작은 수입 20과 번영도 5%를 증가시킵니다.
+qstr_Court_System|법원제도
+qstr_A_court_system_incre|법원제도는 수입 5와 번영도 10% 그리고 관계도를 5 증가시킵니다.
+qstr_Warehouse|창고
+qstr_A_warehouse_increase|창고는 수입5와 번영도 5%를 증가시킵니다.
+qstr_Organized_Guilds|설립된 길드
+qstr_Organized_Guilds_inc|길드를 설립하는 것은 수입을 50, 그리고 번영도를 25% 증가시킵니다.
+qstr_Lamplighters|점등원
+qstr_Lamplighters_increas|점등원은 번영도를 2%, 관계도를 2 증가시킵니다.
+qstr_Well_Cleaners|우물 청소부
+qstr_Well_Cleaners_increa|우물 청소부는 수입 2와 번영도 2%와 관계도를 2를 증가시킵니다.
+qstr_Street_Sweepers|거리 청소부
+qstr_Street_sweepers_incr|거리 청소부는 번영도 3%와 관계도 3을 증가시킵니다.
+qstr_Building_Inspectors|건축검사원
+qstr_Building_Inspectors_|건축검사원은 수입 2와 번영도 3% 그리고 관계도를 1 증가시킵니다.
+qstr_Renderers|벌초꾼
+qstr_Renderers_increase_d|벌초꾼은 수입 4와 번영도 4%를 증가시킵니다.
+qstr_Tax_collector_office|세무서
+qstr_A_Tax_collector_offi|세무서는 수입 10을 증가시키지만 번영도 10%와 관계도 2를 감소시킵니다.
+qstr_Fire_Brigade|소방대
+qstr_A_Fire_Brigade_incre|소방대는 지역내의 번영도 5%와 관계도 3를 증가시킵니다.
+qstr_Town_Crier|도시 관원
+qstr_The_Town_Crier_incre|도시 관원은 수입 1과 번영도 2%와 관계도 1를 증가시킵니다.
+qstr_Civic_Patrols|시민 순찰대
+qstr_Civic_Patrols_increa|시민 순찰대는 수입 1%과 번영도 2%와 관계도 5를 증가시킵니다. 또한 1천 디나르에 순찰대를 고용할 수 있습니다. 가끔 순찰대가 출현합니다.
+qstr_Improved_Roads|포장도로
+qstr_Improved_roads_incre|포장도로는 수입 5와 번영도 20%와 관계도 2를 증가시킵니다.
+qstr_Sanitation_Standards|위생제도
+qstr_Sanitation_Standards_|위생제도는 수입 2와 번영도 2%와 관계도 5를 증가시킵니다.
+qstr_Prosperity_of_{s2}_h| {s2}의 번영도가 {s3} 에서 {s4} {reg0?증가:감소}했습니다.
+qstr_ERROR:_Companion_str|에러: Companion strings actual/needed: {reg1}/{reg2}
+qstr_{s4}_looks_upset.|{s4}은(는) 화가 났습니다.
+qstr_{s11}_and_{s12}_are_|{s11}와(과) {s12}는(은) 서로에게 화가 났습니다.
+qstr_{s11}_likes_{s12}.|{s11}은(는) {s12}을(를) 좋아합니다.
+qstr_your_party|당신의 부대
+qstr_{reg0?One_of_your_pr|{reg0?당신의 포로 중 일부, :}{s3} 의 {s1}은(는) 포로상태에서 탈출했습니다.
+qstr_You_brought_{reg3}_h|당신은 {reg3} 마리의 소를 {s1}(으)로 배달했습니다.
+qstr_I_heard_that_there_w|{s62}에서 곧 토너먼트를 개최할 것이라 들었습니다.
+qstr_I_heard_that_one_can|{s62}을(를) {s63}에서 매우 저렴하게 구할 수 있다고 들었습니다.
+qstr_I_heard_that_they_pa|{s62}이(가) {s63}에서 매우 비싼 가격으로 거래되고 있다고 들었습니다.
+qstr_two_days_ago|이틀 전
+qstr_DEBUG:_{s3}_doesn_t_|디버그: {s3} doesn't have a guardian. (checking on behalf of {s4})
+qstr_Best_threat_of_{s4}_|{s4}에서의 가장 큰 위협은 {reg1}등급
+qstr_No_center_found_to_d|방어할 영지가 없습니다.
+qstr_You_gain_right_to_ru|당신은 정통성을 얻었습니다.
+qstr_You_lose_right_to_ru|당신은 정통성을 상실했습니다.
+qstr_{s9}_{reg4?She:He}_s|{s9} {reg4?그녀:그}는 {reg4?스스로:스스로} 자신을 {s7}(이)라고 칭했습니다.
+qstr_{s13}_Snake_Cult_Arm|{s13} 사교도 군대^
+qstr_{s13}_{reg0}_Snake_C|{s13} {reg0} 사교도 군대^
+qstr_{s13}_Mystmountain_A|{s13} 신비산 군대^
+qstr_{s13}_{reg0}_Mystmou|{s13} {reg0} 신비산 군대^
+qstr_{s13}_Vanskerry_Army|{s13} 반스케리 군대^
+qstr_{s13}_{reg0}_Vansker|{s13} {reg0} 반스케리 군대^
+qstr_{s13}_Heretic_Army^|{s13} 이교도 군대^
+qstr_{s13}_{reg0}_Heretic|{s13} {reg0} 이교도 군대^
+qstr_{s13}_Jatu_Army^|{s13} 자투 군대^
+qstr_{s13}_{reg0}_Jatu_Ar|{s13} {reg0} 자투 군대^
+qstr_{s13}_Inquisition_Ar|{s13} 이단 심문단 군대*^
+qstr_{s13}_{reg0}_Inquisi|{s13} {reg0} 이단 심문단 군대*^
+qstr_{s13}_Wolfbode_the_S|{s13} 학살자 울프보드^
+qstr_{s13}_Dread_Legion^|{s13} 공포의 군단^
+qstr_{s13}_K_Juda_the_Rav|{s13} 파괴자 K'유다^
+qstr_{s13}_Alaric_von_Bro|{s13} 선동꾼 알라릭 공^
+qstr_{s13}_Warlord_Zulkar|{s13} 전쟁군주 줄카^
+qstr_{s13}_Eyegrim_the_De|{s13} 먹어치우는 자 아이그림^
+qstr_{s13}_Burilgi_the_Us|{s13} 찬탈자 부릴기^
+qstr_{s13}_Oswald_de_Fleu|{s13} 오스왈드 드 플뢰르의 모험단^
+qstr_{s13}_Griffonsword_A|{s13} 그리폰검 모험단^
+qstr_{s13}_Kodan_Ironswor|{s13} 코단의 강철검 모험단^
+qstr_{s13}_Sheik_Shalavan|{s13} 셰이크 샬라반의 모험단^
+qstr_{s13}_Sir_Boris_the_|{s13} 큰까마귀 보리스 경^
+qstr_{s13}_The_Three_Seer|{s13} 세 예언가^
+qstr_{s13}_Aeldarian_Nold|{s13} 아엘다리언 놀도르 군주*^
+qstr_{s13}_Ithilrandir_No|{s13} 이실란디르 놀도르 군주*^
+qstr_{s13}_Syla_Uzas^|{s13} 실라 우자스^
+qstr_{s13}_Obrist_Heynric|{s13} 오브리스트 하인리히^
+qstr_{s13}_The_Renegade_W|{s13} 이탈한 마녀사냥단*^
+qstr_{s13}_Tercio_Villavi|{s13} 루피오 빈센트의 군대^
+qstr_{s13}_Melitine_Invas|{s13} 멜리틴 침략군^
+qstr_{s13}_Holy_Inquisito|{s13} 신성 이단 심문관 라스무스 데바티카*^
+qstr_{s13}_No_standing_ar|{s13} 당신에게 저항하는 군대는 지도에 존재하지 않습니다!^
+qstr_{s13}^_parties_marke|{s13}^(*표시가 붙은 부대는 승리조건에 포함되지 않습니다)^
+qstr__{s7}| {s7}
+qstr_Mettenhiem_Captain|메텐하임 대장
+qstr_Mettenheim_Soldiers|메텐하임 병사들
+qstr_Veccavian_Huntress|베카비안 사냥꾼들
+qstr_Veccavian_Warriors|베카비안 전사들
+qstr_Jatu_War_Leader|자투 전쟁 지휘관
+qstr_Jatu_Riders|자투 습격자들
+qstr_Powerful_Mercenary_C|강력한 용병 대장
+qstr_Sellswords|용병들
+qstr_Barclay_Noble_Advent|바클레이 귀족 모험가
+qstr_Barclay_Adventurers|바클레이 모험가들
+qstr_Melitine_Adventurer|멜리틴 모험가
+qstr_Melitine_Adventurers|멜리틴 모험가들
+qstr_Singalian_War_Leader|싱갈족 전쟁 지휘관
+qstr__The_villagers_and_y| 마을 사람들과 당신의 부대는 모든 들쥐를 잡는데 성공했습니다!
+qstr__The_villagers_kill_| 마을 사람들은 많은 쥐를 죽였지만, 그들의 노력에도 불구하고 많은 해로운 것들이 남아입습니다!
+qstr__The_villagers_manag| 마을 사람들은 독약을 이용해서 쥐들을 청소했고, 병균의 침입으로부터 안전해졌습니다!
+qstr__The_villagers_manage| 마을 사람들은 독약으로 일부의 쥐, 많은 고양이, 몇 몇의 개를 중독시켰습니다. 운이 좋게도 독이 잘듣지 않았습니다.
+qstr__The_Rat_Catcher_and| 쥐잡이꾼과 마을 사람들은 덫을 이용해서 많은 쥐들을 잡았습니다.
+qstr__The_Rat_Catcher_fai| 쥐잡이꾼은 끔찍하게 실패했습니다. 그리고 마을 사람들은 그를 마을밖으로 몰아내고 비난합니다.
+qstr__The_Village_Elder_s| 마을 촌장은 어떻게든 마을의 쥐를 처리했고, 그의 해결책에 감탄합니다.
+qstr__The_Village_Elder_f| 마을 촌장은 쥐들을 처리하는데 실패했습니다! 마을 사람들이 당신에게 실망합니다.
+qstr__{s64}_somehow_manag| {s64}은(는) 어떻게든 모든 일을 처리했습니다. 당신을 칭찬합니다.
+qstr__{s64}_fails_to_find| {s64}은(는) 피해에 대한 해결책을 찾는데 실패했습니다! 마을 사람들이 당신에게 실망합니다.
+qstr__{s64}_somehow_manage| {s64}은(는) 100 디나르만 있으면, 어떻게든 모든 일을 해결하려 합니다.
+qstr__{s64}_somehow_fails| {s64}은(는) 100 디나르로 어떻게든 모든사람을 도우려 했지만 실패했습니다. 마을 사람들은 불행합니다.
+qstr__{s64}_succeeds_in_h| {s64}은(는) 물을 이용해서 모든 환자들을 치료하는데 성공했습니다.
+qstr__{s64}_somehow_squan| {s64}은(는) 어떻게든 해보려 했으나 1000 디나르를 모두 낭비하고 말았습니다. 마을 사람들은 여전히 절실하게 도움이 필요합니다.
+qstr__{s64}_succeeds_in_he| {s64}은(는) 물을 이용해서 모든 치료했다. 그리고, 추가적인 발병을 막기위해 작은 비용을 구축해 두었다.
+qstr__{s64}_is_not_the_wi| {s64}은(는) 돈을 슬기롭게 사용하지 못했습니다. 하지만, 마을 사람들은 당신의 관대함을 알았고, 당신이 아닌 그를 비난한다.
+qstr__{s64}_somehow_manages| {s64}은(는) 어떻게든 마을 사람들과 함께 마을 목사를 도와 원초적인 불안을 누그러뜨리려 했다.
+qstr__{s64}_fails_to_conv| {s64}은(는) 의심하는 마을 사람들에게 당신의 입장을 납득시키는데 실패했다.
+qstr__{s64}_somehow_manages_| {s64}은(는) 어떻게든 마을사람들과 함께 좋은 물을 찾아서 죽어가는 작물에게 영양분을 공급하는 방법을 찾으려했다.
+qstr__Even_with_100_Dinar| 100 디나르의 사용에도 불구하고, {s64}은(는) 의심하는 마을 사람들에게 당신의 입장을 납득시키는데 실패했다.
+qstr__{s64}_hires_the_Wit| {s64}은(는) 마녀를 고용했습니다. 그러자, 하루가 지나기 전에 비가 오기 시작했습니다. 대체 어떻게 비가 오게 했을까요?
+qstr__The_{s64}_hires_the| {s64}은(는) 마녀를 고용했습니다. 하지만, 마녀는 사람들에게 필요한 만큼의 안도감을 주지 못했습니다.
+qstr__The_Witch_blesses_t| 그 마녀는 작물과 마을 사람들을 축복했고, 생산력이 더욱 좋아졌습니다.
+qstr__The_Village_Elder_h| 마을 촌장은 마녀를 고용했습니다. 하지만, 그 마녀는 1000 디나르와 함께 사라져 버렸군요!
+qstr__The_Village_Elder_su| 마을 촌장은 상황을 진정 시키는데에 성공했습니다.
+qstr__The_Village_Elder_i| 마을 촌장은 두 부족을 진정시키지 못했습니다. 그리고, 그 유혈 참사는 마을의 번영에 영향을 미쳤습니다.
+qstr__The_Village_Elder_a| 마을 촌장과 지역 민병대는 치안을 유지합니다.
+qstr__The_Village_Elder_ac| 마을 촌장은 300 디나르를 받아 들였습니다. 그리고 이 상황을 진정시켰습니다.
+qstr__The_Village_Elder_t| 마을 촌장은 300 디나르를 가졌지만, 주민들의 유혈참사를 막기엔 부족했습니다.
+qstr__The_Village_Elder_ta| 마을 촌장은 500 디나르를 가지고, 유혈 참사를 피하기 위해 부족 대장을 체포해서 교수형에 처했습니다. 하지만, 여전히 매우 화난 주민들이 있습니다.
+qstr__The_Village_Elder_is| 마을 촌장은 대장을 체포할 수 없었습니다. 그것은, 추가적인 폭력을 부추기는 일이 되고 말았습니다.
+qstr_Angry_mob_of_Village|마을의 화난 군중
+qstr__An_angry_mob_of_vil| 마을의 화난 군중이 마을을 돌아다니며 난동을 부립니다!
+qstr__The_Village_Elder_is_| 마을 촌장은 주민들을 진정시킬 수 없었습니다.
+qstr__{s64}_manages_to_ca| {s64}은(는) 도둑들을 잡아 교수형에 처했습니다. 말들을 되찾았습니다.
+qstr__The_Village_Elder_is_u| 마을 촌장은 도둑들을 찾을수 없었고, 말들도 되찾지 못했습니다.
+qstr__{s64}_manages_to_bu| {s64}은(는) 농경마들을 구입할 수 있었고, 이 상황을 해결했습니다.
+qstr__{s64}_squanders_the| {s64}은(는) 돈을 낭비하게 되었고, 쓸만한 농경마를 살 수 없었습니다.
+qstr__{s64}_organizes_a_p| {s64}은(는) 범인 추적단을 구성했고, 도둑들을 잡아 교수형에 처할 수 있었습니다. 말들을 되찾았습니다.
+qstr__{s64}_is_unable_to_| {s64}은(는) 도둑들을 찾을수 없었고, 말들도 되찾지 못했습니다.
+qstr_Horse_Thieves|Horse Thieves
+qstr__The_Horse_Thieves_h| 말 도둑들이 발견되었습니다.!
+qstr__{s64}_succeeds_in_f| {s64}은(는) 늑대로부터의 위협을 제거하는 방법을 찾는데 성공했습니다.
+qstr__Without_help_the_wo| 아무런 도움 없이 {s64}에서 처리하기에는 늑대들의 수가 너무 많습니다!
+qstr__Even_with_100_Dinars| 100 디나르를 사용했음에도 불구하고 {s64}에서 처리하기에는 늑대들의 수가 너무 많습니다!
+qstr__{s64}_hires_the_Witc| {s64}은(는) 마녀를 고용했고,얼마 지나지 않아 늑대들이 그 지역을 떠났습니다. 대체 어떻게 한 걸까요?
+qstr__The_{s64}_hires_the_| The {s64}은(는) 마녀를 고용했습니다. 하지만, 마녀는 늑대들를 처리하는데에 실패했습니다.
+qstr__{s64}_succeeds_in_t| {s64}은(는) 난민들을 외면하는데 성공했습니다.
+qstr__{s64}_is_unable_to_g| {s64}은(는) 난민들을 쫓아낼 수 없었습니다.
+qstr__{s64}_gives_the_ref| {s64}은(는) 난민들에게 조금의 음식을 주었고, 그들은 평화롭게 떠났습니다.
+qstr__The_refugees_take_t| 난민들은 음식을 빼앗았고, {s64}은(는) 그들을 쫓아낼 수 없었습니다.
+qstr__{s64}_manages_to_su| {s64}은(는) 난민들을 성공적으로 {s54}(으)로 통합했습니다.
+qstr__The_refugees_do_not| 난민들은 {s54}(으)로 잘 동화되지 못했고, {s64}의 주민들과 부드럽게 넘어가기 힘든 몇몇의 문제들이 발생했습니다.
+qstr__{s64}_has_the_local| {s64}은(는) 지역 목수에게 집을 짓게 하여 난민들을 {s54}에 성공적으로 통합했습니다.
+qstr__The_citizens_of_{s5| {s54}의 주민들은 난민들이 우선권을 갖게 되어서 행복하지 못했고, 이 사람들이 {s54}(으)로 동화되는 과정이 부드럽지 못합니다. {s64}은 성공적이지 못했습니다.
+qstr_Angry_Refugees|Angry Refugees
+qstr__The_refugees_get_an| 난민들은 화가 났고, 무기를 들어 당신에게 대항합니다!
+qstr__{s64}_has_the_local_| {s64}은(는) 지역 내 목수에게 화재 손해를 수리하게 합니다.
+qstr__{s64}_fails_to_enac| {s64}은(는) 수리하는 일을 실패했고, {s54}의 주민들은 행복하지 못합니다.
+qstr__{s64}_succeeds_in_d| {s64}은(는) 화재 손해를 다루는데 성공합니다.
+qstr__{s64}_is_unable_to_d| {s64}은(는) 화재 손해를 잘 다루지 못합니다. 일반 대중들은 불행합니다.
+qstr__{s64}_finds_the_cit| {s64}은(는) 방화범을 찾아내어 교수형에 처했고, 시장 광장에 효시했습니다.
+qstr__{s64}_is_unable_to_f| {s64}은(는) 방화범에 대해 아무것도 찾아 낼 수 없었습니다. 주민들은 화가나서 강압적인 태도를 취하고 있습니다.
+qstr__{s64}_has_managed_t| {s64}은(는) 우물을 정화할 수 있었고, 주민들은 당신의 행위에 행복해 합니다.
+qstr__{s64}_fails_to_clea| {s64}은(는) 우물을 정화하는데 실패했습니다. 그리고, {s54}의 주민들은 행복해 하지 못합니다.
+qstr__{s64}_has_summoned_| {s64}은(는) 의사들을 소환했고, 그들은 이 문제를 잘 처리했습니다.
+qstr__The_medicine_men_th| {s64}이(가) 소환한 약사는 우물을 정화하는데 실패했습니다. 그리고, {s54}의 주민들은 행복해 하지 못합니다.
+qstr__{s64}_found_the_cul| {s64}은(는) 범인을 찾아냈고, 그를 고문하여 자백을 받아냈습니다. 자백의 요점은 {s51}을(를) 겨냥한 사악한 행위였습니다. 그 우물은 결과적으로 많은 수의 사람들을 병에 빠뜨리고 사용할 수 있게 되었습니다.
+qstr__{s64}_fails_to_find_| {s64}은(는) 범인을 찾아내는데 실패했습니다. 그 우물의 독은 씻어 냈지만, 많은 시민들이 병에 걸렸습니다. {s54}의 주민들은 행복해 하지 못합니다.
+qstr__{s64}_found_the_culp| {s64}은(는) 범인을 찾아 교수형에 처했습니다. 그 우물은 많은 주민들을 병에 걸리게 한 후에야 사용할 수 있게 되었습니다.
+qstr__{s64}_turns_the_Her| {s64}은(는) 그 이교도를 뒤집어 새벽의 기사임을 밝혀냈습니다.
+qstr__{s64}_has_the_priso| {s64}은(는) 죄수를 고문했고, 결국에는 그자가 이교도이며 살인을 저질렀다는 자백을 받아냈습니다.
+qstr__{s64}_reports_that_| {s64}은(는) 감옥의 이교도 죄수가 도망쳤다고 보고합니다.
+qstr__{s64}_determines_th| {s64}은(는) 죄수가 이교도라고 단정짓고 즉시, 사형하기로 결정했습니다.
+qstr__After_extensive_inv| 광범위한 조사후에, {s64}은(는) 그 죄수는 이교도가 아니라 판단하고, 놓아 주었습니다.
+qstr_Heretic_Hunters|이교도 사냥꾼들
+qstr__{s64}_finds_ways_to| {s64}은(는) 지역을 보호하기 위해 고아들을 조직하여 정보망을 구성했습니다. 결국, 스파이를 찾아냈습니다. 불행하게도, 스파이는 그 과정중에 죽어버렸습니다.
+qstr__{s64}_leads_the_for| {s64}은(는) 군대를 이끌고 스파이를 찾아냈습니다. 불행하게도, 스파이는 그 과정중에 죽어버렸습니다.
+qstr__{s64}_conducts_a_ho| {s64}은(는) 집집마다 조사를 했지만, 스파이를 찾아내지 못했습니다. 주민들은 이 소동으로 불안해 합니다.
+qstr__{s64}_has_the_capta| {s64}은(는) 수비 대장에게 채찍형을 내렸습니다. 불행하게도, 주민들과 당신의 부대원들은 이 일에 동의하지 않습니다.
+qstr_Snake_Cult_Spies|사교도 첩자들
+qstr__{s64}_takes_the_new| {s64}은(는) 명령을 듣고, 농부들이 폭동을 일으키지 못하도록 당신의 결정을 공포했습니다.
+qstr__{s64}_orders_that_t| {s64}은(는) 성지는 변경할수 없다고 명령했습니다.
+qstr__{s64}_successfully_| {s64}은(는) 성지는 지어지지 않았다고, 주민들에게 성공적으로 공포했습니다.
+qstr__{s64}_orders_that_th| {s64}은(는) 성지는 변경되지 않을 것이라고 명령했습니다! 새벽의 기사단은 평화롭게 철수했습니다.
+qstr__{s64}_takes_the_news| {s64}은(는) 명령에 잘따랐지만, 당신의 주민들은 봉기를...
+qstr__{s64}_orders_that_the| {s64}은(는) 성지는 변경되지 않을 것이라고 명령했습니다. 주민들은 속상해 합니다.
+qstr__{s64}_tries_to_calm| {s64}은(는) 주민들을 진정시키려 했지만, 소용이 없었습니다. 몇몇의 주민들은 경제적 격변에 거리에서 난동을!
+qstr__{s64}_tells_the_Kni| {s64}은(는) 새벽의 기사단에게 당신의 명령을 말합니다. 그리고 그들은 결코 기뻐하지 않습니다.
+qstr_Astraea_Zealots!|아스트레이아 광신자들!
+qstr_Zealots!|Zealots!
+qstr__{s64}_rejoices_at_y| {s64}은(는) 당신의 결정에 크게 기뻐합니다. 지역 농부들은 당신의 이름을 칭송합니다.
+qstr__{s64}_happily_order| {s64}은(는) 기뻐하며 작은 성지건설을 명령합니다.
+qstr__{s64}_orders_that_the_| {s64}은(는) 유노미아 여신들의 성지 건설을 명령합니다.
+qstr__The_Knights_of_the_| 새벽의 기사단은 그들의 성지인 아스트라이어의 성지건설이 아닌, 이 지역의 다른 작은 성지들을 파괴하는것에 매우 기뻐합니다
+qstr__The_shrine_is_built| 성지가 건설되었지만, 추종자들은 거의 없습니다.
+qstr__{s64}_oversees_the_| {s64}은(는) 성지 건설을 감독하고 있습니다. 하지만, 완공되고 얼마 지나지 않아 약탈과 훼손이 발생할 것입니다. 사람들은 방문하기를 꺼려합니다.
+qstr__{s64}_tries_to_calm_| {s64}은(는) 주민들을 진정시키려 했지만, 소용이 없었습니다. 몇몇의 주민들이 경제적 격변에 거리에서 난동을 부림!
+qstr__{s64}_infoms_the_Kn| {s64}은(는) 새벽의 기사단에게 그들의 성지 건설을 시작하라고 알립니다. 그들이 다른 성지를 파괴하려 할 때, 광범위한 저항이 발생!
+qstr__Zealots_take_arms_a| 광신도들이 당신에게 적대감을 표시하며 무기를 들었습니다!
+qstr__{s64}_succeeds_in_s| {s64}은(는) 순례자들을 쫓아 보내는데 성공합니다.
+qstr__{s64}_is_unable_to_de| {s64}은(는) 순례자들을 잘 다루지 못합니다. 그런 부당한 대우들은 일반 주민들을 불행하게 합니다.
+qstr__{s64}_sends_for_the| {s64}은(는) 심각한 병에 걸린 사람들을 위해 광휘의 기사단의 의사를 서둘러 보냈습니다. 지역 주민들은 당신의 행동에 행복해 합니다.
+qstr__{s64}_is_unable_to_e| {s64}은(는) 광휘의 기사단에 도움을 요청할 수 없었습니다. {s54}의 주민들은 행복하지 못합니다.
+qstr__{s64}_manages_to_fi| {s64}은(는) 심각한 병에 걸린 사람들을 위해 가까스로 힐러들을 찾았고, 서둘라서 병을 치료했습니다. 지역 주민들은 당신의 행동에 행복해 합니다.
+qstr__{s64}_is_unable_to_en| {s64}은(는) 어떤 치유사에게도 도움을 요청하지 못했고, {s54}의 주민들은 행복하지 못합니다.
+qstr__{s64}_repents_and_m| {s64}은(는) 후회를 하고, 심각한 병에 걸린 사람들을 치료해 줄 약초상들과 다른 치유사들을 찾을 수 있었습니다. 지역 주민들은 당신의 행동에 행복해 합니다.
+qstr__{s64}_prays_for_rep| {s64}은(는) 신에게 회개의 기도를 합습니다만 결과적으로, 많은 주민들이 병으로 고통받았습니다. {s54}의 주민들은 행복하지 못합니다.
+qstr__{s64}_somehow_manages_t| {s64}은(는) 어떻게든 심각한 병에 걸린 사람들을 치료해 줄 약초상들과 다른 치유사들을 찾을 수 있었습니다.
+qstr__{s64}_has_no_idea_w| {s64}은(는) 어떻게 해야 할지 아무런 생각도 나지 않았습니다. 결과적으로, 많은 주민들이 병으로 고통받았습니다. {s54}의 주민들은 행복하지 못합니다.
+qstr_Mettenheim_Plunderer|메텐하임 약탈자들
+qstr_Veccavi_Hunters|베카비안 사냥꾼들
+qstr_Jatu_Mercenary_Raide|자투 용병 습격자들
+qstr_Mercenary_War_Band|용병 전쟁부대
+qstr_Barclay_Mercenary_Ad|바클레이 용병 모험가들
+qstr_Melitine_Mercenary_A|멜리틴 용병 모험가들
+qstr_Singalian_Mercenary_|싱갈족 용병 노예상들
+qstr__{s64}_informs_the_M| 그 용병단은 이동중이라고 {s64}이(가) 알립니다.
+qstr__{s64}_informs_the_Me| 그 용병단은 곧 떠나려 한다고 {s64}이(가) 알랍니다.
+qstr__Your_generosity_att| 당신의 관대함은 추가적인 용병들이 당신의 편으로 끌어들였습니다.
+qstr_{s14}|{s14}
+qstr__The_{s20}_is_offend| {s20}은(는) 불쾌해 합니다!
+qstr__The_Mercenary_compa| {s54}에서 용병단은 당신의 군세에 합류합니다.
+qstr__{s64}_found_the_thi| {s64}은(는) 도둑을 찾았습니다. 그는 어쩔수 없는 상황에서 도둑질을 했기에 주민들은 당신이 그의 죄를 가볍게 다뤄주기를 원합니다.
+qstr__{s64}_fails_to_find_t| {s64}은(는) 범인을 찾는데 실패했습니다. 시민들이 그 실패에 대해서 투덜거립니다.
+qstr__{s64}_improves_the_| {s64}은(는) 정찰을 강화하여 이런 종류의 추가적으로 발생하지 않도록 막아, 주민들이 안전하다고 느끼도록 합니다.
+qstr__{s64}_manages_to_se| {s64}은(는) 많은 집들을 수색해서 가까스로 도둑을 찾아냈습니다. 그것은 짧지만 공정한 시도였습니다. 주민들은 안도감을 느낍니다.
+qstr__{s64}_fails_to_find_th| {s64}은(는) 범인을 찾는데 실패했고, 수색에 참여한 많은 주민들을 속상하게 했습니다.
+qstr__{s64}_puts_out_the_| {s64}은(는) 포상을 하기로 했고, 도둑은 발견되어 바로 처형되었습니다. 주민들은 감사해합니다.
+qstr__Even_with_the_200_d| 200 디나르를 포상으로 내걸었음에도 불구하고, 도둑은 어디에서도 찾을수 없었습니다. {s64}은 범인을 찾는데 실패했습니다. 시민들이 그 실패에 대해서 투덜거립니다.
+qstr__{s64}_is_able_to_en| {s64}은(는) 수리가 가능하다며 2500 디나르의 도움을 요청했습니다.
+qstr__{s64}_obtains_the_s| {s64}은(는) 건설중인 벽이 그들에게로 떨어질 때, 두 작업원이 죽었다고 합니다.
+qstr__{s64}_is_somehow_ab| {s64}은(는) 자신의 기계공 기술로 어떻게든 수리해낼 수 있다고 합니다.
+qstr__{s64}_understands_y| {s64}은(는) 당신의 상황을 이해한다고 하며, 수리는 아직 끝나지 않았다고 합니다.
+qstr__{s64}_spreads_the_d| {s64}은(는) 당신의 부대에 디나르를 좀 뿌린다면, 탈영병이 발생하지 않을것이라고 합니다.
+qstr__{s64}_somehow_manages_to| {s64}은(는) 말이 잘 나오지 않아, 당신의 부대에게 혼동스런 명령을 해버렸습니다. 이 일은 조금 불행한 결과입니다.
+qstr__{s64}_spreads_the_w| {s64}은(는) 소문을 퍼트렸고, 모든 탈영병들이 이 지역에서 도망쳤습니다. 좋은 소식은 당신이 1 디나르조차 지불할 필요가 없다는 것이지요!
+qstr__{s64}_passes_along_| {s64}은(는) 당신의 정보를 널리 퍼트렸고, 운명은 휴식을 선사합니다.
+qstr__{s64}_informs_you_t| {s64}은(는) 성문 밖에 탈영병들이 있다고 알립니다!
+qstr_Brigand_Deserters!|탈영한 강도들!
+qstr__{s64}_somehow_manages_to_| {s64}은(는) 2000 디나르로 어떻게든 상인 대표를 납득시켰습니다. 그 무역로가 설치되었고, 번영에 큰 보너스가 되는 위업이 되었습니다.
+qstr__{s64}_reports_that_t| {s64}은(는) 상인 대표가 당신의 제안을 비웃으며 바로 떠나버렸다고 보고합니다.
+qstr__{s64}_sets_up_the_n| {s64}은(는) 무역로 설치에 필요한 형태로 문서를 준비하고 접촉을 가졌습니다. 그것은 {s54}의 번영에 큰 보너스가 되었습니다.
+qstr__Somehow_{s64}_has_m| 어쨌든 {s64}은(는) 상인 대표를 모욕하게 되었고, 그들은 화가나서 씩씩거리며 떠나버렸습니다. 무역로는 설치되지 못 했습니다.
+qstr__The_trade_delegatio| 상인 대표는 즉시 떠났습니다.
+qstr_Obliterated|말소됨
+qstr_Destroyed|파괴됨
+qstr_Crushed|진압됨
+qstr_Fading|희미해져감
+qstr_Weakened|약세
+qstr_Healthy|상당함
+qstr_Strong|강성함
+qstr_Overwhelming|압도적
+qstr_Invincible|천하무적
+qstr_Nothing_as_there_is_|더 이상 존재하는 기사단이 없습니다.
+qstr_{s8}_from_{s7}.|{s7} -> {s8}
+qstr_{s6}_from_{s8}.|{s8} -> {s6}
+qstr__I_promise_that_your|너의 패배가 영광스러울거라 약속하지!
+qstr__Then_let_us_test_ou|전투로 우리의 힘을 시험해보자!
+qstr__To_Arms!| To Arms!
+qstr___Very_well:_Let_us_|좋아, 모두 전투에 임하라!
+qstr__You_don_t_look_all_|내 눈엔 별로 강해 보이지 않는구나!
+qstr__If_we_must_let_us_d|그래야만 한다면, 우린 영광스럽게 죽을것이다!
+qstr__You_will_join_your_|네놈은 곧 조상과 함께할 것이다!
+qstr__You_don_t_look_part|네놈은 별로 위협적으로 보이지 않는구나.
+qstr__Better_to_die_in_ba|네놈처럼 구더기같이 사느니 전장에서 죽겠다.
+qstr__I_ve_seen_more_frig|난 사창가에서 너보다 끔찍한 광경들을 봐왔지.
+qstr__If_I_were_afraid_of|너 같은 놈들을 두려워 하느니, 차라리 내 스스로 머리에 칼을 꽂겠다.
+qstr__Make_peace_with_you|할 수 있을 때, 신께 기도나 드리시지.
+qstr__Do_you_really_think|넌 우리가 두려워 할거라 생각하나? 하!
+qstr__I_hope_Hell_has_eno|지옥에 네놈과 네 조상에게 충분한 자리가 있길 바란다.
+qstr__If_you_think_you_ca|네놈이 이 전투에서 이길 수 있다고 생각한다면, 네놈 등에 화살이 얼마 없는 것도 모르는 것이다.
+qstr__You_intend_to_fight|네가 나한테 싸움을 걸겠다고? 뭐야, 술에 취한 건가 아니면 그냥 바보인건가?
+qstr__You!__Stand_aside_m|네 이놈! 수도사들 옆에 서서 제대로 된 예의나 보여라!
+qstr__I_challenge_you_war|내가 너에게 전사로서 도전하겠다! 무기로써 명예를 증명하라, 아니면 죽음을 준비해라!
+qstr__Hail_and_well_met!_|만세, 잘 만났다. 이놈! 너의 긴 여정이 준비되었다. 바로 다음생으로의 여정!
+qstr__Ah_good!__Just_in_t|좋아! 내 무기를 시험해볼 때로군!
+qstr__Have_at_thee_knave!|싸우자, 악당아!
+qstr__It_s_been_a_boring_|오늘은 지루한 하루였어. 그러니 너와 싸워 지루함을 달랠거야.
+qstr__Challenge_me_will_y|내게 도전한다고? 널 도륙내서 간을 씹어먹을테다, 멍청한 놈.
+qstr__You_look_a_bit_lost|정신이 나갔구나. 네 창조주를 찾도록 조금 도와줄까? 당장 해주지, 얼간아!
+qstr__More_Blood!| More Blood!
+qstr_no_tidbits_of_value|가치있는 토막 소식도 없어요
+qstr_no_information_of_in|그다지 쓸만한 정보는 없어요
+qstr_no_interesting_news|흥미로운 소식이 없어요
+qstr_no_new_rumors_to_rep|알릴만한 새로운 뜬 소문이 없어요
+qstr_no_new_information|새로운 정보가 없어요
+qstr_very_little_worth_re|쓰잘데기없는 이야기 밖에 들은바가 없어요
+qstr_nothing_but_worthles|가치없는 소문과, 어부의 부인에 관한 이야기 같은 쓸모없는 이야기 밖에 없었어요
+qstr_nothing_but_innuendo|쓸모없는 이야기 밖에 없었어요
+qstr_no_news_worth_repeat|반복할 가치도 없는 소식 밖에 없었어요
+qstr__My_{reg63?Captain:L|{reg63?부대장님:아가씨},
+qstr__Business_has_been_b|종업에 매진하느라
+qstr__Well_in_truth_{play|사실 말이죠 {playername}님,
+qstr__Hmmm_{playername}._|음... {playername}님, 이야기거리가 떨어졌군요.
+qstr__My_good_{playername|{playername}님, 최근에 매우 바빴습니다.
+qstr__I_am_sorry_{playern|죄송합니다. {playername}님,
+qstr_._Try_next_week.|. 다음에 다시 물어봐 주세요.
+qstr_._Perhaps_you_should|. 한번 다른 사람에게 물어보세요.
+qstr_._You_might_have_bet|. 다른 사람에게 물어보면 뭔가 나오겠지요.
+qstr_._Ask_me_later_say_i|. 다음에 물어보세요, 4일이나 7일이 지난 후에.
+qstr_._I_am_sure_there_ar|. 다른이들이 당신이 찾는 정보를 가지고 있다고 확신해요.
+qstr_._Perhaps_later_I_wi|. 다음에 만날때까지, 좀 더 흥미로운 정보를 모으도록 하지요.
+qstr_._Come_back_another_|. 다른 시간에 다시 와주세요.
+qstr_.|.
+qstr__{s2}_I_have_heard_{| {s2} 이런저런 이야기를 들었지만, {s5}{s6}
+qstr__{s2}_there_have_bee| {s2} 최근에는 {s5}{s6}
+qstr__{s2}_I_have_to_say_| {s2} 저는 {s5}{s6}
+qstr__{s2}_few_people_hav| {s2} 저는 몇몇 사람들이 이야기하는 것을 들었는데, {s5}{s6}
+qstr__{s2}_I_have_been_il| {s2} 며칠간 몸이 아파서 쉬었거든요. {s5}{s6}
+qstr__{s2}_I_have_been_bu| {s2} 전 뱃짐을 옮기느라 바빠서 {s5}{s6}
+qstr__{s2}_I_haven_t_had_| {s2} 시간이 없어 그런걸 듣지 못 했어요, 불행히도 손님을 위한 {s5}{s6}
+qstr__{s2}_I_have_been_bus| {s2} 저와 조수들은 바빴어요. 그래서 당신에게 알려주기에 {s5}{s6}
+qstr__Ah!_It_is_unfortuna| 아! 죄송하게 되었습니다, {reg63?나리:아가씨}.
+qstr__More_is_the_pity_go| 안타깝게도, {reg63?나리:부인}.
+qstr__I_have_been_idle_to| 한 동안 일을 쉬었습니다.
+qstr__I_have_been_busy_wi| 저는 개인적인 최근의 문제로 바빴었습니다. 그리고
+qstr__My_ears_and_eyes_ha| 제 눈과 귀는 항상 열려 있습니다. 하지만
+qstr__I_am_sorry| 죄송합니다.
+qstr_no_information_of_va|그다지 가치있는 정보가 없군요.
+qstr_very_little_interest|아주 조금 흥미로운 소식
+qstr_no_valuable_news|그다지 가치있는 이야기가 없군요.
+qstr_only_worthless_whisp|가치없는 소곤거림 밖에 없어요.
+qstr_nothing_but_the_chan|날씨의 변화나, 취해서 부르는 노랫말 같이 별 것 아닌 정보 밖에 없군요.
+qstr_only_unconfirmed_whi|가치없는 헛소문만 들었습니다.
+qstr_only_unsubstantiated| 근거없는 소문 밖에 없어요.
+qstr_._I_am_sorry_my_frie| 이 세상에서 일어나는 모든 일들을 바로 전해들을 수는 없는 법이지요.
+qstr_._These_things_happe| 며칠 뒤에는 그럴듯한 소문이 들려오겠지요.
+qstr_._That_will_change_h| 언제나 그렇듯 굉장한 소문도 들을 수 있게 될 겁니다. 나중을 기대하세요.
+qstr_.__If_you_are_in_a_h| 뭔가 듣고 싶다면 상인들이나 관리들에게 말을 걸어보세요.
+qstr_._Never_fear_my_ear_| 걱정마세요. 제 귀는 언제나 열려있으니, 곧 무언가를 들을 수 있을겁니다. 결국 이게 제 일이니까요!
+qstr_._Let_me_snoop_about| 제가 염탐하거나 정보를 캐고 다닐 시간을 주십시오. 좀 더 정보를 모아서 며칠 뒤에 알려드리겠습니다.
+qstr_._Perhaps_you_should_| 다른날 다시 찾아와 주세요. 세상에 술과 음유시인들이 있는한 소문은 언제나 돌고 돌기 마련입니다.
+qstr__{s2}_I_have_to_admi| {s2} 지금은 {s5}{s6}
+qstr__{s2}_so_few_people_| {s2} 이번에는 소문이 별로 돌지 않았습니다. {s5}{s6}
+qstr__{s2}_I_have_encount| {s2} 최근에 몇몇 사람들을 만나봤습니다. {s5}{s6}
+qstr__{s2}_I_have_been_en| {s2} 최근 비밀스런 임무를 맡아서 {s5}{s6}
+qstr__{s2}_I_wish_I_had_b| {s2} 당신을 위한 좀 더 나은 소식을 가지고 있기를 바랍니다만, 운명이 허락치 않는군요, 전 {s5}{s6}
+qstr__{s2}_I_have_been_oc| {s2} 제 사업이 너무 바빠서 들은게 별로 없습니다. {s5}{s6}
+qstr__Ah!_It_is_an_unluck| 이번은 재수가 더럽게도 없었습니다.
+qstr__Sad_tales_good_{reg| 안타깝게도,
+qstr__I_have_been_too_bus| 고기 장사를 하느라 바빴습니다. 그리고
+qstr__My_ears_are_open_bu| 제 귀는 열려있습니다만
+qstr_so_little_coherent_i|가치있는 정보들은 거의 없군요.
+qstr_no_gossip_of_interes|흥미로운 소문은 없습니다.
+qstr_very_little_interesti|전해주기에는 사소한 소문들 밖에 없습니다.
+qstr_only_worthless_slave|그저 쓸모없는 노예 이야기 밖에 없네요.
+qstr_nothing_but_the_crie| 전쟁이 만든 미망인들의 흐느낌과 노예들 소식 밖에는 들은 것이 없군요.
+qstr_only_the_wild_tales_| 금방 잊혀질 사소한 이야기 밖에 없습니다.
+qstr_only_minor_gossip_an| 쓰잘데기 없는 소문이나 이 끝없는 전쟁에 관한 이야기 밖에 없군요.
+qstr_._I_am_sorry_my_prof| 죄송합니다. 제 일은 거리낌 없이 노예를 만드는 것 뿐이니까요. 그들의 사연은 알 바 아닙니다.
+qstr_._Information_like_w| 쓸만한 정보를 찾는거라면 다음 주 쯤이나 되서 들어올 겁니다.
+qstr_._Pity_too_as_I_coul| 안타깝네요. 아시다시피 전 정신을 일 깨우려고 재미있는 소문을 이용하긴 하는데요.
+qstr_._If_you_are_in_a_hu| 급하면 상인들에게 물어보시거나 다른 선술집을 찾아가 보세요.
+qstr_._If_you_want_to_kno| 쓸만한 이야기를 듣고 싶으면 선술집에서 방황하는 정보원들을 찾아보십시오. 
+qstr_._Those_guild_rats_n| 길드의 쥐새끼들은 갤리선 노잡이 노예들에나 관심이 있지 아무것도 이야기 해주지 않는다니까요!
+qstr_._Hell_I_am_bound_to| 다음주 쯤에 찾아오면 아마 괜찮은 소식 한두개 쯤은 건질 수 있을겁니다.
+qstr_._Perhaps_you_should_c| 다음주에 다시 방문해 주세요.
+qstr__{s2}_I_must_tell_yo| {s2} 제가 말씀드리고자 하는건 말이죠, {s5}{s6}
+qstr__{s2}_so_few_people_h| {s2} 최근 귀동냥에 관해 말씀드리죠. {s5}{s6}
+qstr__{s2}_I_have_encounte| {s2} 최근에 노예상 일로 너무 바빴습니다. 그래서 지금은 {s5}{s6}
+qstr__{s2}_I_have_been_sp| {s2} 길드 마스터를 방문 했었습니다. {s5} {s6}
+qstr__{s2}_I_wish_that_my| {s2} 지금 쓸만한 소식이 없군요. {s5}{s6}
+qstr__{s2}_I_have_been_ov| {s2} 혹사당한 노예들이 도망쳐 버렸지요. {s5} {s6}
+qstr_no_news|소식 없음
+qstr_only_worthless_infor| 가치없는 정보에 지나지 않습니다.
+qstr_nothing_but_soldiers| 단지 병사들의 잡담과 요리에 관한 소문입니다.
+qstr_unsubstantiated_goss| 근거 없는 소문입니다.
+qstr__My_{reg63?Lord:Lady| {reg63?나리:아가씨},
+qstr__Castle_business_is_| 관리할 일이 너무 많이 들어오고 있습니다.
+qstr__Of_course_good_{reg| 물론 좋습니다. 선량한 {reg63?나리:아가씨},
+qstr__My_sources_are_mute| 제 정보원으로부터 별 말 없었습니다.
+qstr_._I_am_sorry_{reg63?| 죄송합니다 {reg63?나리:아가씨}, 다음에는 더 잘 듣도록 노력하겠습니다.
+qstr_._Perhaps_you_should_a| 다른 사람에게 물어보는게 좋겠군요. 첩자같은?
+qstr_._Have_you_tried_see| 선술집에서 정보를 수집해 보셨습니까?
+qstr_._Have_you_thought_o| 상인과 접촉해보시는것이 좋을거 같군요, 그들은 다양한 종류의 여행자들과 만날 기회가 많아, 많은 소문과 소식거리를 알고 있을 것입니다.
+qstr_._I_am_sure_that_the| 나는 그들이 당신이 찾고 있는 정보를 가지고 있다고 확신합니다.
+qstr_._I_am_not_a_rumor_m| 저는 뜬소문을 퍼트리는 사람이 아닙니다 {reg63?나리:아가씨}, 그래서 저는 소문에 신경쓰질 않습니다.
+qstr_._Perhaps_you_should_co| 당신은 다른 때에 다시 와야 겠군요. 이 홀 안에서 우연히 듣게 되는 사실이 있다는걸 누군가는 절대 모르지요.
+qstr__{s2}_few_people_have| {s2} 몇 몇 사람들은 소문을 들었습니다. 전 {s5}{s6}를 들었습니다
+qstr__{s2}_I_have_been_busy| {s2} 전 성에서 바쁘게 지냈습니다. 그래서 {s5}{s6}를 들었습니다
+qstr__{s2}_I_have_not_had| {s2} 난 한가하게 남의 소문이나 듣는 사람이 아닙니다. 그래서 저는 당신을 위해 {s5}를 준비했습니다 {s6}
+qstr__{s2}_I_wish_I_had_be| {s2} 좋은 소식을 전해드리고 싶습니다만, 안타깝게도 제게는 {s5} {s6}
+qstr__{s2}_I_have_been_busy_| {s2} 나는 접대, 요리, 청소로 매우 바빴습니다, 그래서 난 {s5} {s6}
+qstr__a_little_something| 작은 이야기
+qstr__a_rumor| 소문
+qstr__an_interesting_tale| 흥미로운 이야기
+qstr__something_of_intere| 구미가 당기는 이야기
+qstr__some_dark_whispers| 사악한 이야기
+qstr__a_piece_of_informat| 괜찮은 이야기
+qstr__a_newsworthy_story| 화제가 될만한 이야기
+qstr__some_troubling_news| 약간 곤란한 정보
+qstr__some_worthwhile_inf| 가치있는 정보
+qstr__a_story| 이야기
+qstr__Ah_yes!__I_do_know{|아 예! 저는 당신의 관심을 끄는{s9}를 알고 있습니다.
+qstr__I_m_glad_you_asked_|물어봐 주셔서 기쁘네요, {playername} {reg63?나리:아가씨}.
+qstr__As_a_matter_of_fact|{s9}가 하나 들어오긴 했습니다.
+qstr__Funny_you_should_as|마침 물어보시니 재밌네요.
+qstr__Hmm.._yes!__I_did_h|흠... 아! 최근에{s9}를 들었습니다.
+qstr__Ha!__Yes_I_did_run_|하! 예, 저는 당신이 찾고있는{s9}를 가지고 있습니다.
+qstr__Well_yes_I_have_bee|음, 맞아요. 당신에게 말해줄{s9}가 있습니다.
+qstr__{s2}_I_have_been_so|{s2} 이 뱃짐들로 너무 바빴더니 거의 잊을 뻔 했네요!
+qstr__{s2}_Almost_slipped|{s2} 거의 까먹을뻔 했네요!
+qstr__{s2}_Terrible_it_is|{s2} 끔찍해요 그게, 제가 하려는 말이! 이건 듣는 사람마다 밤잠을 설치게 하죠!
+qstr__{s2}_A_sad_state_of|{s2} 슬픈 이야기이기도 하죠.
+qstr__{s2}_Gives_me_the_c|{s2} 그건 나를 공포에 떨게 하죠. 제 등골이 오싹해 진다니까요!
+qstr__{s2}_Nasty_bit_of_b|{s2} 약간 성가신 이야기이기도 하죠.
+qstr__{s2}_Makes_me_wonde|{s2} 주변 사람들이 알고 있는지에 대해 의문이 드는 것이죠.
+qstr__{s2}_It_makes_me_gl|{s2} 이 성벽 안에서 안전하게 말 할 수 있어 기쁘네요!
+qstr__{s2}_May_the_fates_|{s2} 운명이 우리를 지켜주기를, {reg63?나리:아가씨}.
+qstr__Ah!_Well_met.| 아! 잘 만났습니다.
+qstr__Well_met_Captain.| 잘 만났습니다.
+qstr__Ah!_I_am_glad_you_a| 아! 잘 물어보셨습니다.
+qstr__Well_my_{reg63?Lord| 좋습니다, {reg63?나리:아가씨}, 전 운명의 여신이 당신 편이라 믿습니다.
+qstr__Please_keep_your_vo| 목소리를 낮추세요.
+qstr__Please_sit_down_wit| 여기 앉으세요, {reg63?나리:아가씨}.
+qstr__My_{reg63?lord:Lady| 목소리를 줄이세요 {reg63?나리:아가씨}, 정보가 힘인데, 듣는 이가 많습니다.
+qstr__Well_met_my_{reg63?| 잘 맞났습니다, {reg63?나리:아가씨} {playername}.
+qstr__{reg63?Lord:Lady}_{| {reg63?나리:아가씨} {playername}, 딱 좋은 시간에 찾아왔군요.
+qstr__Ah_yes.__You_have_c| 아 그래. 딱 좋은 시기에 오셨군요.
+qstr__{s10}__I_have{s9}_f| {s10} 당신에게 전해줄 {s9}이(가) 있습니다.
+qstr__{s10}__I_was_told{s| {s10} 당신을 신뢰하니 {s9}을(를) 들려드리죠.
+qstr__{s10}__I_trust_you_| {s10} 다른 사람에게 떠벌리고 다니지 않겠다고 약속한다면, {s9}을(를) 들려드리죠.
+qstr__{s10}_I_do_indeed_h| {s10} 당신에게 들려줄 {s9}이(가) 있습니다.
+qstr__{s10}__I_was_privy_| {s10} 이 {s9}를 들려드리죠.
+qstr__{s10}__I_did_run_ac| {s10} 당신에게 들려줄 {s9}을(를) 가져왔습니다. 
+qstr__{s10}__Well{s9}_was| {s10} {s9}이(가) 있습니다.
+qstr__{s2}_It_is_a_good_t| {s2} 이런일들을 잡아낼 수 있다니, 제 귀가 참 쓸만하다고 볼 수 있지요.
+qstr__{s2}_Very_interesti| {s2} 매우 흥미로운 소식입니다. 반드시 말해야 겠습니다!
+qstr__{s2}_I_hope_you_use| {s2} 당신이 이 정보를 잘 쓰길 바랍니다.
+qstr__{s2}_Important_info| {s2} 와인같이 중요한 정보입니다. 쉽게 흐르지 않는 일이죠. 
+qstr__{s2}_Come_sit_down_| {s2} 이리와서 앉으시죠 그리고 내 자세한 이야기를 해드리죠.
+qstr__{s2}_It_never_cease| {s2} 사람들이 아는 것이나 공유하고 싶은 것들은 모두 저를 통해 흐르지요.
+qstr__{s2}_I_know_you_wil| {s2} 적어도 당신에게 약간이라도 유용할거라 믿습니다.
+qstr__{s2}_Perhaps_I_will| {s2} 아마 여기에 좀 오래 머무를 것 같습니다, 여행이 더 위험할수록 말이죠.
+qstr__{s2}_Please_use_wha| {s2} 잘 듣고 잘 사용하시기 바랍니다. 
+qstr__a_little_morsel| 작은 이야기
+qstr__a_nasty_little_rumo| 불쾌한 소문
+qstr__an_interesting_yarn| 흥미로운 이야기
+qstr__a_tidbit_of_interes| 맛깔나는 이야기
+qstr__a_whisper_of_inform| 은밀한 정보
+qstr__a_second_hand_story| 건너들은 이야기
+qstr__some_secret_gossip| 비밀스런 소문
+qstr__Ah!_Hello_Captain.| 아! 안녕하십니까.
+qstr__Aye.._that_I_have.| 있어요.
+qstr__You_are_in_luck.| 운이 좋군요.
+qstr__Yes_my_{reg63?Lord:| {reg63?나리:아가씨}, 들어보세요.
+qstr__Please_keep_your_voi| 쉿, 속삭이듯 말하세요.
+qstr__Aye_I_have_an_ear_a| 예, 괜찮은 이야기를 들은게 하나 있죠.
+qstr__My_{reg63?lord:Lady}| 목숨이 중요하다 생각되면 속삭이듯 말하십시오, {reg63?나리:아가씨}.
+qstr__Well_met_my_{reg63?l| 반갑습니다. {playername} {reg63?나리:아가씨}. 만약 길드가 내가 정보를 팔고 있다는걸 안다면, 우리 둘 다 위험해 질 겁니다.
+qstr__{reg63?Lord:Lady}_{p| {reg63?나리:아가씨} {playername} 당신은 운이 좋군요.
+qstr__Preserve_me_from_sh| 속박에서 날 구해주십쇼, 그리고 축복해주세요, 난 당신이 원하는걸 갖고 있습니다.
+qstr__{s10}__I_was_told{s9| {s10} 저는 이 {s9}에 관해 전 신뢰를 지키겠다고 약속했었습니다.
+qstr__{s10}__Yes_this_mus| {s10} 이건 꼭 비밀로 지켜주셔야 합니다. {s9}을(를) 들을 수 있었지요.
+qstr__{s10}__I_was_fortun| {s10} 이 정보가 제게 들어와서 정말 기쁘군요. {s9}입니다.
+qstr__{s10}__I_was_in_the| {s10} 소문은 잘 듣는것도 중요하지만 적당한 장소에서 작당한 시간에 맞춰 듣는것도 중요하죠. 저는 {s9}를 들을 수 있었습니다. 
+qstr__{s10}__I_did_come_a| {s10} 저는 {s9}를 들을 수 있었습니다. 아마 당신에게 쓸만한 정보가 될겁니다.
+qstr__{s10}__Well{s9}_was_| {s10} 좋아요. {s9}를 들었습니다.
+qstr__{s2}_I_meet_all_sor| {s2} 전 온갖 종류의 노역꾼들을 만나 봤습니다. 그네들 대부분은 무엇이든 말하고 싶어 안달난 사람 같다니까요.
+qstr__{s2}_I_hope_that_th| {s2} 전 이 정보가 당신에게 들을만한 가치가 있으면 좋겠습니다.
+qstr__{s2}_This_is_someth| {s2} 이건 제 동료들도 듣길 원하는 정보입니다.
+qstr__{s2}_I_am_glad_that| {s2} 전 당신이 조심성 있게 말해서 좋습니다. 보이는게 전부는 아니죠.
+qstr__{s2}_I_put_myself_i| {s2} 이걸 다른사람들에게 말하고 다니는건 꽤 위험한 짓이긴 한데, 돈보다 중요한게 또 어디있겠습니까. 
+qstr__{s2}_Let_us_keep_th| {s2} 이 얘기는 우리 끼리 만 알도록 합시다, 어떠신가요?
+qstr__{s2}_By_the_way_be_| {s2} 그건 그렇고, 조심하십쇼. 최근 길드가 당신의 활동에 대해 물어보기 시작했습니다.
+qstr__{s2}_I_must_make_a_| {s2} 이 정보는 제가 보고서를 작성해서 길드에 보내야 합니다만, 먼저 알려드리죠.
+qstr__{s2}_Please_tell_no| {s2} 아무에게도 말하지 마세요. 우리 길드는 개인적으로 정보를 팔고 뒷돈 챙기는 것을 싫어하거든요.
+qstr__a_little_rumor| 작은 소문
+qstr__a_tale| 이야기
+qstr__a_sliver_of_informa| 귀중한 정보
+qstr__some_gossip| 이야기거리
+qstr__Ah!_Well_met_{reg63| 좋아요, {reg63?Lord:Lady} {playername}.
+qstr__Yes_indeed_I_have_h| 네, 사실 전 무언가를 듣게 되었죠.
+qstr__Greetings_my_{reg63| 안녕하십니까, {reg63?나리:아가씨}.
+qstr__Yes_my_{reg63?Lord:L| 네, {reg63?나리:아가씨}, 당신을 위해 준비했습니다.
+qstr__Favor_smiles_upon_y| 호의를 보여드리죠, {reg63?나리:아가씨}.
+qstr__Aye_my_{reg63?Lord:| 아아, {reg63?나리:아가씨}, 제가 들은게 있습니다.
+qstr__My_{reg63?lord:Lady}_| 저는 {reg63?나리:아가씨}에게 가치 있는 것을 가지고 있습니다.
+qstr__Well_met_my_{reg63?lo| 잘 만났습니다, {playername} {reg63?나리:아가씨}, 운이 좋으시네요.
+qstr__{reg63?Lord:Lady}_{pl| {playername} {reg63?나리:아가씨}, 행운 당신에게 미소를 보내네요.
+qstr__Not_that_I_indulge_| 나는 소문에 눈먼 사람이 아닙니다, {reg63?나리:아가씨}, 그렇지만 전 어떤 소문을 들었습니다.
+qstr__{s10}__I_was_told{s9}| {s10} 이 {s9}를 들으니 당신이 생각나더군요.
+qstr__{s10}__Yes{s9}_was_| {s10} 그렇지, {s9}이(가) 제게 말해줬습니다. 하나도 빠짐없이 기억하고 있지요.
+qstr__{s10}__I_overheard{| {s10} 우연히 {s9}에게서 들은 이야기입니다. 그리고 운좋게도 기록을 남길 수 있었죠.
+qstr__{s10}__I_was_inform| {s10} 전 {s9}에게서 당신이 흥미를 가질만한 이야기를 들었습니다.
+qstr__{s2}_Usually_I_am_t| {s2} 보통, 그런 소문에 귀 기울이기엔 너무 바쁘네요.
+qstr__{s2}_I_hope_that_yo| {s2} 이 정보를 유익했길 바래요.
+qstr__{s2}_I_do_hope_that| {s2} 이 정보가 유용하길 바래요.
+qstr__{s2}_Makes_me_wonder| {s2} 저를 이 벽 너머에 무슨 위험한게 숨어있나 궁금하게 만들었죠.
+qstr__{s2}_I_have_gained_| {s2} 난 당신이 바라보고 있는 문제의 새로운 진가를 봤어요.
+qstr__{s2}_It_is_my_duty_| {s2} 당신을 섬기는건 저의 의무이고 영광입니다. 전 이게 {reg63?나리:아가씨}가 찾던 종류의 정보이길 바랍니다.
+qstr__{s2}_By_the_way_my_| {s2} 그나저나 {reg63?나리:아가씨}의 여정에 조심하세요.
+qstr__{s2}_The_castle_is_| {s2} {reg63?나리:아가씨}, 성은 활기로 북적거립니다. 그리고 전 정보 수집을 위해 할애할 시간이 많이 없습니다.
+qstr__{s2}_Even_I_found_t| {s2} 제 스스로 찾아낸 정보입니다, {reg63?나리:아가씨}.
+qstr_{s2}_It_s_regarding_|{s2} {s14}에 관한 이야기입니다. {s4}
+qstr_{s2}_{s4}_about_{s14|{s2} {s14} 에 대한 주제입니다. {s4}
+qstr_{s2}_{s4}_regarding_|{s2} {s14}에 관한 내용입니다. {s4}
+qstr_{s2}_{s4}_concerning|{s2} {s4} 그건 {s14}에 관한 겁니다.
+qstr_{s2}_My_informant_{s|{s2} 이 정보의 제공자인 {s11}이(가) {s14}에 대한 {s9}를 말해 줬습니다.
+qstr_{s2}_It_s_{s9}_from_|{s2} 이것은 {s11}(으)로부터 들은 {s14}에 대한 {s9}입니다.
+qstr_{s3}_{s4}_{s34}|{s3} {s4} {s34}
+qstr_a_story|이야기
+qstr_a_tale|이야기
+qstr_a_rumor|소문에 대한 이야기
+qstr_a_piece_of_gossip|이야기
+qstr_an_intriguing_story|아주 흥미로운 이야기
+qstr_a_piece_of_informati|어떤 정보에 대한 이야기
+qstr_a_fascinating_tale|굉장한 이야기
+qstr_a_yarn|괜찮은 이야기
+qstr_an_interesting_story|흥미로운 이야기
+qstr_an_interesting_rumor|소문에 관한 이야기
+qstr_a_sordid_tale|추악한 이야기
+qstr_{s50}|{s50}
+qstr_a_nameless_acquainta|이름없는 지인
+qstr_conducting_business_|사업상 아는 지인
+qstr_waiting_to_meet_some|만나기 위해 기다린 누군가
+qstr_waiting_for_someone|기다린 누군가
+qstr_someone_who_shall_no|유명하지 않은 누군가
+qstr_hurrying_to_meet_som|만나기 위해 서두른 중요한 누군가
+qstr_was_collecting_somet|그를 위해 무언가를 모으고
+qstr_avoiding_the_militia|민병대의 정찰을 피하고
+qstr_a_person_best_not_na|비교할 수 없는 사람
+qstr_hurrying_to_meet_a_f|친구를 만나기 위해 서두르고
+qstr_waiting_to_meet_an_a|협상을 위해 기다리고
+qstr_hiding_to_avoid_bein|미행을 피하기 위해 숨고
+qstr_a_person_who_is_best|어둠속에서 최고인 사람
+qstr_waiting_to_receive_a|부하로부터 보고서를 받기 위해 기다리고
+qstr_on_the_way_to_meet_a|동료를 만나러 가고
+qstr_waiting_to_meet_one_|그의 부하를 만나기 위해 기다리고
+qstr_an_acquaintance|지인
+qstr_minding_his_own_busi|사업을 보고
+qstr_not_paying_much_atte|주의하지 않고
+qstr_an_acquaintance_name|{s12}라는 지인으로
+qstr_doing_some_chores|잡일을 하고
+qstr_going_to_meet_someon|누구를 만나러 가고
+qstr_{s12}_an_acquaintanc|나의 지인 {s12}
+qstr_a_mercenary_calling_|{s12}라는 용병으로
+qstr_waiting_for_his_capt|그의 대장을 기다리고
+qstr_looking_for_some_ent|흥미거리는 찾고 있고
+qstr_looking_for_his_swor|전우를 찾고
+qstr_heading_to_town_to_s|일거리를 찾아 도시로 향하고
+qstr_on_a_scouting_missio|정찰입무를 하고
+qstr_looking_for_his_capt|그의 대장을 찾고
+qstr_a_strange_traveler|낯선 여행자
+qstr_looking_for_somewher|먹을만한 장소를 찾고
+qstr_wandering_the_town|도시를 배회하고
+qstr_resting_on_the_side_|길가에서 쉬고
+qstr_cooking_some_hens_ov|작은 모닥불 위에 닭요리를 하고
+qstr_walking_along_the_ro|도로변을 걷고
+qstr_a_traveler_named_{s1|{s12}라는 여행자로
+qstr_looking_for_somethin|먹을 것을 찾고
+qstr_exploring|탐험중에
+qstr_making_camp_along_th|도로변에 야영지를 만드는
+qstr_breaking_camp|야영지를 해체하는
+qstr_walking_with_a_group|난민들과 함께 가는
+qstr_a_refugee|난민으로
+qstr_looking_for_shelter|피난처를 찾고
+qstr_heading_to_the_next_|다음 도시로가고
+qstr_a_young_hunter_named|{s12}이라는 젊은 사냥꾼으로
+qstr_waiting_for_another_|다른 사냥꾼을 기다리고
+qstr_preparing_to_go_on_a|사냥을 갈 준비를 하고
+qstr_heading_out_of_the_t|도시 밖으로 향하고
+qstr_looking_for_game|사냥감을 찾는중에
+qstr_a_travelling_merchan|행상인으로
+qstr_waiting_for_his_appr|그의 견습생를 기다리고
+qstr_moving_inventory_ont|물품들을 수레로 옮기고
+qstr_looking_for_his_cara|상단호위병을 찾고
+qstr_heading_to_town_to_se|상품을 팔기 위해 도시로 가고
+qstr_riding_along_the_roa|도로변을 말달리고
+qstr_a_merchant_named_{s1|{s12}라는 상인으로
+qstr_looking_for_his_appr|그의 견습생를 찾고
+qstr_meeting_a_money_lend|대출업자를 만나고
+qstr_waiting_for_a_custom|손님을 기다리고
+qstr_making_camp|야영지를 만들고 있는
+qstr_a_wandering_Knight_o|떠도는 새벽의 기사로
+qstr_looking_for_his_squi|그의 종자를 찾고
+qstr_tending_to_his_horse|그의 말에 의지하고
+qstr_patrolling_the_stree|거리를 순찰하고
+qstr_helping_some_refugee|몇몇의 난민들을 돕고
+qstr_patrolling_the_road|도로를 순찰하고
+qstr_an_adventurer_callin|{s12}라는 모험가로
+qstr_looking_for_his_frie|그의 친구를 찾고
+qstr_resting_under_a_tree|도로변의 나무아래에서 쉬고
+qstr_an_abbot_called_{s12|{s12}라는 수도원장으로
+qstr_rushing_to_the_aid_o|아픈 친구를 돕기 위해 달려가고
+qstr_helping_refugees|난민을 돕고
+qstr_strolling_the_street|거리를 산책하고
+qstr_on_a_pilgrimage|순례 하고
+qstr_a_member_of_the_loca|지역 민병대원으로
+qstr_on_patrol|순찰중에
+qstr_patrolling_the_town|도시를 순찰하고
+qstr_investigating_suspic|의심스런 행동을 조사하고
+qstr_a_local_militiaman|지역 민병으로
+qstr_hunting_for_his_lord|그의 영주를 위해 사냥하고
+qstr_a_soldier_from_the_c|성에서 온 병사로
+qstr_on_guard_duty|경비 근무중에
+qstr_a_soldier_who_would_|이름을 말하지 않은 병사로
+qstr_scouting_the_area|지역을 정찰하고
+qstr_a_young_noble_lad|젊은 귀족으로
+qstr_looking_for_a_friend|친구를 찾고
+qstr_on_important_busines|중요한 사업중에
+qstr_meeting_someone|누군가를 만나고
+qstr_hunting_a_stag|사슴을 사냥하고
+qstr_traveling_to_his_fat|아버지의 사유지로 여행하고
+qstr_a_caravan_guard|상단 호위병
+qstr_looking_for_his_mate|그의 친구를 찾고
+qstr_waiting_to_meet_his_|다음 계약을 기다리고
+qstr_checking_the_horses|말을 돌보고
+qstr_scouting_ahead_of_hi|상단 앞을 정찰하고
+qstr_catching_up_to_the_c|상행단을 따라잡고
+qstr_escorting_a_caravan|상행단을 호위하고
+qstr_a_bounty_hunter|현상금 사냥꾼으로
+qstr_following_up_on_a_le|선두를 따라잡고
+qstr_waiting_to_meet_an_i|정보원을 만나기 위해 기다리고
+qstr_on_the_trail_of_a_no|악명높은 무법자의 자취를 따라가고
+qstr_asking_if_we_had_see|이 지역에서 도적들을 보았는지 묻고
+qstr_a_Mercenary_Sellswor|용병으로
+qstr_waiting_for_his_serg|그의 종자를 기다리고
+qstr_on_his_way_to_town|그가 도시로 가고
+qstr_asking_if_we_knew_wh|그가 일거리를 찾고
+qstr_a_Militia_Warder|민병대 감시자로
+qstr_checking_on_a_recrui|신병을 점검하고
+qstr_waiting_to_meet_a_bo|현상금 사냥꾼을 만나기 위해 기다리고
+qstr_asking_if_we_had_seen|그의 친구들을 본적이 있는지 묻고
+qstr_a_young_Noble_by_the|{s12}라는 젊은 귀족으로
+qstr_on_important_business|영주를 위한 중요 업무중에
+qstr_a_wandering_Ranger_b| {s12}라는 떠도는 순찰자로
+qstr_preparing_to_leave_t|도시를 떠날 준비중에
+qstr_investigating_someth|의심스러운 것을 조사하고
+qstr_waiting_for_a_fellow|동료 레인져를 기다리고
+qstr_a_good_squire_named_|{s12}라는 종자로
+qstr_waiting_for_his_Lord|그의 영주를 기다리고
+qstr_meeting_a_friend|친구를 만나고
+qstr_going_to_meet_his_Lo|영주를 만나러 가고
+qstr_a_neighbor_of_mine|내 이웃으로
+qstr_on_his_way_to_the_sh|상점으로 가는 길에
+qstr_walking_to_work|일하러 걸어가고
+qstr_a_relative_of_a_frie|친구의 친척으로
+qstr_on_his_way_to_his_ma|본점으로 가는 길에
+qstr_looking_for_his_litt|그의 동생을 찾고
+qstr_my_distant_cousin_na|{s12}라는 내 먼 사촌으로
+qstr_avoiding_his_wife|부인을 피해 달아나고
+qstr_looking_for_his_son|그의 아들을 돌보고
+qstr_my_sister_s_husband_|나의 칠촌으로
+qstr_avoiding_his_mother_|그의 장모를 피하고
+qstr_looking_for_his_wayw|말썽쟁이 아들을 찾고
+qstr_a_few_days_ago|며칠 전
+qstr_last_night|어젯밤
+qstr_earlier_this_morning|오늘 아침
+qstr_yesterday|어제
+qstr_after_sundown_yester|어제 일몰 이후
+qstr_while_dining_yesterd|어제 저녁식사 도중
+qstr_at_breakfast_this_mo|오늘 아침식사 때
+qstr_while_at_the_merchan|상점에 있을 때
+qstr_in_the_tavern|선술집 안에
+qstr_in_the_street|거리에
+qstr_outside_the_walls|성벽 바깥쪽에
+qstr_in_the_castle_courty|성 안뜰 안에
+qstr_noon_yesterday|어제 정오
+qstr_recently|최근
+qstr_I_heard_{s9}_from_{s|전 {s11}부터 {s9}를 들었습니다.
+qstr_I_was_told_{s13}_of_|저는 {s13} {s11}부터 {s9}를 들었습니다.
+qstr_Hmm_{s13}_I_heard_{s|저는 {s13} {s11}부터 {s9}를 들었습니다.
+qstr_I_heard_{s9}_from_{s1|저는 {s13} {s11}부터 {s9}를 들었습니다.
+qstr_I_met_{s11}_{s13}_wh|저는 {s13} {s11}부터 {s9}를 들었습니다.
+qstr_I_came_across_{s9}_f|저는 {s11}부터 {s9}를 들었습니다.
+qstr_On_a_chance_encounte|저는 {s11}부터 {s9}를 들었습니다.
+qstr_I_ran_into_{s11}_{s1|저는 {s13} {s11}부터 {s9}를 들었습니다.
+qstr_I_bumped_into_{s11}_|저는 {s13} {s11}부터 {s9}를 들었습니다.
+qstr_I_overheard_{s9}_fro|저는 {s11}부터 {s9}를 들었습니다.
+qstr_Snake_Cult|사교도
+qstr_Jatu|자투
+qstr_thieves_and_bandits_|숲의 강도와 도적단
+qstr_Noldor|놀도르
+qstr_D_Shar_Steppe_Raider|드'샤르 초원 습격대
+qstr_recent_events_that_s|최근 벌어진 비일상적인 사건
+qstr_outlaws_and_forest_b|무법자들과 숲 도적들
+qstr_outlaws_and_highwaym|무법자들과 노상 강도들
+qstr_rogue_and_outlawed_K|범죄자와 무법 기사들
+qstr_various_adventure_co|다양한 모험단들
+qstr_Heretics|이교도들
+qstr_Red_Brotherhood|붉은형제단
+qstr_Knights_of_Eventide|저녁의 기사단
+qstr_Knights_of_the_Dawn|새벽의 기사단
+qstr_Mettenheim|메텐하임
+qstr_Singalians|싱갈족
+qstr_travellers|여행자들
+qstr_the_accursed_{s14}|저주받은 {s14}
+qstr_the_vile_{s14}|쓰레기같은 {s14}
+qstr_the_damned_{s14}|엿같은 {s14}
+qstr_the_barbaric_{s14}|야만적인 {s14}
+qstr_the_horrid_{s14}|지독한 {s14}
+qstr_the_filthy_{s14}|추잡한 {s14}
+qstr_days|날들
+qstr_in_the_afternoon|오후에
+qstr_fresh|신선한
+qstr_in_the_morning|아침에
+qstr_fresh_cool|상쾌한
+qstr_nights|밤에
+qstr_after_dark|어둑해고 난 뒤
+qstr_fresh_night|맑은 밤
+qstr_after_sunset|해질녘 이후
+qstr_night|밤
+qstr__few_{s7}_ago|며칠 전
+qstr_h_yes_it_was_two_{s7|이틀 전, {s17}
+qstr_hh_it_was_yesterday_|어제, {s17}
+qstr_bout_three_{s7}_ago|삼일전
+qstr__handful_of_{s7}_ago|오래 전
+qstr__few_{s7}_past_{s17}|며칠 전, {s17}
+qstr_{s41}|{s41}
+qstr_{s42}|{s42}
+qstr_{s43}|{s43}
+qstr_taking_a_stroll|산책하고
+qstr_headed_to_the_tavern|선술집으로 향하고
+qstr_walking_home|집으로 가고
+qstr_getting_some_{s18}_a|{s18} 바람을 쐬고
+qstr_enjoying_the_{s18}_a|{s18} 상쾌한 공기를 즐기고
+qstr_he|그
+qstr_A{s12}_{s50}_was_{s3|{s12}, {s50}는 {s30} 있었습니다.
+qstr_When_{s50}_was_{s30}|{s12} {s50}가 {s30} 있을 때였습니다.
+qstr_A{s12}_when_{s50}_wa|{s12}, {s50}는 {s30} 있었습니다.
+qstr_We_came_across_{s11}|{s11}이(가) {s30} 때, 우리가 지나는데, 그가 우리에게 {s9}에 대해서 얘기했습니다.
+qstr_Aye_{s13}_we_encount|{s13} {s9}에 대해 얘기해준 {s11}와(과) 마주쳤습니다.
+qstr_Yes_{s13}_we_encount|{s13} {s30} {s11}와 마주쳤습니다. 우리는 그가 {s9}를 전달하면서 짧은 논의를 했습니다.
+qstr_Hmm_{s13}_we_came_up|{s13}, {s30} {s11}을(를) 발견했습니다. 우호의 일환으로, 그는 {s9}에 대해 말해줬습니다.
+qstr_Well_{s13}_we_met_{s|{s13} {s30} {s11}을(를) 만났었습니다. 그는 {s9}를 나에게 말했습니다.
+qstr_{s4}_{s34}|{s4} {s34}
+qstr_{s15}^{s10}|{s15}^{s10}
+qstr_{s30}^{s3}|{s30}^{s3}
+qstr_^^^Unfortunately_the|^^^아쉽게도, 새롭게 착용할 더 나은 장비가 없습니다.
+qstr_{s2}_equipped_{s1}.|{s2}이(가) {s1}을(를) 착용합니다.
+qstr_{s2}_{s1}|{s2}, {s1}
+qstr_{s2}_and_{s1}|{s2} 그리고 {s1}
+qstr_{s2}|{s2}
+qstr_{reg0}_noble_recruit|{reg0} 귀족이 합류합니다 {reg1?({reg1} 플레이어 영지의 성지와 종교에 심취{reg2?, {reg2} 플레이어의 명성):)}:{reg2?({reg2} 플레이어 부대의 명성):}}
+qstr_There_are_whispering|평민들 중에 귀족들이 당신의 군세에 끌린다고 소곤거리는 자들이 있습니다.
+qstr_Your_Noldor_opponent|당신이 놀도르에게 접근하는 것을 꺼리는 자들이 대련을 준비하고 있습니다. 당신은 모든 {reg1}들을 패배시켜야 이 대련을 성공적으로 끝마칠 수 있습니다.
+qstr_ranks|대형
+qstr_shield_wall|방패벽 대형
+qstr_wedge|쐐기 대형
+qstr_square|사각 대형
+qstr_up|위쪽
+qstr_Infantry_forming_{s1|보병 대형형성 {s1}.
+qstr_Not_enough_infantry_|{s1}대형을 위한 보병이 부족, 위치 고수!
+qstr_Cavalry_forming_{s1}|기병 대형형성 {s1}.
+qstr_Not_enough_cavalry_t|{s1}대형을 위한 기병이 부족, 위치 고수!
+qstr_Archers_forming_{s1}|궁병 대형형성 {s1}.
+qstr_Not_enough_archers_t|{s1}대형을 위한 궁병이 부족, 위치 고수!
+qstr_Infantry_formation_d|보병대형 해제.
+qstr_Cavalry_formation_di|기병대형 해제.
+qstr_Archer_formation_dis|궁병대형 해제.
+qstr_The_{s10}_in_{s2}_ha|{s2}의 장인에 의해 {s10}은(는) 완전히 수리되었습니다.
+qstr_The_craftsmen_of_{s2|{s2}의 장인이 {s10}의 일부를 수리했습니다.
+qstr_You_have_gained_{reg|당신은 {reg1}만큼의 {s1} 계급 포인트를 얻었습니다.
+qstr_You_have_lost_{reg1}|당신은 {reg1}만큼의 {s1} 계급 포인트를 잃었습니다.
+qstr_{s1}_{s2}_Knight|{s1} {s2} 기사
+qstr_{s1}_{s2}_Knights|{s1} {s2} 기사들
+qstr_{s1}_{s2}|{s1} {s2}
+qstr_The_secrets_of_makin|{s2} 비밀 제조법들이 이제부터 기사단 지부에 공급됩니다.
+qstr_{s1}|{s1}
+qstr_{reg8}|{reg8}
+qstr_You_ve_been_pimped_u|You've been pimped up!
+qstr_{reg4}_killed_{reg5}|{reg4} 사망, {reg5} 부상
+qstr_{s0}^{s1}:_{reg3}__{|{s0}^{s1} : {reg3} ({s2})
+qstr_{s0}^{s1}_ally_:_{re|{s0}^{s1}(아군) : {reg3} ({s2})
+qstr_{s0}^{s1}_enemy_:_{r|{s0}^{s1}(적군) : {reg3} ({s2})
+qstr_not_enough_gold|not enough gold 
+qstr_inventory_is_full|inventory is full 
+qstr_{reg40}_denars_left|{reg40} 디나르 남음
+qstr_Forming_ranks.|대형을 갖춰라.
+qstr_Gained_{reg33}_XP|{reg33} 경험치 획득
+qstr_You_ve_got_the_keys_|감옥의 열쇠를 얻었습니다.
+qstr_You_have_escaped_fro|사서와의 싸움에서 도망쳤습니다. 다시 귀부인 유령과 대화를 하세요.
+qstr_You_have_been_knocke|사서와의 싸움에서 기절했습니다. 다시 귀부인 유령과 대화를 하세요.
+qstr_{s37}|{s37}
+qstr_You_have_been_knocked|당신은 쓰러졌습니다!
+qstr_You_were_defeated.|당신은 패배했습니다.
+qstr_Rotate_with_the_mous|마우스로 카메라를 회전시키고, 키보드로 이동하십시오.
+qstr_Shift/Control_for_Up|위/아래는 Shift/Control키로 조정하고, Space Bar로 가속 할 수 있습니다.
+qstr_Numpad_Plus/Minus_to|Numpad +/-키로 민감도를 조정하며 전환할 수 있습니다.
+qstr_Home_to_reset_positi|포지션을 되돌리려면 Home키를 누르세요. 회전을 멈추려면 Y키를 누르면 됩니다.
+qstr_Y_Rotation_Inverted|Y-회전 반대 설정
+qstr_Y_Rotation_Normal|Y-회전 일반 설정
+qstr_Sensitivity___25%__{|민감도 - 25% ({reg8}, {reg9})
+qstr_Sensitivity_+_25%__{|민감도 + 25% ({reg8}, {reg9})
+qstr_You_have_fallen_in_b|당신은 전투에서 이탈했습니다!
+qstr_Your_troops_are_char|당신의 부대원들이 돌격합니다!
+qstr_{s13}_has_died|{s13}은(는) 죽었습니다.
+qstr_You_have_killed_{s13|{s13}을(를) 죽였습니다.
+qstr_You_have_knocked_out|{s13}을(를) 기절 시켰습니다.
+qstr_You_can_t_retreat_be|적이 가까이 있어 후퇴 할 수 없습니다.
+qstr_Your_controversy_has|이 후퇴로 인해 당신에 대한 논란거리가 커집니다.
+qstr_You_must_stay_behind|지정선 뒤로 물러나야 합니다.^방금 전 점수는 반영되지 않습니다.
+qstr_Cannot_leave_now.|지금은 벗어날 수 없습니다.
+qstr__You_ve_lost_the_cha| 도전에 실패했습니다!!!
+qstr__You_ve_won_the_chal| 도전에 성공했습니다!!!
+qstr_Tutorial|튜토리얼
+qstr_The_thieves_guarding|보물을 지키던 도둑들을 제압함 - 보물 상자 찾기.
+qstr_You_came_into_the_wo|당신은 가난하고 몰락한 귀족의 {reg3?딸:아들}로 태어났습니다. 당신의 가문은 남쪽에 위치한 체즈에서 도망쳐 바클레이의 외딴 지역에 초라한 영지를 구입했습니다. 아버지와 가문의 가신들은 당신이 귀족 계층의 의무와 궁정 용어를 잘 배울 수 있도록 힘썻습니다.부모님은 간혹 펜도르에서의 본인들 일생에 대해 말하곤 했는데, 당신은 어머니가 아버지가 자란 영지를 차지한 바쿠스 제국 출신이 아니라는 것을 눈치챘습니다.^^당신은 제국과 부정적인 관계에서 시작합니다.
+qstr_You_were_born_the_{r|당신은 파이어즈베인의 상선 선장인 아버지와 살레온 출신의 어머니 밑에서 {reg3?딸:아들}로 태어났습니다. 부모님은 항구의 부패한 관리자를 지혜롭게 대하고 잔인한 해적에게서 도망다니고 붉은 형제단을 피해 바클레이와 펜도르의 항구 사이에서 무역을 하며 매년 성장했습니다. 부모님의 사업을 통한 부의 축적으로 바클레이 선장 길드에서 상선을 구입할때 진 부채를 여유있게 청산했습니다. 평범한 생활이었지만 부모님은 당신에게 좋은 교육과 이윤을 내는 법, 점포를 내는 재능을 주었습니다.^^당신은 파이어즈베인과 긍정적인 관계에서 시작합니다.
+qstr_When_you_were_a_chil|당신이 어릴 적 당신의 아버지는 바클레이에서 존경받는 선임 위병 하사관으로 복무 했습니다. 누군가 그의 능력을 필요로 할 때, 실력을 빌려주기도 했었습니다. 아버지는 굉장한 검술을 지니고 있었고, 당신에게 모든 것을 전수했습니다. 그 결과 당신은 숙련된 검사가 되었습니다. 그는 거칠고 냉정했지만 공정한 사람이었습니다. 어머니는 펜도르의 약소 귀족 출신으로 본인 과거에 말을 아끼지만 유괴범으로부터 자신을 구해준 아버지와의 만남은 이야기 해줬습니다. 아버지는 자신이 과거에 몸담았던 기사단에 대해 단 한 번 이야기 한적이 있습니다. 당신은 여러가지 질문과 함께 어떤 임무를 맡았었는지 물었지만 그는 살레온 선왕의 더러운 부분을 맡았을 뿐이라며 기사단의 이름도 말하지 않고 입을 닫았습니다.^^당신은 살레온과 부정적인 관계에서 시작합니다.
+qstr_{reg3?daughter:son}|{reg3?딸:아들}
+qstr_You_were_the_{reg3?d|당신은 젊은 시절 동료들과 함께 모험을 하며 보낸 부모님의 {reg3?딸:아들}로 태어났습니다. 여러 밤을 보내며, 당신은 부모님의 용맹과 모험 그리고 헌신에 대한 이야기를 반복해서 들었습니다. 그들은 바클레이 동부에 있는 마을 외곽에서 보안관 및 감시자로서 법을 어기는 밀렵군을 추적하거나, 당신이 자란 숲을 오염시키는 도적들을 잡기 위해 가끔 사라지고는 했습니다. 그들은 당신에게 야생에서 살아남는 방법과 싸움, 그리고 위험을 감지하고 피하는 방법에 대해 알려주었습니다.
+qstr_Your_father_was_a_ba|당신의 아버지는 펜도르의 남쪽 사막 지대에서 추방 된 수장의 아들이었습니다. 당신은 도로 위의 짐마차에서 생활하는 유목민의 아이로 자랐습니다. 당신의 가족은 반년 이상 머무르지 않고 돌아다니며 야영했습니다. 당신의 아버지는 드'샤르의 초원에서 태어났고, 당신의 어머니는 살레온의 시녀였습니다. 당신의 부모님은 그들이 서로 어떻게 알게 되었는지에 대해서는 당신에게 알려주지 않았습니다. 당신의 아버지는 그의 부족민들이 어떻게 살았고 싸웠는지에 대한 많은 이야기를 들려주었습니다. 당신이 혈통에 자부심을 가지도록 영감을 불어 넣었습니다. 당신이 태어나기 전, 할아버지가 돌아가셨을 때, 당신의 아버지는 그의 형에 의해 부족에서 추방당했습니다. 그는 어머니를 만나고 재산을 모아 당신이 태어난 바클레이 북부 평야로 떠나왔습니다. 그는 다른 드'샤르 추종자들과 합류했으며, 그들은 자신들의 새로운 부족을 형성했고, 땅에서 살면서 동해안에있는 고향의 전통을 이어갔습니다. 그는 싸우는 방법과 자립을 통해 생존하는 법을 가르쳐주었습니다. ^^당신은 드'샤르와 부정적인 관계에서 시작합니다.
+qstr_Your_father_never_to|자신의 과거는 물론 어머니에 대해서도 말하지 않았던 아버지와 함께 당신은 바클레이 해안의 가난한 지역에서 자랐습니다. 당신은 '공식적인' 교육을 거의 받지 못했지만, 아버지는 어릴 적부터 자신을 지키고 위험을 피하는 방법을 가르쳐 주었습니다. 조금 나이가 들면서 그는 약초, 독, 해독에 대해 가르쳐 주었고 부상 당했을 때 치료하는 방법을 가르쳐 주었습니다. 그는 당신에게 당면하는 위험과 싸움을 스스로 감당하라 했습니다. 그는 종종 어디로 가는지, 언제 돌아오는지 알리지 않고 오랜 기간동안 떠났습니다. 당신은 생존을 위해 사소한 절도에 의지해야만 했습니다. 이런 혹독한 시절로 당신은 세상물정이 밝고 도시의 비밀과 어두운 골목 뒷길에 능통합니다.
+qstr_You_were_an_only_{re|당신은 귀족임에도 각종 음모와 모략을 뿌리치고 바클레이의 도시와 마을들을 다니며 많은 목숨을 살렸던 저명한 치료사의 유일한 {reg3?딸:아들}이었습니다. 부모님이 약을 제조하고 병을 치료하는 것을 도우며 당신은 삶에 대한 감사와 의학에 대한 지식을 배울 수 있었습니다. 부모님과 함께 오랜 여행을 하며 다양한 문화에 익숙해졌고, 먼 땅에 대한 이야기도 많이 들었습니다. 베카비아의 첨탑, 멜리틴의 추악한 거리, 메텐하임의 영웅에 대한 시는 당신이 상상의 나래를 펼치게 해 주었습니다. 그 중 당신이 특히 좋아했던 이야기는 펜도르에 관한 것이었습니다. 당신은 언젠가는 펜도르로 여행을 떠나겠다고 마음 깊숙히 다짐했습니다.
+qstr_As_a_{reg3?girl:boy}|당신은 한 명의 {reg3?소녀:소년}이(가) 된 후, 바클레이의 여러 남작들의 성에서 청소년기를 보냈습니다. 그곳의 가정에서 귀부인과 숙녀들에게 첫 번째 가르침 겸손에 대해 배웠습니다. 그들의 체스 게임, 그들의 험담 그리고 위대한 행위와 순정적인 사랑에 대한 그들의 시에서 당신은 성인들의 삶과 경쟁에 대해서 빠르게 배워나갔습니다. 심지어, 다른 아이들이 어른들의 대결을 흉내낸 스틱을 이용한 거친 게임을 통해 검술도 배웠습니다.
+qstr_As_a_{reg3?girl:boy}_|당신은 한 명의 {reg3?소녀:소년}이(가) 된 후, 장인의 수련생이 되어 그의 기술을 배우며 청소년기를 보냈습니다. 당신은 장인의 가르침 아래 열심히 일하며 여러 해를 보냈고, 결국 한 명의 장인으로서 인정받았습니다. 그 후, 당신은 떠나기 전까지 공방에 고용되어 일했습니다.
+qstr_As_a_{reg3?girl:boy}_g|당신은 한 명의 {reg3?소녀:소년}이(가) 된 후, 부유한 상인의 견습생이 되어 짐의 관리와 상품의 판매를 하고, 상행단과 함께 무역을 하며 청소년기를 보냈습니다. 처음에는 힘든 생활이었지만 점점 익숙해져 싸게 매입하여 비싸게 판매하는 예술품에 대한 정보를 취득했고, 떠나는 고객이 스스로 싸게 샀다고 생각이 들게끔 하는 방법에 대해 습득했습니다.
+qstr_As_a_{reg3?girl:boy}_b|당신이 {reg3?소녀:소년}이던 청소년기는 거의 알려지지 않았습니다. 당신은 오로지 생존을 위해 할 수 있는 모든 일을 하며 거리에서 생활했습니다. 당신은 구걸하고 훔쳤으며 빵을 위해 폭력배로 일하기도 했습니다. 폭력적인 세상에서 법과 당신을 갈취하려는 자들은 언제나 한 발짝씩 앞섰고, 당신의 삶은 오직 하루하루를 연명하는 것이 다였습니다.
+qstr_As_a_very_young_{reg|당신이 청소년기를 보내기 전, 아주 어린 {reg3?소녀:소년}일 때, 당신은 자신의 말을 타고 초원과 사막을 지나는 길을 배우며 대초원을 달렸습니다. 당신은 길이 없는 이 나라의 솜씨 좋은 사냥꾼이자 길잡이가 되었습니다. 가끔 굶주릴 때도 있었지만 유목민의 삶을 완전히 습득함으로써 당신의 몸은 날렵한 근육질이 되었습니다.
+qstr_{reg3?daughter:man}|{reg3?딸:남자}
+qstr_Though_the_distincti|당신은 눈 깜짝할 새 진정한 {reg3?여자:남자}가 되었습니다. 그래서인지 당신은 모든 세상이 달라보이기도 했고 그 간극이 갑작스럽게 느껴지기도 했습니다. 당신이 왕성의 한 귀족에게 종자로 지명된 후, 당신은 많은 시간을 무기술을 연습하는데 할애해야 했습니다. 또한 고난과 역경이 왔을 때 주저없이 어떻게 불굴의 의지로 맞서야 하는지도 배웠습니다. 당신은 군주를 위한 의무와 봉신으로서의 책임을 배웠습니다. 게다가 진정한 기사도도 배웠습니다. 그와 함께 잔인한 힘의 정치, 배신 그리고 탈취, 간교한 속임수의 사나이, 무력을 이용해 목적을 이루려는 자들에 대해 나이 든 전사의 이야기로부터 귀족의 더러운 이면에 대해서도 배웠습니다.
+qstr_{reg3?woman:man}|{reg3?여자:남자}
+qstr_Though_the_distinctio|당신은 눈 깜짝할 새 진정한 {reg3?여자:남자}가 되었습니다. 그래서인지 당신은 모든 세상이 달라보이기도 했고 그 간극이 갑작스럽게 느껴지기도 했습니다. 당신은 왕성 내의 유대가 긴밀한 여성들의 모임에 참여했습니다. 예의바르게 보여지길 원하는 숙녀, 귀족 남성의 부인과 정부, 아직 남편을 찾지 못한 아가씨뿐이었지만 당신은 이 곳에서 정치적인 의견들을 찾아냈습니다. 이들은 왕성 고위직 남성들의 눈에 들기 위해 서로 격렬하게 싸우며 스스로를 돋보일 방법들을 획책하고 있었고, 당신은 이런 것들을 이용하여 스스로를 유리한 위치에 서게 할 방법을 배웠습니다. 만일 당신이 깨달은 은밀하고 교묘한 방법들을 당신의 길에 이용한다면, 당신은 세상에 위대한 영향력을 행사할 수 있을 것입니다.
+qstr_Though_the_distinction|당신은 눈 깜짝할 새 진정한 {reg3?여자:남자}가 되었습니다. 그래서인지 당신은 모든 세상이 달라보이기도 했고 그 간극이 갑작스럽게 느껴지기도 했습니다. 당신은 오로지 어깨 위의 악기와 자신의 목소리만 가지고 여행을 시작했습니다. 빈곤한 생활이었고, 사람들이 당신의 음악에 만족하지 못했을 때는 배고픈 많은 밤을 보냈지만, 음악으로 다시 일어설 수 있었습니다. 해가 지나고 당신은 술집의 많은 주정뱅이들 앞에서 연주를 하는 것에도 익숙해졌습니다. 그리고 심지어는 당신이 원하는 누구돠도 쉽고 자연스럽게 대화를 할 수 있게 되었습니다.
+qstr_Though_the_distinction_|당신은 눈 깜짝할 새 진정한 {reg3?여자:남자}가 되었습니다. 그래서인지 당신은 모든 세상이 달라보이기도 했고 그 간극이 갑작스럽게 느껴지기도 했습니다. 당신은 거대한 도시의 대학 학생이 되어 신학, 철학 그리고 약학을 배우는 자신을 발견할 수 있었습니다. 하지만 당신이 배운 것은 강의실의 수업이 전부가 아니었습니다. 가끔 동료들과 함께 골목을 배회하며 와인과 여자, 싸움을 찾기도 했습니다. 당신은 어떻게 턱을 부러트리는지도 터득했으며 어떻게 화가 난 시민이 손에 든 몽둥이를 내려놓고 파괴된 가게에 대한 배상을 받아들이도록 하는지를 체험으로 터득했습니다.
+qstr_Though_the_distinction_f|당신은 눈 깜짝할 새 진정한 {reg3?여자:남자}가 되었습니다. 그래서인지 당신은 모든 세상이 달라보이기도 했고 그 간극이 갑작스럽게 느껴지기도 했습니다. 당신은 안정된 길에 대한 유혹을 뿌리치고, 이 마을에서 저 마을로 물건을 사고 파았습니다. 부유하지는 않았지만 구두쇠 노인에게까지 좋은 가격에 거래를 할 수 있는 협상의 달인이 되었습니다. 당신은 곧, 좋은 장소에서 당신만의 무역 제국을 건설할 것입니다.
+qstr_Though_the_distinction_fe|당신은 눈 깜짝할 새 진정한 {reg3?여자:남자}가 되었습니다. 그래서인지 당신은 모든 세상이 달라보이기도 했고 그 간극이 갑작스럽게 느껴지기도 했습니다. 당신은 기술자이자 건설자로서 마을을 위해 외양간과 집을 짓는 작업에 몰두했습니다. 시간은 당신을 기술과 건설의 달인으로 이끌었고, 당신의 작품은 모두 높은 가격에 책정되었습니다. 그로 인해 당신은 부족하지 않는 삶을 영위할 수 있었습니다. 당신은 기술과 건설의 달인으로써의 명성이 커질수록 더 큰 긍지를 가질 수 있었습니다.
+qstr_Though_the_distinction_fel|당신은 눈 깜짝할 새 진정한 {reg3?여자:남자}가 되었습니다. 그래서인지 당신은 모든 세상이 달라보이기도 했고 그 간극이 갑작스럽게 느껴지기도 했습니다. 당신은 보통 사람으로서 필사적으로 돈을 모았지만 불만스러웠습니다. 당신은 스스로를 위해 포상금을 노리고 숲과 황무지로 향했습니다. 당신은 숫사슴, 멧돼지, 거위들을 사냥하여 귀한 고기를 비밀스럽게 내다 팔았습니다. 당신은 숲 경비대의 코 앞에서 나무를 잘랐고, 그것들은 겨울동안 얼어붙은 집을 따뜻하게 해 주는 장작이 되었습니다. 당신의 사업이 번창하는 것은 당연한 것이었습니다.
+qstr_Happiness_was_within|결혼 날짜가 다가오면서, 당신은 행복을 손에 넣게될 것이라고 믿어 의심치 않았습니다. 시녀와의 결혼은 당신이 원하는 모든 것인 것처럼 느껴졌습니다. 그녀는 결혼에 대한 계획을 세우는데 대부분의 시간을 소비했으며, 당신과 함께할 미래를 생각하며 잔뜩 기대에 부풀어있었습니다. 운명의 날, 간악한 몇몇 귀족들이 그녀에게 위해를 가하기로 했습니다. 소동을 듣고, 당신은 그녀와 함께 그들과 싸웠습니다. 당신이 그들 중 두 명을 해치웠지만, 그들의 수장은 겁쟁이처럼 도망쳤고, 당신의 약혼녀는 육체적으로나 정신적으로 침해당한 뒤였습니다. 그녀에게 일어난 일에 대한 수치심과 공포는 지나치게 컸고, 곧 그녀는 그것을 견디지 못하고 자결했습니다. 당신은 그녀를 보호할 수 없었다는 이유로 분노와 죄책감에 빠져 살았습니다. 이 일에 대한 복수를 맹세하면서, 당신은 복수를 위해 그들을 찾았습니다. 당신이 복수를 준비하고 있다는 소식을 듣고, 그는 당신을 피하기 위해 펜도르 대륙으로 도망쳤습니다. 당신은 당신이 가지고 있던 것들을 팔고, 펜도르로 가는 다음 배에 오르며 다짐했습니다. 그가 자신으로부터 도망칠 수 없을 것이라고... 
+qstr_Happiness_was_within_|결혼 날짜가 다가오면서, 당신은 행복을 손에 넣게될 것이라고 믿어 의심치 않았습니다. 군소 영주와의 결혼은 당신이 원하는 모든 것인 것처럼 느껴졌습니다. 당신이 결혼에 대한 계획을 세우고 있는 사이, 간악한 몇몇 귀족들이 다음 목표를 당신으로 정하고 움직였습니다. 소동을 듣고, 당신은 약혼자는 당신의 도움을 받으며 그들에게 맞섰지만, 근접전에서 압도당하고 결국 죽음을 맞이했습니다. 당신은 분노와 절망 속에서 두 명을 해치웠지만, 그들의 수장은 겁쟁이처럼 도망쳤습니다. 당신은 후에 그가 당신의 약혼자를 해한 것에 대한 처벌을 피하기 위해 붉은 형제 도적단과 함께 펜도르로 떠나고자 한다는 것을 들었습니다. 이에 당신은 복수를 위해 짐을 싸서 펜도르로 향했습니다...
+qstr_For_the_last_several|지난 몇 년 동안 당신은 방랑하는 음유시인의 삶을 살았고, 후원자가 되어 줄 많은 귀족들에게 예술적 갈망을 채워줌으로써 호의를 받아내었습니다. 그러던 중 당신의 예술성을 인정해주고 감탄하며 당신 자체도 진정으로 사랑해주는 연인까지도 만났습니다. 한 숙명의 밤, 당신이 잠시 자리를 비웠을 때, 두건을 한 사람들이 몸값을 노리고 당신의 연인을 납치했습니다. 부유하던 연인의 부모들은 몸값을 지불했지만 다음 날 아침에 연인은 싸늘한 시신으로 발견되었습니다. 피의 복수를 맹세한 당신은 범죄를 저지른 가증스러운 괴물들을 쇠뇌와 검으로 사냥했고 대부분을 척살할 수 있었습니다. 불행하게도 그들의 우두머리는 놓치고 말았습니다. 나중에 당신은 그가 붉은 형제단의 도움을 받아 펜도르로 도피했다는 것을 알게 되었습니다. 당신은 간악한 짐승은 정의에서 벗어날 수 없다고 되뇌이며 펜도르로 가는 배의 표를 예약했습니다...
+qstr_For_the_last_several_|지난 몇 년 동안 당신은 바클레이 대학의 저명한 학자 밑에서 수학했습니다. 그와 함께하며 당신은 그로부터 의학과 예술에 대해 많은 것을 배울 수 있었습니다. 그러던 어느 날, 베일에 쌓인 사람들 몇이 대학을 방문했고 비밀스럽게 당신의 스승과 대면했습니다. 격렬한 논쟁이 오가고 결국 그들은 당신의 스승을 찌르고, 그의 방에 불까지 질렀습니다. 당신이 이를 알아 챘을 때는 이미 베일에 쌓인 사람들은 어두운 밤 속으로 도망간 후였습니다. 불행히도 당신은 부상당한 스승을 이글거리는 불에서 구할 수 없었습니다. 당신은 불에 소실된 스승의 연구를 수습하고, 복원했습니다. 그러던 중 당신은 베일에 쌓인 사람들이 펜도르 출신이며 대학을 방문한 직 후에 바로 돌아갔다는 것을 알게 되었습니다. 그들의 악행에 복수하겠다 다짐한 당신은 펜도르 행 표를 구입했습니다...
+qstr_As_a_merchant_you_kn|당신은 상인인 자신에게는 항상 적들이 있을 것이라는 것을 알고 있었지만, 선까지 넘을 줄은 몰랐습니다. 수년 간 협업과 협상을 통해 상단의 무역로를 개척할 수 있었습니다. 그러던 중 당신에게 큰 기회가 다가왔습니다. 큰 돈을 벌 수 있는 기회를 위해 당신은 만반의 준비를 했고 당신의 상행단은 출발을 했습니다. 결과적으로 말하자면 당신의 상행은 당신의 상단을 노리고 있던 악독한 상인에 의해 좌절되었습니다. 노상강도들을 고용한 상인은 당신의 상품을 파괴하고, 당신을 포함 한 상단의 모든 사람들을 살해하라고 의뢰했습니다. 노상강도들은 의뢰대로 당신의 상품을 먼저 파괴한 후 상단의 사람들을 하나씩 살해했습니다. 그 와중에 노상강도 중 한명이 의뢰인인 상인의 이름을 내뱉어 당신은 이 일을 저지른 사람의 정체를 알게 되었습니다. 다행히 바클레이 순찰대가 우연히 현장을 발견하여 당신을 죽음으로부터 구해냈습니다. 악독한 상인은 자신의 계획은 성공했지만 자신의 정체가 탄로나 현상금이 붙은 것을 알게 되어 펜도르로 도망갔습니다. 당신은 그가 응분의 댓가를 받게 할 것을 다짐하고, 남은 물건들을 모두 처분하고 펜도르 행 티켓을 손에 쥐었습니다...
+qstr_Happiness_was_within_y|결혼 날짜가 다가오면서 당신은 행복이 손 끝에 닿기 직전이라 생각했습니다. 결혼식 준비와 함께, 당신은 성 재건 사업에서 부기술자로 일하고 있었습니다. 성 재건 사업의 주기술자는 자신의 부실시공을 감추기 위해 방화를 저질렀습니다. 이 일은 당신의 명성뿐만 아니라 약혼자의 목숨까지 앗아갔습니다. 주기술자는 붉은 형제단의 도움을 받아 펜도르로 탈출하여 처벌을 피했습니다. 당신은 그가 어디에 숨더라도 반드시 찾아내어 응징할 것을 맹세했습니다. 당신은 펜도르로 가는 배의 갑판 위에 발을 내딛었습니다...
+qstr_You_and_a_group_of_f|당신과 당신의 동료들은 노상강도의 매복에 당했습니다. 치열한 사투 끝에 대부분의 도적을 죽일 수 있었지만 당신의 모든 동료들도 죽어버렸습니다. 노상강도의 우두머리는 붉은 형제단의 도움으로 펜도르로 탈출했고, 당신은 그를 추적하여 동료들의 복수를 이룰 것이라고 맹세를 했습니다. 이 목적을 위하여 당신은 펜도르로 가는 배의 표를 예약했습니다...
+qstr_His_death_was_swift_|아버지의 죽음은 정체불명의 사람에 의해 신속하고 폭력적이게 이루어졌습니다. 당신이 당신의 어머니로부터 받은 서신은 모호하고 혼란스러웠다. 서신에는 아버지를 죽인 적이 어머니 자신뿐만 아니라 당신도 죽이려 찾고 있다고 적혀 있었다. 그녀는 당신에 빨리 바클레이를 떠나 펜도르로 향하라고 했습니다. 오직 펜도르로 가는 것 만이 악한의 손에서 벗어날 수 있는 길이라며 말입니다. 어머니는 자신 또한 안전한 곳에 숨을 것이라 했고 걱정은 하지 말라고 했습니다. 그녀는 당신 아버지의 방패 또한 전해주었는데, 시간이 흐르면 방패에 세겨진 문장에 담긴 당신의 권리를 주장해야 할 것이라는 첨언도 함께였습니다. 그렇게 당신은 무거운 마음으로 펜도르 행 표를 끊었습니다...
+qstr_His_death_was_swift_a|아버지의 죽음은 정체불명의 사람에 의해 신속하고 폭력적이게 이루어졌습니다. 당신이 당신의 어머니로부터 받은 서신은 모호하고 혼란스러웠다. 서신에는 아버지를 죽인 적이 어머니 자신뿐만 아니라 당신도 죽이려 찾고 있다고 적혀 있었다. 그녀는 당신에 빨리 바클레이를 떠나 펜도르로 향하라고 했습니다. 오직 펜도르로 가는 것 만이 악한의 손에서 벗어날 수 있는 길이라며 말입니다. 어머니는 자신 또한 안전한 곳에 숨을 것이라 했고 걱정은 하지 말라고 했습니다. 그 서신과 함께 꼼꼼하게 포장된 소포 안에는 1000 디나르의 약속 어음, 그리고 아버지가 일할 때 즐겨 입었던 오래된 자켓도 들어있었습니다. 그렇게 당신은 무거운 마음으로 펜도르 행 표를 끊었습니다...
+qstr_His_death_was_swift_an|아버지의 죽음은 정체불명의 사람에 의해 신속하고 폭력적이게 이루어졌습니다. 당신이 당신의 어머니로부터 받은 서신은 모호하고 혼란스러웠다. 서신에는 아버지를 죽인 적이 어머니 자신뿐만 아니라 당신도 죽이려 찾고 있다고 적혀 있었다. 그녀는 당신에 빨리 바클레이를 떠나 펜도르로 향하라고 했습니다. 오직 펜도르로 가는 것 만이 악한의 손에서 벗어날 수 있는 길이라며 말입니다. 어머니는 자신 또한 안전한 곳에 숨을 것이라 했고 걱정은 하지 말라고 했습니다. 또한 그녀는 당신의 명예와 삶을 지켜줄 수 있는 가문의 가보, 아버지의 검도 함께 보내주었습니다. 그렇게 당신은 무거운 마음으로 펜도르 행 표를 끊었습니다...
+qstr_His_death_was_swift_and|아버지의 죽음은 정체불명의 사람에 의해 신속하고 폭력적이게 이루어졌습니다. 당신이 당신의 어머니로부터 받은 서신은 모호하고 혼란스러웠다. 서신에는 아버지를 죽인 적이 어머니 자신뿐만 아니라 당신도 죽이려 찾고 있다고 적혀 있었다. 그녀는 당신에 빨리 바클레이를 떠나 펜도르로 향하라고 했습니다. 오직 펜도르로 가는 것 만이 악한의 손에서 벗어날 수 있는 길이라며 말입니다. 어머니는 자신 또한 안전한 곳에 숨을 것이라 했고 걱정은 하지 말라고 했습니다. 또한 그녀는 당신의 명예와 삶을 지켜줄 수 있는 가문의 가보, 아버지의 갑옷도 함께 보내주었습니다. 그렇게 당신은 무거운 마음으로 펜도르 행 표를 끊었습니다...
+qstr_His_death_was_swift_and_|아버지의 죽음은 정체불명의 사람에 의해 신속하고 폭력적이게 이루어졌습니다. 당신이 당신의 어머니로부터 받은 서신은 모호하고 혼란스러웠다. 서신에는 아버지를 죽인 적이 어머니 자신뿐만 아니라 당신도 죽이려 찾고 있다고 적혀 있었다. 그녀는 당신에 빨리 바클레이를 떠나 펜도르로 향하라고 했습니다. 오직 펜도르로 가는 것 만이 악한의 손에서 벗어날 수 있는 길이라며 말입니다. 어머니는 자신 또한 안전한 곳에 숨을 것이라 했고 걱정은 하지 말라고 했습니다. 또한 그녀는 당신의 명예와 삶을 지켜줄 수 있는 가문의 가보, 아버지의 활도 함께 보내주었습니다. 그렇게 당신은 무거운 마음으로 펜도르 행 표를 끊었습니다...
+qstr_His_death_was_unexpe|아버지의 죽음은 정체불명의 사람에 의해 예기치 않고 폭력적이게 이루어졌습니다. 아버지의 동료들 중 한 명으로부터 받은 서신은 애매모호하고 혼란스러웠습니다. 서신에는 아버지뿐만 아니라 당신도 죽이려 찾고 있는 정체불명의 적이 있다는 경고와 함께 과거에 대한 진실이 적혀 있었습니다. 서신에 의하면 당신의 아버지는 사실 당신의 친부가 아니었습니다. 그는 당신이 젖먹이 일 때부터 오랜 기간동안 당신을 숨겨왔습니다. 그는 당신의 친모와 친부를 살해하기 위한 청부 살인업자였습니다. 그는 의뢰에는 성공했지만 차마 젖먹이였던 당신을 죽이지는 못했습니다. 그는 당신을 살리기로 결심했고, 의뢰인으로부터 당아버지의 죽음은 정체불명의 사람에 의해 예기치 않고 폭력적이게 이루어졌습니다. 아버지의 동료들 중 한 명으로부터 받은 서신은 애매모호하고 혼란스러웠습니다. 서신에는 아버지뿐만 아니라 당신도 죽이려 찾고 있는 정체불명의 적이 있다는 경고와 함께 과거에 대한 진실이 적혀 있었습니다. 서신에 의하면 당신의 아버지는 사실 당신의 친부가 아니었습니다. 그는 당신이 젖먹이 일 때부터 오랜 기간동안 당신을 숨겨왔습니다. 그는 당신의 친모와 친부를 살해하기 위한 청부 살인업자였습니다. 그는 의뢰에는 성공했지만 차마 젖먹이였던 당신을 죽이지는 못했습니다. 그는 당신을 살리기로 결심했고, 의뢰인으로부터 당신을 숨겨주었습니다. 그는 항상 자신의 지난 행동에 죄책감을 느꼈고, 최선을 다해 당신을 키웠습니다. 그렇게 당신은 살아남을 수 있었습니다. 최근에 그의 과거 의뢰인이 당신을 숨겼다는 것을 알게 되었습니다. 당신의 아버지는 그가 신뢰하는 친구에게 자신에게 무슨 일이 생기면 서신을 당신에게 보내달라고 부탁했습니다. 칼과 칼날, 과거에 대한 후회, 그리고 경고를 말입니다. "너의 삶이 위험에 처하는 즉시 바클레이를 떠나 펜도르로 향해라, 펜도르로 가면 안전한 피난처를 찾을 수 있을 것이다."라고 남긴 그의 말을 듣기로 결심하며 펜도르 행 표를 끊었습니다...
+qstr_His_death_was_unexpec|아버지의 죽음은 갑작스럽고 잔혹하게 정체불명의 사람에 의해 이루어졌습니다. 나중에 어머니로부터 받은 서신은 막연하고 혼란스러운 내용이었습니다. 그 서신에는 사실 당신은 그들의 자녀가 아니고, 그의 친부모가 따로 있다는 사실이 적혀 있었습니다. 당신의 친부모는 목숨에 위협을 받고 있었고, 당신의 양부모에게 당신을 맡긴 뒤 암살자들에게 살해당했습니다. 친부모의 죽음을 목도한 양부모는 언젠가 암살자들이 당신과 자신들을 죽일거라는 두려움에 휩쌓였습니다. 그 날, 당신의 양아버지는 죽었지만 양어머니는 운 좋게도 살아남아 암살자들이 당신을 다음 목표로 정했음을 알 수 있었습니다. 그녀는 자신의 안전한 곳에 숨어 있다는 것을 재차 강조하고, 당신이 위험에 처해있다며 서둘러 바클레이를 떠나라고 했습니다. 그녀는 아버지의 의학서적과 함께, 입양 사실을 숨겼던 것을 용서해달라는 말도 함께 서신에 적었습니다. 따라서 당신은 정체불명의 적들을 피하기 위해 펜도르 행 표를 끊었습니다...
+qstr_A_series_of_unexpect|절친한 친구의 예기치 않은 죽음, 약혼자와의 파기, 애마에서의 낙마 등 불행한 사건들이 연속적으로 일어나자 당신은 바클레이를 떠나 새로운 곳으로 향해야 한다는 운명을 느꼈습니다. 완전히 새로운 곳 펜도르의 땅에서...
+qstr_A_series_of_unexpecte|절친한 친구의 예기치 않은 죽음, 당신의 명예를 지키려 한 약혼자가 결투에서 패배하는 등 불행한 사건들이 연속적으로 일어나자 당신은 바클레이를 떠나 새로운 곳으로 향해야 한다는 운명을 느꼈습니다. 완전히 새로운 곳 펜도르의 땅에서...
+qstr_A_series_of_unexpected|당신을 향한 악의적인 무고 후 갑작스럽게 공연은 취소되고 후원자의 지원이 끊키는 등 바클레이에서의 당신의 모든 명성은 나락으로 떨어졌습니다. 그러나 당신은 고위층의 마음을 효과적으로 여는 기술을 가지고 있습니다. 새로운 땅, 새로운 후원자, 새로운 모험을 기대하며 당신은 펜도르 행 표를 구입했습니다...
+qstr_An_unexpected_death_|환자의 갑작스러운 죽음은 당신의 평판을 엉망진창으로 만들었습니다. 그 기회를 놓치지 않았던 다른 의사들은 당신의 치료 방법에 대해 모함을 했고, 이는 사람들의 당신에 대한 신뢰를 떨어지게 만들었습니다. 낙담한 당신은 새로운 땅에서 새롭게 시작하기로 마음을 먹고 일부 장비를 팔아 펜도르 행 표를 구입했습니다...
+qstr_Unusual_rainfall_des|어느 날 폭우가 쏟아졌고, 홍수가 생겨 당신의 창고와 그 안에 있던 당신의 상품들은 모두 파손되었습니다. 다른 상인들은 그 기회를 놓치지 않았고, 당신은 수년간 노력하여 얻었던 모든 거래처를 잃고 파산했습니다. 파산한 당신은 새로운 땅에서 새로운 기회가 있을거라 기대하며 펜도르 행 배를 기다렸습니다...
+qstr_A_glut_of_experience|바클레이에는 솜씨 좋은 건축가가 넘쳐났고 일거리는 줄어들었습니다. 일거리가 줄어들어 생활이 곤란하자 당신은 시선을 틀어 새로운 땅을 바라보았습니다. 당신은 일신의 가산을 정리하고 펜도르 행 표를 구입했습다...
+qstr_After_you_captured_a|당신은 경비대에게 포상금을 받기 위해 위험한 범죄자를 포획했지만 그 범죄자는 용케 달아났습니다. 그를 다시 포획했지만 범죄자는 이미 한 가족을 살해한 후였습니다. 당신은 그 죽음에 자신의 책임이 있다고 생각했고, 바클레이의 많은 사람들도 악당을 놓친 당신을 비난했습니다. 당신의 명성은 나락으로 떨어졌고, 몇 주 후 죄의식에서 벗어난 당신은 새로운 땅 펜도르에서 새로운 인생을 살기로 결정했습니다...
+qstr_The_life_of_a_squire|종자의 삶은 순탄치 않았습니다. 당신의 주군은 바클레이의 공작 중 가장 강력한 힘을 가지고 있었고, 또한 그만큼 강력한 적들이 있었습니다. 공작의 적들이 정치적 술수으로 공작을 반역자로 만들었을 때, 많은 공작의 가신들이 형장의 이슬로 사라졌고 당신을 포함한 일부는 재빠르게 도피했습니다. 당신은 바다 건너편에 있는 땅을 바라보며 자신의 미래를 개척할 것이라 다짐하며 다가오는 펜도르 행 표를 구입했습니다...
+qstr_The_life_of_a_lady_i|시녀의 삶은 순탄치 않았습니다. 당신의 주인은 바클레이의 공작 중 가장 강력한 힘을 가지고 있었고, 또한 그만큼 강력한 적들이 있었습니다. 공작의 적들이 정치적 술수으로 공작을 반역자로 만들었을 때, 많은 공작의 가신들이 형장의 이슬로 사라졌고 당신을 포함한 일부는 재빠르게 도피했습니다. 종자로 위장하기로 한 당신은 건틀렛과 갑옷을 구입하여 스스로 그럴 듯 하게 만들었고, 그 상태로 펜도르 행 배에 올랐습니다...
+qstr_The_life_of_a_bard_i|귀족에게 소속된 바드의 삶은 보잘 것 없었습니다. 바클레이 권력의 중심에 있던 공작은 당신이 이끄는 무리와 당신의 산문체를 좋아하는 후원자였습니다. 불행히도 공작에게는 강력한 적들이 있었고, 그 적들은 공작을 정치적으로 몰아세워 결국에는 반역자의 멍에를 쓰게 만들었습니다. 그 때 공작의 수 많은 가신들은 형장의 이슬로 사라졌고, 당신을 포함한 일부는 재빠르게 도피했습니다. 당신은 급하게 펜도르 행 표를 구입하여 선착장에서 배를 기다렸습니다...
+qstr_The_life_of_a_healer|치료사의 삶은 순탄치 않았습니다. 고위 귀족의 진료를 보던 중 환자가 갑작스럽게 사망했습니다. 고위 귀족의 아들은 그 죽음에 당신의 책임이 있다고 생각했습니다. 고위 귀족의 아들은 죽을 때까지 암살자를 보내오는 '칸 다바시'를 당신에게 선언했습니다. 이대로 있다가는 목숨이 달아날 것이라 생각했던 당신은 급하게 바클레이를 떠나 펜도르 향했습니다...
+qstr_The_life_of_a_mercha|상인의 삶은 항상 시험을 동반합니다. 붉은 형제단의 지도자는 성공한 당신의 상권을 탐내기 시작했습니다. 그는 당신을 몰아내기 위해 헛소문들을 퍼트렸습니다. 또한 당신의 직원을 매수하여 자금을 빼돌리고, 청부업자에게 의뢰하여 당신의 경호병을 살해하는 등의 일이 벌어졌습니다. 당신은 더 이상 바클레이 있다가는 자신의 목숨도 위험하다고 생각해 남은 재산을 모두 처분한 후 펜도르 행 배 위에 올랐습니다...
+qstr_The_life_of_an_engin|기술자로서 당신의 삶은 꽤 괜찮았지만 지역을 장악하고 있던 붉은 형제단의 지도자가 자신의 계획에 걸림돌인 당신의 머리에 현상금을 걸었을 때부터, 당신의 인생은 급속도로 불행해졌습니다. 그나마 다행스럽게도 당신의 심복이 재빠르게 그 사실을 알려주어 몸을 피할 수 있었습니다. 하지만 시간은 없었고, 되도록 빨리 바클레이를 떠나 펜도르로 향해야 했습니다. 당신은 펜도르 행 표를 손에 쥐고 갑판 위에 올랐습니다...
+qstr_After_capturing_a_da|당신은 포상금을 위해 위험한 범죄자를 생포했습니다. 그러던 중 범죄자는 탈출을 획책했고 그 와중에 그는 당신의 칼날에 목숨을 잃었습니다. 불행히도 그 범죄자는 붉은 형제단의 일원이었습니다. 보복으로 유명한 붉은 형제단은 당신의 뒤를 쫓기 시작했고 당신은 그들로부터 도망쳤습니다. 결국 바클레이에서 더 있다가는 살해당할 뿐이라는 것을 안 당신은 펜도르로 향하기로 결심하고 펜도르로 가는 배의 표를 구입했습니다...
+qstr_The_letter_reads____|편지에는^'내 {s14}, 어엿한 {s16}가 된 네가 자랑스럽구나. 내가 편지를 보낸 이유는 네가 태어났을 때의 이야기를 하기 위해서다. 너의 어머니는 고귀한 혈통의 여인이다. 왕의 피가 흐르고 있지. 우리가 펜도르로 온 이유는 펜도르의 진정한 혈통을 끊으려는 어둡고 사악한 세력을 피하기 위해서였다. 나의 {s14}아, 그 혈통을 끊으려는 자들이 바클레이에 나타났다. 너를 죽이면 펜도르의 혈통이 끊어질 것이라 생각하는 자들이지. 물론 그 사실이 맞기도 하고 말이다. 나와 네 어머니는 아주 안전한 곳에 숨어있지만 네가 걱정이구나. 그들에게 발각이라도 되면 목숨을 잃을 것이다. 서둘러 바클레이를 떠나 펜도르로 가거라. 물론 그 곳에도 위험은 있겠지만 어쩌면 답을 찾을 수도 있겠지. 운이 좋다면 네 자녀들은 우리가 잃어 버린 것을 되찾을 수도 있을 것이다. 어쨋든 잘 지내거라, 내 {s14}. ps.항상 몸 건강 하거라 - 너의 아버지가'^편지를 다 읽자마자 무거운 한숨과 함께 당장 해야할 것을 생각한 당신은 펜도르로 가기 위해 당신의 배 돛을 펼쳤습니다...
+qstr_The_letter_reads____M|편지에는^'내 {s14}, 어엿한 {s16}가 된 네가 자랑스럽구나. 내가 편지를 보낸 이유는 네가 태어났을 때의 이야기를 하기 위해서다. 너의 어머니는 고귀한 혈통의 여인이다. 왕의 피가 흐르고 있지. 우리가 펜도르로 온 이유는 펜도르의 진정한 혈통을 끊으려는 어둡고 사악한 세력을 피하기 위해서였다. 나의 {s14}아, 그 혈통을 끊으려는 자들이 바클레이에 나타났다. 너를 죽이면 펜도르의 혈통이 끊어질 것이라 생각하는 자들이지. 물론 그 사실이 맞기도 하고 말이다. 나와 네 어머니는 아주 안전한 곳에 숨어있지만 네가 걱정이구나. 그들에게 발각이라도 되면 목숨을 잃을 것이다. 서둘러 바클레이를 떠나 펜도르로 가거라. 물론 그 곳에도 위험은 있겠지만 어쩌면 답을 찾을 수도 있겠지. 운이 좋다면 네 자녀들은 우리가 잃어 버린 것을 되찾을 수도 있을 것이다. 어쨋든 잘 지내거라, 내 {s14}. ps.항상 몸 건강 하거라 - 너의 아버지가'^편지를 다 읽자마자 무거운 한숨과 함께 당장 해야할 것을 생각한 당신은 펜도르로 가기 위해 당신의 배 돛을 펼쳤습니다...
+qstr_The_letter_reads____My|편지에는^'내 {s14}, 어엿한 {s16}가 된 네가 자랑스럽구나. 내가 편지를 보낸 이유는 네가 태어났을 때의 이야기를 하기 위해서다. 너의 어머니는 고귀한 혈통의 여인이다. 왕의 피가 흐르고 있지. 우리가 펜도르로 온 이유는 펜도르의 진정한 혈통을 끊으려는 어둡고 사악한 세력을 피하기 위해서였다. 나의 {s14}아, 그 혈통을 끊으려는 자들이 바클레이에 나타났다. 너를 죽이면 펜도르의 혈통이 끊어질 것이라 생각하는 자들이지. 물론 그 사실이 맞기도 하고 말이다. 나와 네 어머니는 아주 안전한 곳에 숨어있지만 네가 걱정이구나. 그들에게 발각이라도 되면 목숨을 잃을 것이다. 서둘러 바클레이를 떠나 펜도르로 가거라. 물론 그 곳에도 위험은 있겠지만 어쩌면 답을 찾을 수도 있겠지. 운이 좋다면 네 자녀들은 우리가 잃어 버린 것을 되찾을 수도 있을 것이다. 어쨋든 잘 지내거라, 내 {s14}. ps.항상 몸 건강 하거라 - 너의 아버지가'^편지를 다 읽자마자 무거운 한숨과 함께 당장 해야할 것을 생각한 당신은 펜도르로 가기 위해 당신의 배 돛을 펼쳤습니다...
+qstr_The_letter_reads____My_|편지에는^'내 {s14}, 어엿한 {s16}가 된 네가 자랑스럽다. 내가 펜을 든 이유는 너의 신변에 문제가 생겼고, 그 문제가 생긴 이유를 말해주기 위해서다. 너의 친모는 펜도르의 고귀한 혈통이었고, 너 역시 그 피를 이어받았단다. 나는 그 혈통을 이 세상에서 지우기 위해 고용된 자였지. 수 년간의 수색으로 겨우 너의 친모를 찾았을 때, 이미 그녀는 죽기 일보 직전이었다. 살리기에는 늦은 상태였고 결국 이 세상을 떠났지. 나는 죽은 그녀를 내가 죽인 것처럼 꾸미고 보상을 받았다. 그 길로 너를 데리고 떠났지. 용서를 구하지는 않으마, 너의 인생을 망치는데 일조한 것은 사실이니까. 어쨋든 나는 바클레이에서 우리를 찾는 사람들과 조우했고 상처를 입었으며 지금 치료하는 중이다. 아마 그들은 우리 둘이 죽을 때가지 멈추지 않겠지. 이 것으로 네 인생에서 내 역할은 끝났다. 나를 찾지 말거라. 내 마지막 충고는 바클레이룰 최대한 빨리 떠나 펜도르로 향하는 것이 좋을게다. ps.항상 몸 건강 하거라.'^편지를 모두 읽은 당신은 아버지의 충고대로 펜도르로 떠나기 위한 준비를 마치고 펜도르로 향했다...
+qstr_The_letter_reads____My_{|편지에는^'내 {s14}, 어엿한 {s16}가 된 네가 자랑스럽다. 내가 펜을 든 이유는 너의 신변에 문제가 생겼고, 그 문제가 생긴 이유를 말해주기 위해서다. 알다시피 네 어머니와 나는 너의 친부모가 아니다. 어느 날, 한 여인이 젖먹이를 데리고 우리를 찾아왔단다. 그녀는 다급해보였고 너를 우리에게 맞기며 자신은 펜도르 왕의 혈통을 지닌 자고, 자신의 아이는 그 혈통을 이은 유일한 후계자라고 했단다. 그렇게 그녀는 떠났고 다음 날 길에서 칼에 찔려 죽은 여인의 시체를 발견했단다. 그녀였지. 우리는 그녀를 교회에 묻고 그 젖먹이를 자식으로 키웠지. 그 젖먹이가 너란다. 지금에야 진실을 말하는 것을 용서하려무나. 모두 너를 보호하기 위해서였다. 우리는 얼마 전 네 친모의 목숨을 앗아간 사람들이 돌아왔다는 사실을 알게 되었다. 우리는 그들과 조우했고, 두건을 쓴 그들은 우리에게 너에 대해 묻더구나. 아마도 너를 해하려 할 생각이겠지. 우리는 안전한 곳에 숨었으니 걱정하지 말고, 너도 빨리 피하려무나. 내 생각에는 더 이상 바클레이에 머무는 것은 위험해 보인단다. 서둘러 펜도르의 땅으로 도망치거라. 항상 몸 건강히 하고. - 너를 항상 사랑하는 너의 아버지가'^당신은 갑작스러운 진실과 위험을 미뤄두고, 아버지의 충고대로 펜도르로 갈 준비를 재빠르게 마친 후 펜도르로 떠났습니다...
+qstr_Back_to_the_beginnin|처음으로 돌아가기...
+qstr_View_next_segment...|다음 구간을 보다...
+qstr_^No_food:___{reg7}|^식량이 없음 : -{reg7}
+qstr_^Wage_debt:___{reg6}|^급여를 빚짐 : -{reg6}
+qstr_{s2}^{s4}:_Econ:_{re|{s2}^{s4}(경제력 : {reg1} / 번영도 : {reg2}-{s50})
+qstr_Currently_no_locatio|현재 어떤 영지도 소유하고 있지 않습니다.
+qstr_The_current_fief_inc|현재 소유한 영지로부터의 수입 : ^{s2}
+qstr_{s2}^{s4}:_{s10}_in_|{s2}^{s4} : {s10} {reg8}{reg10?일:시간}.
+qstr_{s2}^{s4}:_Building_|{s2}^{s4} : {s10} 건설 중, {reg8}{reg10?일:시간} 남음.
+qstr_{s2}^{s4}:_No_constr|{s2}^{s4} : 건설 내용이 없습니다.
+qstr_Current_construction|현재 소유한 영지의 건설 상황 : ^{s2}
+qstr_Long_Forgotten|오래전에 잊혀진 왕국이다.
+qstr_Defending_the_King_s|겨우 국왕의 체면을 차리고 있다.
+qstr_The_Dragon_s_Fire_Gr|용의 불길이 차가워졌다.
+qstr_The_Windriders_bow_t|바람 기수들이 돌풍을 만났다.
+qstr_The_Shieldwall_is_Pi|방패의 벽이 부서졌다.
+qstr_The_Emperor_s_Will_i|황제의 의지가 약해졌다.
+qstr_A_Fledgeling_Hope_fo|펜도르를 위한 희망의 날개짓
+qstr_Very_Weak|매우 약한
+qstr_Resisting_in_the_Kin|왕의 이름 아래 저항하고 있다.
+qstr_The_Dragon_s_Wings_a|용의 날개가 꺾였다.
+qstr_The_Windriders_fear_|바람 기수들이 바람을 두려워하고 있다.
+qstr_The_Shieldwall_Buckl|방패의 벽이 찌그러졌다.
+qstr_The_Emperor_s_Will_W|황제의 의지가 흔들리고 있다.
+qstr_Promising_Madigan_s_|조짐이 좋은 마디간의 꿈
+qstr_Weak|약한
+qstr_Strong_under_the_Kin|왕의 깃발 아래 강하게 뭉쳐있다.
+qstr_The_Dragon_is_Defian|북쪽에서 용이 포효하고 있다.
+qstr_The_Windriders_are_F|바람 기수들이 맹렬하게 단결하고 있다.
+qstr_The_Shieldwall_Holds|방패의 벽이 버티고 있다.
+qstr_The_Emperor_s_Will_is|황제의 의지가 곧 법이다.
+qstr_Fulfilling_the_Proph|펜도르의 예언을 달성했다.
+qstr_{s6}^The_{s1}:_{s2}|{s6}^{s1} : {s2}
+qstr_Training_your_Order_|당신의 기사단을 훈련시킨다
+qstr_On_loan|On loan,
+qstr_Appoint_next_marshal|다음 총사령관을 지목
+qstr_Award_{s12}_as_fief|{s12}를 영지로 수여
+qstr_No_one|아무도 없습니다.
+qstr_Selected_faction_is:|선택된 세력 : {s10}^^{s9}
+qstr_You_are_currently_re|현재 읽고 있는 책 : {s8}
+qstr_You_are_not_reading_|현재 읽고 있는 책 : 없음
+qstr__{s9}_^^_You_have_th| {s9}^^당신의 정당한 혈통에 따라 그리폰의 기사들을 훈련시킬 수 있습니다.
+qstr_none|없음
+qstr_{s5}_and_{s6}|{s5} 그리고 {s6}
+qstr_Your_estates_are:_{s|당신의 영지는 : {s8}.^{s9}
+qstr_Honorary_Grandmaster|명예로운 기사단장
+qstr_{s8}__{reg1}_|{s8} ({reg1})
+qstr_You_are_a_{s8}_of_th|당신은 {s12} 기사단의 {s8}입니다.^{s9}
+qstr_You_are_the_sovereig|당신은 {s8}의 강력한 {reg63?왕:여왕}입니다. , 당신의 문화권은 {s7}입니다.^{s9} ^ 당신은 {reg1}명의 귀족들을 휘하에 두고 있습니다.
+qstr_You_are_a_lord_of_th|{s8}의 군주입니다.^{s9}^{reg1}명의 귀족을 휘하에 두고 있습니다.
+qstr_You_are_a_Rogue_Lead|당신은 도적들의 대장입니다 {s8}.^{s9}
+qstr_You_are_a_Mercenary_|당신은 {s8}에 고용된 용병부대의 대장입니다.^{s9}
+qstr_You_are_a_Mercenary_C|당신은 용병부대의 대장입니다. ^ {s9}
+qstr_{s9}_^_You_won_{reg3|{s9} ^ {reg33} 놀도르 토너먼트에서 우승했습니다.
+qstr_{s9}_^_You_won_{reg33|{s9} ^ {reg33} 놀도르 토너먼트에서 우승했습니다.
+qstr_Current_party_size_l|최대 모집가능 병력 수 : {reg5}^^^[부대 변동사항]^^기본 크기 : +10^리더십 : {s2}{reg1}^매력 : {s3}{reg2}^명성 : {s4}{reg3}^^전체 : {reg5}
+qstr_{s2}^The_{s4}:_{reg1|{s2}^{s4} : {reg1} ({s33})
+qstr_{s2}^|{s2}^
+qstr_{s2}^{s4}:_{reg1}__{|{s2}^{s4} : {reg1} ({s33})
+qstr_Your_relations_with_|각 세력과의 관계:^{s2}
+qstr_Your_relations_with_t| 각 기사단과의 관계:^{s2}
+qstr_6_new_units_joined_t|6명의 새 병사들이 당신의 파티에 합류합니다.
+qstr_1_million_xp_receive|100만 경험치를 받았습니다.
+qstr_Companion_complaints|Companion complaints are disabled
+qstr_Companion_complaints_|Companion complaints are enabled
+qstr_Cheat_mode_has_been_|Cheat mode has been disabled
+qstr_Player_renown_is_inc|플레이어의 명성이 100 증가합니다. 
+qstr_Player_honor_is_incr|플레이어의 명예가 1 증가했고, 총 {reg7}이 되었습니다.
+qstr_GM_quest_ready:_talk|GM 퀘스트 준비: talk to the {s12} for a surprise.
+qstr_Report_back_to_the_O|Report back to the Order with your findings about Cult activity near {s8}.
+qstr_Random_order_of_the_|Random order of the {s12} created in Kennet Castle. 100 {s13}s recruited.
+qstr_Random_order_of_the_{|Random order of the {s12} created in {s14}. 5 {s13}s recruited.
+qstr_Noldor_castle_access|Noldor castle accessible
+qstr_Noldor_relation_set_|놀도르와의 관계가 30이 되었습니다.
+qstr_OFF|꺼짐
+qstr_Standard|표준
+qstr_Special|특별한
+qstr_Economy|경제
+qstr_Politics|정치
+qstr_ERROR|ERROR
+qstr_Your_{s12}_have_acqu|Your {s12} have acquired new {s11}!
+qstr_10_Order_Knights_and|10 Order Knights and 10 Order Squires joined the party
+qstr_{s4}:_{reg0}|{s4} : {reg0}
+qstr_##_{s9}_average_stre|## {s9} average strength: {reg1}
+qstr_####_Overall_average|#### Overall average strength: {reg1}
+qstr_{s4}:_strength_{reg0|{s4}: strength {reg0}
+qstr_Limits_set_to_0_0!|Limits set to 0-0!
+qstr_Limits_set_to_50_50!|Limits set to 50-50!
+qstr_Limits_set_to_100_10|Limits set to 100-100!
+qstr_The_Hundred|The Hundred
+qstr_The_Hundred_are_upon|The Hundred are upon you!
+qstr_You_have_now_made_en|You have now made enemies with all lords and all orders... visit some taverns now... 
+qstr_Daughter_waiting_to_|Daughter waiting to be rescued, talk to a village elder.
+qstr_Peasants_waiting_to_|Peasants waiting to be escorted, talk to a village elder.
+qstr_Bounties_await_talk_|Bounties await, talk to a friendly Order guard.
+qstr_Prices_reset.|Prices reset.
+qstr_Grain_price_in_{s4}:|Grain price in {s4}: {reg1} U {reg2} {reg3} {reg4} A {reg5} {reg6}.
+qstr_Bread_price_in_{s4}:|Bread price in {s4}: {reg1} U {reg2} {reg3} {reg4} A {reg5} {reg6}.
+qstr_Villages_per_town:_m|Villages per town: market (bound)^
+qstr_{s2}^{s5}:_{reg1}__{|{s2}^{s5}: {reg1} ({reg2})
+qstr_{s2}^^Total_villages|{s2}^^Total villages: {reg1} (Bound: {reg2})
+qstr_{s2}^{s10}:_{reg6}__|{s2}^{s10}: {reg6} (Prod:{reg3}/{reg4} Price:{reg5})
+qstr_{s5}_{s3}|{s5} {s3}
+qstr_Report_for_{s4}:^Eco|Report for {s4}:^Economy: {reg1}^Prosperity: {reg2}[{reg4}] {s50}^Hardship: {reg3}^Market villages: {s3}^{s2}
+qstr_{s2}^{s4}:_E:_{reg1}|{s2}^{s4}: E: {reg1} P: {reg2}[{reg4}] H: {reg3}
+qstr_Average_prices_in_Pe|Average prices in Pendor [Prod/Cons]^
+qstr_{s2}^{s10}:_{reg6}_[|{s2}^{s10}: {reg6} [{reg12}/{reg13}]
+qstr_Noldor_relations_set|Noldor relations set to 30.
+qstr_Noldor_relations_set_|Noldor relations set to 15.
+qstr_Noldor_relations_set_t|Noldor relations set to -10.
+qstr_Noldor_castle_accessi|Noldor castle accessible.
+qstr_Noldor_quest_reset.|Noldor quest reset.
+qstr_Noldor_tournament_st|Noldor tournament started.
+qstr_One_week_s_worth_of_|One week's worth of new inventory added
+qstr_You_have_been_presen|You have been presented with an exquisite {s21} from the Noldor Council.
+qstr_{s8}|{s8}
+qstr_Generated_quest_#{re|Generated quest #{reg0} in {s4} - notification pending
+qstr_All_achievements_giv|All achievements given. Check report.
+qstr_All_achievements_cle|All achievements cleared.
+qstr_Notifications_queued|Notifications queued. Should trigger anytime now.
+qstr_10_Dragon_troops_joi|10 Dragon troops joined the party
+qstr_10_Squires_of_the_Li|10 Squires of the Lion joined the party
+qstr_10_Empire_Mortals_jo|10 Empire Mortals joined the party
+qstr_10_D_Shar_Dustriders|10 D'Shar Dustriders joined the party
+qstr_10_Lady_Einherjar_jo|10 Lady Einherjar joined the party
+qstr_10_Knights_of_the_Gr|10 Knights of the Griffon joined the party
+qstr_10_Knights_and_Talon|10 Knights and Talons of the Falcon joined the party
+qstr_10_Ravenspear_knight|10 Ravenspear knights joined the party
+qstr_10_Radiant_Cross_Kni|10 Radiant Cross Knights joined the party
+qstr_10_Rangers_of_the_Cl|10 Rangers of the Clarion Call joined the party
+qstr_10_Knights_of_the_Da|10 Knights of the Dawn joined the party
+qstr_10_Knights_of_the_Eb|10 Knights of the Ebony Gauntlet joined the party
+qstr_10_Shadow_Legion_Mar|10 Shadow Legion Marinae joined the party
+qstr_10_Silvermist_Ranger|10 Silvermist Rangers joined the party
+qstr_10_Knights_of_Eventi|10 Knights of Eventide joined the party
+qstr_Added_Ghost_Lady|Added Ghost Lady
+qstr_100_Heroine_Adventur|100 Heroine Adventurers joined the party
+qstr_100_Hero_Adventurers|100 Hero Adventurers joined the party
+qstr_100_Jatu_Mercenary_R|100 Jatu Mercenary Riders joined the party
+qstr_100_Marleons_Heavy_C|100 Marleons Heavy Cavalry joined the party
+qstr_100_Ravenstern_Highl|100 Ravenstern Highlanders joined the party
+qstr_100_D_Shar_Djaha_Arc|100 D'Shar Djaha Archers joined the party
+qstr_20_Fierdsvain_Berser|20 Fierdsvain Berserker joined the party
+qstr_100_Noldor_Twilight_|100 Noldor Twilight Knights joined the party
+qstr_100_Noldor_Maiden_Ra|100 Noldor Maiden Rangers joined the party
+qstr_100_Noldor_Rangers_j|100 Noldor Rangers joined the party
+qstr_100_K_Juda_s_Kajahar|100 K'Juda's Kajahars joined the party
+qstr_100_Doomguides_joine|100 Doomguides joined the party
+qstr_100_Omen_Seekers_joi|100 Omen Seekers joined the party
+qstr_A_specialty_troop_ha|A specialty troop has joined the party
+qstr_100_Dread_Legion_Inf|100 Dread Legion Infantry joined the party
+qstr_100_Anaconda_Knights|100 Anaconda Knights joined the party
+qstr_100_Fallen_Revenants|100 Fallen Revenants joined the party
+qstr_100_Demonic_Magni_jo|100 Demonic Magni joined the party
+qstr_100_Heretic_Invokers|100 Heretic Invokers joined the party
+qstr_A_Singalian_company_|A Singalian company has joined your party
+qstr_A_Veccavian_company_|A Veccavian company has joined your party
+qstr_A_Melitine_company_h|A Melitine company has joined your party
+qstr_A_Sarleon_Company_ha|A Sarleon Company has joined the party
+qstr_A_Ravenstern_Company|A Ravenstern Company joined the party
+qstr_A_D_Shar_Company_joi|A D'Shar Company joined the party
+qstr_A_Fierdsvain_Company|A Fierdsvain Company joined the party
+qstr_An_Empire_Company_jo|An Empire Company joined the party
+qstr_A_Pendor_Company_has|A Pendor Company has joined the party
+qstr_Patrolling_Kick_Ass_|Patrolling Kick-Ass Knights
+qstr_Eventide_Knight_Patr|Eventide Knight Patrol spawned
+qstr_Dawn_Knight_Patrol_s|Dawn Knight Patrol spawned
+qstr_Ebony_Knight_Patrol_|Ebony Knight Patrol spawned
+qstr_Vanskerries_spawned|Vanskerries spawned
+qstr_Heretics_spawned|Heretics spawned
+qstr_Snake_Cult_spawned|Snake Cult spawned
+qstr_Mystmountains_spawne|Mystmountains spawned
+qstr_Jatu_spawned|Jatu spawned
+qstr_Noldor_Patrol_spawne|Noldor Patrol spawned
+qstr_Three_Seers_spawned|Three Seers spawned
+qstr_Alaric_Von_Brouhaha_|Alaric Von Brouhaha spawned
+qstr_Boris_the_Raven_spaw|Boris the Raven spawned
+qstr_Burilgi_the_Usurper_|Burilgi the Usurper spawned
+qstr_Dread_Legion_spawned|Dread Legion spawned
+qstr_Eyegrim_the_Devourer|Eyegrim the Devourer spawned
+qstr_Oswald_de_Fleur_spaw|Oswald de Fleur spawned
+qstr_Sheik_Shalavan_spawn|Sheik Shalavan spawned
+qstr_Wolfbode_the_Slayer_|Wolfbode the Slayer spawned
+qstr_Syla_Uzas_spawned|Syla Uzas spawned
+qstr_Griffonsword_spawned|Griffonsword spawned
+qstr_Kodan_Ironsword_spaw|Kodan Ironsword spawned
+qstr_Aeldarian_spawned|Aeldarian spawned
+qstr_Ithilrandir_spawned|Ithilrandir spawned
+qstr_K_Juda_the_Ravager_s|K'Juda the Ravager spawned
+qstr_Warlord_Zulkar_spawn|Warlord Zulkar spawned
+qstr_Obrist_Heynrich_spaw|Obrist Heynrich spawned
+qstr_Verante_Kruus_spawne|Verante Kruus spawned
+qstr_Rufio_of_Barclay_spa|Rufio of Barclay spawned
+qstr_Sebastokrator_Kaspax|Sebastokrator Kaspax spawned
+qstr_Holy_Inquisitor_Rasm|Holy Inquisitor Rasmus Devatica spawned
+qstr_ON|켜짐
+qstr_Evil_Twins|사악한 쌍둥이
+qstr_Evil_twin_party_spaw|사악한 쌍둥이 부대가 등장했습니다.
+qstr_Soldiers__balls_cut_|Soldiers' balls cut off!
+qstr_Soldiers_killed_and_|Soldiers killed and ressurected!
+qstr_Horse|말
+qstr_1_Handed|한손
+qstr_2_Handed|양손
+qstr_Polearm___Spear|폴암 - 창
+qstr_Polearm___Halberd|폴암 - 미늘창
+qstr_Arrows|화살
+qstr_Bolts|볼트
+qstr_Shield|방패
+qstr_Bow|활
+qstr_Crossbow|쇠뇌
+qstr_Thrown|투척무기
+qstr_Helmet|투구
+qstr_Armor|갑옷
+qstr_Boots|신발
+qstr_Gloves|장갑
+qstr_Not_used|사용하지 않음
+qstr_Horse_Charge|말의 돌격력
+qstr_Horse_Speed|말의 속도
+qstr_Horse_Maneuver|말의 선회력
+qstr_Horse_Armor|말의 방어력
+qstr_Horse_Hitpoints|말의 체력
+qstr_Swing_Damage|베기 피해
+qstr_Thrust_Damage|관통 피해
+qstr_Weapon_Speed|공격 속도
+qstr_Weapon_Reach|공격 범위
+qstr_Missile_speed|투사체 속도
+qstr_Max_Ammo|최대 탄환수
+qstr_Bonus_Damage|추가 피해
+qstr_Shield_Resistance|방패 저항력
+qstr_Shield_Speed|방패 속도
+qstr_Shield_Hitpoints|방패 체력
+qstr_Shield_Coverage|방패 크기
+qstr_Ranged_Damage|원거리 피해
+qstr_Reload_Speed|재장전 속도
+qstr_Missile_Speed|투사체 속도
+qstr_Body_Armor|몸통 방어력
+qstr_Leg_Armor|다리 방어력
+qstr_Head_Armor|머리 방어력
+qstr_Armor_Weight|장비 무게
+qstr_{s4}:_Average:_{reg0|{s4}: Average: {reg0}, St.dev.: {reg1}, Count: {reg2}
+qstr_Printing_scores...|Printing scores...
+qstr_{reg0}:_{s10}|{reg0}: {s10}
+qstr_{reg0}._{reg1}:_{s10|{reg0}. {reg1}: {s10}
+qstr_All_20_companions_re|All 20 companions recruited
+qstr_Conversation_#{reg0}|Conversation #{reg0} chosen out of {reg1} total.
+qstr_{reg1}_{s1}_{reg2?ac|{reg1}명의 {s1}이(가) 제안을 {reg2?수락:수락}했습니다.
+qstr_No_one_accepts_the_o|그러나 아무도 제안에 응하지 않았습니다.
+qstr_{s18}^^_There_{reg2?|{s18}^^{reg2?당신의:당신의} 부대에 합류하도록 설득할 수 없는 엘리트 {reg2?병사들이:병사가} {reg1} 존재합니다.
+qstr_{s18}^^_There_{reg2?a|{s18}^^{reg2?당신의:당신의} 부대에 합류할 수 없는 언데드 {reg2?병사들이:병사가} {reg1} 존재합니다.
+qstr_You_start_reading_{s|당신은 {s2}을(를) 읽기 시작 했습니다. 몇 페이지를 넘긴 후, 당신은 당신이 이 책에서 많은 것을 배울 수 있었다는 것을 느꼈습니다.^당신은 그것을 곁에 두고 언제든지 읽을 수 있도록 했습니다.
+qstr_You_flip_through_the|당신이 {s2}를 읽기 시작했지만 내용이 너무 난해하고 자신이 따라 하기에 어렵다는 걸 알았습니다. 좀 더 읽어 보려고 노력했지만 머리만 아파왔고 결국은 읽는 것을 포기할 수 밖에 없었습니다.
+qstr_Villagers|마을 사람들
+qstr_You_have_encountered|당신은 {s1}와(과) 마주쳤습니다.
+qstr_You_have_engaged_{s1|당신은 {s1}이(가) {s3}을 습격하는 전투에 가세했습니다.
+qstr_You_were_caught_by_{|당신의 부대가 {s3}을(를) 공격하는 동안 {s1}이(가) 참전했습니다.
+qstr_Challenge_quest_reno|도전 퀘스트의 달성을 위한 명성 획득: {reg1}/{reg2}.
+qstr_Renown_earned_so_far|현재까지 얻은 명성 : {reg1}
+qstr_You_were_victorious!|당신은 승리했습니다!
+qstr_The_battle_was_lost.|전투에서 패했습니다. 당신의 부대는 완전히 와해되었습니다.
+qstr_Your_companions_carr|당신의 동료들이 당신을 전투에서 안전한 지역으로 이송했습니다.
+qstr_You_have_defeated_th|당신은 적을 격퇴시켰습니다.
+qstr_You_have_retreated_f|당신은 전투에서 퇴각했습니다.
+qstr_^^Ally_Casualties:{s|^^[동맹군 사상자]{s0}
+qstr_Current_progress:_{r|현재 진행상황 : {reg4}/{reg5}.
+qstr_{s1}_of_the_{s3}_man|{s3}의 {s1}은(는) 간신히 탈출했습니다.
+qstr_Some_of_your_tendons|당신은 전투 중에 힘줄을 다쳐 1만큼의 힘을 잃게 되었습니다.
+qstr_You_took_a_nasty_wou|당신은 치료를 했음에도 작은 후유증으로 절룩거리게 되었습니다. 당신은 1의 민첩을 잃었습니다.
+qstr_You_have_trouble_thi|당신은 전투후유증에 시달립니다. 당신의 머리에 어떤 강한 충격이 가해져 두통을 유발하여 기억이 오락가락하기 시작한 것 같습니다. 당신의 지능이 1 하락했습니다.
+qstr_Perhaps_I_m_getting_|아마도 나는 운이 없나 보군...
+qstr_Retirement_is_starti|은퇴라는 단어가 갈수록 좋아지기 시작하는데.
+qstr_No_matter!_I_will_pe|아무 문제없어! 난 좀 더 노력할거야!
+qstr_What_did_I_do_to_des|내가 이걸 받기 위해서 무엇을 해야 합니까?
+qstr_I_suppose_it_ll_make|내가 생각하기에는 적어도 그건 좋은 이야기가 될 거 같아...
+qstr_{s9}_wants_you_to_fo|{s9}은(는) 다음 통지가 있을 때까지 자신의 군대를 따라오라고 했습니다.
+qstr_{s8}_of_the_{s9}|{s9}의 {s8}
+qstr__Your_own_banner_fli|^성문 위로 당신의 깃발이 휘날리고 있습니다.
+qstr__You_see_the_banner_|^성문 위로 {s7}의 깃발이 보입니다.
+qstr__Your_own_banner_flie|^도시의 성문 위로 당신의 깃발이 휘날리고 있습니다.
+qstr__You_see_the_banner_o|^도시의 성문 위로 {s7}의 깃발이 보입니다.
+qstr_The_{reg6?town_s:cas|{reg6?도시의:성의} 식량 저장분이 {reg3}일치가 남아 있습니다.
+qstr_The_{reg6?town_s:cast|{reg6?도시의:성의} 저장된 식량이 바닥이 났고 수성측 병사들이 굶주리고 있습니다.
+qstr_You_re_preparing_to_|당신은 성벽을 공격하기 위한 준비를 하고 있고 그 작업이 완성되는데 {reg9} 시간이 걸릴 것 같습니다.
+qstr_Your_forces_are_buil|당신의 부대는 공성탑을 건설하고 있습니다. 병사들이 예상하기로 공성탑을 완성하는데 {reg9}의 시간이 더 필요합니다.
+qstr_You_are_ready_to_att|당신은 언제든지 성벽을 공격할 준비가 되었습니다.
+qstr_The_siege_tower_is_b|공성탑이 완성되었고 공격할 준비를 합니다.
+qstr_As_a_last_defensive_|지키기 위한 마지막 노력에도 불구하고 당신은 지키고 있던 중앙 홀에서 후퇴했습니다. 당신과 당신의 병사들은 앞으로 험난한 싸움에 놓이게 되었습니다. 여기서 만약 당신이 패배한다면 더 이상 물러설 곳이 없습니다.
+qstr_You_ve_been_driven_a|당신이 성벽에서 밀려 났습니다.이제 적 부대가 거리로 밀려들 것입니다. 당신이 그들을 물리친다면, 아마도 형세가 바뀌어 오늘을 넘길 수 있을 것입니다.
+qstr_You_ve_breached_the_|당신은 성벽을 돌파했습니다, 하지만 거리에서 아직도 적들이 격렬하게 저항하고 있습니다! 도시 중앙부를 공격하기 위하여 당신은 그들을 물리쳐야 합니다.
+qstr_The_town_centre_is_y|도시 중앙부는 당신이 점령했습니다, 하지만 남은 적들이 성에서 아직 저항을 하고 있습니다. 당신이 승리를 완벽하게 쟁취하기 위해서는 그들을 처리해야 합니다.
+qstr_The_remaining_defend|남은 수비군들이 마지막 방어선인 성으로 후퇴했습니다. 당신은 성으로 진격하여 남은 저항병들을 쳐부숴야 합니다.
+qstr_However_since_you_ar|당신은 {s9}에 맹세하지 않은 {reg63?남자:가신}이기에 당신은 이 {reg8?도시:성}의 영주가 될 자격이 없네.
+qstr_The_enemy_has_been_f| 적 부대는 후퇴했고 급습을 포기했습니다.
+qstr_The_enemy_has_been_fo| 적 부대는 후퇴했습니다. 공격은 끝났지만 포위는 계속 되고 있습니다.
+qstr_As_you_approach_you_|입구에 다다르자, 문지기들이 자신들의 {reg63?왕:여왕}을 경례로 반기며 문을 개방합니다.
+qstr_As_you_approach_you_a|입구에 다다르자, 문지기들이 자신들의 {reg63?주인:여주인}을 경례로 반기며 문을 개방합니다.
+qstr__This_village_and_th|이 마을 및 주변은 당신의 관할 지역입니다.
+qstr__You_remember_that_t|^당신은 이 마을이 {s7} 소유라는게 생각났습니다.
+qstr__These_lands_belong_|^이 땅은 누구도 소유하고 있지 않습니다.
+qstr__The_village_is_infe|마을이 {s35} {reg8}명에게 약탈 당하고 있습니다.
+qstr__The_village_has_bee|마을이 약탈당했습니다.^당신이 지나치는 불타버린 집들 사이마다 작디 작은 희망도 산산히 부서져 있습니다.
+qstr__The_village_is_bein|마을이 습격을 받고 있습니다.
+qstr_No_one_here_seems_to|아무도 지원하지 않았습니다.
+qstr_One_{s3}_volunteer_t|한 명의 {s3}이 지원했습니다.
+qstr_{reg5}_{s3}_voluntee|{reg5}명의 {s3}이 지원했습니다.
+qstr_Try_as_you_might_you|당신처럼하면 도적을 물리칠 수 없을 것이네. 화가 나지만, 그들은 농노들을 혹사시키고 마을을 황폐화 시킨다네, 그리곤 황폐한 땅만을 남겨놓고 약탈할 푸른 목초지로 떠나지.
+qstr_village|마을
+qstr_town|도시
+qstr_castle|성
+qstr_{s10}|{s10}
+qstr_^{s10}|^{s10}
+qstr_{s18}^{s10}.|{s18}^{s10}.
+qstr__{s10}___{reg12}%_Da|({s10} - {reg12}% 파괴된상태-)
+qstr_The_{s17}_has_no_imp|{s17}에는 건설된 것이 없습니다.
+qstr_The_{s17}_has_the_fo|[{s17} 건설 목록]^       {s18}
+qstr_The_assasins_beat_yo|암살자가 당신을 쓰러뜨렸고, 당신을 죽게 버려두고 떠났습니다.
+qstr_You_have_fallen._The|당신은 쓰러졌습니다. 도적이 빠르게 당신의 몸을 뒤져 찾은 모든 돈을 가지고 어둠 속으로 사라졌습니다. 그들은 간신히 살아있는 당신을 남겨두고 떠났습니다.
+qstr_Luckily_some_of_your|운 좋게도 몇몇 당신의 동료들이 늦어도 돌아오지 않는 당신을 찾아 나섰고 길가에 누워있는 당신을 발견했습니다. 그들은 서둘러 안전하게 당신의 상처를 치료해 주었습니다.
+qstr_Luckily_some_passing|운 좋게도 지나가는 시민이 길가에 쓰러진 당신을 발견했고 단순한 거지가 아니라는 걸 알아차렸습니다. 그들은 당신을 가까운 여관으로 옮겨 상처를 치료했습니다.
+qstr_You_fail_to_steal_an|소를 약탈하는데 실패했습니다.
+qstr_You_drive_away_{reg1|{reg12?마리의} 소들을 마을 촌장에게 가져다 주어야 합니다.
+qstr___{reg1}_denars_per_| (하루밤에{reg1} 디나르)
+qstr_As_you_near_the_Snak|사교도 요새에 가까이 가자, 그 벽엔 수많은 방어자들로 들끓고 있음을 확인할 수 있었습니다. 피투성이의 하루가 될지도 모릅니다.
+qstr_The_fully_rebuilt_Or|완전하게 재건된 기사단 요새는 힘과 영속의 감명을 주고 있습니다.
+qstr_The_Order_stronghold|기사단 요새는 사교도의 모든 자취들을 씻어내고 있으며 당신을 환영하고 있는 것처럼 보입니다.
+qstr_Order_Stronghold|기사단 요새
+qstr_Report_news_of_your_|기사단에게 당신의 승전보를 전하십시오.
+qstr_You_are_at_{s2}.|{s2}에 있습니다.
+qstr__This_castle_has_no_| 이 성에는 주둔군이 없습니다.
+qstr__This_town_has_no_ga| 이 도시에는 주둔군이 없습니다.
+qstr__You_have_successful| 당신은 잠입에 성공했습니다.
+qstr_{s13}_A_tournament_w|{s13} ^^곧 토너먼트가 개최됩니다.
+qstr_{s13}_Though_the_her|{s13} 전령관이 당신의 깃발과 고귀한 출신 성분을 알아봤지만^더 명망높은 기사들이 남은 자리를 차지해버려 토너먼트에 참가할 수 없었습니다.
+qstr_{s13}_You_have_neith|{s13} 그러나 당신은 고귀한 출신도 유명인사도 아니기 때문에^토너먼트에 참가할 수 없었습니다.
+qstr_{s13}_Despite_not_be|{s13} 당신은 고귀한 출신이 아님에도 불구하고^전투에서의 활약과 뛰어난 무예가 펜도르에 널리 퍼졌기 때문에, 이를 고려한 전령관은^당신이 참가자들의 대열에 합류해 토너먼트에서 싸울 수 있도록 해줬습니다.
+qstr_{s8}^Your_bid_to_cha|{s8}^{s9}우승자에 대해 돈을 건 것이 허사로 돌아갔습니다.
+qstr_However_you_forfeit_|그러나, 당신은 모든 물질적 보상을 포기하고 승리를 {s9}의 영광에 바칩니다!
+qstr_weapon_pack|weapon pack
+qstr_armor_pieces|armor pieces
+qstr_Additionally_you_hav|게다가, 당신이 최고로 발표 되었습니다 {s21} 놀도르 협의회에 의해.
+qstr_Additionally_you_have|게다가, 당신과 함께 발표 되었습니다 {s21} 마을의 집사에 의해.
+qstr__{s8}^Moreover_you_e|더욱이, 당신은 영리하게 자신에 돈을 걸어 {reg8} 디나르를 대가로 받았습니다.
+qstr_Victory_is_yours!_Yo|승리는 당신의 것입니다! 당신은 이 라운드에서 이겼습니다. 하지만 당신은 곧 다음 시합을 준비해야 합니다.
+qstr_You_have_been_bested|이 라운드에서 당신은 최고였습니다.그래서 비록 쓰러졌지만, 행사의 주최자가 당신의 실력과 용기를 인정하며 다음 단계로 진행할 수 있도록 허락해주었습니다. 
+qstr_You_were_beaten._The|당신은 쓰러졌습니다. 농부는 공격이 성공한 것에 용기를 얻었지만 아마도 당신이 가르치고자 했던 내용은 소용이 없었을 것입니다.
+qstr_After_beating_your_l|마지막 상대를 쓰러뜨린 후,당신은 농부들에게 어떻게 자기 스스로를 적의 공격으로부터 좀 더 잘 보호할수 있는지 가르쳐 주었습니다. 희망적이게도 그들은 잘 새겨들었고 다음에는 준비가 될 것입니다.
+qstr_The_bandits_are_brok|도적들이 와해되었습니다! 그들은 몇몇만 살아남았고 공포스러운 농부들과 그들의 새로운 챔피언으로부터 혼비백산하여 꽁지가 빠지도록 줄행랑을 쳤습니다.
+qstr_{s1}_s_Ship|{s1}들의 배
+qstr_However_{reg3?You_ar|^그러나, {reg3?당신은:{s1}는(은)} 이익을 가져올 그 어떤 무역 상품도 찾아낼 수 없었습니다.
+qstr_^Buying_{s4}_here_an|^{s4}를 여기서 사다가 {s5}에서 판다면 개당 {reg6} 디나르만큼의 이익을 얻을 수 있을거에요.{s3}
+qstr_{reg3?You_find:{s1}_|{reg3?당신은:{s1}은(는)} 다음과 같은 것을 알아내었습니다:^{s3}
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{s1} {reg1}명은 {reg0} 만큼의 경험치를 얻었습니다.
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1}은(는) 추가적으로 {reg0} 만큼의 경험치를 얻었습니다.
+qstr_^You_earned_{reg0}_e|^당신은 {reg0} 만큼의 경험치를 얻었습니다.{s2}
+qstr_The_training_didn_t_|훈련이 전혀 되지 않았습니다.
+qstr_The_training_didn_t_g|훈련이 제대로 되지 않았습니다.
+qstr_The_training_went_qu|훈련이 그럭저럭 되었습니다.
+qstr_The_training_went_ve|훈련이 많이 되었습니다.
+qstr_The_training_went_pe|훈련이 완벽하게 되었습니다.
+qstr_{s13}_asked_you_to_r|{s13}이(가) 적어도 {reg13}기의 군사를 모은 후에 보고하라고 했습니다.
+qstr_{s13}_ordered_you_to|{s13}은(는) {s14}에 대한 공성전에 참전하라고 명령했습니다.
+qstr_Find_and_speak_with_|{s4}에 {s3}을(를) 찾아서 그에게 주군으로서 섬길 것을 맹세하십시오.
+qstr_There_has_been_an_al|영유권 주장이 있는 지역: {s9}
+qstr_^^Note_that_so_long_|^^당신이 총사령관 직책을 맡고있는한, 영주들은 당신의 군지휘를 기대한다는 걸 명심하세요. 결혼이나 다른 목적으로 연회를 기다린다면, 국왕에게 사임 하겠다고 요청해야 합니다.
+qstr_Speak_to_the_Order_r|{s9}의 기사단 담당자와 이야기 하십시오.
+qstr_Your_Trainer_skill_h|당신의 훈련교관 기술이 1 증가했습니다.
+qstr_Your_Trainer_skill_ha|당신의 훈련교관 기술이 2 증가했습니다.
+qstr_Your_Tactics_skill_h|당신의 전략가 기술이 1 증가했습니다.
+qstr_Your_Tactics_skill_ha|당신의 전략가 기술이 2 증가했습니다.
+qstr_Your_Intelligence_ha|당신의 지능이 1 증가했습니다.
+qstr_Your_Intelligence_has|당신의 지능이 2 증가했습니다.
+qstr_Your_Agility_has_inc|당신의 민첩이 1 증가했습니다.
+qstr_Your_Ironflesh_skill|당신의 단단한피부 기술이 1 증가했습니다.
+qstr_Your_Riding_skill_ha|당신의 승마술 기술이 1 증가했습니다.
+qstr_Your_Strength_has_in|당신의 힘이 1 증가했습니다.
+qstr_Your_Weapon_Master_s|당신의 무기숙련 기술이 1 증가했습니다.
+qstr_Your_Charisma_has_in|당신의 매력이 1 증가했습니다.
+qstr_Your_Charisma_has_inc|당신의 매력이 2 증가했습니다.
+qstr_Your_Leadership_skil|당신의 지도력 기술이 1 증가했습니다.
+qstr_Your_Persuasion_skil|당신의 설득 능력이 1 증가했습니다.
+qstr_Your_Engineer_skill_|당신의 기계공 기술이 1 증가했습니다.
+qstr_Your_Tactics_skill_has|당신의 전략가 기술을 1 감소했습니다.
+qstr_Your_Charisma_has_de|당신의 매력이 1 감소했습니다.
+qstr__Your_party_members_| 당신은 보호 선언을 했음에도 불구하고, 도움을 주지 않았기에 부대원들이 투덜거립니다. 
+qstr_Breaking_camp...|야영 중지...
+qstr_Soldiers_have_found_|병사들이 반스케리 일원의 시체를 발견했습니다. 누군가 그를 살해한 것입니다.
+qstr_One_of_your_Vanskerr|반스케리 일원이 불행한 사고로 인해 죽었습니다.
+qstr_Soldiers_have_found_a|병사들이 사라진 반스케리로 추정되는 난자된 시체를 발견했습니다. 사람들이 야생동물을 탓합니다.
+qstr_One_of_your_Vanskerri|반스케리 일원이 시체로 발견 됐습니다. 아마도 이전 상처가 벌어졌기 때문입니다.
+qstr_Drunken_Adventurer|취한 모험가
+qstr_Drunken_Adventurers|취한 모험가들
+qstr_Drunken_Mercenary|취한 용병
+qstr_Drunken_Mercenaries|취한 용병들
+qstr_Drunken_Caravan_Guar|취한 상단 호위병
+qstr_Drunken_Caravan_Guard|취한 상단 호위병
+qstr_Your_{s12}_have_acqui| {s12}이(가) 새로운 {s11}을(를) 보급받았습니다!
+qstr_{s4}_and_is_now_know|{s4}, 그후 {s7}(이)라는 호칭으로 펜도르 전역에 알려졌습니다.
+qstr_Your_party_is_spotte|당신의 부대가 {s1}을(를) 발견했습니다.
+qstr_Party_has_nothing_to|군량이 없습니다.
+qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1}이(가) {reg2?어둠을:어둠을} 틈타 부대의 감시망을 뚫고 도주에 성공했습니다.
+qstr_{s1}_of_the_{s3}_has|{s3}의 {s1}이(가) 감금 상태에서 풀려났습니다.
+qstr_Building_of_{s10}_in|{s4}에 있는 {s10}의 건설이 완료되었습니다.
+qstr_{s1}_has_won_the_tou|{s1}은(는) {s2}에서의 토너먼트에서 승리했습니다.
+qstr_{s1}_is_no_longer_in|{s1}은(는) 더 이상 강도들에게 침입을 당하고 있지 않습니다 (밤중에).
+qstr_You_pay_for_accommod|숙박비를 지불합니다.
+qstr_D_Shar_have_fallen_a|드'샤르는 그들의 토속신앙을 지키지 못했다. 이단 심문단은 모든 관심과 노력을 북쪽에 있는 이도교에 쏟을 것입니다.
+qstr_Betrothal_to_{s5}_ex|{s5}와(과) 파혼했습니다.
+qstr__Your_tactics_skill_| 전략가 기술이 1 증가 했습니다.
+qstr__Your_persuasion_ski| 설득력 기술이 1 증가 했습니다.
+qstr__Your_leadership_ski| 지도력 기술이 1 증가 했습니다.
+qstr__Your_intelligence_h| 지능이 1 증가 했습니다.
+qstr__Your_trade_skill_ha| 상술 기술이 1 증가 했습니다.
+qstr__Your_weapon_master_| 무기숙련 기술이 1 증가 했습니다.
+qstr__Your_engineer_skill| 기계공 기술이 1 증가 했습니다.
+qstr__Your_relation_with_| 당신과 놀도르 엘프 세력과의 관계가 향상되었습니다.
+qstr_You_have_finished_re|책읽기 완료 : {s1}.{s2}
+qstr_Book_Read|책 읽기
+qstr_Your_Order_Stronghol|당신의 기사단 요새가 완공되었다고 알립니다!
+qstr_The_Order_blacksmith|기사단 대장간에서 당신의 갑옷이 준비되었다고 알립니다!
+qstr_{s1}_is_scouted.|{s1}을 정찰했다.
+qstr_{s36}_has_switched_f|{s36} 는 {s2} 에서 {s3} 로 소속을 바꾸었고, {s1}로 알려졌습니다.
+qstr_A_god_s_voice_booms_|하늘에서 신의 목소리가 들려온다 : 나는 아스트레이아, 정의의 여신입니다. 정의를 지키기 위해 싸우세요, 언제 어디서나 나의 가호가 함께할것입니다.
+qstr_A_god_s_voice_booms_a|하늘에서 신의 목소리가 들려온다 : 넌 내 자투와 싸웠고 물리쳤다. 인다르의 분노를 조심해라.
+qstr_A_god_s_voice_booms_ac|하늘에서 신의 목소리가 들려온다 : 너에게 명하노니, 다미아 프로비데오의 이름으로, 나의 땅을 더럽히는 이 사악한 뱀 신자들을 쫓아내라.
+qstr_A_god_s_voice_booms_acr|하늘에서 신의 목소리가 들려온다 : 내 신비산의 자식들과 싸우는걸 멈추는게 좋을거다. 그렇지않으면 베조비스의 발톱에 죽을 것이다.
+qstr_A_god_s_voice_booms_acro|하늘에서 신의 목소리가 들려온다 : 펜도르신 계층의 제 1신분인 나 유노미아 스테비라이티스가 경고한다, 선택받은 자여, 그대는 많은 위험에 직면할 것이다.
+qstr_A_god_s_voice_booms_acros|하늘에서 신의 목소리가 들려온다 : 나의 반스케리 약탈자를 괴롭히는것을 중단하라. 그렇지않으면 호프시글라의 분노를 초래할 것이다.
+qstr_A_god_s_voice_booms_across|하늘에서 신의 목소리가 들려온다 : 내 파이어즈베인 자식들의 농장을 지켜주시오, 탈로 베르 슈레즈의 이름으로.
+qstr_A_god_s_voice_booms_across_|하늘에서 신의 목소리가 들려온다 : 나, 바타가 명한다. 나의 드'샤르를 위협하는 모든 자를 파괴하라.
+qstr_The_God_UllrVetr_is_| 울러 베터 신이 당신에게 선물을 주려합니다, 하지만 당신은 인벤토리에 충분한 공간을 확보해야 합니다.
+qstr_A_god_s_voice_booms_across_t|하늘에서 신의 목소리가 들려온다 : 나 궁사의 신, 울러 베터는 이 활로써 네게 현신할것이다. 다가올 전투에 잘 사용하도록 하라.
+qstr_UllrVetr_has_seen_th|궁사의 신 울러 베터는 펜도르에 도래한 강력한 위협이 일단락된 것을 확인했습니다; 그리고는 당신에게 내렸던 강력한 활을 회수해갔습니다.
+qstr_{s2}_loses_{s10}.|{s2} loses {s10}.
+qstr_{s2}_reports_the_{s1|{s2}가 말하길, {s10}이 성에 둔 상자안에서 사라졌다고 알렸습니다.
+qstr_A_passing_messenger_|전령이 말하길 {s4}의 부인이 {s5}에서 갑자기 사망했다고 합니다.
+qstr_A_passing_messenger_t|전령이 말하길 {s4}의 부인이 {s5}에서 갑자기 사망했다고 합니다.
+qstr_{s5}_launches_a_surp|{s5}은(는){s6}을(를) 기습 공격하기 시작합니다!!
+qstr_{s5}_War_Party|{s5}의 전쟁 부대
+qstr_The_{s12}_from_{s13}|{s13}에서 {s11}을 지원하기 위해 {s12}이(가) 전쟁 부대를 구성합니다
+qstr_The_town_center_is_y|도시 중앙부는 당신이 점령했습니다, 하지만 남은 적들이 성에서 아직 저항을 하고 있습니다. 당신이 승리를 완벽하게 쟁취하기 위해서는 그들을 처리해야 합니다.
+qstr__{s61}| {s61}
+qstr_{reg65?my_Lady:my_Lo|{reg65?아가씨:경}
+qstr_{reg65?My_Lady:My_Lo|{reg65?아가씨:경}
+qstr_{reg65?madame:sir}|{reg65?부인:경}
+qstr_{reg65?Madame:Sir}|{reg65?부인:경}
+qstr__no_fiefs_|(영지 없음)
+qstr__fiefs:_{s0}_|(영지: {s0})
+qstr_^It_might_interest_y|그런그렇고 흥미로운 정보가 있어.^{s11}(이)라고 불리는 자가 {s10}에서 일자리를 구하고 있다는데,^거기 선술집에 가면 {reg1?그녀:그}를 만날 수 있을거야.
+qstr_{reg36}x_{s0}_have_j|당신 부대에 합류 : {reg36}x {s0}
+qstr__Hail_Captain!| 안녕하십니까, 대장님.
+qstr__Hail_{reg63?M_Lord:| 안녕하십니까, {reg63?나리:아가씨}.
+qstr__Well_met_{reg63?M_L| 만나서 영광입니다, {reg63?나리:아가씨}!
+qstr__{s4}_We_are_the_Mil| {s4} 우리는 {s11}의 외곽을 순찰하는 민병입니다.
+qstr__{s4}_You_are_a_welc| {s4} 보기만해도 반갑습니다. 우린 {s11} 출신입니다.
+qstr__{s4}_We_are_the_she| {s4} 우리는 {s11}에서 온 순찰 보안관입니다.
+qstr__{s4}_We_are_glad_to| {s4} 만나게되어 반갑습니다! 우린 {s11}에서 오는길입니다.
+qstr__{s4}_We_have_had_a_| {s4} 우리는 힘든 시간을 보내고있습니다, {reg63?나리:아가씨}. 적국 영주와 약탈 부대를 피하면서도 폭력배와 도적들을 찾고있습니다.
+qstr__{s4}_We_are_on_the_| {s4} 우리는 범죄자들을 찾고있습니다, {reg63?나리:아가씨}.
+qstr__{s4}_We_set_out_day| {s4} 우리는 우리 지주들 중 하나를 살해한 버러지를 찾기 위해 며칠전에 출발했습니다.
+qstr__{s4}_Our_horses_are| {s4} 우리 말들은 지쳤고 우리 또한 그러합니다, {reg63?나리:아가씨}. 그러나 정의는 여전히 우리를 부르고 있기에 사악한 범죄를 찾는 의무를 다할 것입니다.
+qstr__No_{reg63?M_Lord:M_| 아니요 {reg63?나리:아가씨}, 우린 흥미있는것을 거의 보지못했습니다, 멋진 숫사슴 7마리를 제외하고 말이죠. 사냥하고픈 유혹을 느꼈습니다.
+qstr__I_wish_we_had_somet| 우리가 나눌 정보가 있으면 좋겠군요, {reg63?나리:아가씨}. 우린 도적들을 잡고자 했지만 거의 보지 못했습니다.
+qstr__No_{reg63?M_Lord:M_L| 아니요 {reg63?나리:아가씨}, 우리의 원정동안 아무것도 듣지못했고 어떠한 이상한 징후도 보지 못했습니다.
+qstr__Nothing_except_to_k| 모든 것에 대비하세요, {reg63?나리:아가씨}. 요즘은 위험한 때이고 절박한 사람들은 예측이 불가능 합니다.
+qstr_Your_patrol_leader_i|당신의 민병 대장은 그렇게 많은 병사들을 통솔할 기술이 부족합니다. 당분간 그들 중 일부는 근처 마을을 돕기위해 보내질 겁니다.
+qstr___Ah_We_have_you_at_| 이게 니 마지막이다!
+qstr__You!_Here?!_Who_wou| 네가! 여기에?! 그 누가 네가 해내리라 생각이나 했겠어? 이리와, 그 다음! 네 애인과 함께하던 달콤한 기억은 뒤로하고 춤을 춰 보자. 내것도 꽤 달콤하다고, 내가 알려주지!
+qstr__You!_I_thought_I_ha| 이놈! 이미 따돌렸다고 생각했는데.
+qstr__Ha!_Come_to_take_re| 하! 네 연인을 위해 복수를 하러 왔나? 넌 복수 대신 내 차가운 강철을 맛볼거야! 이제 죽어!
+qstr__You!_Fie_this_day!_| 이놈! 쳇, 오늘은! 그냥 일만 하려고 했는데, 봐라...누구도 다치지 않게 하려 했다고! 이런 망할...이제 널 죽여야겠다! 네가 날 어떻게 만들었는지 똑똑히 봐라!
+qstr__Finally..._now_you_| 드디어 지옥에 가서 네 조상들을 보겠구나!
+qstr__Oi!_What_do_we_have| 호우! 이게 무슨 일이야? {s4}
+qstr__What_s_this_eh?_{s4| 이건 뭐지, 응? {s4}
+qstr__We_will_hunt_you_do| 네놈을 사냥해주마! {s4}
+qstr__Oi!_What_do_we_have_| 호우! 이게 무슨 일이야?
+qstr__You_better_not_be_a| 네놈이 현상금 사냥꾼이 아니어야 할거야!
+qstr__Out_for_a_stroll_ar| 같이 산책이라도 하려고 온건가?
+qstr__What_s_this_eh?| 뭐야 이건?
+qstr__I_m_going_to_break_| 네 다리를 부숴주마, 천천히 친절하게!
+qstr__Your_money_or_your_| 네 돈이냐 목숨이냐!
+qstr__We_ll_have_our_pay_| 우리 몫을 주던가, 아니면 우리가 재미 좀 보던가!
+qstr__My_men_and_I_would_| 내 부하들과 내가 할 말이 좀 있는데.
+qstr__Everything_has_a_pr| 모든 것은 가격이 있지, 니 목숨조차도!
+qstr__These_are_dangerous| 이런 좋은 말들을 데리고 돌아다니기엔 위험한 때지 않나? 내가 가지고 있는게 좋을것 같군.
+qstr__An_what_do_we_owe_t| 이 기쁨을 어찌해야 할까?
+qstr__Your_blood_must_be_| 네 피는 우리의 여사제를 만족시키기 위해 사용될 것이다. {reg63?촌놈:귀염둥이}!
+qstr__Lucky_for_you_we_ar| 운이 좋구나, 우리는 구우우우원자다! 이리와라... 여사아아아제에게 키이이이이스를 하고, 그녀의 신성함을 맛 보아라!
+qstr__How_SSSSublime!_Fre| 얼마나 수우우웅고한가! 우리의 여사아아아제는 신선한 피를 원한다. 이리 오너라 귀염둥이... 내 검이 너의 영혼을 삼키도록.
+qstr__You_dare_speak_to_m| 감히 내게 말한건가? 너는 짓밟혀야할 벌레만도 못한 놈이다!
+qstr__I_was_expecting_a_c| 나는 도전을 반기지만, 너 같은 놈은 사절이다!
+qstr__Come_quietly_and_yo| 조용히 다가가 널 순식간에 죽일 것이다!!
+qstr__YOU_have_been_marke| 네놈은 내게 찍혔다!
+qstr__Ah!_Good!_Strip_off| 아! 좋아! 옷을 벗고, 제단에 올라라! 어서, 착하게 굴라구 {reg63?이 놈:이 년}아, 서둘러!
+qstr__For_Glory!| 영광을 위해!
+qstr__Your_deaths_will_en| 너의 죽음은 여신님의 힘을 더 강대하게 하리라! 신께 감사하는 마음으로 죽어라!
+qstr__We_d_prefer_to_figh| 우리는 새벽의 기사단을 처리하고 싶지만, 너 같은 멍청이들도 괜찮겠지. 돌격!
+qstr__With_our_goddess_st| 우리의 여신님이 우리와 함께하는 한, 모든이들은 우리의 힘 앞에 쓰러지리라. 항복이냐 죽음이냐!
+qstr__Ah_we_were_feeling_| 아, 조금 으스스한 기분이 드는군. 우린 단지 죄인의 모닥불이 필요할 뿐이야! 당장 항복해라.
+qstr__Our_fires_will_purg| 우리의 화염은 악의 영혼을 정화시킨다. 마지막으로 남길 말이 있는가?
+qstr__We_do_the_bidding_o| 우리는 아스트레이아 여신의 가호를 받고 있다. 아무도 우리에게 대적하지 못하지. 전투준비!
+qstr_Tread_softly_strange|조심스럽게 발을 디뎌라 이방인. 여긴 신비산이다.
+qstr_Keep_your_wits_about|현명히 처신해라. 신비산이 근처에 있다.
+qstr_Right_we_ll_keep_our|좋아, 우린 눈을 부릅뜨고 있을 것이다.
+qstr_There_are_worse_thin|신비산보다 더 무서운게 있지... [공격]
+qstr_All_hail_King_Ulric_|펜도르의 진정한 왕, 울릭을 위하여!
+qstr_All_hail_{playername|펜도르의 진정한 왕 {playername},을 위하여. 공격!
+qstr_Halt_in_the_name_of_|펜도르의 진정한 왕, 울릭의 이름으로 멈춰라!
+qstr_Hold_in_the_name_of_|왕의 이름으로 멈춰라!
+qstr_Clear_the_road!_King|비켜라! 왕의 사람들이 지나가신다!
+qstr_My_apologies_please_|사과드립니다, 이만 가던 길 가시지요.
+qstr_This_is_MY_road!_[At|이건 나의 길이다! [공격]
+qstr_Hail_{playername}!_W|안녕하시오, {playername}! 우리는 새 제국의 이름으로 당신에게 인사를 건네고자 합니다.
+qstr_The_New_Empire_shoul|새 제국은 당신처럼 자격이 있는 대표들을 자랑스러워 해야할 겁니다. 잘 있으시오.
+qstr_Your_New_Empire_will|너의 새 제국은 이제 곧 넝마가 될텐대. [공격]
+qstr_Greetings_we_are_hun|안녕하시오. 우리는 마리우스 황제의 명으로 사교도를 사냥하고 있소. 최근에 놈들을 본 적 있소?
+qstr_I_m_afraid_no_but_go|아쉽게도 없소. 사냥 잘 하길 바라오.
+qstr_That_is_irrelevant_f|여기서 너의 사냥은 끝나겠군. [공격]
+qstr_Well_met_travelers_m|잘 만났소 여행자여, 당신은 고요함이 깃든 오아시스를 찾게 될 거요.
+qstr_And_may_you_find_ins|당신은 야자나무의 시원한 그늘 아래서 영감을 찾아낼 겁니다.
+qstr_And_may_your_blood_t|너의 피가 그 샘물을 붉게 물들이겠지! [공격]
+qstr_Well_met_travelers_i|만나서 반갑소 여행자여, 당신이 잠시 멈춰서 귀를 귀울인다면, 사막이 바람을 통해 건네는 말을 들을 수 있을 것이오.
+qstr_I_hear_it!_The_deser|저도 들었습니다! 사막이 제게 말을 건네오더군요.
+qstr_Then_it_should_have_|그러면 너한테 우리에게서 멀어지라고 경고했겠지. [공격]
+qstr_I_hope_fair_winds_br|오늘, 순풍이 당신 앞을 인도하기를 빕니다.
+qstr_None_fairer_than_sha|당신의 동료들과 시간을 나누는 일만큼 적당한 건 없을 겁니다.
+qstr_May_the_Winds_bring_|바람이 당신께 행운을 가져다주기를.
+qstr_Thanks!_Same_to_you.|고맙소! 당신도 그러시길 바라오.
+qstr_We_come_with_the_win|우리는 전쟁의 바람과 함께왔다. [공격]
+qstr_Clear_the_road_in_th|예언된 펜도르의 {reg63?왕:여왕}의 이름으로 길을 비켜나시오!
+qstr_Hold_traveler_do_you|멈추시오 여행자여, 예언된 {reg63?왕:여왕}의 곁에 서 있는가, 아니면 그 반대인가?
+qstr_For!|For!
+qstr_Against!_[Attack]|반대다! [공격]
+qstr_Your_Majesty!_How_ma|폐하! 저희가 도와드릴 일이 있습니까?
+qstr_Nothing_for_the_mome|지금은 아니네, 자신의 임무를 다하도록.
+qstr_Your_death_would_ser|너의 죽음이 내게 도움 될 것이다! [공격]
+qstr_Clear_a_path_for_{re|{reg63?그의:그녀의} 왕권을 위해 길을 비켜라! 모두들 펜도르의 예언된 자를 찬양하라!
+qstr_All_hail_me!|모두 나를 찬양하라!
+qstr_Such_exclamations_ar|그따위 헛소리 때문에 머리가 아파져오는군! [공격]
+qstr_Hello_there_stranger|여행자여 반갑습니다, 당신은 우수한 용병들의 도움을 구하고 있습니까?
+qstr_Hello_there_stranger_|반갑습니다 여행자여, 더 많은 승리를 가져올 용병들이 고용되길 원한다는 소식을 들었나요?
+qstr_Not_today_thank_you.|오늘은 아닙니다, 고마워요.
+qstr_No_but_the_loot_you_|아니, 하지만 당신이 가져온 물건들은 아마 날 섬기게 될지도 모르겠군. [공격]
+qstr_Ho_there_wanderer!_H|어여 방랑자, 이 근방에서 늙고, 정신 못차린 것처럼 보이는 학자를 본적이 있나? 우린 그를 호위하고 있었는데, 밤중에 그가 사라졌네.
+qstr_Wearing_a_white_habi|흰 옷을 입고, 머리가 빛나는? 그는 저 수풀 뒤에서 당신을 피해 숨어 있죠.
+qstr_Indeed_and_he_squeal|사실은, 내가 그를 죽일 때 돼지처럼 비명을 지르더군. [공격]
+qstr_Ho_there_wanderer_st|허 방랑자여, 잠시 머물러 늙은이 말을 들어보게.
+qstr_Of_course_I_will_sta|물론입니다, 전 잠시 머무르며 경청할 겁니다. 
+qstr_Ain_t_nobody_got_tim|대체 누가 그 따위 짓을 할 시간이 있겠냐! [공격]
+qstr_Greetings_traveler_h|안녕하시오 여행자여, 어디 다치셨습니까?
+qstr_Greetings_traveler_d|안녕하시오 여행자여, 도움이 필요하십니까?
+qstr_Thank_you_no._We_car|괜찮습니다, 사양할게요. 제 몸은 제가 돌볼테니.
+qstr_No_but_you_will_soon|아니, 하지만 네가 곧 그리 될것 같군. 돌격! [공격]
+qstr_Watch_the_horizon_tr|지평선을 살피게나 여행자여, 어떤 야만인들이 초원을 거니는지 알 수 없으니.
+qstr_Watch_the_horizon_tra|지평선을 살피게나 여행자여, 누가 우연히 자넬 발견할지 자네가 누군가를 발견할지 전혀 모른다네.
+qstr_Thanks_for_the_warni|경고해줘서 고마워요.
+qstr_Too_bad_you_didn_t_t|정작 넌 본인의 충고를 받아들이지 않아서 유감이군. [공격]
+qstr_Are_you_here_to_conf|네 죄를 자백하러 온건가? 죄책감은 불길 속에서만 정화될 수 있지.
+qstr_Thank_you_no._My_con|말은 고맙지만, 사양할게요. 제 양심은 깨끗합니다.
+qstr_I_confess_that_I_wan|내 죄를 고백하자면, 네가 죽는걸 원하는거야. [공격]
+qstr_Among_the_Dawn_we_ha|새벽의 기사단에는 이런 말이 있지. '붉은 밤하늘은, 아스트레이아의 기쁨'.
+qstr_Red_sky_in_the_morni|아침에 떠오르는 붉은 하늘이라, 이교도에 대한 경고로군요.
+qstr_Red_sky_in_the_mornin|아침에 떠오르는 붉은 하늘이라, 새벽은 곧 슬픔에 젖을 것이다. [공격]
+qstr_Hello_there_{reg63?b|반갑습니다 {reg63?형제여:자매여}! 저 나무를 바라보십시오. 어떤 악마가 그 그림자 안에 도사린지 당신은 알지 못할겁니다.
+qstr_We_ll_be_wary_of_wha|우리는 도사린 악마를 경계할 겁니다. 경고해줘서 고마워요.
+qstr_Take_your_eyes_off_t|나뭇잎에서 눈 떼고, 눈앞에 서 있는 적이나 바라보시지! [공격]
+qstr_Hello_there_{reg63?br|반갑습니다 {reg63?형제여:자매여}! 이 말 들어본 적이 있습니까? 창백하고 초록과 빨간색으로 모두 점철된 것이 뭔지 아시오? 바로 죽은 놀도르라네 하하!
+qstr_Hah!_Good_one.|하! 그거 재밌군요.
+qstr_The_murder_of_Noldor|놀도르 살인자는 더는 웃지 않지. [공격]
+qstr_Salve._May_the_gods_|축복이 있으라. 옛 바쿠스의 신들이 당신을 굽어 살피기를.
+qstr_And_may_the_gods_of_|펜도르의 신들도 당신을 살펴볼 겁니다. 친구여.
+qstr_Tell_them_yourself._|본인부터 축복하지 그래. [공격]
+qstr_Ave_Legate!_May_your|반갑습니다, 결속된 자여! 당신의 부대는 늘 질서 정연하고 규율이 바르군요. 
+qstr_Thanks._We_are_striv|고맙습니다. 저희는 당신의 빛나는 모범적인 행동들을 배우고자 노력하고 있습니다.
+qstr_Indeed._Make_yoursel|그럼, 직접 보여줄테니 준비나 하시지. [공격]
+qstr_Salinohaei_{playerna|Salinohaei, {playername}! Lergir vaes drethargll... 오 시ㅂ... 아, 안녕하시오. 요즘 놀도르 언어를 배우는 중입니다.
+qstr_Adar_lir_Hieth!..._O|Adar lir Hieth!... 오, 이래봤자 난 그저 인간일 뿐이지. 우린 놀도르들을 만나길 바라고 있습니다. 당신은 그들에게서 많은 것을 배울 수 있을거에요.
+qstr_Amazing._I_wish_you_|놀랍군요. 당신의 노력이 결실을 맺길 바랍니다.
+qstr_Have_you_already_lea|넌 놀도르의 언어로 '죽음'이라는 말을 배웠나? [공격]
+qstr_You_have_about_ten_s|니 놈의 두개골을 부셔버리지 않을 이유를 말하는데 10초를 주지! 
+qstr_Ahh...yes_excuse_me.|아... 그래요, 실례합니다. 다른 어딘가에 약속이 있는게 방금 기억나서요.
+qstr_Well_you_had_two_and|글쎄, 너한테는 2초를 줬는데 벌써 지났네. 이제 넌 죽는거야! [공격]
+qstr_I_would_love_to_chat|이야기를 더 나누고 싶지만, 저 앞에서 연기가 피어오르는 걸 목격했습니다. 새벽 놈들은 무고한 사람들을 횃불에 불태우는 걸 절대 주저하지 않는 듯 하군요.
+qstr_How_horrible!_Don_t_|얼마나 끔찍한지! 당신을 막아서지 않겠습니다. 어서 가시지요.
+qstr_The_Dawn_is_the_leas|지금 당장은 새벽이 니 녀석에게 큰문제가 아닐텐데. 전군 공격! [공격]
+qstr_Greetings._Have_you_|반갑습니다. 혹시 주위에서 이교도 무리를 보지는 못하셨습니까? 저희는 그들을 학살... 아니, 처리 하라는 명령을 받았습니다.
+qstr_Sorry_I_have_encount|아뇨, 죄송하지만 저와 마주친 자들은 없어요. 계속해서 살펴보시는게 좋을 것 같군요.
+qstr_Not_before_I_have_ta|내가 너희를 먼저 처리하기 전엔 어림도 없지! [공격]
+qstr_Forgive_my_bluntness|직설적인 언행에 대해 양해바라오. {reg63?경:부인}, 하지만 우린 누군가를 기다리고 있소. 갈길을 서두르는 게 좋을거요, 이왕이면 빨리.
+qstr_If_you_say_so_sir_kn|그리 말한다면, 그렇게 하지요. 기사님. 좋은날 되세요.
+qstr_I_am_afraid_your_app|유감스럽지만 당신의 약속은 미뤄야 겠군. 나를 먼저 상대해 보라구! [공격]
+qstr_May_Astraea_Goddess_|정의의 여신 아스트레이아가 당신을 멀리서 지켜보기를, {playername}.
+qstr_Thank_you_good_sir._|고마워요, 그녀도 당신을 지켜볼겁니다.
+qstr_She_can_certainly_wa|그녀는 내가 널 찢겨 버리는 걸 확실히 지켜볼 수 있을거야! [공격]
+qstr_These_lands_of_yours|당신의 영지는 무척이나 아름답군요. 아직 사교도가 이곳을 전부 오염시키지 않은 건 행운입니다.
+qstr_Well_said_and_well_|그렇게까지 말해주시다니, 과찬입니다. 그들로부터 이곳을 지켜내기 위해 온 힘을 다하고 있습니다. 이만 작별할 시간이군요, 친애하는 경.
+qstr_Oh_luck_has_little_t|오, 행운을 그런데 쓰진 않았는데. 이리와, 알게해주지! [공격]
+qstr_We_are_the_Knights_o|우리는 불사조 기사단이다! 네 용건을 밝혀라.
+qstr_Forgive_me._I_was_me|용서하시지요. 단지 궁금했을 뿐입니다. 이런 일엔 너그러움이 없으시군요.
+qstr_I_dont_like_your_to|말투가 맘에 안드는군. 버릇을 고쳐줘야겠어! [공격]
+qstr_We_have_seen_our_hom|우리는 고향이 잿더미로 변해 버린 것을 바라봤지만, 꿋꿋이 일어나 원수들에게 복수했습니다. 당신같은 부류들은 두렵지 않습니다.
+qstr_The_tale_of_your_hom|당신 고향의 이야기는 절 슬프게 하는군요. 아마도, 언젠가, 펜도르의 사람들이 재건을 도울 수 있을 겁니다.
+qstr_We_all_make_mistakes|우리 모두가 실수를 하곤 하지. [공격]
+qstr_You_are_lucky_strang|운이 좋군, 이방인. 보통은, 우리가 습격하기 전에는 그림자 늑대를 볼수 없는데 말이야.
+qstr_I_see._Hopefully_you|운좋게도 전 보게 되었군요. 당신네 형제들은 결코 절 따라올 필요가 없을겁니다.
+qstr_Spoken_like_a_true_c|진정한 겁쟁이로군! 내가 습격할 땐, 네 녀석이 다가오는 날 보게 될거야. 지금처럼! [공격]
+qstr_You_do_not_look_like|너는 뱀들과 결탁한 것처럼 보이지는 않는군. 썩 물러서라! 네 도움은 필요없다.
+qstr_Good_luck_finding_al|그런 태도로도 아군이 생기는 행운을 빌겠습니다.
+qstr_Maybe_you_will_recon|너의 부하들이 주변에서 죽어나갈 때 다시 생각하게 될 것이다! [공격]
+qstr_You_are_not_our_chos|넌 우리가 고른 먹잇감이 아니군. 원하는 게 뭔가?
+qstr_I_was_merely_passing|단순히 지나가던 길이었어요. 실례합니다.
+qstr_Right_now?_Your_head|바로 지금? 네 머리에 창 꽂기! [공격]
+qstr_We_came_to_this_land|우리는 동맹을 찾기 위해 이 땅에 왔습니다. 아직까진, 깊은 인상을 받지 못했습니다.
+qstr_There_are_many_fine_|펜도르에는 많은 전사들이 있습니다. 계속해서 찾는다면 원하는 결실을 볼 수 있을 겁니다.
+qstr_To_arms!_Let_us_show|전투 준비! 이 개새끼들에게 진정한 펜도르인의 전투를 보여 주자! [공격]
+qstr_The_Feuding_Father_h|원한의 아버지께서는 아직 너를 소환하지 않으셨다. 그런데 왜 그분의 명령을 받드는 우리를 멈춰서게 한거지?
+qstr_I_meant_no_disrespec|무례를 범할 의도는 없었습니다. 부디 안전한 여행을 하시길 바랍니다.
+qstr_Enough_people_have_d|네 손에 죽어나간 사람은 이제 충분해. 이번엔 네 차례인거 같군! [공격]
+qstr_The_Bahadur_Khan_mig|바하둘 칸이 우리의 오랜 권리인 복수를 법으로 금지했다 하더라도, 신의 율법은 인간의 법 위에 있기 마련이지.
+qstr_I_am_not_sure_the_Ba|바하둘 칸이 동의할진 모르겠지만, 행운을 빕니다.
+qstr_Spoken_like_a_true_f|진짜 광신도처럼 말하는군. 네가 사라지면 펜도르는 더 살기 좋겠지! [공격]
+qstr_Greetings._Do_you_ha|안녕하시오. 결착을 내고 싶은 원한이 있소?
+qstr_What_no!_I_settle_my|뭐, 아니요!내 원한은 스스로 처리합니다.
+qstr_Actually_my_quarrel_|사실은 말야, 내 불만은 바로 너야! [공격]
+qstr_If_you_are_not_the_b|네 녀석은 짐승이나 우리가 노리는 놈들도 아닌데, 왜 우릴 멈춰 세운거지?
+qstr_My_apologies_I_dare_|죄송합니다, 당신의 사냥을 방해할 생각은 추호도 없습니다.
+qstr_To_be_blunt_those_ar|까놓고 말해서, 그녀석들만 사냥을 당하는게 아니거든!! [공격]
+qstr_Well_met_{playername|마침 잘 만났습니다, {playername}님, 이런 힘든 시기에 {s5}의 친구를 만나는 건 좋지요. 
+qstr_Hail_good_{reg63?sir|반갑습니다, {reg63?경:부인}! 당신의 지휘 하에 있는 충직한 자들과 순찰하러 나가기에 좋은 날이군요, 그렇지 않나요?
+qstr_Ah_{playername}_what|아, {playername}님, 정말 우연의 일치네요. 우린 오늘 아침에 기사단장과 당신에 대해 대화를 나눴습니다! 당신도 아마 {s5}이(가) 가끔 우리의 적들에게 지원금을 보내는걸 알고 있을테니, 우리를 도울 사람은 당신같은 {reg63?남자가:여자가} 적임자 겠군요.
+qstr_Good_day_{playername|좋은 날입니다, {playername}님. 저희는 인근 마을 사람들을 호시탐탐 노리는 침입자들과 도적들을 경계하고 있습니다. 저희가 그놈들을 정의로 벌하는 걸 발견했을 때, 도와 주시면 감사하겠습니다.
+qstr_Hail_traveler!_Be_wa|반갑습니다 여행자여! 마을 외곽에서 이방인의 공격이 보고되었으니 부디 조심하시오. 보호가 필요하다면, 우리와 가까이 있으오.
+qstr_State_your_business_|네 용건을 밝혀라 이방인.
+qstr_Hold._What_is_your_b|멈춰라. 레이븐스턴엔 무슨 용무인가?
+qstr_Our_business_is_deat|우리의 용건은 죽음이야, 너의.
+qstr_Och_aye_we_re_people|아 네, 우리는 레이븐스턴의 시민들입니다. 동무? [떠나기]
+qstr_Be_quick_our_mission|서둘러라, 우리 임무는 긴박하다. 
+qstr_Your_date_with_death|네 죽을 날이 더 긴박하다! 돌격!
+qstr_State_your_business_o|용건만 밝혀라, 아니면 떠나든지. 우리는 왕을 위해 임무 수행 중이다.
+qstr_All_hail_{playername}|반갑습니다 명예로운 {playername}님, 펜도르의 정당한 지도자여!
+qstr_My_apologies_please_t|사과드립니다, 가던 길 가시지요. [떠나기]
+qstr_Remember_our_order_s|우리 기사단의 이름을 기억해라, {playername}, 무모한 짓을 하기 전에 말이지.
+qstr_Indeed_I_do._It_cont|실제로 하고 있지. '멸자'가 들어가 있고, 접두사는 신경도 안써.
+qstr_Well_well_we_shall_t|음, 알겠어요, 언젠가 불멸을 시험해볼 겁니다. [떠나기]
+qstr_You_had_better_be_hu|우리의 소중한 시간을 낭비시키는 대신 사교도들을 사냥하는게 더 나을거요. 썩 물러가시오.
+qstr_In_fact_I_think_I_ju|실제로는 네가 혀짧은 소리 내는걸 들은 것 같은데. 무기를 들어라!
+qstr_You_re_probably_righ|아마도 당신이 그렇게 할겁니다. 모두들 이만 가자. [떠나기]
+qstr_The_desert_whispered|사막이 우리에게 네가 가까이 있다고 속삭였다. 사막은 결코 틀리지 않는다.
+qstr_Then_it_should_have_w|그럼 우리로부터 멀리 떨어져 있으라고 경고했어야 했는데 말이지!
+qstr_The_wisdom_of_the_de|사막의 지혜는 참으로 깊군요. [떠나기]
+qstr_What_is_more_ancient|우리의 발 아래에 있는 모래보다 더 오래 된 것은 무엇인가? 바로 사막과 같은 드'샤르다, 그들은 결코 죽지 않지.
+qstr_Maybe_I_should_help_|그렇다면 제 갈길을 가도록 도와야 할지도 모르겠군.
+qstr_May_the_D_Shar_last_|드'샤르가 영원히 남기를. [떠나기]
+qstr_Speak_quickly_for_my|용건이 있으면 서둘러 말해라, 내 분노는 서늘한 여름 바람보다 거센 폭풍에 더 가깝다.
+qstr_Even_a_storm_will_no|폭풍일지라도 내 분노에서 너를 보호하지 못할텐데.
+qstr_You_would_do_well_no|넌 폭풍의 다리를 놓는 그녀의 임무를 방해하지 못할 것이다.
+qstr_This_may_be_a_rather|그 작업은 기한없이 꽤 오래 중단될 수도 있겠는데. 
+qstr_Apologies_I_will_lea|사과드립니다, 평화롭게 당신 곁을 떠나드리지요. [떠나기]
+qstr_We_are_clearing_this|우리는 반역자들의 땅을 정화하고 있다. 최근 이곳에서 퍼져나간 소문들이 있더군.
+qstr_And_you_found_them!|당신은 이미 그들을 찾은 것 같군!
+qstr_Good_luck_in_your_se|당신의 조사에 행운을 빌어드리지요. [떠나기]
+qstr_What_do_you_want?_We|원하는 게 뭐야? 우리는 사업 중이고 '시시껄렁한 잡담'을 나누는 것은 계약에 명시 된 적이 없으니, 서둘러서 말하도록.
+qstr_If_you_have_a_contra|계약을 맺었다면, 계약금을 받았겠지. 그렇다면 이제 우리가 이익을 남길 시간이다, 무기를 들어라!
+qstr_What_do_you_want?_Yo|대체 원하는게 뭐야? 네 대가리에 걸린 현상금은 없으니 갈 길 가시지, 하층민 새끼야!
+qstr_I_don_t_but_you_do.|나는 아니지만 네 녀석에게 걸렸던걸.
+qstr_Nothing_we_were_just|아무일도 아닙니다. 그냥 궁금해서 그랬어요. [떠나기]
+qstr_Keep_your_hands_wher|손이 우리 시야에 보이도록 유지해라, 방랑자. 너같은 거지새끼 때문에 위험을 감수하기엔 우리가 너무 귀한몸이니까.
+qstr_Vagrants?_I_ll_have_|거지새끼? 거지한테 네 머리나 적선하시지!
+qstr_Quite_right_you_can_|확실히 그렇죠, 그렇게 주의할 필요가 있는 거지요. [떠나기]
+qstr_Careful_wanderer_the|조심하시오 방랑자여, 발밑에 많은 위험이 도사리고 있소. 우리가 알고 있는 것을 우리가 아는 위험, 우리가 아직은 알고 있지 않은 것을 우리가 아는 위험, 우리가 알고 있는 것을 우리가 알고 있지 않은 위험, 그리고 마지막으로 가장 위험한 것은, 우리가 알고 있지 않을 것을 우리가 알고 있지 않은 위험일세. 자, 당신은 어느쪽이오?
+qstr_Ow!_You_make_head_hu|와! 당신 머리를 다쳤군. 나는 알고 있지, 당신 머리를 내리치면 낫는다는 것을.
+qstr_And_there_are_some_d|그럼 결국 그런 위험들은 당신에게 위협이 안되는 위험들이군요. [떠나기]
+qstr_Ho_there_traveler_we|이봐 거기 여행자, 우린 사교도를 찾고 있다. 그를 본적이 있나?
+qstr_You_infer_that_I_am_|너는 날 사교도로 알아본거야? 그 경솔함에 대한 대가를 치뤄야 할거야!
+qstr_Yes..._he_was_headin|네... 그는 서쪽으로 향했고 열심히 말을 몰고 있었어요. [떠나기]
+qstr_Ho_there_traveler_ha|어이 거기 여행자, 붉은 전염병에 대해 새로 들은 소식이 있는가?
+qstr_No_but_you_have_just|아니, 하지만 넌 훨씬 더 치명적인 '무언가'를 우연히 발견한 것 같은데!
+qstr_No_this_area_seems_t|아뇨, 이 지역은 질병이 없는 것 같아요. [떠나기]
+qstr_Company_HALT!_Who_ar|부대, 정지! 우리 앞길에 있는 네녀석은 누구냐, 하층민이여.
+qstr_We_have_you_surround|우리는 널 포위했다, 하층민이여. 누구인지 밝혀라 아니면 여기 숨어 있는 대부분의 놈들과 같은 악당이라고 여길테니까.
+qstr_We_are_also_looking_|우리도 부랑자들과 도적들을 찾고 있습니다. [떠나기]
+qstr_Peasant?_I_will_have|하층민? 너에게 기본 매너를 좀 가르쳐 줘야겠는데!
+qstr_You_look_like_you_re|넌 뭔가 죄가 있는 것처럼 보이는군, 하지만 모든 사람들이 필연적으로 그러하지, 그 사실을 알아챘든지 못했든지. 
+qstr_The_only_guilty_part|여기서 죄있는 무리는 네놈들 뿐인데, 자신의 과오나 실토 하시지!
+qstr_You_have_to_prove_th|당신은 우리의 죄를 증명해야 하겠지만, 그전에 우린 떠날 겁니다. [떠나기]
+qstr_Look_deeply_into_the|불속을 깊이 들여다 보십시오, 그러면 우리는 당신 죄의 경량을 결정할 것입니다.
+qstr_I_see_only_death!|오직 죽음만이 보인다!
+qstr_I_see_the_glory_of_A|아스트레이아의 영광을 보았습니다! [떠나기]
+qstr_Hello_there_{reg63?bro|반갑습니다 {reg63?형제여:자매여}, 우리는 지역의 가난한 사람들에게 나눠 줄 구호품을 받기 위해, 근처에 있는 마을로 가고 있습니다. 어째서 이 중요한 임무를 막아 서는 겁니까?
+qstr_Lies!_You_are_just_r|거짓말! 단지 계속해서 놀도르를 도살하기 위한 돈을 모으고 있는 거잖아.
+qstr_You_there!_Aydar_lea|거기 너! Aydar lear Heaf! 그걸로 뭘하려 하는거지, 응?
+qstr_It_s_pronounced_Adar|Adar lir Hieth 로 발음하는거다. 이 머저리야.
+qstr_Sorry_I_don_t_speak_|미안하지만 난 누구처럼 헛소리하지 않아서 말이지. [떠나기]
+qstr_Legionarii_formatio_|Legionarii, formatio defensiva! - 당신은 누구며 왜 군단의 소관에 간섭합니까?
+qstr_Ad_Signa!_Scuta!_Gla|Ad Signa! Scuta! Gladii! - 엉뚱한 짓 하면 미간에 창이 꽂힐거야, {playername}!
+qstr_Your_Baccus_gibberis|네 녀석의 허튼 바쿠스어가 죽음으로부터 널 지켜주진 못할텐데. 
+qstr_No_reason_to_form_a_|방패의 벽을 형성할 이유는 없는데 말이에요, decurio. 우리는 갈 길 가겠습니다. [떠나기]
+qstr_Don_t_think_we_did_n|우리가 네가 오는 걸 못 들었다고 생각하지 마시지. 네 숨소리는 커서 몇마일 떨어진 곳에서도 들리니까.
+qstr_At_least_I_ll_still_|최소한 널 죽이면 숨을 쉴 수 있겠네.
+qstr_What_do_you_want?_Ou|원하는게 뭡니까? 엘프 동맹이 우리에게 준 모욕에 대한 보복을 할 것입니다!
+qstr_Pity_there_will_be_n|가여워라, 아무도 그 소식을 전할 수 없을텐데.
+qstr_It_s_nothing_just_gi|아무것도 아닙니다, 그냥 제 안부나 전해주세요. [떠나기]
+qstr_So_you_have_chosen_t|당신도 역시 저항하며 싸우기로 결정했군요. 용감 하지만, 어리석군요.
+qstr_You_are_quite_sure_o|자기 자신에 대해 꽤 확신하는군. 그럴 수 있을 때 즐겨. 오래가진 않을 테니까!
+qstr_[Leave]|[떠나기]
+qstr_Let_me_guess:_you_ha|제가 추측해보길, 당신은 사악한 새벽의 기사단에 대해 모두 들어봤겠군요, 흉악한 범죄와 불경한 짓거리를, 그리고 대지의 표면에서 우리를 해치우기 위해 지금 여기에 왔겠군요. 사람들이 거짓 소문과 풍문만을 근거만으로 살인을 저지른다는 것은 너무나 슬픈 일입니다.
+qstr_I_will_not_be_swayed|네 녀석이 결백하다는 쓸데없는 주장에 휘둘리지 않겠다.
+qstr_Maybe_I_have_rushed_|당신의 기사단에 대해 경솔한 결론을 성급히 내린 것 같군요. [떠나기]
+qstr_I_am_tired_of_being_|나는 자칭 심판자들과 소위 말하는 영웅들에게 괴롭힘을 당하는 것에 지쳤습니다. 당신은 나와 내 하수인들을 악의 축이라 여기겠지요? 좋습니다, 내 기사단의 적들에 의해 짜여진 이 거짓각본을 위해 당신의 목숨을 버려요, 허나, 자신이 심각한 실수를 저지르고 있다는 것은 알아차리시오.
+qstr_We_all_make_mistakes.|우리 모두 실수를 하지. 유일한 차이점은 그럼에도 나는 살아갈 수 있다는 것.
+qstr_Fine_you_may_leave_f|좋아요, 지금 당장 떠나도 좋습니다. [떠나기]
+qstr_Look_at_this_brother|저들을 봐요, 형제님. 우리의 추적이 끝난 것 같군요. 이제 적들이 우리에게 다가와요, 마치 도살장에 끌려오는 양들처럼. 확실히 우리는 축복 받았군요.
+qstr_Maybe_this_lamb_will|아무래도 그 양은 양의 탈을 쓴 늑대가 되겠군. 무기를 들어라!
+qstr_You_think_I_am_going|내가 그렇게 쉽게 움직여 줄 거라고 생각해? [떠나기]
+qstr_Interesting._Normall|흥미롭군요. 일반적으로 사람들은 비명을 지르고 두려움에 떨며, 우리에게서 도망치기 위해 본인이 할 수 있는 모든 것을 하지만, 당신은 그렇지 않네요. 당신이 용감한지, 바보인지, 아니면 단순히 죽고 싶은건지 의문이 드네요.
+qstr_You_better_get_used_|익숙해지는 게 좋을 거다. 오늘 네놈의 이 땅에 대한 공포의 통치가 끝났으니!
+qstr_I_am_beginning_to_th|슬슬 뭔가 잘 못 됐다고 생각되는데. 실례하겠습니다. [떠나기]
+qstr_It_seems_the_Goddess|여신님이 널 불쌍히 여겨 주신 것 같군, {playername}. 운이 좋게도, 우리는 지금 다른 먹잇감을 찾고 있다. 길에서 당장 비켜라, 그러면 너와 네 부대원들은 다치지 않을 것이다.
+qstr_So_I_will_not_only_r|그렇다면 난 너희들을 이 세상에서 쫓아낼 뿐만 아니라, 네 녀석 먹잇감도 구하는거네.
+qstr_I_agree_to_your_term|당신 말에 동의합니다, 기사님. 우린 다른 날에 싸우게 될 겁니다. [떠나기]
+qstr_We_have_come_to_thes|우리는 숭고한 영혼을 찾아 이 땅에 왔다. 대신에, 너 같이 사악한 영혼을 만나고 있지만!
+qstr_You_should_have_neve|절대 이 땅에 발을 들여놓지 말았어야 했는데 말이지!
+qstr_What_a_pathetic_bunc|이 얼마나 한심한 자들인지. 그럼 계속해 보세요, 긴 시간동안 의미 없는 탐색을 지속하면서. [떠나기]
+qstr_We_have_risen_from_t|우리는 과거에도 한번 잿더미 속에서 일어섰다. 네 멋대로 굴어봐라 악마야!
+qstr_Well_since_you_asked|그래, 친절하게도 부탁하시니...
+qstr_Get_out_of_my_sight.|내 눈에서 꺼져. 이미 박살난 건 또 부수고 싶진 않으니까. [떠나기]
+qstr_We_have_come_to_these|우리는 숭고한 영혼을 찾아 이 땅에 왔다. 대신에, 우린 널 찾았지!
+qstr_We_have_no_wish_to_f|당신과 싸우고 싶지 않지만, 그래도 도전한다면, 우리가 이전에 잿더미에서 일어선 적이 있다는 걸 알아두시지.
+qstr_Well_since_you_asked_|그래, 친절하게도 부탁하시니... 무기를 들어라!
+qstr_Do_your_worst_snake_|네 멋대로 굴어봐라, 뱀의 노예야. 우리는 최후의 한 사람까지 싸울것이다!
+qstr_If_you_insist...|네가 그리 말한다면야...
+qstr_Fight_you?_Please_yo|너와 싸워? 오 제발, 강아지들한텐 수고할 만한 가치조차 없다고 [떠나기]
+qstr_We_are_used_to_being|우리는 사냥감이 아니라 사냥꾼 입장에 서는 게 익숙하지. 적의를 보이는 것에 대해 훌륭한 설명을 해 주시는 게 좋겠군!
+qstr_Most_certainly._My_b|물론이지. 비록, 내 검이 모든 걸 말해줄거지만!
+qstr_Not_really._I_just_t|사실 그런 뜻이 아니었습니다. 당신이 검은 갑옷을 입은 게 수상쩍어서 그랬을 뿐이에요. 피 볼건 없죠. [떠나기]
+qstr_Have_you_come_to_pur|당신은 우리 기사단과 함께 원한을 추구하러 오셨나요? 전 그뜻을 존중합니다.
+qstr_Your_respect_means_n|네 존경심은 내게 아무런 의미가 없는데 말이야. 죽을 각오나 하시지.
+qstr_Your_disregard_for_l|네 생명에 대한 경시가 나를 화나게 하는군. 난 다른 선택지가 없을 때만 죽이거든. [떠나기]
+qstr_Did_you_honestly_thi|당신은 진정으로 우리가 수많은 병사들로 둘러싸인 당신을 쫓을 거라고 생각했나요? 언제나 다른길이 있기 마련입니다, 아시죠?
+qstr_You_will_not_get_tha|네놈은 그런 길도 찾지 못할거야. 무기를 들어라!
+qstr_I_will_be_ready_for_|기대하도록 하지, 겁쟁이 녀석아. 당장 내 눈앞에서 사라져! [떠나다]
+qstr_The_Beast_is_out_the|사냥당하길 기다리는 괴물들이 바다에 도사린다. 대신에, 우리는 여행하며 다른것을 찾고 사냥한다... 땅 위 엘프들 말이지.
+qstr_Shame_it_s_too_bad_y|저런, 땅 위에서 죽는다는게 참 안됐어.
+qstr_May_your_hunt_be_les|자비없는 바다보다 당신의 사냥이 덜 고되길 빕니다. [떠나다]
+qstr_What_do_you_want_{pl|원하는 게 뭔가요, {playername}? {s5}에 대항하는 당신의 모욕적인 발자취에 이젠 범죄 경력까지 더하겠다는 건가요?
+qstr_Stand_down_mendicant|물러서시지, 탁발 수도사. 너희 오합지졸 폭도들은 {s5}의 귀족에게 전혀 무섭지 않으니까.
+qstr_{playername}!_You_ca|{playername}! 넌 오늘 우리와 전투를 벌여 지거나 이곳을 떠나 {s5}에 배상할 할 수 있다. 현명하게 처신하시지.
+qstr_We_would_rather_peri|온종일 부랑자에게 쫓기는 것보다는 차라리 영광으로 죽는 편이 낫겠다. 빠르게 정렬하라, 돌격 명령을 내리기 전까지
+qstr_Look_men_here_comes_|봐라, 모두들, 악명높은 약탈자에 노상강도로 유명세를 탄 {playername}, 그가 몸소 이곳에 와줬잖아. 의심할 여지가 없는 {s5} 차림새로 말이지. 넌 그것을 받아들여야 할거다. 우리의 차갑고, 죽음의 온기가 느껴지는 손길로 말이지.
+qstr_Blood_and_thunder_we|피와 천둥이 몸서리칠 정도로 날뛰던 {reg63?그자군:그녀군}! 넌 이곳 인민들에 의해 반역죄로 기소되었고...
+qstr_Ravenstern._Yes_yes.|레이븐스턴. 그래, 그래. 싸울 수 있을 때 한판 붙어보자고.
+qstr_Halt!_You_are_charge|멈춰라! 넌 왕에 대한 반역죄로 기소되었다!
+qstr_Curses..._you_caught|Curses... you caught us.
+qstr_By_order_of_Marius_I|마리우스 황제의 명과 다미아 프로비디아의 축복에 따라 너에게 죽음을 선고한다.
+qstr_You_will_die_as_the_|너는 잘난 척하는 바보녀석처럼 죽을 것이다.
+qstr_The_desert_brings_de|우리를 존중하지 않는 사람들에게는 사막이 죽음을 초래할 것이다, 우리가 그래왔듯이 말이야.
+qstr_I_have_more_to_fear_|난 너보다 전갈에 대한 두려움이 더 크다!
+qstr_You_should_fear_the_|넌 폭풍이 오는 것에 대해 두려워 해야하며, 천둥이 널 패배시킬거고, 뒤이어 번개가 널 주저눕히겠지.
+qstr_Then_it_will_have_to|그렇다면 그것에 정말 화가 치밀어야만 정상이겠지!
+qstr_Halt!_You_are_charged|멈춰라! 넌 예언된 펜도르의 지도자에게 반역죄를 저질렀다. 반역죄에 대한 처벌은 죽음이다!
+qstr_Stop!_I_AM_the_proph|Stop! I AM the proph-
+qstr_Surprised_to_have_be|여성 기사에게 잡혀 놀란 적이 있나요? 이 플레이트 갑옷은 전장에서 생기는 무수한 흠집에 익숙하죠, 그러나 당신의 머리에 걸린 현상금은 새 갑옷을 맞출 금액보다 더 비쌀 것 같군요.
+qstr_Let_s_see_how_that_a|팔과 다리가 없으면 갑옷이 얼마나 어울리는지 봅시다... 아니면 머리?
+qstr_Hold_fast_there!_Pen|당장 그자리에 멈추시지! 펜도르는 성취와 진보의 황금기를 누려야만 합니다. 당신 같은 머저리들 때문에 지식의 불꽃이 사그러지고 거의 사라질 뻔했죠. 우리는 그것이 완전히 소멸되도록 놔두지 않을 겁니다. 그리고 숨을 돌릴 수 있게 해주는 안도의 숨결이 당신들의 죽음을 불러 올 거예요!
+qstr_It_will_be_your_last|대신 네가 이 자리에서 마지막 숨을 거둘 거야, 멍청아. 너 자신이나 지켜라!
+qstr_Halt_Cultist!_You_ha|멈춰라 광신도녀석아! 너는 붉은 전염병을 퍼뜨리려고 음모를 꾸민 혐의로 기소되었고, 너의 행동에 대한 대답을 받을 것이다!
+qstr_Hold_scum._We_will_n|멈춰 이 쓰레기야. 우리는 광신도들이 더는 펜도르를 타락시키고 고통스럽게 하지 않게끔 지켜낼 것이다!
+qstr_This_is_hardly_a_fai|이건 공정한 재판이 아니에요, 난 범죄자가 아니...
+qstr_Up_and_at_them_chaps|모두들 고개를 들어 그들을 응시해라!
+qstr_...|...
+qstr_Astraea_will_see_thi|아스트레이아께서 불꽃이 이 세상을 깨끗이 씻어 내는 걸 볼것이다. 나는 그녀의 불 쏘시개이다. 난 너에게 불꽃을 붙일 것이다.
+qstr_Defend_yourselves!|너 자신이나 지키시지!
+qstr_Astraea_will_test_th|아스트레이아는 네 심장의 순수함을 불꽃으로 시험할 것이다. 저항한다면 그에 맞는 처벌을 받겠지. 
+qstr_To_arms!|무기를 들어라!
+qstr_There_they_are_lads!|그 새끼들이야! 엘프 성애자에 쓸모없는 배신자 개새끼들! 다 죽여버려!
+qstr_You_insulted_the_glo|당신은 영광스러운 바쿠스 제국을 모욕했고, 이교도 펜도르인이니, 곧 우리의 부대가 당신의 시체를 넘어 진군할 것입니다.
+qstr_Pendor_is_not_defeat|펜도르는 쉽게 패배하지 않는다. 지난 세기 동안 아무것도 배운 게 없나?
+qstr_Sedrath_aenelui_dane|Sedrath aenelui daneth! 이게 아니라 'aeneluth' 이던가요? 상관 없습니다. 맞춤법과 상관 없이 당신은 죽을 겁니다.
+qstr_I_fear_I_ll_die_of_l|널 도살하기 전에 내가 웃다가 죽을지 참 두렵구만.
+qstr_And_so_the_hunt_come|그렇게 사냥은 끝이 날겁니다. 당신이 원한다면 소리를 지를 수도 있겠죠. 사실, 나와 내 사람들은 그걸 선호합니다.
+qstr_Like_I_would_give_yo|내가 너에게 그런 만족감을 안겨주는 것처럼 말이지, 새끼야! 누군가의 비명 소리가 대기를 가른다면, 바로 너겠지! 
+qstr_I_don_t_know_what_yo|당신이 저녁의 기사들에게 어떤 무례를 범했는지 모르겠지만, 우리의 기사단장이 당신을 죽이라 명했고, 나는 복종할 뿐이오. 잘가시오, 이방인.
+qstr_So_much_blind_devoti|너무나 맹목적인 헌신이군요. 아마도 다음 생에서, 훌륭한 강아지가 되겠어!
+qstr_You_look_like_a_wort|훌륭한 적수처럼 보이는군요. 당신들이 싸움터에서 죽기를 기도드리니, 확언하건대, 죄인의 운명이 더 가혹하다오.
+qstr_Thank_you_for_lettin|알려 줘서 고마워. 네가 사슬에 묶여 있을 때 그 말을 똑똑히 기억해주지!
+qstr_Prepare_yourself_to_|아스트레이아의 이름으로 심판받을 준비나 해 두시지, {playername}. 오늘 이 자리에서 정의가 이루어진다!
+qstr_Justice_has_nothing_|정의는 아무 상관이 없어, 아무것도. 어디 한 번 끝을 보자.
+qstr_We_have_been_eager_t|우린 당신을 만나기를 고대하고 있었습니다, {playername}. 당신 안에서 울리는 공허의 목소리를 들을 준비는 되셨겠죠?
+qstr_No_I_am_afraid_I_can|아니, 네 피를 보고싶은 내 검의 소리때문에 차마 들을 수 없을 것 같군!
+qstr_We_could_have_been_a|우린 동맹이었을 수도 있었어, 멍청아! 너 스스로 자초한거야.
+qstr_Bring_it_on_chicken_|덤벼 봐, 겁쟁이 기사야!
+qstr_Your_death_will_brin|너의 죽음으로 애슨본 제국이 최후의 승리에 한 걸음 더 가까워질 것이다. 그걸 위안으로 삼아라.
+qstr_We_will_see_about_th|그런지 한 번 보자구. 무기를 들어라!
+qstr_You_have_been_found_|당신은 사교도와 결탁한 죄로 유죄 판결을 받았다. 이제 우리의 분노를 마주해라!
+qstr_Ridiculous!_I_harbor|웃기는군! 나는 사교도를 증오하는데. 아, 자기 병력이 많으면 모두 사교도로 보이긴 하겠네.
+qstr_And_so_the_hunt_comes|사냥이 끝이 나겠군. 전투 준비!
+qstr_Come_then_lapdog!_Le|자, 와라! 이 개새끼야! 붙어보자!
+qstr_{playername}_the_Feu|{playername}, 원한의 아버지께서 알현을 바라신다...
+qstr_I_am_afraid_he_will_|꽤나 기다려야 할거 같은데. 널 보내버리면 대신 전해줄 수 있겠지!
+qstr_Did_you_really_think|우릴 따돌릴 수 있을 줄 알았나? 넌 찍혔어 {playername}. 너의 목숨은 곧 박탈당할 것이다.
+qstr_Pity_you_are_not_as_|가엽군, 넌 사냥할 괴물큼의 값어치도 없지만, 네 두개골은 우리 배에 장식하기 좋겠어!
+qstr_The_only_skulls_that|네가 가질 두개골은 오직 크라켄 뿐이야!
+qstr_Stop_right_there_{pl|거기 당장 멈춰, {playername}! 넌 정말로 {s5}의 분노에서 벗어날 수 있다고 생각했나?
+qstr_At_last_we_meet_vagr|마침내 우리가 만났군, 부랑자 녀석들! 이제 넌 {s5}에 저지른 범죄에 대해 대가를 치르게 될 것이다!
+qstr_Greetings_{playernam|반갑네, {playername}. 너와 있을 땐 뜻을 굽히고 {s5}에 머리를 조아렸지만, 그들이 날 차기 단장으로 만들 거라는 확신이 드는군.
+qstr_A_glorious_battle_aw|영광스러운 전투가 기다리고 있다! {s5}의 경관들은 악명높은 {playername}을 제압하라! 행운을 빌어주지, 절실히 필요하게 될 테니까.
+qstr_Chased_down_like_a_r|토끼처럼 쫓기는군, 안 그래, {playername}? 우리가 네게 혹독한 교훈을 안겨주마! 누구도 {s5}에 대항하는 자는 살아남지 못한다.
+qstr__We_are_the_Jatu!_We| 우리는 위대한 자투의 일원이다! 내 랜스에 명예를 안겨줄 너의 죽음에 경의를 표하마!
+qstr__HAZAH_Jatu!_Prepare| HAZAH 자투! 전투 준비! 적에게 죽음을!
+qstr__Jatu!_Our_Lances_ar| 자투! 우리의 랜스는 날카롭고, 우리의 군대는 강력하도다! 공포를 느끼고... 죽어라!
+qstr__We_were_born_in_the| 우리는 말 위에서 태어났다, 하지만 너는 말 위에서 죽겠지!
+qstr_And_it_smells_as_if_| 그리고 네녀석이 안장에서 죽은듯한 냄새가 나는군! 무기를 들어라! 
+qstr__We_will_hunt_you_dow| 네놈을 추격해주마!
+qstr_I_am_not_impressed!_| 시시하군! 얼마나 활을 잘 쏘는지 한번 볼까!
+qstr__We_re_going_to_ride| 네놈을 말에서 떨어뜨려주마!
+qstr_And_it_smells_as_if_y| 그리고 네녀석은 안장에서 죽은듯한 냄새가 나는군! 무기를 들어라! 
+qstr_Ha!_It_looks_like_th|아! 메텐하임 수도 공방전이 재현된 것 같군!^ 도망도 못 가고 궤멸로 끝났지, 아, 궁금할까봐 말야, 그러니 네 말이 어디있는지 주시하도록!
+qstr_If_you_had_learned_h|네가 승마를 배웠다면, 너도 말을 가질 수 있었을텐데 말이야.
+qstr_I_have_fought_many_b|난 여러번 싸웠다. 온 사교도 군대가 나를 두려워 한다. 넌 단지 우유부단한 애송이일 뿐이지.
+qstr_Old_men_with_swords_|칼을 든 노인들은 뱀에 놀라는 경향이 있지. 진심으로 하는 말이야.
+qstr_The_Witch_Boadice!_T|마녀 보아디스! 이제 끝이다! 자매들이여, 전투다!
+qstr_Boadice_is_under_my_|보아디스는 내 보호아래 있다.네가 말하는 마녀사냥은 단지 정치적 목적을 위한 기만일 뿐이지. 네 사냥은 여기서 끝이지만, 네가 예상한 결말은 아닐거야.
+qstr_I_see_many_dead_men_|많은 죽은 자들이 걸어 다니는 걸 봤습니다, 사령관. 당신이 우리가 나약한 생존자를 어떻게 제거하는지 지켜보도록 최대한 살려두겠지만, 나와 내 자매들이 당신을 갈기 갈기 찢어버리기 위함입니다.
+qstr_You_remind_me_of_som|넌 내가 아는 누군가를 떠오르게 하는군. 꽤나 시발년인데 예의를 가르쳐줬지, 내가 지금 너에게 하려는 것처럼.
+qstr_Rufio_Vincente_de_Vi|빌랴비시오시아의 루피오 빈센트가 대령했소, 친구여, 현상금 수배지를 봤어야지요. 이제 여러분의 짐과 고운 장비를 넘겨 주십시요. 그렇지 않으면 여러분의 팔다리를 하나하나 찢어 버리고, 죽여 버릴테니까요.
+qstr_You_foreign_outlaws_|당신네 외국인 범죄자들은 펜도르의 상처 주위를 맴도는 파리로군. 네놈들이 이 땅에 오는것을 고려하기 전에 너를 예제로 만들어서 경고해야겠어.
+qstr_You_have_the_fleetin|당신은 루피오와 그의 유명한 빌랴비시오시아 연대를 만나게 된 순간의 영광을 누리고 있습니다. 내 무법자들은 살인 교습이 필요합니다. 그리 고통스럽진 않을 겁니다.
+qstr_I_am_{playername}_an|나는 {playername}, 그리고 여긴 바클레이가 아닌 펜도르다. 여기서 승리할 사람도 마찬가지야.
+qstr_In_the_name_of_the_M|멜리틴 제국의 이름으로, 네 모든 영지를 변방의 왕 카스팍스님에게 바쳐라. 복종하지 않는 자는 영지를 몰수당할 것이고, 십자가에 매달릴 것이다.
+qstr_I_don_t_parley_with_|난 외국인 침입자들과 협상하지 않는다. 친히 그들을 쫓아내주고 있지.
+qstr_Your_continued_insol|당신의 연이은 무례함은 용납되지 않을 것이다, 펜도르인이여. 너희들은 새 주인들에게 절을 하거나 죽는 것을 배울 것이다.
+qstr_I_am_{playername}_and|나는 {playername}, 그리고 여긴 멜리틴이 아닌 펜도르다. 여기서 승리할 사람도 말야.
+qstr__I_will_drink_from_y| 네놈의 두개골을 술잔으로 써야겠다!
+qstr__Today_the_gods_will| 오늘 신께서 너의 운명을 결정하실 것이다!
+qstr__That_s_a_nice_head_| 네 어깨 위에 달려 있는 머리가 탐이 나는군!
+qstr__Less_talking_more_r| 대화는 적게, 약탈은 많이!
+qstr__I_will_crush_your_p| 네놈들을 박살내서 내 앞에 끌고와 네놈들의 여자들이 통곡하는 소리를 들어야겠다!
+qstr___Come_face_me_on_th| 전장에서 나를 마주해라. 내 칼이 대신 대화를 할테니까!
+qstr__I_am_going_to_take_| 우선 네놈 뱃 속에 손을 쑤셔넣고, 그 다음 척추를 뽑아주마!
+qstr__When_this_battle_is| 싸움이 끝나면, 네 시체를 더럽히고 그 두개골을 술잔으로 써야겠다!
+qstr_Greetings_{playername| 반갑소, {playername}. 우리 숲은 위험하니 여행에 유의하시오.
+qstr_Well_met_friend_of_t| 만나서 반갑소 놀도르의 친구여. 최근에 흑단 장갑 짐승놈들을 죽이는 기쁨을 느껴본적이 있소?
+qstr_Hail!_We_are_hunting| 만세! 우린 자투를 사냥하고 있으니, 근처에 있으면 자투의 피로 우리의 유대를 돈독히 할 수 있을거요.
+qstr_Good_to_see_you_{pla| 만나서 반갑소 {playername}. 어제 군주 페어그웨나르께서 그대를 극찬하셨소.
+qstr_Hunting_down_forest_| 숲 도적들을 추적하느라 매우 지루하네만 우리 숲에서 당신처럼 교양있는 인간 종족과 마주치는건 반가운 일이지, {playername}.
+qstr_Salinohaei_{playernam| Salinohaei, {playername}. 당신을 알아봐서 다행이군. 만약 그렇지 않았다면 당신은 심장이 화살에 꿰뚫려 쓰러져 있을테니. 당신네 사람들도 무기를 내리는게 어떻겠는가? 아 그래, 나쁜 습관은 여간해선 사라지질 않지.
+qstr_Adar_lir_Hieth!_It_i| Adar lir Hieth! 만나서 반가웠소 {playername}.
+qstr_{playername}_unafae_|{playername} unafae Mael, vi Drael vae lunor sivensi Nael!
+qstr_Relvir_niae_Jatue_ae|Relvir niae Jatue aeneluth vae Noldor valneori daneth.
+qstr__Hai!_Dreth_Ael_Nold| Hai! Dreth Ael Noldor!
+qstr__Bah!_Noldor_Draleri| Bah! Noldor Dralerion vae savensir luith Drae! 물러나라 이방인이여!
+qstr__Hai!_Ael_vae_bandra| Hai! Ael vae bandrae? Bah!
+qstr__You_Humans_are_like| 너희들 인간은 오염된 구더기 같군!
+qstr__Tell_me_Human_do_yo| 말해라 인간, 우리에게 덤비는데 지친거냐? 내가 널 상대하는데 싫증난 것처럼!
+qstr__There_are_so_few_of| 수가 적군. 부디 상대하는 재미가 있길 바란다. 가엽구나!
+qstr__You_are_not_welcome| 넌 환영받지 못하니 떠나라 이방인!
+qstr__Come..._join_the_sw| 오세요... 영원의 자매님들과 달콤한 포옹을 나누세요!
+qstr__Your_fame_runs_befo| {playername} 당신의 명성은 익히 알고 있어요. 같이 저녁을 들도록 하죠!
+qstr__Hail_great_{playern| {playername} 당신을 진심으로 환영합니다. 경계할 필요 없어요. 여기 함께 앉아 깨달음을 얻어보죠!
+qstr__Hail_and_well_met_f| 반갑습니다 친구여. 우리가 말하고 싶은건... 어... 아... 오, 집어치워! 전투준비!
+qstr__Hmm_you_are_not_the| 흠? 당신은 내가 찾던 사람이 아니군. 하지만, 맥주는 충분... 흠... 음... 아닐지도. 검을 들어라 이 자식아!
+qstr__You!_Yeah_you!_What| 너! 그래 너말야! 뭘 봐? 내가 웃겨? 진짜 웃긴게 뭔지 가르쳐주지!
+qstr__I_have_taken_a_vow_| 나는 펜도르의 모든 위대한 전사들과 자웅을 겨루기로 맹세했다. 그들을 찾기 전에... 우선 너부터 상대해야겠군.
+qstr__Well_well!_Just_loo| 이런, 이런! 고양이가 뭘 끌고 온거야! 무기를 시험해볼까?
+qstr__Ah!_Hey!_Hey!_A_lit| 아! 이봐! 이봐! 작은 성의가 부대원들을 활기차게 만들걸세! 어서 해보게!
+qstr__I_have_sworn_to_con| 나는 내가 만난 모든 사람들에게 승리할 것을 선언했소. 당신은 도전하기에 충분치 못해 보이는군요. 하지만... 맹세는 맹세니까!
+qstr__We_came_here_to_mak| 운명이 우리를 여기까지 이끌었군요. 당신의 시체를 뒤지는 것은 우리에게 도움이 될 겁니다.
+qstr__It_won_t_do_much_fo| 네 녀석과 겨루기에는 위신이 안서는군. 그래도 너를 팔면 돈을 벌 수 있겠지!
+qstr__We_have_not_killed_| 오늘은 펜도르의 사람들을 아무도 죽이지 못 했는데 이런 기회를 줘서 고맙군!
+qstr__We_of_Mettenheim_ne| 우리 메텐하임 사람들은 도전을 피하지 않지. 죽을 준비는 되었나?
+qstr__Look_Girls_some_fre| 이런, 거세하기 좋은 놈들이 많네! 모든 남자를 생포하라!
+qstr__You_challenge_the_V| 베카비에게 도전하다니, 머저리야? 함부로 까불면 안 된다는것을 알려주지!
+qstr__You_risk_both_your_| 너도 알겠지만, 우리에게 덤빈다면 목숨과 남근이 남아나지 않을거다. 조심해라!
+qstr_Men!_Another_Pendori| 이보게들! 다른 펜도르인들이 우리에게 도전하길 원하는군. - {reg63?그:그녀}에게 멜리틴 군대의 용맹함을 보여주자!
+qstr_Have_you_ever_seen_t| 멜리틴 그리바나의 돌격을 한번이라도 본 적이 있나? 목숨이 두 개는 되야하지.
+qstr_We_are_on_a_lookout_| 우린 상륙하기 적합한 해변과 식량을 찾아 왔다. 멀리 피해가서 목숨을 부지해라.
+qstr_A_price_has_been_put| 네놈 머리에 상금이 걸려있기에 가지러 왔다!
+qstr_You_have_made_powerf| 자네는 강력한 적을 뒀더군, 친구. 그들은 충분한 대가를 지불했는데... 자네에겐 무척 안 된일이지.
+qstr_You_look_pretty_good| 넌 퍽이나 좋아보이는군. {reg63?남자:여자} 시체가 되기에 말이지!
+qstr_It_is_your_destiny_t| 네놈의 좋은 날이 다 끝나서, 발에 족쇄가 채워지고, 갤리선에서 죽어라 노를 젓는게 네 운명이겠지. 그리고 이렇게 돈을 버는게 내 운명이고 말야.
+qstr__Hail_outland_scum._| 반갑군 이 추방된 쓰레기들. 오늘 내 손으로 죽음의 군주를 만나게 해주지.
+qstr__How_opportune_that_| 오늘 여기서 만나다니 얼마나 시기적절한가 - 날 따라오는 시체매들이 굶주려 있거든.
+qstr__We_have_come_to_plu| 우리는 약탈을 위해 이 땅에 왔다! 도망치던지 죽던지!
+qstr__If_you_must_die_thi| 만약 네가 오늘 죽어야 한다면 이방인이여, 검을 손에서 놓지 말고 전사로서의 죽음을 보여라!
+qstr__May_your_death_be_g| 너에겐 영광스러운 죽음이 될 것이다!
+qstr__We_have_come_to_del| 우리는 여사제의 구원을 전달하기위해 왔다! 도망치거나 죽어라!
+qstr__You_look_like_a_wor| 너는 우리의 여사제에게 가치있는 제물이 될 것이다!
+qstr__So_YOU_are_the_snak| 그래서 너는 사교도를 싫어한다고? 먹어버려야겠군!
+qstr_Snakes..._I_hate_sna| 뱀... 나는 뱀을 싫어해... 허리띠하고 신발로 만든건 빼고... 넌 어때?
+qstr_I_promise_that_I_wil| 나는 마지막 남은 사교도까지 불태워 버리겠다고 약속했지.
+qstr__We_are_taking_back_| 네 귀족들이 우리에게서 훔쳐간 것들을 찾으러 왔다!
+qstr__Get_{reg63?him:her}| {reg63?그를:그녀를} 잡아라 제군들! 저 멀리 잘 나신 분들에게 충분한 경고가 되도록 {reg63?그를:그녀를} 매달아 두어라!
+qstr__At_{reg63?him:her}_| {reg63?그를:그녀를} 보라 제군들! {reg63?그를:그녀를} 발가벗겨 개의 먹이로 주어라!
+qstr__We_are_taking_back_t| 우리 시민들에게 그 땅을 되찾아주겠다! <딸꾹>!
+qstr__You_got_ale?_We_are| 맥주 있나? 우리는 도망 중이네 그리고 자네도 알듯이... 맥주없이는 달아나기 힘들지!
+qstr__Wanna_drink?_Or_may| 한 잔 할텐가? 아니면 한 판 하기를 원하나 자네?
+qstr__Thank_you_{reg63?m_| 감사합니다 {reg63?나리:아가씨}, 우리는 당신의 충직한 신하가 될 것입니다!
+qstr__Thank_you_{reg63?m_l| 감사합니다 {reg63?나리:아가씨}, 무례하게 굴려는건 아니지만 우리는 다른곳으로 가려 합니다.
+qstr_we_have_made_very_li| 우리는 지금까지 매우 미약한 진전을 이루었습니다.
+qstr_we_have_suceeded_in_| 우리는 약간의 땅을 확보에 성공했지만, 여전히 갈길이 멉니다.
+qstr_we_have_become_a_sig| 우리는 의미있는 힘을 소유했고, 이제 승리의 기회가 있습니다.
+qstr_we_are_winning_the_w| 우리는 전쟁에서 이기고 있지만, 적들은 아직 버티고 있습니다.
+qstr_we_are_on_the_verge_| 우리는 승리를 눈앞에 두고 있습니다. 남은 적들은 아무런 위협이 되지 않지만, 여전히 처리할 필요가 있습니다.
+qstr_My_weapon_slot_upgra|^무기 교체는 다음과 같이 하고 있습니다.{s15}
+qstr_Is_this_satisfactory| 만족합니까?
+qstr_Select_the_type_of_i| 어떤 종류의 아이템을 빈 칸에 넣을건지 선택하시오. {reg1}.
+qstr_This_companion_will_|이제 이 동료는 매 전투가 시작될 때마다 부대의 마지막 자리에 놓이게 됩니다.
+qstr_husband|남편
+qstr_brother|형제
+qstr_father|아버지
+qstr__{s12}_were_hired_by| {s12}은(는) {playername} {reg63?왕:여왕}에 의해 고용되었다!
+qstr_{s11}_is_upset.|{s11}은(는) 화가 났습니다.
+qstr_{s12}_is_upset.|{s12}은(는) 화가 났습니다.
+qstr_It_is_good_to_have_a| 믿음직한 동료를 두었다니 잘됐군.
+qstr_It_is_good_to_know_t| 두 사람이 매우 잘 지낸다니 잘됐군.
+qstr_Excellent_news_I_was| 좋은 소식이군. 혹여 싸우지나 않을까 걱정했었는데.
+qstr_That_is_good_to_hear| 듣기 좋은 소리군.
+qstr_It_is_good_that_some| 뒤를 봐주는 누군가가 있다는건 좋은 일이지.
+qstr_I_am_glad_you_approv| 같은 생각이라 기쁘군.
+qstr_{playername}_when_we| {playername}, 우리의 긴 여정이 시작되고, 소수의 사람들이 나에게 격려와 지지를 보냈습니다. 더 소수의 사람들은 내 일에 기꺼이 목숨을 걸었습니다. 게다가, 당신은 내 적들에게 돌격하는 것을 잠시도 주저하지 않았습니다. 우리가 함께 헤쳐나가면서, 모든 희망이 사라져간 때도 있었습니다. 하지만, 신의 도움으로 우리는 승리했습니다. 이제 시간이 되어 당신의 부대를 떠나, 정당한 내 권리를 취하겠습니다. 이제부터 나는 {s3}를 통치하는 막대한 책임을 이행하겠습니다. 우리 앞에는 여전히 많은 도전자들이 남아있고, 당신의 도움으로 극복해야 하는 많은 것들이 있습니다. 그리고 당연하게도, 당신은 언제나 나의 가장 중요한 가신으로 남을 것입니다.
+qstr_Here_are_the_results|육체 훈련의 결과:
+qstr_Strength|힘
+qstr_Agility|민첩
+qstr_{s14}^__Increased_th|{s14}^- {s15}이 {reg1} 향상해 {reg2} 가 되었습니다.
+qstr_I_am_sorry_there_wer|죄송합니다. 힘과 민첩 향상에 실패했습니다.
+qstr_Here_s_what_happened|훈련을 통한 무기숙련도 결과 :
+qstr_One_handed|한손무기
+qstr_Two_handed|양손무기
+qstr_Polearm|폴암
+qstr_Archery|활
+qstr_Throwing|투척무기
+qstr_{s14}^__{s15}_profic|{s14}^- {s15} 숙련도가 {reg1} 향상해 {reg2} 가 되었습니다.
+qstr_I_am_sorry_there_were|죄송합니다. 무기숙련도 향상에 실패했습니다.
+qstr_The_skills_were_incr|훈련을 통한 기술 결과 :
+qstr_Horse_archery|기마궁술
+qstr_Riding|승마술
+qstr_Athletics|운동능력
+qstr_Power_Draw|당기는 힘
+qstr_Power_Throw|던지는 힘
+qstr_Power_Strike|때리는 힘
+qstr_Ironflesh|단단한 피부
+qstr_{s14}^__{s15}_skill_| {s14}^- {s15} 기술이 {reg1} 향상해 {reg2} 가 되었습니다.
+qstr_I_am_sorry_there_were_| 죄송합니다. 기술 향상에 실패했습니다.
+qstr_Find_and_speak_with_{|{s4}의 {s3}을(를) 찾아 충성 맹세를 하게.
+qstr__We_will_of_course_n| 우리는 물론 왕국의 군사작전이 끝날 때까지, 기다릴 필요가 있네.
+qstr_^^_The_defeated_lord| ^^(패배한 영주는 당신과 왕국에 진정으로 감탄합니다)
+qstr_^^_You_have_a_feelin| ^^(패배한 영주가 당신의 왕국을 마음에 들어하는 듯한 느낌입니다)
+qstr_^^_The_defeated_lord_| ^^(패배한 영주가 당신을 조심스럽게 바라봅니다)
+qstr_^^_The_defeated_lord_l| ^^(패배한 영주가 당신을 증오스럽게 바라봅니다)
+qstr_I_am_{s4}_the_ruler_| 나는 {s6}의 통치자 {s4}
+qstr_I_am_{s4}_a_vassal_o| 나는 {s6}의 가신 {s4}
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5?이며 {s8}의 영주다. :
+qstr_You_have_decided_whi| 당신은 용의자들 중 누가 유죄인지 결정했습니다. 그리고 이제 살인자와 대면할 시간입니다.
+qstr_You_have_wrongfully_| 당신은 {s60}을(를) 부당하게 기소했습니다, 귀부인 유령과 다시 대화하세요.
+qstr__{s49}_{s50}| {s49} {s50}
+qstr_{s13}_asked_you_to_g| {s13}은(는) {reg3}마리의 소를 몰아 본인에게 데려올 것을 요청했습니다.
+qstr_{s9}_asked_you_to_sc| {s9}은(는) 당신에게 {s13}, {s14} 그리고 {s15}을(를) 정찰한 후 보고하라고 지시했습니다.
+qstr_shall_we|shall we
+qstr_you|you
+qstr_You_are_challenging_| 내게 결투를 신청한다고? 웃기는군! {playername} {reg63?네놈:네년} 뜻대로 해주지. {reg63?네놈:네년} 머리를 날려버리는건 좋은 놀이가 되겠군.
+qstr_{s16}_and_{s17}|{s16} 그리고 {s17}
+qstr_Very_well_I_will_acc| 아주 좋아, 자네가 한번 더 내게 장엄한 서약을 한다면 자네를 나의 신하로 받아 들이겠네.
+qstr_A_pardon_will_only_b|자네가 {s17}을(를) 나에게 양도 해야만 용서가 가능할 것이네. 내 조건에 동의하는가?
+qstr_No._There_is_no_chan|아니. 우리들에게 평화는 없을 것이네. 관심 없거든.
+qstr_{reg36}x_{s0}_have_jo|{reg36}x {s0} 이(가) 부대에 합류했습니다. 당신은 카베라의 미소를 눈치챘습니다. 지독한 사람...
+qstr_{reg36}x_{s0}_have_joi|{reg36}x {s0} 이(가) 부대에 합류했습니다.
+qstr_new_wealth_{reg33}|new wealth :{reg33}
+qstr__Perhaps_but_I_prefe|있을 수도 없을 수도 있지만 나는 소문이 널리 퍼지는걸 바라지 않네.
+qstr__I_am_a_prisoner_how|포로신세인 내가 소식을 아는게 어떻게 가능하겠소?
+qstr_I_would_even_pay_you|I would even pay you some extra, but I don't have any gold with me at the moment. Do have a deal?
+qstr_I_am_even_willing_to|I am even willing to pay you {reg61} denars in addition! So, is this a deal?
+qstr_Our_marshal_{s1}|우리의 사령관 {s1}
+qstr_{s11}_and_{s12}|{s11} 그리고 {s12}
+qstr_We_are_not_at_war_wi|우리는 누구와도 전쟁을 진행하고 있지 않소.
+qstr_We_are_at_war_with_{|우리는 {s12}과 전쟁 중이오.
+qstr_go_on_the_offensive_|'이제 공격할 차례다'
+qstr_act_to_defend_our_la|우리의 땅을 지키자
+qstr_take_more_time_to_ga|병사를 모집하는데 시간이 더 필요하오.
+qstr_nowhere|nowhere
+qstr_I_accept_oaths_only_|오직 내가 믿을 수 있는 자들만 맹세를 받아들이네, {playername}.
+qstr_I_accept_oaths_only_f|오직 영지를 빼앗은 않은 자들만 맹세를 받아들이네, {playername}.
+qstr_You_promised_to_help| 당신은 {s13}의 {s14} 왕권 탈환을 도와주기로 약속했습니다.
+qstr_What_do_you_say_to_e| 용병 대장으로 {s9}에 합류하는 것은 어떤가? 나는 자네가 능히 해내리라 의심치 않네.
+qstr_{s9}_asked_you_to_ta|| {s9}이(가) {s13}에게 서신을 전달해 달라고 요청했습니다. {s13}은(는) 당신이 이 요청을 받았을 때 {s4}에 있었습니다.
+qstr_{s9}_asked_you_to_tak| {s9}이(가) {s15}의 {s13}에게 서신을 전달해 달라고 요청했습니다. {s13}은(는) 당신이 이 요청을 받았을 때 {s4}에 있었습니다. 
+qstr_{s11}_asked_you_to_e| {s11}이(가) 그의 {s17}인 {s13}을(를) {s14}까지 호위해달라고 요청했습니다.
+qstr_{s13}_asked_you_to_d| {s13}은(는) {s15}마을을 점거한 도적들을 없앤 후 알려 달라고 요청했습니다.
+qstr_{s9}_asked_you_to_ra| {s9}이(가) {s14} {reg1}기를 양성해 자신에게 데려오기를 요청했습니다.
+qstr_{s9}_asked_you_to_co| {s9}이(가) {s3}에서 세금을 징수해 달라고 요청했습니다. 그는 당신에게 그곳에서 징수한 돈의 1/5을 넘기겠다고 제안했습니다.
+qstr_{s9}_asked_you_to_hu| {s9}이(가) {s4}(이)라고 불리는 도망자를 추적하여 잡아 달라고 요청했습니다. 그는 현재 {s3}에 있다고 알려져 있습니다.
+qstr_{s9}_asked_you_to_as| {s9}이(가) {s3}의 지역 상인을 암살해 달라고 요청했습니다.
+qstr_{s9}_has_asked_you_t| {s9}이(가) {s13}에 있는 스파이와 접선해달라고 요청했습니다.
+qstr_{s11}_asked_you_to_f| {s11}이(가) {s12}을(를) 떠날 스파이를 따라가 달라고 요청했습니다. 스파이가 눈치채고 돌아가지 않도록 조심해야 할것입니다. 스파이가 공범을 만나면, 그들을 기습하고 잡아서 {s11}에게 데려가야 합니다.
+qstr_{s11}_asked_you_to_c| {s11}이(가) 포로를 확실한 억류하기 위해 {s13}의 어떤 영주든지 잡아서 {s11}에게 데려와 달라고 요청했습니다.
+qstr_{s9}_asked_you_to_le| {s9}은(는) 일주일간 당신의 동료 {s3}의 도움이 필요하다고 합니다.
+qstr_{s9}_asked_you_to_col|{s9}은(는) 당신에게 {s3}이(가) 그에게서 빚진 {reg4}디나르의 빚을 회수해 달라고 요청했습니다. {s3}은(는) 당신이 이 요청을 받았을 때 {s4}에 있었습니다.
+qstr_{s11}_gave_you_a_fak| {s11}은(는) 당신에게 가짜 서신을 주며 어리석은 {s13}이(가) 신하 {s16}을(를) 추방하도록 해야 한다고 합니다. 당신은 {s14} 근처로 가서, 서신을 {s15} 중 본인의 임무가 진실이라고 믿는 한명에게 주고 전령으로서 도시에 보내십시오.
+qstr_{s9}_has_requested_y| {s9}이(가) 당신에게 {reg1}명의 {s3}을(를) 포로로 잡아와달라고 요청했습니다.
+qstr_Lend_your_experience| 당신의 노련한 군의관 {s3}을(를) {s1}에게 빌려주십시오.
+qstr_Then_take_it_with_my| 자 가져가게, 진심으로 감사하네. 자네는 {reg63?신사:숙녀}로군. 내가 도움이 필요할 때 자네가 손을 내민 것을 잊지 않겠네.
+qstr_Forgive_me_{playerna| 날 용서하게. {playername}, 하지만 나로서는 자네가 이것을 받아들였으면 하네. 이 돈은 나에게는 매우 작은 것이고 자네에게 빚진건 많으니. 자, 가져가게, 그리고 더 이상 거부하지 않았으면 하네.
+qstr_{playername}_what_a_|{playername}, 이 얼마나 사랑스런 {reg63?신사인가:숙녀인가}, 하지만 난 자네가 이것을 거절하는 것을 허락하지 않겠네. 자네는 내가 말 한것보다 더 해주었고 난 자네가 이 돈을 가지면 나보다 더 나은 곳에 쓸 수 있다고 확신하네.
+qstr_{s11}_asked_you_to_r| {s11}은(는) 그녀의 {s17}인 {s13}을(를) 옷을 바꿔 입고 감옥에 들어가는 방법으로 {s14}에서 구출해달라고 했습니다.
+qstr_{s11}_asked_you_to_re| {s11}은(는) 그녀의 {s17}인 {s13}을(를) {s14}에서 구출해달라고 했습니다.
+qstr_{s11}_asked_you_to_d| {s11}은(는) {s14}에 갇혀있는 {s13}에게 자신의 말을 전해달라고 요청했습니다.
+qstr_You_agreed_to_challe| 당신은 {s11}의 명예를 위해 {s13}에 도전하기로 했습니다.
+qstr_{s5}__Persuasion_str| {s5} (설득력: {reg5})
+qstr_Persuasion_Attempt|설득 시도
+qstr_purchase_{s10}|구매 {s10}
+qstr_replace_the_{s9}_wit|{s9}을(를) {s10}(으)로 교체하기를
+qstr_Your_entire_party_is|당신의 부대 전체가 만족해합니다.
+qstr_Garrison_training_is|- 주둔군 훈련이 활성화됨 -
+qstr_Garrison_training_is_|- 주둔군 훈련이 비활성화됨 -
+qstr_{reg8?{reg8}:no}_oth|현재 {s14} 기사단 {reg7?의:} 설립이 {reg8?{reg8}:안} 됐습니다, {reg63?나리:아가씨}
+qstr_You_can_train_a_^{s7|다음과 같이 전직 가능합니다.^{s7}^{s8}^^현재 가용한 {reg29}의 명성과 {reg4}의 명예를 보유하셨으며,^기사 전직은 {reg2}, 준기사 전직은 {reg3}의 명성이 소모됩니다.
+qstr_Order_of_the_Dragon|용의 기사단
+qstr_Order_of_the_Lion|사자의 기사단
+qstr_Immortals_Chapter|불멸자단
+qstr_Windriders_Chapter|바람기수단
+qstr_Valkyrie_Sisterhood|발키리 자매단
+qstr_Order_of_the_Griffon|그리폰 기사단
+qstr_Order_of_the_Falcon|매의 기사단
+qstr_Order_of_the_Raven_S|까마귀 창의 기사단
+qstr_Order_of_the_Radiant|광휘의 십자가의 기사단
+qstr_Order_of_the_Clarion|나팔 부름의 순찰단
+qstr_Order_of_the_Dawn|새벽의 기사단
+qstr_Order_of_the_Ebony_G|흑단 장갑의 기사단
+qstr_Order_of_the_Shadow_|그림자 군단 기사단
+qstr_Order_of_the_Silverm|은빛안개 순찰단
+qstr_Order_of_Eventide|저녁의 기사단
+qstr_Order_of_the_Phoenix|불사조 기사단
+qstr_Order_of_the_Shadow_W|그림자 늑대단
+qstr_Order_of_the_Scorpio|전갈 암살단
+qstr_Order_of_the_Kraken_|크라켄 광신 기사단
+qstr_{s9}__from_{s8}_|{s9} ({s8}로 전직)
+qstr_Your_whole_party_is_|모든 부대원이 행복해 합니다.
+qstr__You_begin_entertain| 당신은 선술집에서 {reg1}만큼의 돈을 받고 즐길거리를 제공하기 시작했습니다.
+qstr_{s54}|{s54}
+qstr_Quigfen_of_Laria_ask|라리아의 쿠이그팬은, 당신에게 라리아 숲에서 배회하고 있는 자투 군대를 물리쳐 줄것을 요청했습니다. [파란색 부대명]
+qstr__{reg35}x_Noldor_War| {reg35}명의 놀도르 전사가 부대에 들어왔습니다.
+qstr__{reg36}x_Noldor_Ran| {reg36}명의 놀도르 순찰자가 부대에 들어왔습니다.
+qstr__{reg37}x_Noldor_Mai| {reg37}명의 놀도르 여성 순찰자가 부대에 들어왔습니다.
+qstr__{reg38}x_Noldor_Nob| {reg38}명의 놀도르 귀족이 부대에 들어왔습니다.
+qstr__{reg39}x_Noldor_Twi| {reg39}명의 놀도르 황혼의 기사가 부대에 들어왔습니다.
+qstr__The_Goddess_of_Fate| 운명의 여신이 당신에게 미소짓는군요 친구여. 최근 북쪽의 습격에서, 내 동료는 간신히 {reg7}명의 `곰발톱 광전사'을 잡을 수 있었죠. 이들을 당신에게 {reg34} 디나르에 팔고 싶군요.
+qstr__This_must_be_your_l| 오늘은 당신께 행운의 날임이 틀림없군요, 친구여. 최근 북쪽으로의 여행에서 {reg7}명의 `레이븐스턴 하이랜더'를 고용했는데. 이들을 {reg34} 디나르에 넘기고 싶군요.
+qstr__This_must_be_your_lu| 오늘은 당신께 행운의 날임이 틀림없군요, 친구여. 최근 남쪽으로의 여행에서 싱갈족 습격자 무리로부터 {reg7}명의 `징조 탐구자'들을 고용했는데. 이들을 {reg34} 디나르에 팔고 싶군요.
+qstr__This_may_be_your_lu| 오늘은 당신께 행운의 날임이 틀림없군요, 친구여. 저 멀리 멜리틴에서 온 {reg7}명의 전사들을 넘기려고 하는데. {reg34} 디나르면 당신을 따를거에요.
+qstr__It_seems_that_I_hav| 너무 많은 일꾼들을 데리고 있어서 그들을 먹여살리기 곤란한 상황입니다. 관심이 있다면, 제가 데리고 있는 {reg7}명의 `난민'들을 {reg34} 디나르에 넘겨 드리겠습니다.
+qstr__Unfortunately_I_hav| 불행하게도 접대부로 적합치 않고, 제 머리를 박살내려고 시도했을 정도로 가치도 없는 몇몇의 포로들을 보유하고 있습니다. 관심이 있다면, 기쁘게 당신을 섬길 {reg7}명의 `여성 정찰자'들을 {reg34} 디나르에 넘겨 드리겠습니다.
+qstr__My_bad_luck_has_sad| 불행하게도 {reg7}명의 `싱갈족 창병'들을 떠맡게 되었습니다. 약간의 사업상 실패로 더 이상 고용비를 지불할 수가 없는데 {reg34} 디나르만 주신다면 당신을 따르도록 지시하겠습니다. 관심있습니까?
+qstr__My_bad_luck_has_sadd| 불행하게도 {reg7}명의 `바클레이 아드벤처러'들을 떠맡게 되었습니다. 약간의 사업상 실패로 더 이상 고용비를 지불할 수가 없는데 {reg34} 디나르만 주신다면 당신을 따르도록 지시하겠습니다. 관심있습니까?
+qstr__This_must_be_your_luc| 오늘은 당신께 행운의 날임이 틀림없군요. 저 멀리 메텐하임에서 온 {reg7} 명의 어마어마한 병사들을 고용했는데, 더 이상 필요가 없어서요. {reg34} 디나르만 주신다면 당신을 따르도록 지시하겠습니다. 관심있습니까?
+qstr__Through_some_shall_| 그럭저럭인 거래지만, 팔 수도 없고 식비도 댈 수 없는 {reg7}명의 `방랑 종자'들을 데리고 있습니다. 그들에게 {reg34} 디나르를 지불한다면, 그들은 현상황에서 벗어나 당신을 따를겁니다. 거래하시겠습니까?
+qstr__My_bad_luck_has_saddl| 불행하게도 전 {reg7}명의 `현상금 사냥꾼'들을 떠맡게 되었는데, 뜻밖의 일로 더 이상 급료를 지불할 수 없게 되었습니다. {reg34} 디나르면 그들을 당신 부대로 넘겨드리겠습니다. 어떠신가요?
+qstr__My_bad_luck_just_ha| 저의 불행은 끝이 없군요. 길 위에서 재수없게 잡힌 {s1}(이)라는 좋은 녀석들의 몸값을 흥정하려고 했습죠. 그런데 기사단에선 몸값 지불을 거절해버리고, 갤리선 노예로 팔아치우기엔 훨씬 가치가 있어서 말이죠. 당신이 {reg34} 디나르만 주면 넘겨드리겠습니다. 당신의 여정을 잘 따를것으로 확신합니다.
+qstr__Should_my_bad_luck_| 불행이 계속되면, 전 폐업해 버리고 말거에요. 얼마전에 포로로 잡힌 녀석을 하나 얻었는데 고것이 버림을 받은 부류 같아서 그 녀석의 사람들이 몸값을 지불하려 하지 않을거란 말이죠. 그 놈은 확실히 위험한데, 경고를 드려야겠군요. 그녀석은 엘프인데, 아시다시피 종잡을 수 없습니다. 우린 거래를 했죠. 그녀석을 판 금액의 반을 주기로. 제 생각에는 일종의 추적자 같은데, 아니면 전사 일수도, 구분하기 어렵더군요. 제 골칫거리를 {reg34}디나르에 지불하시고 부대로 데려가는데 흥미가 있으신지요?
+qstr__It_has_been_my_misf| 최근에 노예 갤리선 지부에서 자신들의 친구가 도망가도록 시도한 {reg7} 명의 여성 모험가들을 잡은건 제 불행입니다. 이 년들은 접대부가 될 수도 있지만, 전투 훈련이 그런 일을 맡기기엔 위험할 정도로 강하게 만들어 버렸죠. 아마 손님께선 데려갈 수 있을거고, 그들의 공격적인 성향을 더욱 건설적인 일에 사용할 수 있겠죠, 자, {reg34} 디나르에 어떤신가요?
+qstr_{reg34}_Mercenaries_|{reg34} 용병이 부대에 들어왔습니다.
+qstr__Search_Rane_for_a_h| 레인 도시에 감추어져 있는 숨겨진 상자를 찾으십시오.
+qstr__Search_Valonbray_fo| 발론브레이 도시에 감추어져 있는 숨겨진 상자를 찾으십시오.
+qstr__Search_for_a_bandit| {s9} 근처에 있는 도적들의 보물상자를 찾으십시오!
+qstr__You_work_several_ho| 당신은 몇 시간 동안 당신의 환자를 돌봐, 그 수고로 {reg1} 디나르를 받았다.
+qstr_a_hidden_outpost_far| 숨겨진 전초기지는 이곳에서 멀리 떨어져있다.
+qstr_Report_back_to_the_O| {s8} 근처에서 활동하는 사교도를 찾았다고 기사단에 보고하시오.
+qstr_It_just_so_happens_I|공교롭게도 제가 영주님들 즉, 장엄한 장식을 다시는 분들의 옷을 많이 맞춰 드렸죠. 그러다보니 최고의 재봉사들 중 한 명이 되었어요. 이런 제가 소박한 비용으로 손님의 갑옷에 걸맞는 멋진 망토를 달아 드릴 수 있어요.^소박한 비용으로 멋진 망토를! 어떠세요?
+qstr_Well_as_it_so_happen|아니, 세상에! 고약한 도적이나 붉은 형제단같은 놈들이 제가 구입한 비단을 가지고 오는 상인의 짐마차를 습격하지 않았겠습니까. 혹시 어려운 일이 아니고 의향이 있으시다면, 손님의 갑옷 망토를 파시겠어요? 물론, 손님께 응당한 대가를 드리지요. 게다가 이 거래 이후 마음이 변하시더라도 저의 재능을 살려 저에게 파신 망토를 제작해 드릴 수 있습니다.
+qstr_I_have_already_shown|이미 '알-아지즈' 광산의 위치를 알려드렸습니다. 제 책에 관한게 아니라면 더 이상 거래할 것이 없습니다.
+qstr_I_can_show_you_where|귀한 쿠알리스 보석 주신다면 숨겨진 '알-아지즈' 광산의 어디에 있는지 알려드리죠.^지도에 표시해 드릴테니 들어가서 살펴보실 수 있을 겁니다.
+qstr_Oh!_Yes_that_s_right|오! 그래, 맞아. 너무 독한 술 때문에 기억력이 떨어졌지. 그래서 누구라고?
+qstr_I_do_not_have_such_a|거래할 보석이 {reg63?없군:없네요}
+qstr_No_I_am_not_interest|광산이라... 별로 내키지 {reg63?않는군:않네요}.
+qstr__You_have_discovered| 숨겨진 장소 '알-아지즈' 광산을 발견했습니다!
+qstr_^Unfortunately_after|^불행히도, 무슨 조합이든 3번을 쓰면 경이로운 연금효과가 사라지고, 그 이후에는 효능이 절반으로 줄어듭니다.
+qstr__Your_Strength_Agili| 당신의 힘, 민첩, 매력이 {reg2} 증가되었습니다.
+qstr__Your_weapon_profici| 당신의 무기숙련도가 {reg3} 증가되었습니다.
+qstr__Your_Intelligence_h| 당신의 지능이 {reg2} 증가되었습니다.
+qstr__{s5}_s_Strength_Agi| {s5}' 힘, 민첩, 매력이 증가했습니다 !
+qstr__{s5}_s_Intelligence| {s5}' 지능이 증가했습니다!
+qstr__{s5}_s_weapon_profi| {s5}' 무기숙련도가 증가했습니다!
+qstr_{s16}_They_also_say_|{s16} 그들은 또한 그녀의 미모가 유명하다고 합니다.
+qstr_A_villager_from_{s7}| {s7}의 주민이 그들의 마을을 은신처로 사용하는 도적들로부터 구해달라고 부탁했습니다.
+qstr_If_ye_be_looking_for| {reg63?경:부인}께서 현상금 사냥꾼을 찾고있다면 {reg3?나와 {reg4?{reg3}명의 내 동료들이:나의 동료들 중 하나가} :}유능한 대장을 찾고 있다고 말하고 싶군요.
+qstr_Well_met_my_{reg63?L| 만나서 반갑군요, {reg63?나리:아가씨}. 만약 전사들을 찾는다면 더 이상 헤맬 필요가 없습니다! {reg3?나와 {reg4?{reg3}명의 전우들이:전우들 중의 하나가} :} 돈을 벌기위해 {reg3?우리:내} 창을 쓰는 일을 찾고 있어요.
+qstr_Well_met_my_{reg63?Lo| 마침 잘 만났습니다, {reg63?나리:아가씨}. {reg3?저와 {reg4?{reg3}명의 제 친구들이:친구들 중 하나가} :}모험을 함께할 유능한 대장을 찾고 있습니다.
+qstr_Aye_{reg63?Lord:Lady| {reg63?나리:아가씨}, {reg3?저와 {reg4?{reg3}명의 친구들이:친구들 중 하나가} :}와인으로 배를 채우고 {reg3?우리:내} 주머니에 디나르를 두둑히 채워 줄 야를을 찾고 있습니다.
+qstr_We_are_Jatu_{reg63?L| 우리는 자투입니다, {reg63?나리:아가씨}. {reg3?나와 {reg4?{reg3}명의 나의 사냥 형제들이:나의 사냥 형제들 중 하나가} :}{reg3?우리:내} 창의 영광을 이끌어줄 선도자를 찾고 있소.
+qstr_Well_met_{reg63?Lord| 마침 잘 만났소 {reg63?나리:아가씨} 전사. {reg3?나와 {reg4?{reg3}명의 내 하이랜드 형제들이:하이랜드 형제들 중 한명이} :}{reg3?우리:내} 강철을 지도해 줄만한 대장을 찾고 있소.
+qstr_Aya_good_{reg63?Lord| 선량하신 {reg63?나리:아가씨}. {reg3?저와 {reg4?{reg3}명의 제 친구들이:제 친구들 중 한명이} :}궁핍한 생계를 해결하고자 합니다. {reg3?저희에게:제게}기회만 주신다면 기꺼이 따르겠습니다.
+qstr_Hail_good_{reg63?Lor| 만나서 반갑습니다, {reg63?나리:아가씨}. {reg3?나와 {reg4?{reg3}명의 자매들이:자매들 중 하나가} :}섬길만한 유능한 대장을 찾고 있습니다.
+qstr_Hai_{reg63?Lord:Lady| 반갑소 {reg63?나리:아가씨} 대장! {reg3?나와 {reg4?{reg3}명의 내 동료들이:내 동료 중 한명이} :}{reg3?우리:나}를 이 낯선 땅에서 승리로 이끌어 줄 유명한 대장을 찾고 있소.
+qstr_Salute_{reg63?Lord:L| 일동 경례, {reg63?나리:아가씨} 대장! {reg3?저와 {reg4?{reg3}명의 제 자매들이:제 동료들 중 한명이} :}침대에서 데리고 놀 성노예들을 구할 돈을 벌만한 대장을 찾고 있습니다.
+qstr_Oi!_Sein_Captain!_{r| 반갑습니다! 명예로운 대장님! {reg3?나와 {reg4?{reg3}명의 내 자유 형제들이:내 자유 형제들 중 한명이} :}위엄이 있으면서도, 흐음, 우리가 흔히 말하는, 돈이 될것 같은 대장을 구하고 있습니다! {reg3?우린:나는} {reg3?우리의:내} 솜씨로 돈을 벌어 와인, 여자 그리고 노래도 사려고 합니다.
+qstr_Saludos_camarada!_{r| 살루도스 카마라다! {reg3?나와 {reg4?{reg3}명의 내 아미고 병사들이:내 아미고 병사들 중 한명이} :}짜극적인 모험을 즐기며 교활한 찌도짜를 따르는 무리를 찾고 있찌요! 바클레이의 옛 말에 따라 : 쩡복, 영광 그리고 금화.
+qstr_Do_you_have_a_need_f| 검을 좀 쓰는 친구들이 필요하지 않습니까, {reg63?나리:아가씨}? 저와 {reg4?{reg3}명의 전우들이:전우들 중 하나가} 대장을 찾고 있습니다.
+qstr_You_chose_well_{reg6| 잘 선택하셨습니다, {reg63?경:부인}. 내 사내들은 어떻게 약속을 지키고, 돈값을 하는지 알고있습니다.
+qstr_Well_done_{reg63?sir| 좋아요, {reg63?경:부인}. 우리 앞 길에 돈과 술만 차려준다면 펜도르에서 당신이 두려워할 적은 없을 겁니다.
+qstr_We_are_at_your_servi| 이젠 당신을 따르겠소, {reg63?경:부인}. 우리가 싸울 위치를 가르키기만 하시오, 나머지는 다 처리하리다.
+qstr_current_relations_wi|현재 마을과의 관계도 : {reg40}
+qstr_The_Guildmaster_of_{| {s13}의 길드 마스터가 당신에게 도시 외곽에 있는 도적들을 처리해 달라고 요구했습니다.
+qstr_{s9}_of_{s3}_asked_y| {s3}의 {s9}이(가) 당신에게 {reg5}만큼의 {s6}을(를) {s4}에 있는 선술집에 7일 안에 배달해달라고 요청했습니다.
+qstr_Escort_the_merchant_| 상단을 {s8}까지 호위하십시오.
+qstr_Merchant_{s9}_of_{s4| {s4}의 상인인 {s9}이(가) 당신에게 도시 주변의 성가신 도적들을 처리해달라고 요청했습니다.
+qstr_Guildmaster_of_{s4}_| {s4}의 길드 마스터는 도적들에게 유괴된 소녀를 되찾아오기 위하여 당신에게 {reg12} 디나르를 주었습니다. {s3} 근처에서 도적들을 만나 몸값을 주어야만 합니다. 그 뒤 소녀를 {s4}(으)로 다시 데리고 돌아와야 합니다.
+qstr_Guildmaster_of_{s4}_p|{s4}의 길드 마스터가 만약 당신이 {s12}, {s13}이(가) 더 이상 {s15}, {s14}사이의 평화를 위태롭게 만들지 않으면 {reg12} 디나르를 준다고 약속했습니다. 이를 위해, 양쪽을 납득시키던지 평화협정이 만들어질 때까지 포로로 잡아둬야 합니다.
+qstr_The_Guildmaster_of_{s| {s14}의 길드마스터가 {s14}의 거리를 위협하는 도적 무리를 처리해달라고 요청했습니다. 그들은 밤에만 나오고, 혼자 여행하는 여행자만을 공격합니다.
+qstr_Guildmaster_of_{s10}| {s10}의 길드 마스터가 소 떼를 {s13}까지 이동시켜달라고 요청했습니다. 보답으로 {reg8} 디나르를 받게 될 것입니다.
+qstr_Pippa|핍파
+qstr_Daisy|데이지
+qstr_Betsy|벳시
+qstr_Princess|공주
+qstr_{s5}|{s5}
+qstr_He_is_not_commanding| 지금으로선, 그가 어떤 사람도 지휘하지 않습니다.
+qstr_He_currently_command| 그는 지금 {reg1?{reg0}의 사람과 부상당한 {reg1}의:{reg0}의} 사람을 지휘합니다.
+qstr_The_elder_of_the_vil| {s3}의 촌장이 당신에게 곡물 {reg5}꾸러미를 가져다주기를 요청합니다.
+qstr_The_elder_of_the_vill| {s13}의 촌장이 도적에 대항할 {reg5}명의 농부를 훈련시켜 달라고 요청합니다.
+qstr_The_elder_of_the_villa| {s3}의 촌장이 당신에게 소 {reg5}마리를 데려와 달라고 요청합니다.
+qstr_The_elder_of_the_villag| {s3}의 촌장이 {s5}의 손아귀에서 딸을 구해달라고 요청합니다.
+qstr_The_elder_of_the_village| {s5}의 촌장이 {s3}(으)로 가는 상행단을 호위해 달라고 요청합니다.
+qstr_{s1}_Trading_Party|{s1} 상행단
+qstr_Red_Brotherhood_Ambu|붉은 형제단 매복 무리
+qstr_{s16}_and_{s15}|{s16} 그리고 {s15}
+qstr_I_can_smell_a_fat_pu| 난 두둑한 지갑의 냄새를 1마일이 떨어져 있어도 맡을 수 있지. 내 생각엔 자네 지갑이 가벼워 질 수도 있을것 같은데, 응?
+qstr_Why_it_be_another_tr| 이야, 또 다른 여행자로군, 길에서 마주치는 행운이 있다니! 이 나라는 자네 같이 좋은 {reg63?친구:아가씨}가 여행하기에는 위험하다고 경고하고 싶군. 만약, 우리에게 작은 기부를 한다면 목적지까지 바로가게 해주겠네, 어때?
+qstr_Well_well_look_at_th| 좋아 좋아, 여길 봐! 자네가 약간의 돈을 내놓는다면 그건, 최고의 선택이 될거야. 만약 거부한다면,나와 내 아이들이 널 박살내주지!
+qstr_There_s_a_toll_for_p| 여기를 지나려면 우리에게 통행세를 내야해, 그러니 괜찮다면, 우리의 권한으로 자네들의 지갑을 걷어가겠네.
+qstr_Another_fool_come_to| 또 다른 멍청한 {reg63?새끼가:년이} 내 무기에 몸을 던지는군, 응? 좋아. 피를 보자구!
+qstr_We_re_not_afraid_of_| {reg63?애송이 새끼야:애송이 년아}, 우리는 겁내지 않아. 머리통을 부술 시간이다!
+qstr_That_was_a_mistake._| 실수하는군. 이제 네놈에게 길고 고통스러운 죽음을 선사해주마.
+qstr_Brave_words._Let_s_s| 용감한 말이군. 어디 네놈이 뱉은 말을 주워담을 수 있는지 보자구, 개새끼야!
+qstr_Bandits_like_you_nev| 너 같은 도둑들은 절대 깨우칠만큼 살 수 없지!
+qstr_Congratulations_you_|축하합니다, 이스터 에그를 찾아내셨습니다!
+qstr_...or_perhaps_if_you| ... 아니면 만약 당신이 괜찮다면, 당신과 친구가 됐으니 부탁하는 것인데, 내가 당신의 가신이 되는것을 허락해 주시오.
+qstr_...I_see_that_you_ar| ... 당신이 내 무기를 뚫어져라 보는걸 봤네, 파렴치하군. 날 풀어준다면 이걸 주겠네.
+qstr_Very_well_friend_I_w| 아주 좋군 친구, 자네의 충성 서약을 받아들이지.
+qstr_A_{s5}?_Well..._Yes_| {s5}? 음... 예, 그런거 같습니다. 참으로 이상한 질문이군요.
+qstr_Eh?_No_it_most_certa| 에? 아뇨, 그건 거의 확실히 {s5}은(는) 아니에요. 제가 당신이라면, 내 눈높이에 맞춰서 질문을 던지겠어요.
+qstr_This_is_the_{reg4?to| 이곳은 {s5} {reg4?도시:}입니다 {reg63?경:부인}.
+qstr_{s6}_Our_{reg4?town:|우리의 {reg4?도시:} {s6} 그리고 이 주변 지역은 물론 당신의 지배하에 있습니다. {reg63?나리:아가씨}.
+qstr_{s6}_Our_{reg4?town:v|우리의 {reg4?도시:} {s6} 그리고 이 주변 지역은 {s8} {s7}의 관할입니다.
+qstr_{s3}_and_{s5}|{s3} 그리고 {s5}
+qstr_{reg20?We_mostly_pro|{reg20?이곳에서는 주로 {s5}를 생산합니다:최근에는 이곳에서 생산되는것이 없습니다}. 더 알고 싶은게 있다면 {reg4?길드 마스터와:마을 촌장을} 만나 얘기를 해보세요. 그는 가까운 맞은 편에 있습니다.
+qstr_Question_travelers_i| 최근 사교도의 활동에 대한 단서를 선술집 여행자들에게 물어 보세요.
+qstr_Find_and_destroy_the|{s8} 근처의 사교도 근거지를 찾아 파괴하세요.
+qstr_{playername}|{playername}
+qstr_honored_Founder|명예로운 설립자
+qstr_dear_{reg63?brother:|친애하는 {reg63?형제여:자매여}
+qstr_The_Lazy_POP_Develop|게으른 POP 개발자들
+qstr_{s6}_and_{s7}|{s6} 그리고 {s7}
+qstr_{s6}_and_any_{s7}_to|{s6}, 그리고 모든 {s7}
+qstr_{s6}|{s6}
+qstr_The_{s9}_asked_you_t|{s9}이(가) 당신에게 {s8}부대를 쓰러뜨리라고 요청했습니다,^그 과정에서 {reg4} 이상의 계급점수를 더 받을 수 있습니다.
+qstr_Current_progress:_0/| 현재 진행상황 : 0/{reg4}.
+qstr_You_received_a_{s11}|당신은 {s11}을(를) 받았습니다.!
+qstr_You_received_{s11}!|당신은 {s11}을(를) 받았습니다.!
+qstr_{s11}_joined_your_pa|{s11}이(가) 부대에 합류했습니다!
+qstr_The_{s9}_asked_you_to|{s9}은(는) 당신이 {s8}의 토너먼트에서 승리하여 그 기사단들에게 명예를 안겨달라고 합니다.
+qstr_The_{s9}_asked_you_to_|{s9}은(는) 당신이 오직 그들의 기사단 병력만으로 승리하여 {reg8} 명성을 달성해 명예를 안겨달라고 합니다. 진행하는 동안에는 신병 고용이나 포로 합류가 되지 않습니다. ^당신의 본 부대는 임무가 끝난 뒤에 복귀할 것입니다.
+qstr_Renown_earned_so_far:|목표까지 획득한 명성: 0.
+qstr_Rival_Patrol|경쟁 기사단 순찰대
+qstr_The_{s11}_asked_you_|{s11}은(는) {s10} 부근의 {s8} 순찰대를 패퇴시키라고 합니다.
+qstr_Greetings_{reg63?Kin|인사 드립니다, {playername} {reg63?왕:여왕}이시여.^저는 자유형제단을 이끄는 대장 게르하르트입니다. 저희는 메테하임에서 가장 규율잡힌 용병으로 명성이 높습니다.
+qstr_Hail_foreign_{reg63?|이국의 {reg63?왕:여왕} 만세. 저는 토빅이라 합니다.베카비아의 비거세병이며, 이들은 베카비아 이탈자로 구성된 나의 충직한 전투부대입니다. ^우리는 고향에 있는 여자들의 탄압과 불평등을 피해 펜도르에 왔습니다만, 더한 불평등만 목격했습니다. 폐하의 여자들은 베카비아의 남자보다 더 나을 것도 없이 취급받고 있습니다. ^언젠가, 정의의 이름으로 강이 피로 붉게 흐르고... 아, 그전까진, 폐하와 같은 펜도르의 강자를 섬기겠습니다.
+qstr_Greetings_from_Barcl|바클레이 최고의 부대가 인사 드립니다. {playername} {reg63?왕:여왕}이시여!^저는 완벽한 깃발의 벨라스코 듀랑데라고 하며, 바클레이 제1 근위대를 이끌고 있습니다.^저희는 악랄한 탈주자인 루피오를 잡아 그의 머리를 제국으로 가져가기위해 펜도르에 왔습니다.^그 동안에, 우리가 가장 잘 할수 있는 일을 계속해서 기쁩니다, 살인을요.
+qstr_Hail_{reg63?King:Que|{reg63?왕:여왕}이시여 만세!^폐하께서 펜도르에 있는 멜리틴인들을 돕는 수고를 마다하시지 않으신다는 소식을 듣고 왔습니다. 저는 제 부대와 함께 사교도의 동향을 조사하기 위해 여기에 당도했습니다. 허나, 그들의 강력함을 홀로 감당하기엔 시기상조인지라, 폐하를 지켜보며 보필하고자 합니다.
+qstr_Good_day_{reg63?King|좋은날입니다, {playername} {reg63?왕:여왕}이시여! 말레온 시민들의 자부심을 고용하신건 탁월한 선택이었습니다.^저는 그랑딜론이며, 살레온 최고의 기수들인 말레온 제1 기병대의 지휘관입니다. 저희 가운데에 그 위대한 도시 출신의 가장 저명하고 자부심 있는 시민들이 있습니다. - 저희를 존중으로 대해 주시면 전장에서 저희가 폐하의 적들을 쓸어버리겠습니다.
+qstr_Greetings_your_Majes|인사 드리옵니다, 폐하. 제 소개를 올리자면, 저는 유니콘 기사단의 티모시 경이라고 하옵니다. 폐하의 부름에 따라 여기 당도했습니다. 제 기사들과 충직한 부하들은 폐하의 명을 받잡겠습니다.
+qstr_Hello_friend!_I_ve_h|안녕, 친구! 네가 "용변"할 누군가를 필요로 한다고 들어서 말이야... 어... 네 병력을 강화하고, 펜도르인들의 안녕을 위한 모든걸, 나도 바래.^나는 전투경험이 있는 괜찮은 형제들을 모아 무리를 이뤘는데, 일부는 나를 만나기전까지 포로상태였어.^땡전으로 상당한 죄수들이 잡히기도 풀리기도, 우리는 우리의 적들에게 복수를 가할거야... 어... 네 친구와 동지들에게 가한 어떤 악행이든지 말야. 아니면 내 친구와 동지들. 우린 '사유'를 찾을거야, 난 확신해.
+qstr_Hail_I_am_Sir_Morcas|만세, 저는 모카스 베랄 경이며, 그 유명한 백사자 여단을 이끌고 있습니다. 저희는 북부와 심장지대를 통합하려 하는 어떤 그 누구와도 싸울 것입니다. 그런데, 저희 재무상태가 최근 심각하게 악화되어, 저희에게 대금을 지불해 주신다면 기꺼이 힘을 빌려들겠습니다.
+qstr_Salam!_May_your_gard|살람! 아마도 당신의 정원은 활짝 핀 장미로 가득할 것이며 당신의 침소는 많은 시녀와 하인들이 함께 하겠지요.^피루즈는 당신의 위업을 듣고 섬기려 왔습니다, 위대한 샤이시어. ^그가 필요한 것은 오직 수수한 선물인 금화 - 한낱 금붙이가 싱갈족의 가장 강력한 친구 - 노예들에겐 변변치 않은 몫.
+qstr_Hazah_Jatu!_Shiruzah|하자 자투! 쉬루자, 인다르의 점지자, 당신에게 경례한다.^쉬루자는 거짓 퇴각으로 전장을 벗어나던 중 화살에 맞았다. 군주들은 겁쟁이라며 쉬루자를 추방해 버렸다. 그러나 화살은 인다르님의 것 - 나는 살아남았고 지금은 그분께서 날 굽어 살피신다. 인다르님은 그의 점지자를 인도하시사, 오늘 나는 너를 만나게 되었노라.
+qstr_So_you_are_the_new_{|그래서 당신이 내가 들은 새로운 {reg63?왕:여왕}이구만.^이 말은 꼭 해야겠는데, 나를 불러줘서 정말 기뻐. 이건 나를 펜도르의 모든 군주들에게 다시 권리를 요구 할 수 있게 해줄뿐 아니라 당신이 벌인 모든 문제와 비극에 대해 개인적으로 감사를 표할 기회를 주니까. 너는 새 왕국을 설립하는게 내 일에 얼마나 유익한지 전혀 모를거야.
+qstr_HELLO!|HELLO!
+qstr_New_orders_{reg63?Si|새로운 명령입니까, {reg63?왕:여왕}이시여?
+qstr_Hail!_Shall_we_conve|경례! 펜도르의 기이한 법조항에 대해 이야기 할까요, 아니면 더 많은 학살로 양심을 잠재워 버릴까요?
+qstr_Your_enemies_are_my_|당신의 적은 제 적입니다, {playername}.
+qstr_Watching_and_waiting|지켜보며 기다리고 있었습니다.
+qstr_I_haven_t_seen_the_D|저는 당신만큼 말레온의 영주를 자주 본적이 없습니다. {reg63?왕:여왕}이시여!
+qstr_You_summoned_me_your|절 소환하셨습니까, 폐하? 왕국이 구원을 한번 더 필요해 합니까?
+qstr_Talk_to_me_my_friend|말해봐, 친구. 유쾌한 여정에 내가 필요한가?
+qstr_What_is_your_bidding|당신의 분부는 무엇입니까?, {reg63?왕:여왕}이시여?
+qstr_Yes_Shah_Firuz_saw_t|역시, 샤이시여, 피루즈는 하늘에 시체매가 있는 걸 알았고, 그게 당신이라는 걸 알게 되었습니다.
+qstr_Lead_us_to_more_vict|우리를 더 많은 승리로 이끌어 줘라, 전쟁군주, 그러면 우리의 명예는 자투 초원에 널리 알려질 것이다.
+qstr_Hello_{playername}_w|반가워 {playername}, 우리 또 만났군! 당신이 내 적에게 넘어갔다는 소문은 물론, 뻔한 거짓말이겠지.
+qstr_HELLO_AGAIN!|HELLO AGAIN!
+qstr_If_it_s_worth_doing_|그럴 만한 가치가 있다면, 해볼 가치가 있을 겁니다, 친애하는 {reg63?왕:여왕}이시여.
+qstr_There_s_no_task_too_|폐하의 최종 목적이 가치가 있다면, 나쁜일도 힘든일도 없을 겁니다.
+qstr_Show_us_who_and_they|누가 그들의 핏값을 치룰 것인지, 저희에게 알려주십시오.
+qstr_Something_needs_to_b|뭔가 조치를 취해야 합니까? 준비됐습니다.
+qstr_We_are_well_equipped|저희는 장비를 갖추고 휴식을 취하고 있습니다. 다음에는 뭘하면 됩니까?
+qstr_Well_of_course!_How_|그럼, 물론입니다! 폐하의 명은 어떤 것입니까?
+qstr_Shall_we_help_the_vi|씻지도 않는 파이어즈베인 덩어리들에게 저항하는 마을 민병대를 도울까 아니면 그냥 졸렬한 영주들을 모욕해 볼까?
+qstr_I_hope_it_involves_k|킬트를 걸친 배신자 놈들을 죽이는 것도 포함되는 임무길 바랍니다.
+qstr_Your_wisdom_is_legen|당신의 지혜는 전설적입니다, 위대한 샤여, 하지만 현명한 종마는 기수가 박차를 가하더라도 절대 토끼굴로 나아가지 않습니다. 현명한 기수는 전속력으로 질주하면서 하늘을 주시하지 않는것처럼 말이지요.
+qstr_The_Chosen_of_Indar_|인다르의 점지자는 인도를 기다린다.
+qstr_Well_that_is_what_yo|글쎄, 그걸 위해 우리에게 돈을 지불하고 있는 거지, 그렇지 않아? 어떻게 생각해?
+qstr_WHAT_TASK?|WHAT TASK?
+qstr_Where_should_we_go_m|우린 어디로 가야합니까, {reg63?왕:여왕}이시여? 우리는 질서 정연하게 제 시간에 당도할 것입니다.
+qstr_Where_shall_we_go_ne|다음엔 어디로 이동합니까? 사소한거지만
+qstr_We_don_t_mind_travel|우리는 이런 아름다운 곳들을 지나 여행하든 말든 상관없지만, 꽤 많은 와인과 헤픈 여자가 가까이 있는 곳에 주둔하고 싶군요.
+qstr_We_may_need_to_get_c|우리는 제국땅에 더 근접해야 할 것 같습니다, 지켜본 바에 의하면 말이죠.
+qstr_I_m_familiar_with_th|저는 그 지역에 익숙합니다. 대부분의 상인들을 잘 알고 있지요.
+qstr_My_knights_travel_wh|제 기사들은 우리를 가장 필요로 하는 곳이라면 어디든지 다닙니다. 명령해 주시지요, 현재 그곳이 어디입니까?
+qstr_Let_s_go_some_place_|많은 영주들이 발정난 개처럼 활보하는 교외로 가자. 우리 감옥은 그 새끼들없이는 외롭고 쓸쓸할테니까.
+qstr_Give_us_the_directio|지시를 내려주시지요, {reg63?왕:여왕}이시여, 북진일수록 좋습니다.
+qstr_This_land_is_wide_li|이 땅은 마치 무희의 그것처럼 드넓지만, 유혹하는 것은 거의 없군요.
+qstr_Jatu_ride_fastest_in|자투는 평원에서 가장 빠르다. 숲의 놀도르와 도시 거주자들은 명예가 없다.
+qstr_Just_point_me_in_the|정확한 방향만 가르키고, 맡겨만 둬.
+qstr_WHERE?|WHERE?
+qstr_Jawohl_my_{reg63?Kin|그리하겠습니다, {reg63?왕:여왕}이시여, 즉각 이행하겠습니다.
+qstr_I_ll_gather_my_women|제 여자들과 남자들을 모아, 그곳으로 향하겠습니다.
+qstr_Yes_friend._Vamos!|좋습니다, 친구여. 바모스!
+qstr_Very_well_{reg63?Kin|좋습니다, {playername} {reg63?왕:여왕}이시여. 지켜본 보람이 있군요.
+qstr_The_1st_Banneret_rid|제1 기병대, 승마!
+qstr_It_will_be_done_your|바로 이행 완료하겠습니다, 폐하. 약속드립니다!
+qstr_Very_clever_my_{reg6|꽤 똑똑하네, 내 {reg63?형제:누이}. 출발해서 누군가에게 좋은 치료제를 써야 하는 이유를 알려주자구.
+qstr_As_you_wish._I_hope_|분부대로. 가는 길에 마주치는 어떠한 북부인이라도 우리가 죽여버릴텐데, 부디 개의치 않으셨으면 합니다.
+qstr_Firuz_will_oblige!_A|피루즈는 의무를 이행합니다! 가장 잘빠진 포로들을 잡는 이상은.
+qstr_Jatu!_Forward_by_Ind|자투! 전진하라, 인다르의 이름으로!
+qstr_Splendid._We_shall_s|훌륭해. 바로 출발하겠어.
+qstr_OK!|OK!
+qstr_Our_contract_is_fulf|그럼 우린 계약을 모두 이행했습니다.^메텐하임으로 돌아가 - 전장에서 쓰러진 전우와 그들의 용기에 대해 노래를 부르고, 그들의 대체자를 훈련시키는 일도 해야겠습니다. 확실하게, 우리는 다시 만날겁니다, 이제 당신이 우리의 가치를 알게됐으니.
+qstr_Your_ways_are_foreig|이국적인 방식이군요, {reg63?왕:여왕}이시여, 그러나 우리는 당신을 섬기는게 만족스러웠습니다. 주신 금화는 좋은일에 쓰일거라고 장담합니다. 그럼 안녕히!
+qstr_Ah_it_is_the_hour_of|아, 이별의 시간이군요.^즐거운 동행이었습니다. 그렇죠? 이제부터 우리는 더 사나워지고 세력이 커진 도적 루피오를 찾으려고 합니다. 우리 도움이 또 필요하시다면 전령을 보내십시오, 그러면 다시 합류하도록 하겠습니다.
+qstr_Of_course_we_shall_d|물론 우리는 떠날겁니다. 우리가 여태까지 시간을 보내버려서, 임무를 완수할 준비가 필요합니다.^{playername}여 안녕히, 우린 여전히 당신을 지켜봐 드릴겁니다.
+qstr_Finally_our_service_|결국 우리의 복무는 마무리 됐군요.^우리의 업적에 자부심을 가지며 떠나겠지만,말레온으로 복귀하면서 사업도 재정돈 해야겠습니다. 우리의 힘은 우리의 아름다운 마을!^그럼 안녕히, {reg63?왕:여왕}이시여, 마지막으로 말레온 시민의 민심을 살피는 영주와의 친선을 꺼리지 말아주십시오.
+qstr_I_understand._Please|이해합니다. 부디 당신의 돈을 받는것이 달갑지 않다는 제말을 믿어주시기 바랍니다. 비록 당신을 섬기고 수행하면서 생긴 희망의 금화가 우리 기사단 일원의 위대함을 상기시켜 주긴 하지만요. 정말 감사합니다, 폐하. 다시 만날때까지 그럼.
+qstr_Very_well_my_friend!|좋아, 친구! 너와 함께 멍청한 영주들을 혼내주는 재미를 보는것처럼, 뱀같은 신앙을 믿는 지인들을 보는 재미를 봐야겠어.^아마 우린 다시 만날거야, 난 언제나 유쾌한 여정이 즐거우니까.
+qstr_Excellent_this_gives|잘 됐습니다. 킬트를 걸친 배신자 놈들을 우리 손으로 직접 죽이는 시간이 주어졌군요.
+qstr_It_saddens_me_to_dep|나를 떠나 보낸다니 슬프지만 오늘밤 내 부인과 남편들이 나를 위로해 주겠지요.^잘 가시오 그리고 당신의 적들 무덤에 6만 마리의 코끼리 똥이 쏟아지길 바라오.
+qstr_You_are_letting_us_g|너는 우리를 자유롭게 한다. 전장에서 얻은 명예에 경의를 표한다.^이제 자투는 인다르님의 목소리를 들을 것이다. 자투는 법이 필요하다. 그들이 인다르의 이름으로 준수하게 만들 것이다 - 그들의 절반을 다 죽여서라도.
+qstr_Really_already?_Sorr|정말로, 벌써? 미안해, 계약이 끝날때마다 감성적이게 되거든. 그래도 걱정마, 네가 준 돈이면 싱갈에서 슬픈 영혼을 달랠 충분한 방법이 있거든. 시간되면 나한테 들러야 돼. 도시의 기막힌 매춘부 같이 보여줄게 많이 남아 있을테니까. 그럼 그때까지, {playername}.
+qstr_GOODBYE!|GOODBYE!
+qstr_Our_professionalism_|우리의 전문성은 고용주의 적들을 멸소하는데 제격이지. 메텐하임 강철 맛을 봐라, 펜도르인!
+qstr_Stop_unjust_brigand!|멈춰라, 부당한 도적놈! 네놈은 이제 남자과 여자가 하나로 뭉친 베카비아의 군대와 맞서야 할것이다.
+qstr_Ha!_Foolish_Pendoria|하! 멍청한 펜도르인이군, 여자와 짐을 남기고 도망치겠느냐 아니면 가슴팍에 창이 꽂혀 봐야겠느냐!
+qstr_Did_you_know_that_wo|여자가 남자보다 뛰어난 장군이 될 수 있다는걸 알고 있었습니까?^뭐, 아니라니, 그래도 멜리틴 전쟁 사관학교가 어떻게 나를 당신보다 뛰어나게 만들었는지 지켜보세요.
+qstr_The_king_has_promise|국왕께서 적을 물리치는데 일조하면 내 기사단을 복귀시키겠다고 약조하셨다. 너에겐 불행한 일이지만, 네가 적당해 보이는군. 사적인 감정은 없으나 못 본척 지나가기엔 유니콘 기사단의 진실성이 허락치 않는다. 너의 부대에서 포로로 잡힌 모든이들을 존중하며 대우하겠다는 것이나마 보장하겠다.
+qstr_Wretched_{playername|가련한 {playername}! 말레온 중장 기병의 돌격 앞에 전율하라!
+qstr_Stop_right_there_{pla|거기서라, {playername}! 네가 북부 배신자들과 한패라는 얘기를 들었다. 이제 그 대가를 치루거라!
+qstr_Shameless_dog!_Your_|이 빌어먹을 개새끼야! 네놈 선조가 당나귀 딸딸이 쳐주다가 좆물이 튀어 애를 배는 바람에 지금 펜도르에 당나귀 구린내가 진동하는거 아니야!^네 찌거기들은 싱갈족에게 노예로 팔아버리고, 네놈 머리는 창에 매달아 예쁘게 장식해 놔야겠다!
+qstr_Jatu!_Our_lances_are|자투! 우리의 날카로운 랜스! 우리의 날쌘 말! 인다르께서 인도하시는 화살! 두려워하라 - 그리고 사라져라!
+qstr_I_have_some_advice_f|충고할게 있는데, {playername}. 자유 용병단을 적보단 친구로 두는게 언제나 옳다구. 오늘이 지나면, 절실하게 이해할거야.
+qstr_HOSTILE|HOSTILE
+qstr_Hail_{playername}._I|{playername} 만세. 훈련과 운동하기에 참 좋은 날씨입니다. 그렇죠?
+qstr_Hail_{playername}._W|{playername} 만세. 다른 섬길이를 찾기위해 또 다시 이동중입니다. 당신이 부럽군요.
+qstr_Hail_{playername}!_We|{playername} 만세! 우리의 고귀한 고용주를 위해 사소한 임무를 수행중입니다만, 비열한 빌랴비시오시아의 루피오 빈센트도 찾고 있습니다. ^만일 그놈을 보신다면, 가까이 다가가지 마세요. 매우 위험하니 - 오직 제1 근위대만이 상대할 수 있습니다.
+qstr_Greetings_{playername}|반갑습니다, {playername}. 듣자하니 사교도가 당신에게 관심이 있다더군요. 무사하도록 잘 지켜봐 드리겠습니다. 조심하세요.
+qstr_Good_day_to_you._I_a|좋은 날입니다. 죄송하지만 이러고 있을 시간이 없습니다. 저희는 현재 국왕을 위한 중요한 임무를 수행중이며, 큰 보상이 걸려있어 성실히 수행해야 합니다. 부디 제 무례를 용서하시길 바랍니다. 향후에 대화를 나눌 어느 때가 오겠지요.
+qstr_Greetings_{reg63?sir|반갑습니다, {reg63?경:부인}. 제 1기병단은 다시 전장으로 달려갑니다.^이번것도 소규모이길 바랍니다, 번영은 오직 평화속에서 성장하니까요.
+qstr_Hold!_Are_you_one_of|멈춰! 너는 가증즈런 북부인의 일원이냐? 아, 물론 아니겠군. 용서하시오. 당신은 그놈들처럼 반역의 냄새를 풍기지 않는군요.
+qstr_Salam!_Our_horsemen_|살람! 우리 기수들은 빠르고 요부들은 사나운 상태니 성급한 짓을 하기전에 생각하시오.^우리는 이 근방 작은 마을에서 건강한 계집애들을 모으고 있소. 그년들이 언젠가 좋은 요부가 되면 높은 가격으로 칸에게 상납하려 하오.
+qstr_I_am_Shiruzah_of_the|나는 신성한 화살의 쉬르자! 언젠가 쉬르자가 인다르님의 율법을 부족에게 전파해 위대한 칸이 되리라.^전리품은 균등히 나눠 분배하고 소 도둑들은 꼬챙이가 되어 죽는다. 막사는 배로 증가할 것이며 창기병은 셀 수도 없을 것이다. 이국의 전쟁 군주들은 자투에게 경의를 표할 것이다. 하자 자투!
+qstr_Sorry_my_friend._The|미안해, 친구. 자유 용병단은 이미 고용됐고 지원자도 받고 있지 않거든. 그러니, 뭘 하고 싶더라도 기다려야 할거야.
+qstr_FRIENDLY|FRIENDLY
+qstr_You_have_a_dilemma:_|당신은 딜레마에 빠져있다 : 4명의 유력한 용의자가 있다. 사서와, {s4}, {s5}, {s6}. 이들과 대화해 죄의 유무를 밝혀내십시오.
+qstr_You_have_dealt_with_|당신은 귀부인의 살인자를 처리했다. 용의자로 지목된 {s4}, {s5}, {s6}에게 무죄임을 통보하십시오.
+qstr_Hey_there_this_is_th|Hey there this is the first text.
+qstr_{s2}_Patrol|{s2} 순찰대
+qstr_is_in_very_good_shap|꽤 좋은 모양새를 갖췄지만, 완벽엔 모자르군.
+qstr_is_in_reasonable_sha|그럴싸한 모양새를 갖췄지만, 개선의 여지가 있군.
+qstr_looks_like_battlefie|대대적인 정비가 필요한 전장의 노획물처럼 보이는군.
+qstr_are_well_balanced_yo|균형이 잘 잡혔지만, 더 많이 필요하겠군.
+qstr_are_in_very_good_sha|꽤 좋은 모양새를 갖췄지만, 더 많이 필요하겠군.
+qstr_Today_is_a_good_day_|죽기 딱 좋은 날씨네. 붙어보자!

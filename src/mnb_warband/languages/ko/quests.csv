@@ -1,0 +1,66 @@
+﻿lockitver|DO NOT DELETE THIS LINE! 2896
+qst_deliver_message|{s13}에게 메세지를 전달
+qst_deliver_message_to_enemy_lord|{s13}에게 메세지 전달
+qst_raise_troops|모집 {reg1} {s14}
+qst_escort_lady|{s13}을(를) {s14}(으)로 호위
+qst_deal_with_bandits_at_lords_village|{s15}을(를) 강도들로 부터 보호
+qst_collect_taxes|{s3}에서 세금을 징수
+qst_hunt_down_fugitive|{s4}을(를) 추적
+qst_kill_local_merchant|{s3}의 지역상인 암살
+qst_bring_back_runaway_serfs|달아난 농노 되찾기
+qst_follow_spy|접선 장소까지 첩자 미행
+qst_capture_enemy_hero|{s13}로 부터 영주 포로로 잡기
+qst_lend_companion|당신의 동료 {s3}을(를) {s9}에게 대여
+qst_collect_debt|{s3}에게서 {s9}의 빚을 회수 
+qst_incriminate_loyal_commander|{s13}의 충성스런 사령관인 {s16}에게 누명을 씌워라
+qst_meet_spy_in_enemy_town|{s13}에서 첩자와 접선
+qst_capture_prisoners|{reg1}명의 {s3} 포로를 확보
+qst_lend_surgeon|당신의 외과의사 {s3}을(를) {s1}에게 대여
+qst_follow_army|{s9}의 부대를 따라감
+qst_report_to_army|총 지휘관 {s13}에게 보고
+qst_deliver_cattle_to_army|소 {reg3}마리를 {s13}(으)로 배달
+qst_join_siege_with_army|{s14}의 공성전에 참여
+qst_screen_army|{s13} 부대의 진격을 막는다
+qst_scout_waypoints|{s13}, {s14} 그리고 {s15}을(를) 정찰
+qst_rescue_lord_by_replace|{s13}을(를) {s14}에서 구출
+qst_deliver_message_to_prisoner_lord|{s14}의 {s13}에게 메세지를 전달
+qst_duel_for_lady|{s13}에게 결투 신청
+qst_duel_courtship_rival|{s13}에게 결투 신청 (optional)
+qst_duel_avenge_insult|{s13}에게 결투 신청
+qst_move_cattle_herd|소 떼를 {s13}(으)로 이동
+qst_escort_merchant_caravan|상단을 {s8}(으)로 호위
+qst_deliver_wine|{reg5}개의 {s6}을 {s4}(으)로 배달
+qst_troublesome_bandits|성가신 도적 추적
+qst_kidnapped_girl|도적들로 부터 소녀 구출
+qst_persuade_lords_to_make_peace|두 영주가 평화서약 하도록 설득
+qst_deal_with_looters|약탈자 처리
+qst_deal_with_night_bandits|밤도적 처리
+qst_deliver_grain|밀을 {s3}(으)로 배달
+qst_deliver_cattle|소 {reg5}마리를 {s3}(으)로 배달
+qst_train_peasants_against_bandits|도적들에 대항하여 {s13}의 농부들을 훈련
+qst_eliminate_bandits_infesting_village|{s7}의 마을을 약탈자들에게서 보호
+qst_visit_lady|귀부인 방문
+qst_formal_marriage_proposal|정식 청혼
+qst_obtain_liege_blessing|정식 청혼
+qst_wed_betrothed|약혼자와 결혼
+qst_wed_betrothed_female|약혼자와 결혼
+qst_join_faction|{s1}를 향한 충성의 맹세
+qst_rebel_against_kingdom|{s13}(이)가 {s14}의 왕좌를 되찾는 것을 도움
+qst_consult_with_minister|대신의 조언을 듣는다
+qst_organize_feast|연회 개최
+qst_resolve_dispute|논쟁 해결
+qst_offer_gift|선물 얻기
+qst_denounce_lord|영주 비난
+qst_intrigue_against_lord|주군에 대한 음모
+qst_track_down_bandits|도적들 추적
+qst_track_down_provocateurs|선동가 추적
+qst_retaliate_for_border_incident|국경분쟁에 대한 보복
+qst_raid_caravan_to_start_war|중립 상인을 공격하여 전쟁을 유발
+qst_cause_provocation|왕국을 자극하여 다른 나라를 공격하도록 만들어라
+qst_rescue_prisoner|포로를 구해내거나 몸값을 지불
+qst_destroy_bandit_lair|도적들의 소굴을 파괴
+qst_collect_men|다섯명 모으기
+qst_learn_where_merchant_brother_is|인질들이 어디에 있는지 알아내라
+qst_save_relative_of_merchant|도적 소굴을 공격
+qst_save_town_from_bandits|도적들로 부터 마을을 보호
+qst_quests_end|퀘스트 종료

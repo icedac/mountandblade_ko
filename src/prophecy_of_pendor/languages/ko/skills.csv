@@ -1,0 +1,85 @@
+﻿
+skl_trade|상술
+skl_trade_desc|1포인트 당 상거래 패널티가 5%% 감소됩니다. (부대 기술)
+skl_leadership|지도력
+skl_leadership_desc|1포인트 당 지휘 가능한 최대 병사 수가 10명씩 증가하며, 5%%씩 부대의 사기를 늘리고 급료를 절감합니다. (지도자 기술)
+skl_prisoner_management|포로 관리
+skl_prisoner_management_desc|1포인트 당 최대 포로 수가 10명씩 증가하고 전투 후 적 지휘관이 탈출할 수 있는 확률이 5%%씩 감소합니다. (지도자 기술)
+skl_reserved_1|제한된 기술 1
+skl_reserved_1_desc|이것은 제한된 기술입니다.
+skl_reserved_2|제한된 기술 2
+skl_reserved_2_desc|이것은 제한된 기술입니다.
+skl_reserved_3|제한된 기술 3
+skl_reserved_3_desc|이것은 제한된 기술입니다.
+skl_reserved_4|제한된 기술l 4
+skl_reserved_4_desc|이것은 제한된 기술입니다.
+skl_persuasion|설득력
+skl_persuasion_desc|다른 사람이 당신의 의견을 수락할 확률을 올려줍니다. 또한 당신이 NPC에게 필요한 것을 요청할 수 있는 관계도의 최소치가 낮아집니다. (개인 기술)
+skl_engineer|기계공
+skl_engineer_desc|공성병기의 제작 및 영지 발전시설 건설 시 효율성이 증가합니다. (부대 기술)
+skl_first_aid|응급처치
+skl_first_aid_desc|1포인트 당 영웅이 임무 중에 잃은 체력을 스킬당 5%%씩 회복합니다. (부대 기술)
+skl_surgery|수술
+skl_surgery_desc|1포인트 당 아군이 사망하는 대신 부상당할 확률이 4%%씩 증가합니다. (부대 기술)
+skl_wound_treatment|상처 치료
+skl_wound_treatment_desc|1포인트 당 부대 내 병력의 체력회복 속도가 20%%씩 증가합니다. (부대 기술)
+skl_inventory_management|재고 관리
+skl_inventory_management_desc|1포인트 당 가방의 공간이 6칸 증가합니다. (지도자 기술)
+skl_spotting|감지
+skl_spotting_desc|1포인트 당 부대의 시야거리가 10%%씩 증가합니다. (부대 기술)
+skl_pathfinding|길찾기
+skl_pathfinding_desc|1포인트 당 전체지도 상에서 부대의 이동속도가 3%%씩 증가합니다. (부대 기술)
+skl_tactics|전략가
+skl_tactics_desc|2포인트 당 전투시의 유리함이 1만큼 증가합니다. (부대 기술)
+skl_tracking|추적술
+skl_tracking_desc|흔적으로부터 더욱 많은 정보를 얻을 수 있습니다. (부대 기술)
+skl_trainer|훈련교관
+skl_trainer_desc|이 능력을 가진 영웅은 해당 영웅보다 레벨이 낮은 부대원들에게 매일 자정에 레벨 당 {4,10,16,23,30,38,46,55,65,80} 만큼의 경험치를 전해줍니다. (개인 기술)
+skl_reserved_5|제한된 기술 5
+skl_reserved_5_desc|이것은 제한된 기술입니다.
+skl_reserved_6|제한된 기술 6
+skl_reserved_6_desc|이것은 제한된 기술입니다.
+skl_reserved_7|제한된 기술 7
+skl_reserved_7_desc|이것은 제한된 기술입니다.
+skl_reserved_8|제한된 기술 8
+skl_reserved_8_desc|이것은 제한된 기술입니다.
+skl_looting|노획
+skl_looting_desc|1포인트 당 전투 후 획득하는 전리품의 총계를 10%%씩 늘려줍니다. 스킬 수치가 높아질수록 마을 약탈 시간이 줄어듭니다. (부대 기술)
+skl_horse_archery|기마 궁술
+skl_horse_archery_desc|말에 타고 있을 때 활과 투척무기의 공격력과 정확도에 대한 패널티가 감소합니다. (개인 기술)
+skl_riding|승마술
+skl_riding_desc|보다 높은 수준의 말을 탈 수 있고, 말의 기동능력과 이동속도가 증가합니다. (개인 기술)
+skl_athletics|운동능력
+skl_athletics_desc|보행시 속도가 상승합니다. (개인 기술)
+skl_shield|방패기술
+skl_shield_desc|1포인트 당 방패로 전달되는 공격력의 8%%를 감소시키고, 방패의 사용속도와 방어 범위가 증가합니다. (개인 기술)
+skl_weapon_master|무기 숙련
+skl_weapon_master_desc|무기의 숙련도 성장 속도를 높여주며 숙련도 투자 한계치를 40씩 올립니다. (개인 기술)
+skl_reserved_9|제한된 기술 9
+skl_reserved_9_desc|이것은 제한된 기술입니다.
+skl_reserved_10|제한된 기술 10
+skl_reserved_10_desc|이것은 제한된 기술입니다.
+skl_reserved_11|제한된 기술 11
+skl_reserved_11_desc|이것은 제한된 기술입니다.
+skl_reserved_12|제한된 기술 12
+skl_reserved_12_desc|이것은 제한된 기술입니다.
+skl_reserved_13|제한된 기술 13
+skl_reserved_13_desc|이것은 제한된 기술입니다.
+skl_power_draw|당기는 힘
+skl_power_draw_desc|캐릭터가 좀 더 강한 활을 사용할 수 있게 해줍니다. 이 기술에 1포인트를 줄 때마다 활의 공격력이 14%% 상승합니다. (개인 기술)
+skl_power_throw|던지는 힘
+skl_power_throw_desc|투척 무기의 정확도가 소폭 상승합니다. 이 기술에 1포인트를 줄 때마다 투척 공격력이 10%% 상승합니다. (개인 기술)
+skl_power_strike|타격하는 힘
+skl_power_strike_desc|이 기술에 1포인트를 줄 때마다 근접 공격력이 8%% 상승합니다. (개인 기술)
+skl_ironflesh|단단한 피부
+skl_ironflesh_desc|이 기술에 1포인트를 줄 때마다 체력이 2포인트 만큼 상승합니다. (개인 기술)
+skl_reserved_14|제한된 기술 14
+skl_reserved_14_desc|이것은 제한된 기술입니다.
+skl_reserved_15|제한된 기술 15
+skl_reserved_15_desc|이것은 제한된 기술입니다.
+skl_reserved_16|제한된 기술 16
+skl_reserved_16_desc|이것은 제한된 기술입니다.
+skl_reserved_17|제한된 기술 17
+skl_reserved_17_desc|이것은 제한된 기술입니다.
+skl_reserved_18|제한된 기술 18
+skl_reserved_18_desc|이것은 제한된 기술입니다

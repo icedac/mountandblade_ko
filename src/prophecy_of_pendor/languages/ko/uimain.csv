@@ -1,0 +1,108 @@
+﻿
+ui_texture_detail|텍스쳐 세부묘사:
+ui_max_frame_rate|최대 프레임수 제한:
+ui_enable_bumpmap|돌출 지형 사용
+ui_disable_blood|혈흔 효과 제거
+ui_disable_music|음악 끄기
+ui_disable_sound|효과음 끄기
+ui_enable_cheats|치트 켜기
+ui_enable_edit_mode|에디트 모드 활성화 (사용시, 게임이 불안정해질 수 있습니다.)
+ui_enable_pixel_shaders|픽쉘 쉐이더 사용
+ui_enable_sound_variation|사운드 변형 허가
+ui_enable_vertex_shaders|렌더링 모드:
+ui_shadow_quality|그림자 퀄리티:
+ui_directx_7|DirectX 7
+ui_directx_9|DirectX 9
+ui_show_framerate|프레임수 보기
+ui_start_windowed|창모드 실행
+ui_trialmode_caption|활성화
+ui_trialmode|마운트 앤 블레이드의 시디키 입력을 해주십시오. 당신 고유의, 16자의 시리얼 키를 넣어주십시오.\n만약 당신이 어떤 이유에서든 활성화을 원하지 않는다면, 여전히 게임플레이는 가능하겠지만, 캐릭터의 레벨8 이상으로 올릴 수 없습니다.
+ui_launch_buy|TaleWorlds.com에서 라이센스를 구입해주십시오.
+ui_launch_faq|자주 묻는 질문 보기
+ui_trialmode2|....
+ui_trialmode3|Or, you can also...
+ui_trialmode4|If you have any questions about the activation process, you can read...
+ui_serial_key_caption|시리얼 키
+ui_notification_serial_input|시리얼 키를 입력하십시오. (복사&붙여넣기가 가능합니다.)
+ui_activate|활성화
+ui_paste|붙여넣기
+ui_notification_serial_internet_connection|Activation requires an active Internet Connection!
+ui_notification_serial_offline|If this computer does not have access to the Internet you can also use:
+ui_manual_activation|Manual Activation
+ui_offline_activation|Offline Activation
+ui_manual_activation_caption|Manual Activation
+ui_offline_activation_caption|Offline Activation
+ui_cancel2|취소
+ui_close|Close
+ui_ok2|승인
+ui_activation_successful|게임이 정상적으로 활성화 되었습니다.
+ui_activation_successful2|훗날을 위해 시디키를 보관하십시오. 당신이 다른 컴퓨터에 마운트 앤 블레이드를 설치하고 싶을 때 필요합니다.
+ui_activation_denied|비활성화!
+ui_notification_serial_already_used|시리얼 키가 이미 사용되고 있습니다. 재활성화 될 때 까지 기다려 주십시오.
+ui_notification_unable_to_connect_to_activation_server|활성화를 위한 인터넷 연결이 끊어졌습니다. 
+ui_notification_unable_to_connect_to_activation_server2|Please make sure that your internet connection is active and working properly and try again. If you are using a firewall, you many need to give the game permission to access the internet. If all else fails, you may always use manual activation.
+ui_incorrect_serial_number|잘못된 시디키!
+ui_incorrect_hardware_hash|잘못된 하드웨어 정보!
+ui_incorrect_activation_code|잘못된 활성화 코드!
+ui_cant_write_to_registry|레지스트리 입력 오류!
+ui_video|비디오 설정
+ui_audio|오디오 설정
+ui_game|게임 플레이
+ui_advanced|활성화
+ui_mount_and_blade_is_ready|마운트앤블레이드 워밴드가 준비되었습니다.
+ui_notification_trial_mode|마운트앤블레이드가 체험판으로 실행되었습니다. 이 버젼에선 캐릭터 레벨6 까지 육성하실 수 있습니다. 나중에, taleworlds.com에서 게임을 구입하여 주십시오. 정식판으로 인증받기까지 몇분이 소요됩니다.
+ui_there_are_no_modules_installed|모듈이 설치되지 않음!
+ui_notification_new_version|새 버젼의 마운트앤블레이드 워밴드가 탐색되었습니다.\n현재의 버젼은 %d.%d%d%d.\n최근의 마운트 앤 블레이드 워밴드 버젼은 %d.%d%d%d.\nwww.taleworlds.com에서 최신 버젼이 다운로드 가능합니다.
+ui_new_version_found|새 버젼이 탐색됨!
+ui_notification_unable_to_retreive_new_version|새 버젼의 정보를 불러오는데 실패하였습니다. 재 시도 해주시기 바랍니다.
+ui_new_version|새 버젼:
+ui_notification_latest_version|지금 설치된 버젼이 가장 최근 버젼입니다.
+ui_mount_and_blade_is_up_to_date|마운트앤블레이드 워밴드가 업데이트 되고있습니다.
+ui_off|끄기
+ui_continue_playing_the_trial_mode|체험판으로 계속 진행하기.
+ui_faq_caption|FAQ
+ui_faq_text|Q: 활성화가 뭔가요?\r\nA: The activation system is a user-friendly copy-protection method which is based on distributing a unique serial key along with each copy of the game. You need to activate the game once on every computer that you want to play the game with your serial key. After activating once, you don't need to do anything else to play such as keeping the game disc in the drive. As long as you keep your serial key, you will be able to activate and play the game easily, even after many years.\r\n\r\nQ: Where can I find my serial key?\r\nA: Each boxed copy of the game includes a unique serial key. Different vendors may distribute the keys in different ways, but it is typically attached to the cover of your printed manual. If you have purchased your game online, then the online vendor should supply you your serial key.\r\n\r\nQ: How does the activation process work?\r\nA: The game creates a hash-value from the specifications of your computer and sends it to an activation server over the internet together with your serial key. The activation server registers the serial key to your computer and responds with an activation number, which then unlocks the full mode of the game.\r\n\r\nQ: Can I activate the game on multiple computers?\r\nA: Yes, you can. But please remember that the game is licensed to you for your own personal use. The activation server may reject a serial key temporarily if it is used on too many computers in a short period of time. \r\n\r\nQ: The program stops to respond after I click on the activate button.\r\nA: Sometimes it may take up to half a minute to carry out the activation process. Be patient, the game will eventually report the result.\r\n\r\nQ: My computer does not have access to the internet. How can I activate the game?\r\nA: In this case you may use manual activation. Just click on "Enter Your Serial Key", and then "Manual Activation" buttons. You will still need to open up the manual activation web-page from another computer that is linked to the internet.\r\n
+ui_auto_adjust|자동 설정
+ui_screen_size|스크린 설정:
+ui_antialiasing|안티얼라이징:
+ui_use_desktop_resolution|데스크탑 설정
+ui_play|마운트앤블레이드 워밴드 시작하기
+ui_check_for_new_version|신 버젼 확인
+ui_configure|환경 설정
+ui_configure_caption|환경 설정
+ui_mountandblade_website|마운트앤블레이드 워밴드 웹사이트
+ui_current_setting|           현재 모듈:
+ui_manual_activation_text1|1) In your web browser, open the following address:
+ui_manual_activation_text2|2) In the webpage that opens enter your serial key...
+ui_manual_activation_text3|3) ...and this machine's hardware hash:
+ui_manual_activation_text4|4) The page will then give you an activation code. Enter or paste it below and click OK.
+ui_activation_code|활성화 코드:
+ui_force_vsync|강제 수직 동기화
+ui_module_newer_than_application|The module you selected has been specified NOT TO WORK with the current version of the game. You are strongly advised not to run this setting. To remedy this, you may try checking for a newer version of the game.
+ui_module_older_than_application|The module you selected has been created for an older version of the game and may not work with the current version of the game. You may go ahead and try running it but there is a chance that you will run into difficulties. To remedy this, you may check if a newer version of the module is available.
+ui_m_low|낮음
+ui_m_high|높음
+ui_m_ultra_high|매우 높음
+ui_force_single_threading|강제 단일 스레드로 돌리기
+ui_not_enough_memory|It seems that you currently have %d MB of available total physical and virtual memory. Mount&Blade Warband requires at least 700 MB of available memory in order to run without a problem. If Mount&Blade Warband continuously crashes during your play, please close some of your programs before starting Mount&Blade Warband or increase your virtual memory from Control Panel -> System menu.
+ui_install|마운트앤블레이드 워밴드 설치
+DirectXText|"Mount&Blade Warband requires DirectX 9.0c or above to run. This computer does not meet the requirement. To fix the problem you need to download and install the latest version of DirectX from Microsoft's website. Would you like to visit TaleWorlds DirectX Download page now?"
+NoMountAndBladeText|"Mount&Blade Warband has not been installed on this computer. Please download the full installer from www.taleworlds.com and use it to install the game."
+ui_SavegamesText|"Do you want to keep your save files?"
+ui_trialmode_online|Mount&&Blade Warband is currently running in Trial Mode. In this mode you can play the game freely until your character reaches level 7. To continue further, you need to enter a serial key and activate the game. If you have already purchased the game, please enter your serial key now. If not you may easily purchase the game from Taleworlds.com. It takes only a minute to buy a license online and unlock the complete mode.
+ui_launch_activate|Enter Your Serial Key
+ui_trialmode2_online|After buying a license, you will obtain your serial key.\nTo unlock the full mode just proceed to...
+ui_trialmode3_online|Or, if you don't wish to purchase the game yet you can also...
+ui_trialmode4_online|Our online sales process is fully secure and we greatly respect our customers' rights to security, privacy, having backup copies of their game and upgrading their computers/hardware. If you'd like to learn more about our sales policy, please take a look at:
+ui_ondemand_textures|필요시마다 텍스쳐 로딩
+ui_language|언어:
+ui_steam_not_running|Steam could not be initialized properly. Steam must be running to play this game.
+ui_switch_to_turkish_explanation|Oyunun dilini Turkce'ye cevirmek ister misiniz?
+ui_switch_to_turkish_yes|Evet
+ui_switch_to_turkish_no|Hayir
+ui_new_version_message|A newer version of the game is available. Do you wish to visit the download page now?
+ui_enable_version_check|버젼 체크 켜기
+ui_disable|Disable
+ui_yes2|네
+ui_no2|아니오
+ui_new_version_message2|A newer version of the game is available. Please visit the online portal you purchased the game from to download the new version.

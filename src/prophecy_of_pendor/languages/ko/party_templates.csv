@@ -1,0 +1,158 @@
+﻿
+pt_none|없음
+pt_rescued_prisoners|구출된 포로
+pt_enemy|적
+pt_hero_party|영웅 부대
+pt_village_defenders|마을 자경단
+pt_cattle_herd|소 떼
+pt_looters|무법자들
+pt_militia|민병 순찰대
+pt_steppe_bandits|드'샤르 도적무리
+pt_forest_bandits|숲도적들
+pt_mountain_bandits|산속 무법자들
+pt_sea_raiders|반스케리 약탈단
+pt_snake_bandits|사교도 부대
+pt_forest_outcasts|노상강도무리
+pt_sea_raider_army|반스케리 해적 군대
+pt_omen_seekers|징조 탐구집회
+pt_heretics|이교도 집회
+pt_heretics_army|이교도 군대
+pt_snake_cult|사교도 무리
+pt_snake_cult_warband|사교도 전투부대
+pt_snake_cult_army|사교도 군대
+pt_azi_death_cult|아지 다하카의 죽음의 교단 무리
+pt_mystmountain_raiders|신비산 도적무리
+pt_mystmountain_army|신비산 군대
+pt_jatu_nomads|자투 약탈부대
+pt_jatu_warband|자투 전투부대
+pt_jatu_army|자투 군대
+pt_red_brotherhood|붉은 형제단
+pt_inquisition_patrol|Inquisition Patrol
+pt_inquisition_warband|Inquisition Theologians
+pt_inquisition_army|Inquisition Holy Army
+pt_fadventurers|여성 모험단
+pt_adventurers|모험단
+pt_peasant_army|농민 반란군
+pt_merc_barclay|바클레이 정복 모험단
+pt_merc_generic|용병협회
+pt_merc_mettenheim|메텐하임 원정군
+pt_merc_freikorps_mettenheim|메텐하임 의용군
+pt_melitine_medium_spawn|멜리틴 정찰군
+pt_merc_jatu|자투 용병단
+pt_merc_vanskerry|반스케리 용병단
+pt_merc_veccavian|펄시너의 딸들
+pt_merc_singalian|싱갈족 용병단
+pt_slaver_singalian|싱갈족 노예상
+pt_player_merc_mettenheim|메텐하임 자유형제단
+pt_player_merc_mettenheim_2|메텐하임 자유형제단
+pt_player_merc_veccavian|베카비아 변절자들
+pt_player_merc_barclay|바클레이 제1 근위대
+pt_player_merc_melitine|사르노의 멜리틴 원정대
+pt_player_merc_marleons|말레온 제1 기병대
+pt_player_merc_unicorns|티모시 경의 유니콘 기사단
+pt_player_merc_red_brotherhood|로사리오의 붉은 형제단
+pt_player_merc_red_brotherhood_2|로사리오의 붉은 형제단 
+pt_player_merc_snowlions|눈사자 여단
+pt_player_merc_singalians|피루즈의 싱갈족 노예상단
+pt_player_merc_jatu|인다르의 선민
+pt_player_merc_generic|자유 용병단
+pt_player_merc_cheaters|앤디와 빌어먹을 사기꾼들
+pt_stronghold_patrol|기사단 성채의 순찰대
+pt_ren_knights|떠돌이 기사 무리
+pt_cb5_results|달아나는 적
+pt_noldor_elves|놀도르 수색대
+pt_errant_knights|자유 기사 무리
+pt_dread_legion_patrol|공포의 군단 순찰대
+pt_eyegrim_patrol|아이그림의 선봉대
+pt_wolfbode_patrol|울프보드의 순찰대
+pt_three_seers_patrol|세 예언자 순찰대
+pt_inquisitor_rasmus_patrol|Invokers of the Righteous Truth
+pt_wolfbode|학살자 울프보드의 군대
+pt_dread_legion|공포의 군단
+pt_jatu_k_juda|파괴자 K'유다의 군대
+pt_jatu_zulkar|전쟁군주 줄카의 군대
+pt_eyegrim|먹어치우는 자 아이그림의 군대
+pt_brouhaha|알라릭 폰 브루하하의 무리
+pt_burilgi_the_usurper|찬탈자 부릴기의 부대
+pt_oswald|오스왈드 드 플뢰르의 모험단
+pt_griffonsword|그리폰검 모험단
+pt_ironsword|강철검 코단의 모험단
+pt_shalavan|족장 샬라반의 모험단
+pt_boristheraven|큰까마귀 보리스 경의 부대
+pt_three_seers|세 예언자들의 집회
+pt_noldor_lord_1|놀도르 군주 아엘다리언의 부대
+pt_noldor_lord_2|놀도르 군주 이실란디르의 부대
+pt_syla_uzas|실라 우자스의 군대
+pt_mett_obrist|오브리스트 하인리히의 부대
+pt_vecc_verante|이탈한 마녀사냥단
+pt_barclay_rufio|빌랴비시오시아 군대
+pt_melitine_kaspax|멜리틴 침략군
+pt_inquisitor|Holy Inquisitor Rasmus Devatica
+pt_madame_de_pompadour|퐁파두르 부인의 군대
+pt_refugees|난민들
+pt_refugees_guarded|무장한 난민들
+pt_deserters|탈영병들
+pt_merchant_caravan|여행 상단
+pt_troublesome_bandits|골칫거리 도적단
+pt_bandits_awaiting_ransom|몸값을 기다리는 도적들
+pt_kidnapped_girl|납치된 소녀
+pt_village_farmers|농민들
+pt_spy_partners|특징없는 여행자들
+pt_runaway_serfs|도망가는 농노들
+pt_spy|특징없는 시민
+pt_sacrificed_messenger|희생된 전령
+pt_jatu_quest_army|자투 약탈자들 [퀘스트]
+pt_forager_party|징발 부대
+pt_scout_party|정찰대
+pt_patrol_party|순찰대
+pt_messenger_party|전령대
+pt_raider_party|습격대
+pt_raider_captives|포로 습격대
+pt_kingdom_caravan_party|왕국 상단
+pt_prisoner_train_party|죄수 행렬
+pt_default_prisoners|태만한 죄수들
+pt_routed_warriors|패잔병들
+pt_center_reinforcements|지원군
+pt_kingdom_hero_party|전쟁 부대
+pt_kingdom_4_reinforcements_a|kingdom 4 reinforcements a
+pt_kingdom_4_reinforcements_b|kingdom 4 reinforcements b
+pt_kingdom_4_reinforcements_c|kingdom 4 reinforcements c
+pt_kingdom_5_reinforcements_a|kingdom 5 reinforcements a
+pt_kingdom_5_reinforcements_b|kingdom 5 reinforcements b
+pt_kingdom_5_reinforcements_c|kingdom 5 reinforcements c
+pt_kingdom_6_reinforcements_a|kingdom 6 reinforcements a
+pt_kingdom_6_reinforcements_b|kingdom 6 reinforcements b
+pt_kingdom_6_reinforcements_c|kingdom 6 reinforcements c
+pt_lethaldiran_reinforcements_a|Lethaldiran reinforcements a
+pt_lethaldiran_reinforcements_b|Lethaldiran reinforcements b
+pt_lethaldiran_reinforcements_c|Lethaldiran reinforcements c
+pt_boadice_reinforcements_a|Boadice reinforcements a
+pt_boadice_reinforcements_b|Boadice reinforcements b
+pt_boadice_reinforcements_c|Boadice reinforcements c
+pt_frederick_reinforcements_a|frederick reinforcements a
+pt_frederick_reinforcements_b|frederick reinforcements b
+pt_frederick_reinforcements_c|frederick reinforcements c
+pt_donavan_reinforcements_a|donavan reinforcements a
+pt_donavan_reinforcements_b|donavan reinforcements b
+pt_donavan_reinforcements_c|donavan reinforcements c
+pt_adonja_reinforcements_a|adonja reinforcements a
+pt_adonja_reinforcements_b|adonja reinforcements b
+pt_adonja_reinforcements_c|adonja reinforcements c
+pt_rayne_reinforcements_a|rayne reinforcements a
+pt_rayne_reinforcements_b|rayne reinforcements b
+pt_rayne_reinforcements_c|rayne reinforcements c
+pt_roland_reinforcements_a|roland reinforcements a
+pt_roland_reinforcements_b|roland reinforcements b
+pt_roland_reinforcements_c|roland reinforcements c
+pt_alistair_reinforcements_a|alistair reinforcements a
+pt_alistair_reinforcements_b|alistair reinforcements b
+pt_alistair_reinforcements_c|alistair reinforcements c
+pt_steppe_bandit_lair|드'샤르 도적 소굴
+pt_snake_bandit_lair|사교도 성지
+pt_forest_bandit_lair|노상강도 야영지
+pt_mountain_bandit_lair|신비산 은신처
+pt_sea_raider_lair|반스케리 상륙지
+pt_looter_lair|유괴범 은신처
+pt_treasure_lair|보물지도 위치
+pt_leaded_looters|강도 무리
+pt_looters_quest|Band of Looters

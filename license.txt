@@ -1,0 +1,22 @@
+﻿마운트 & 블레이드: 워밴드 한글 패치
+
+* 마앤블 워밴드 한글패치 방법과 관련 링크 정리 : http://cafe.naver.com/warband/203228
+
+펜도르의 예언 한글 패치
+
+* 펜도르 한글패치하는법 최종본 같지만 최종본이아닌글 : http://cafe.naver.com/warband/224213
+* 한글 패치 ... 깨짐 해결 방법 : http://cafe.naver.com/warband/217576
+* "3.9.1"에 맞게 수정한 한글 패치 (4.26 수정) : http://cafe.naver.com/warband/223069
+* 여성 캐릭터 결혼 대화 오역 수정 파일 : http://cafe.naver.com/warband/223249
+* [펜도르 v3.8.4] 펜도르 중립영웅 위치 보이기 : http://cafe.naver.com/warband/214933
+* 주점의 기사단 대화 한글패치입니다. : http://cafe.naver.com/warband/224634
+
+
+기타
+
+* https://github.com/icedac/pendor_ko
+* thanks for contributors
+
+기타 모든 내용은 BSD 라이센스를 따릅니다.
+https://en.wikipedia.org/wiki/BSD_licenses
+
