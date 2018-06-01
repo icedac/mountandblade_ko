@@ -1,0 +1,507 @@
+﻿
+p_burning_buildings|당신이 불의 버그를 본다면, 보고하십시오.
+p_ship_colisions|당신이 충돌 버그를 본다면, 보고하십시오.
+p_zendar|젠다 
+p_town_1|걸타운
+p_town_2|케이시
+p_town_3|배로우톤
+p_town_4|선스피어
+p_town_5|리버런 
+p_town_6|킹스랜딩
+p_town_7|파이크
+p_town_8|윈터펠
+p_town_9|시스터톤
+p_town_10|라니스포트
+p_town_11|드래곤스톤
+p_town_12|화이트 하버
+p_town_13|캐슬 블랙
+p_town_14|메이든 폴
+p_town_15|해로웨이
+p_town_16|티로시
+p_town_17|미르
+p_town_18|솔트팬스
+p_town_19|리스
+p_town_20|페어마켓
+p_town_21|아버
+p_town_22|올드 타운
+p_town_23|애쉬포드
+p_town_24|플랭키 타운
+p_town_25|바이스
+p_town_26|펜토스
+p_town_27|더스켄데일
+p_town_29|스토니 셉트
+p_town_30|로라스
+p_town_31|프로스트팽 산맥 캠프
+p_town_32|텐 족 캠프
+p_town_33|노르보스
+p_town_34|리버 딥
+p_town_35|쿼호르
+p_town_36|볼란티스
+p_town_37|볼론 테리스
+p_town_38|발리사르
+p_town_39|셀호리스
+p_town_40|위핑 타운
+p_town_41|하이가든
+p_town_42|브라보스
+p_castle_1|드레드포트
+p_castle_2|레이븐트리 홀
+p_castle_3|위도우스 워치
+p_castle_4|하드홈
+p_castle_5|카홀드
+p_castle_6|올드 캐슬
+p_castle_7|그레이워터 워치
+p_castle_8|라스트 하스
+p_castle_9|딥우드 모트 
+p_castle_10|톨헨스 스퀘어
+p_castle_11|플린트 핑거
+p_castle_12|모트 케일린
+p_castle_13|윌
+p_castle_14|하츠 홈
+p_castle_15|피의 관문
+p_castle_16|스트롱송
+p_castle_17|룬스톤
+p_castle_18|콜드 워터
+p_castle_19|아이언오크스
+p_castle_20|레드포트
+p_castle_21|롱보우 홀
+p_castle_22|최초인의 주먹
+p_castle_23|위켄 덴
+p_castle_24|베어 아일랜드
+p_castle_25|스톰즈 엔드
+p_castle_26|이븐폴 홀
+p_castle_27|커윈 성
+p_castle_28|이어리
+p_castle_29|샤프 포인트
+p_castle_30|스톤 댄스
+p_castle_31|히스텍 홀
+p_castle_32|브론즈 게이트
+p_castle_33|펠우드
+p_castle_34|그리핀 루스트
+p_castle_35|까마귀의 둥지
+p_castle_36|스톤헬름
+p_castle_37|미스트우드
+p_castle_38|그린스톤
+p_castle_39|쌍둥이 성
+p_castle_40|나이트송
+p_castle_41|아콘 홀
+p_castle_42|허니홀트
+p_castle_43|핑크메이든 성
+p_castle_44|혼 힐
+p_castle_45|롱테이블
+p_castle_46|그레이시 베일
+p_castle_47|골든글로브
+p_castle_48|선하우스
+p_castle_49|올드 오크
+p_castle_50|스톤 헤지
+p_castle_51|세개의 탑
+p_castle_52|업플랜드
+p_castle_53|블랙크라운
+p_castle_54|반달라온
+p_castle_55|브라이트워터 킵
+p_castle_56|비터브리지
+p_castle_57|사이더 홀
+p_castle_58|텀블톤
+p_castle_59|텐 타워스
+p_castle_60|해머혼
+p_castle_62|아이언 홀트
+p_castle_63|킹스그레이브
+p_castle_64|스타폴
+p_castle_65|아이언우드
+p_castle_66|솔트 쇼어
+p_castle_67|고스트 힐
+p_castle_68|레몬우드
+p_castle_69|클리게인 가문의 영지
+p_castle_70|블랙몬트
+p_castle_71|헬홀트
+p_castle_72|샌드스톤
+p_castle_73|스카이리치
+p_castle_74|대공의 고갯길
+p_castle_75|블랙헤이븐
+p_castle_76|가스톤 그레이
+p_castle_77|하이 허미티지
+p_castle_78|캐스털리 록
+p_castle_79|골든 투스
+p_castle_80|크레이크홀 
+p_castle_81|콘필드
+p_castle_82|실버 힐
+p_castle_83|딥 덴
+p_castle_84|혼베일
+p_castle_85|애쉬포드
+p_castle_86|크랙
+p_castle_87|베인포트
+p_castle_88|로스비
+p_castle_89|앤틀러
+p_castle_90|페어캐슬
+p_castle_91|하렌할
+p_castle_92|피스트 파이어
+p_castle_93|더 톨
+p_castle_94|장벽
+p_castle_95|새도우 타워
+p_castle_96|이스트워치
+p_castle_98|램스 게이트
+p_castle_99|혼우드
+p_castle_100|고얀 드로헤
+p_castle_101|니 사르
+p_castle_102|아르 노이
+p_castle_103|크로얀
+p_built_castle|카르디가르
+p_castle_104|사 멜
+p_castle_105|대리
+p_castle_106|폰튼 성
+p_castle_107|록스 레스트
+p_castle_108|드리프트마크
+p_castle_109|롱시스터
+p_castle_110|사스필드
+p_castle_111|레드 레이크
+p_castle_112|비의 성
+p_castle_113|시가드
+p_castle_114|그림스톤 
+p_castle_115|웨이페러스레스트 
+p_castle_116|스네이크우드
+p_castle_117|분노의 곶
+p_village_1|베어 마을
+p_village_2|농장주의 마을
+p_north_village|레스핏
+p_village_3|스토니 해안
+p_village_4|십브레이커 만
+p_village_5|화이트트리
+p_village_6|몰스 타운
+p_village_7|시드래곤 포인트
+p_village_8|레드 둔스
+p_village_9|쏜 레드
+p_village_10|워터 가든스
+p_village_11|스컬링 패스
+p_village_12|핑거스
+p_village_13|밀크 워터
+p_village_14|올드 앵커
+p_village_15|꽃게 만
+p_village_16|스토롤드갑
+p_village_17|거인의 창
+p_village_18|십스헤드 힐스
+p_village_19|초승달
+p_village_20|조용한 섬
+p_village_21|웬드워터
+p_village_22|블레이즈 워터 만
+p_village_23|파스포그
+p_village_24|페니트리
+p_village_25|아에나르의 휴식
+p_village_26|매시의 갈고리
+p_village_27|문 게이트
+p_village_28|그레이 가든
+p_village_29|페블톤 탑
+p_village_30|블랙타이드 성
+p_village_31|리버스의 엣지
+p_village_32|분노의 곶
+p_village_33|커터스 그로브
+p_village_34|해로웨이
+p_village_35|몽거스 호그
+p_village_36|잿빛 절벽
+p_village_37|위핑 워터
+p_village_38|맨더 강
+p_village_39|헤드 워터
+p_village_40|하이 하트
+p_village_41|위스퍼링 사운드
+p_village_42|미르의 마을
+p_village_43|텐 족 골짜기
+p_village_44|락포드
+p_village_45|스위트 시스터
+p_village_46|허니와인
+p_village_47|러싱 폴스
+p_village_48|위스퍼링 우드
+p_village_49|텀블러스 폭포
+p_village_50|팔로우 포크
+p_village_51|킹스무트 
+p_village_52|레드 포크
+p_village_53|옥스크로스
+p_village_54|노리
+p_village_55|달의 산맥
+p_village_56|클로우 아일
+p_village_57|브린들우드
+p_village_58|리버로드
+p_village_59|크래기 락
+p_village_60|셰리 
+p_village_61|웬디쉬 타운
+p_village_62|탈벡 홀
+p_village_63|레퍼턴
+p_village_64|롱보우
+p_village_65|솔트클리프
+p_village_66|쉐터스톤
+p_village_67|셰프스토우
+p_village_68|올드 노아크
+p_village_69|로제오네
+p_village_70|자유민 야영지
+p_village_71|부서진 팔
+p_village_72|스코지 강
+p_village_73|샌즈 딥
+p_village_74|프린스 패스
+p_village_75|본웨이
+p_village_76|그레이프그로브
+p_village_77|넓은 길
+p_village_78|팔레스톤
+p_village_79|레드 클리프
+p_village_80|클리게인 폴리
+p_village_81|실버 힐
+p_village_82|그레이 실드
+p_village_83|홀슨
+p_village_84|크랩 베이 포인트
+p_village_85|라쉬 다한
+p_village_86|화이트 나이프
+p_village_87|솔트스피어
+p_village_88|브로큰 브랜치
+p_village_89|롱 레이크
+p_village_90|램스 포트
+p_village_91|토렌틴
+p_village_92|가스톤
+p_village_93|그랜저
+p_village_94|그린 블러드
+p_village_95|샌드 소르
+p_village_96|브림스톤
+p_village_97|블러드스톤
+p_village_98|갤로우 그레이
+p_village_99|그레이갈
+p_village_100|볼리아나
+p_village_101|로이네
+p_village_102|셀호루
+p_village_103|안달
+p_village_104|대거 레이크
+p_village_105|다크와쉬
+p_village_106|노이네
+p_village_107|로인
+p_village_108|라쉬 로이
+p_village_109|고얀 
+p_village_110|로릴 홀
+p_village_111|와인홀트
+p_village_112|바이른
+p_village_113|스톤브릿지
+p_village_114|오션 로드 
+p_village_115|애쉬포드 매도우
+p_village_116|레인우드
+p_village_117|오켄실드
+p_village_118|선셋 뷰
+p_village_119|콘 홀즈
+p_village_120|로링 슬로
+p_village_121|피버
+p_village_122|라스트 리버
+p_village_123|화려한 항구
+p_village_124|로라스 베이
+p_village_125|학스마이어
+p_village_126|도니시마치
+p_village_127|어촌
+p_village_128|실드뷰
+p_village_129|루스터스 탑
+p_village_130|텀블스톤 강
+p_village_131|리틀 시스터
+p_village_132|크랙클로우 
+p_village_133|풀스 폴리
+p_village_134|블랙워터
+p_village_135|트라이던트 강
+p_village_136|폰튼
+p_village_137|데일 헤드
+p_village_138|페어 섬
+p_village_139|하드스 원
+p_village_140|장미 가도
+p_village_141|허던
+p_village_142|에스터몬트
+p_village_143|타스
+p_village_144|퀸즈 헤드
+p_village_145|레드와인 베이
+p_village_146|하이 선셋
+p_village_147|베리부시
+p_village_148|스토니 탑
+p_village_149|브레이커스 베이
+p_village_150|헌터 패스
+p_village_151|솔티 베이
+p_village_152|벨베트 힐스
+p_village_153|골든 필드
+p_village_154|레이니온
+p_village_155|코이네
+p_village_156|로룰루
+p_makeshift_village|타론
+p_village_157|아름다운 처녀
+p_village_158|솔트 소어
+p_village_159|헤이스펜
+p_village_160|로브로우
+p_village_161|하이 락
+p_village_162|워터리 뷰
+p_village_163|파스 엔드
+p_village_164|와일드우드
+p_village_165|스파이스타운
+p_village_166|다잉 랜스
+p_village_167|랜드 엔드
+p_village_168|래트우드
+p_village_169|데이몬의 휴식
+p_village_170|사라트
+p_village_171|알 마이너
+p_village_172|모레도
+p_village_174|팀벌 베이
+p_village_175|거인의 계단
+p_village_176|앤틀러 강
+p_village_177|스토롤드갑
+p_salt_mine|금광
+p_iron_mine|철 광산
+p_quarry1|채석장
+p_four_ways_inn|사거리 여관
+p_test_scene|테스트 장면
+p_battlefields|전장
+p_celidon_forest|할로우 힐 
+p_iniau_hideout|신성한 숲
+p_hadrian_wall1|하드리아누스 방벽
+p_odin_cave|동굴
+p_river_delta|삼각주
+p_quarry|채석장
+p_desert_oasis|사막의 오아시스
+p_swamps|늪
+p_wildling_farm|농장
+p_wildling_farm_safe|농장
+p_multi_indigo_cradle|요람
+p_multi_indigo_frontier|국경 지방
+p_of_multi_caravan_ambush|상단장 매복
+p_of_multi_crezy|숲 속을 지나가다
+p_of_multi_fjord|피요르드
+p_of_multi_hastings|헤이스팅스
+p_of_multi_hot_gates|뜨거운 게이트
+p_of_multi_mini_circles|원형
+p_of_multi_rock_valley|록 밸리
+p_of_multi_small_ruins|열다
+p_of_multi_stone_circles|스톤 서클
+p_of_multi_thingvellir|팅크베틀리르
+p_battle_stones|스톤 로우
+p_roman_fort|로마 요새
+p_hadrian_wall|하드리아누스 방벽
+p_farmland|농장
+p_stonemonumento|돌 기념물
+p_forestbattle|숲 전투
+p_multi_scene_dam_10|댐
+p_dhorak_keep|도트락 요새
+p_training_ground|훈련장
+p_training_ground_1|훈련장
+p_training_ground_2|훈련장
+p_training_ground_3|훈련장
+p_training_ground_4|훈련장
+p_training_ground_5|훈련장
+p_septry1|셉트리
+p_monasterio2|교차로의 여관
+p_septry2|셉트리
+p_septry3|셉트리
+p_septry4|셉트리
+p_septry5|셉트리
+p_septry6|셉트리
+p_septry7|셉트리
+p_septry8|셉트리
+p_septry9|셉트리
+p_yourlair|정착
+p_outpost_1|전초
+p_outpost_2|전초
+p_fort|포트
+p_ferry_1a|선착장
+p_ferry_2a|선착장
+p_ferry_3a|선착장
+p_ferry_4a|선착장
+p_ferry_5a|선착장
+p_ferry_6a|선착장
+p_ferry_7a|선착장
+p_ferry_8a|선착장
+p_ferry_1b|선착장
+p_ferry_2b|선착장
+p_ferry_3b|선착장
+p_ferry_4b|선착장
+p_ferry_5b|선착장
+p_ferry_6b|선착장
+p_ferry_7b|선착장
+p_ferry_8b|선착장
+p_jetty_1|항구
+p_jetty_2|항구
+p_jetty_3|항구
+p_jetty_4|항구
+p_jetty_5|항구
+p_jetty_6|항구
+p_jetty_7|항구
+p_jetty_8d|항구
+p_jetty_8h|항구
+p_jetty_9|항구
+p_jetty_10|항구
+p_jetty_11|항구
+p_jetty_12|항구
+p_jetty_13|항구
+p_jetty_14|항구
+p_jetty_15|항구
+p_jetty_16|항구
+p_jetty_17|항구
+p_jetty_18|항구
+p_jetty_8|선착장
+p_jetty_8b|선착장
+p_jetty_8c|선착장
+p_jetty_8e|선착장
+p_jetty_8f|선착장
+p_jetty_8g|선착장
+p_jetty_8i|선착장
+p_inn_of_the_kneeling_man|무릎 꿇은 남자의 여관
+p_old_stone_bridge|올드 스톤 브릿지
+p_ruined_castle|폐허가 된 성
+p_crasters_keep|크래스터 킵
+p_queenscrown|퀸스크라운
+p_illyrios_manse|일리리오의 목사관
+p_the_bridge_of_skulls|해골의 다리
+p_the_titan|타이탄
+p_tower_of_joy|기쁨의 탑
+p_shandystone|샌드스톤
+p_boneway|본웨이
+p_brokenarm|부서진 팔
+p_naggashill|나가의 갈비뼈
+p_oldstones|올드 스톤
+p_wolf_den|울프스덴
+p_giants_lair|자이언트의 동굴
+p_looter_spawn_point|약탈자 스폰 지역
+p_dothraki_raiders_spawn_point|도트라키 부족 야영지
+p_robber_knight_spawn_point|강도 기사단 소굴
+p_forest_bandit_spawn_point|산적 야영지
+p_forest_bandit_spawn_point2|산적 야영지
+p_forest_bandit_spawn_point3|산적 야영지
+p_northern_clansmen_spawn_point|산의 씨족들
+p_westeros_raiders_spawn_point|툰드라
+p_westeros_raiders_spawn_point2|툰드라
+p_sea_raider_spawn_point|해변
+p_ironborn_raiders_spawn_point|공습을 기다리고있다.
+p_pirates_spawn_point|공습을 기다리고있다.
+p_hill_tribesman_spawn_point|산악 부족 달 형제 야영지
+p_black_ears_spawn_point|산악 부족 검은 귀
+p_sons_of_the_mist_spawn_point|산악 부족 안개의 아들들
+p_hill_tribes_spawn_point|산악 부족들
+p_whitewalkers_spawn_point_1|화이트 워커
+p_whitewalkers_spawn_point_2|화이트 워커
+p_whitewalkers_spawn_point_3|화이트 워커
+p_whitewalkers_spawn_point_4|화이트 워커
+p_slavers_spawn_point|노예를 찾고있다.
+p_essos_raiders_spawn_point|평원
+p_exiled_knight_spawn_point|추방된 기사단 소굴
+p_windblown_spawn_point|윈드블로운
+p_wild_hares_spawn_point|야생 토끼
+p_second_sons_spawn_point|세컨드선즈
+p_stormcrows_spawn_point|스톰크로우
+p_dagger_lake_pirates_1_spawn_point|더러운 우르호
+p_dagger_lake_pirates_2_spawn_point|레이디 코라
+p_dagger_lake_pirates_3_spawn_point|쉬라우디드 로드
+p_ruined_castle_bandits_spawn_point|노예
+p_ruined_castle_bandits_spawn_point2|노예
+p_fos|fos
+p_fos2|fos2
+p_fos3|fos3
+p_old_gods|옛 신
+p_rhllor_spawn|를로르
+p_drowned_men_spawn|익사자들
+p_deer_spawn_point|사슴 스폰 지역
+p_boar_spawn_point|야생 돼지 스폰 지역
+p_wolf_spawn_point|늑대 스폰 지역
+p_goat_spawn_point|염소 스폰 지역
+p_goatb_spawn_point|염소 스폰 지역
+p_wilddonkey_spawn_point|야생 당나귀 스폰 지역
+p_nw_ranger_patrol|나이트 워치 레인저
+p_ff_raiding_party|자유민/와일들링의 습격조
+p_ship_pirates_spawn_point|해적
+p_sea_raiders_Spawn_point|해적
+p_ship_ironborn_raiders|강철군도 해적
+p_landing_point|착륙 지점
+p_transporter|수송대
+p_troop_camp_1|부대 야영지
+p_troop_camp_2|부대 야영지
+p_whitewalker_quest|화이트 워커

@@ -1,0 +1,133 @@
+﻿
+pt_none|없음
+pt_rescued_prisoners|구출된 포로
+pt_enemy|적
+pt_hero_party|영웅 부대
+pt_village_defenders|마을 수비대
+pt_village_defenders_ironborn|마을 수비대
+pt_village_defenders_dothraki|마을 수비대
+pt_village_defenders_wildlings|마을 수비대
+pt_village_defenders_nights_watch|마을 수비대
+pt_village_defenders_essos|마을 수비대
+pt_village_defenders_north|마을 수비대
+pt_village_defenders_dorne|마을 수비대
+pt_cattle_herd|소 떼
+pt_looters|약탈자
+pt_manhunters|깃발 없는 형제단
+pt_dothraki_raiders|도트라키의 돌격대원
+pt_exiled_knights|추방된 기사단
+pt_windblown|윈드블로운
+pt_slavers|노예
+pt_essos_raiders|산적
+pt_second_sons|세컨드선즈
+pt_stormcrows|스톰크로우
+pt_dagger_lake_pirates_1|더러운 우르호
+pt_dagger_lake_pirates_2|레이디 코라
+pt_dagger_lake_pirates_3|쉬라우디드 로드
+pt_black_ears|산악 부족 검은 귀
+pt_sons_of_the_mist|산악 부족 안개의 아들들
+pt_hill_tribesmans|산악 부족 달 형제
+pt_hill_tribes|산악 부족들
+pt_robber_knights|강도 기사단
+pt_forest_bandits|숲 도적
+pt_northern_clansmen|산의 씨족들
+pt_westeros_raiders|습격대
+pt_wild_hares|야생 토끼
+pt_whitewalkers_1|나이트 킹
+pt_whitewalkers_2|화이트 워커
+pt_whitewalkers_3|화이트 워커
+pt_whitewalkers_4|화이트 워커
+pt_wights_1|와이트
+pt_wights_2|와이트
+pt_wights_3|와이트
+pt_wights_4|와이트
+pt_sea_raiders|해적
+pt_ironborn_raiders|강철인
+pt_pirates|해적
+pt_deserters|패잔병
+pt_merchant_caravan|상인 마차
+pt_troublesome_bandits|성가신 산적
+pt_bandits_awaiting_ransom|몸값을 기다리는 도적단
+pt_kidnapped_girl|납치된 소녀
+pt_village_farmers|농부
+pt_lannister_men|라니스터 병사
+pt_lannister_camp|라니스터 야영지
+pt_ruined_castle_bandits|노예
+pt_ruined_castle_bandits1|해적
+pt_ruined_castle_bandits2|해적
+pt_new_template|다그마의 해적
+pt_lannister_raiding_party|라니스터 부대 습격조
+pt_cado_template|굿 마스터
+pt_sparrows|믿음의 군대
+pt_spy_partners|여행자
+pt_runaway_serfs|도망가는 농노
+pt_spy|시민
+pt_sacrificed_messenger|희생된 전령
+pt_varys_spy|Alfred
+pt_varys_spy_partners|여행자
+pt_target_hedge_knights|방랑 기사
+pt_bastards_and_broken_things|밀렵꾼
+pt_forager_party|징발 부대
+pt_scout_party|정찰 부대
+pt_patrol_party|순찰 부대
+pt_patrols_end|순찰 부대
+pt_messenger_party|전령
+pt_raider_party|습격대
+pt_raider_captives|노예 습격대
+pt_kingdom_caravan_party|왕국 상단 부대
+pt_prisoner_train_party|죄수 행렬
+pt_default_prisoners|태만한 죄수
+pt_routed_warriors|패잔병
+pt_deer_herd|사슴 무리
+pt_boar_herd|야생 멧돼지
+pt_wolf_herd|늑대 무리
+pt_coat_herd|염소 무리
+pt_coatb_herd|염소 무리
+pt_wilddonkey_herd|야생 당나귀 무리
+pt_center_reinforcements|지원군
+pt_kingdom_hero_party|전쟁 부대
+pt_steppe_bandit_lair|도트라키 부족 야영지
+pt_slavers_lair|노예 상인 야영지
+pt_robber_knight_lair|강도 기사단의 소굴
+pt_exiled_knight_lair|추방된 기사단 소굴
+pt_hill_tribesman_lair|산악 부족 달 형제 소굴
+pt_forest_bandit_lair|숲 도둑 소굴
+pt_northern_clansmen_lair|산의 씨족들 소굴
+pt_sea_raiders_lair|해적 착륙 지점
+pt_ironborn_raiders_lair|강철군도 착륙 지점
+pt_pirates_lair|해적 착륙 지점
+pt_looter_lair|납치범들의 은신처
+pt_leaded_looters|약탈자 떼
+pt_dplmc_spouse|당신의 배우자
+pt_dplmc_gift_caravan|당신의 상단
+pt_dplmc_recruiter|징집관
+pt_skirmish_party|척후병
+pt_spy_party|신중한 여행자
+pt_escaped_companion|지친 동반자
+pt_funeral_pyre|장례식 장작더미
+pt_personal_messenger|전령
+pt_entrench|참호
+pt_ship_wreck|난파선
+pt_sacerdotes_party|탁발승
+pt_paganos_party|'옛 신' 숭배자
+pt_rhllor_party|'를로르' 붉은 사제들
+pt_drowned_men_party|'익사한 신' 익사자들
+pt_bishop_party|셉톤
+pt_iniau|Iniau Scouts
+pt_sea_traders|무역상
+pt_chimney_smoke|연기
+pt_port|항구
+pt_ferry_port|항구
+pt_landet_ships|당신의 선박들
+pt_fisher_ship|어부
+pt_sea_raiders_ships|해적
+pt_ship_ironborn_raiders|강철군도 습격단
+pt_pirates_ships|해적
+pt_nw_ranger_patrol|나이트 워치 레인저
+pt_ff_raiding_party|자유민/와일들링의 습격조
+pt_nw_recruiter|방황하는 나이트 워치
+pt_jetty_port|항구
+pt_ambushers|복병
+pt_zamoshie_bandits|북쪽 산적
+pt_ship|선박
+pt_village_elder|징집

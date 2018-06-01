@@ -1,0 +1,4145 @@
+﻿
+trp_multiplayer_profile_troop_male|멀티플레이어 프로필 병력 남성
+trp_multiplayer_profile_troop_male_pl|멀티플레이어 프로필 병력 남성
+trp_multiplayer_profile_troop_female|멀티플레이어 프로필 병력 여성
+trp_multiplayer_profile_troop_female_pl|멀티플레이어 프로필 병력 여성
+trp_temp_troop|임시 부대
+trp_temp_troop_pl|임시 부대
+trp_find_item_cheat|아이템 치트 찾기
+trp_find_item_cheat_pl|아이템 치트 찾기
+trp_random_town_sequence|임의 도시 순서
+trp_random_town_sequence_pl|임의 도시 순서
+trp_tournament_participants|경기 참가자
+trp_tournament_participants_pl|경기 참가자
+trp_tutorial_maceman|철퇴병
+trp_tutorial_maceman_pl|철퇴병
+trp_tutorial_archer|궁수
+trp_tutorial_archer_pl|궁수
+trp_tutorial_swordsman|검사
+trp_tutorial_swordsman_pl|검사
+trp_novice_fighter|수습 전사
+trp_novice_fighter_pl|수습 전사
+trp_regular_fighter|전사
+trp_regular_fighter_pl|일반 전사
+trp_veteran_fighter|숙련 전사
+trp_veteran_fighter_pl|숙련 전사
+trp_champion_fighter|챔피언
+trp_champion_fighter_pl|챔피언
+trp_arena_training_fighter_1|수습 전사
+trp_arena_training_fighter_1_pl|수습 전사
+trp_arena_training_fighter_2|수습 전사
+trp_arena_training_fighter_2_pl|수습 전사
+trp_arena_training_fighter_3|일반 전사
+trp_arena_training_fighter_3_pl|일반 전사
+trp_arena_training_fighter_4|일반 전사
+trp_arena_training_fighter_4_pl|일반 전사
+trp_arena_training_fighter_5|일반 전사
+trp_arena_training_fighter_5_pl|일반 전사
+trp_arena_training_fighter_6|숙련 전사
+trp_arena_training_fighter_6_pl|숙련 전사
+trp_arena_training_fighter_7|숙련 전사
+trp_arena_training_fighter_7_pl|숙련 전사
+trp_arena_training_fighter_8|숙련 전사
+trp_arena_training_fighter_8_pl|숙련 전사
+trp_arena_training_fighter_9|챔피언
+trp_arena_training_fighter_9_pl|챔피언
+trp_arena_training_fighter_10|챔피언
+trp_arena_training_fighter_10_pl|챔피언
+trp_cattle|소
+trp_cattle_pl|소
+trp_farmer|농부
+trp_farmer_pl|농부
+trp_unsullied|무결병
+trp_unsullied_pl|무결병
+trp_veteran_unsullied|숙련된 무결병
+trp_veteran_unsullied_pl|숙련된 무결병
+trp_goldcloaks|'황금 망토단(Gold Cloaks)' 킹스랜딩 도시경비대
+trp_goldcloaks_pl|'황금 망토단(Gold Cloaks)' 킹스랜딩 도시경비대
+trp_veteran_goldcloaks|숙련된 황금 망토단(Gold Cloaks)
+trp_veteran_goldcloaks_pl|숙련된 황금 망토단(Gold Cloaks)
+trp_townsman|주민
+trp_townsman_pl|주민
+trp_watchman|경비병
+trp_watchman_pl|경비병
+trp_shepherd|양치기
+trp_shepherd_pl|양치기
+trp_caravan_guard|시종
+trp_caravan_guard_pl|시종
+trp_hired_blade|방랑 기사
+trp_hired_blade_pl|방랑 기사
+trp_mercenary_swordsman|서약 기사
+trp_mercenary_swordsman_pl|서약 기사
+trp_frisian_warrior|용병
+trp_frisian_warrior_pl|용병
+trp_regular_sailors|선원
+trp_regular_sailors_pl|선원
+trp_sellsail|해상 용병
+trp_sellsail_pl|해상 용병
+trp_sellsail2|숙련된 해상 용병
+trp_sellsail2_pl|숙련된 해상 용병
+trp_mercenary_crossbowman|궁병
+trp_mercenary_crossbowman_pl|궁병
+trp_slingers|에소스 투척병
+trp_slingers_pl|에소스 투척병
+trp_mercenary_horseman|자유 기수
+trp_mercenary_horseman_pl|자유 기수
+trp_mercenary_leader|용병 대장
+trp_mercenary_leader_pl|용병 대장
+trp_mercenary_skirmisher|첩자
+trp_mercenary_skirmisher_pl|첩자들
+trp_mercenary_cavalry|숙련된 자유 기수
+trp_mercenary_cavalry_pl|숙련된 자유 기수
+trp_mercenaries_end|최정예 용병
+trp_mercenaries_end_pl|최정예 용병
+trp_local_lord|영주
+trp_local_lord_pl|영주
+trp_local_lord_mounted|영주
+trp_local_lord_mounted_pl|영주
+trp_dornish_peasant|도른인 소작농
+trp_dornish_peasant_pl|도른인 소작농
+trp_dornish_recruit|도른인 징집병
+trp_dornish_recruit_pl|도른인 징집병
+trp_dornish_archer|도른인 궁병
+trp_dornish_archer_pl|도른인 궁병
+trp_dornish_spearman|도른인 창병
+trp_dornish_spearman_pl|도른인 창병
+trp_dornish_skirmisher|도른인 척후병
+trp_dornish_skirmisher_pl|도른인 척후병
+trp_dornish_sand_scout|샌드 정찰병
+trp_dornish_sand_scout_pl|샌드 정찰병
+trp_dornish_spearman_vet|도른인 숙련된 창병
+trp_dornish_spearman_vet_pl|도른인 숙련된 창병
+trp_dornish_sand_warrior|샌드 전사
+trp_dornish_sand_warrior_pl|샌드 전사
+trp_dornish_sand_cavalry|샌드 기병
+trp_dornish_sand_cavalry_pl|샌드 기병
+trp_dornish_spearman_heavy|도른인 중창병
+trp_dornish_spearman_heavy_pl|도른인 중창병
+trp_dornish_hornman|도른인 군악병
+trp_dornish_hornman_pl|도른인 군악병
+trp_dorne_standard_bearer|도른인 정규 수송병
+trp_dorne_standard_bearer_pl|도른인 정규 수송병
+trp_dorne_messenger|도른인 전령
+trp_dorne_messenger_pl|도른인 전령
+trp_dornish_deserter|도른인 탈영병
+trp_dornish_deserter_pl|도른인 탈영병
+trp_dornish_prison_guard|도른인 감옥 간수
+trp_dornish_prison_guard_pl|도른인 감옥 간수
+trp_dornish_castle_guard|도른인 요새 경비병
+trp_dornish_castle_guard_pl|도른인 요새 경비병
+trp_dornish_local_lord|도른인 귀족
+trp_dornish_local_lord_pl|도른인 귀족
+trp_old_gods_worshipper|'옛 신' 숭배자
+trp_old_gods_worshipper_pl|'옛 신' 숭배자
+trp_septon|셉톤
+trp_septon_pl|셉톤
+trp_begging_brothers|탁발승
+trp_begging_brothers_pl|탁발승
+trp_poor_fellows|펠로우스
+trp_poor_fellows_pl|펠로우스
+trp_warriors_sons|전사의 아들
+trp_warriors_sons_pl|전사의 아들
+trp_sparrow|스패로우
+trp_sparrow_pl|스패로우
+trp_lord_of_light|붉은 사제
+trp_lord_of_light_pl|붉은 사제
+trp_drowned_man_troops|'익사한 신' 숭배자
+trp_drowned_man_troops_pl|'익사한 신' 숭배자
+trp_faceless_man|얼굴 없는 자들
+trp_faceless_man_pl|얼굴 없는 자들
+trp_hornman|군악병
+trp_hornman_pl|군악병
+trp_free_city_hornman|군악병
+trp_free_city_hornman_pl|군악병
+trp_stormlands_peasant|스톰랜드 소작농
+trp_stormlands_peasant_pl|스톰랜드 소작농
+trp_stormlands_recruit|스톰랜드 징집병
+trp_stormlands_recruit_pl|스톰랜드 징집병
+trp_stormlands_forester|스톰랜드 파수꾼
+trp_stormlands_forester_pl|스톰랜드 파수꾼
+trp_stormlands_militia|스톰랜드 민병대
+trp_stormlands_militia_pl|스톰랜드 민병대
+trp_stormlands_bowman|스톰랜드 궁병
+trp_stormlands_bowman_pl|스톰랜드 궁병
+trp_stormlands_man_at_arms|스톰랜드 중장병
+trp_stormlands_man_at_arms_pl|스톰랜드 중장병
+trp_stormlands_knight|스톰랜드 근위병
+trp_stormlands_knight_pl|스톰랜드 근위병
+trp_stormlands_mounted_knight|스톰랜드 기사
+trp_stormlands_mounted_knight_pl|스톰랜드 기사
+trp_stormlands_house_knight|스톰랜드 레인보우 가드
+trp_stormlands_house_knight_pl|스톰랜드 레인보우 가드
+trp_stormlands_hornman|스톰랜드 군악병
+trp_stormlands_hornman_pl|스톰랜드 군악병
+trp_stormlands_standard_bearer|스톰랜드 정규 수송병
+trp_stormlands_standard_bearer_pl|스톰랜드 정규 수송병
+trp_stormlands_messenger|스톰랜드 전령
+trp_stormlands_messenger_pl|스톰랜드 전령
+trp_stormlands_deserter|스톰랜드 탈영병
+trp_stormlands_deserter_pl|스톰랜드 탈영병
+trp_stormlands_prison_guard|스톰랜드 감옥 간수
+trp_stormlands_prison_guard_pl|스톰랜드 감옥 간수
+trp_stormlands_castle_guard|스톰랜드 요새 경비병
+trp_stormlands_castle_guard_pl|스톰랜드 요새 경비병
+trp_stormlands_local_lord|스톰랜드 귀족
+trp_stormlands_local_lord_pl|스톰랜드 귀족
+trp_dragonstone_peasant|드래곤스톤 소작농
+trp_dragonstone_peasant_pl|드래곤스톤 소작농
+trp_dragonstone_recruit|드래곤스톤 징집병
+trp_dragonstone_recruit_pl|드래곤스톤 징집병
+trp_dragonstone_forester|드래곤스톤 궁병
+trp_dragonstone_forester_pl|드래곤스톤 궁병
+trp_dragonstone_militia|드래곤스톤 민병대
+trp_dragonstone_militia_pl|드래곤스톤 민병대
+trp_dragonstone_bowman|드래곤스톤 노련한 궁병
+trp_dragonstone_bowman_pl|드래곤스톤 노련한 궁병
+trp_dragonstone_man_at_arms|드래곤스톤 중장병
+trp_dragonstone_man_at_arms_pl|드래곤스톤 중장병
+trp_dragonstone_knight|드래곤스톤 근위병
+trp_dragonstone_knight_pl|드래곤스톤 근위병
+trp_dragonstone_mounted_knight|드래곤스톤 기사
+trp_dragonstone_mounted_knight_pl|드래곤스톤 기사
+trp_dragonstone_queensmen|여왕의 부하들
+trp_dragonstone_queensmen_pl| 여왕의 부하들
+trp_dragonstone_hornman|드래곤스톤 군악병
+trp_dragonstone_hornman_pl|드래곤스톤 군악병
+trp_dragonstone_standard_bearer|드래곤스톤 정규 수송병
+trp_dragonstone_standard_bearer_pl|드래곤스톤 정규 수송병
+trp_dragonstone_messenger|드래곤스톤 전령
+trp_dragonstone_messenger_pl|드래곤스톤 전령
+trp_dragonstone_deserter|드래곤스톤 탈영병
+trp_dragonstone_deserter_pl|드래곤스톤 탈영병
+trp_dragonstone_prison_guard|드래곤스톤 감옥 간수
+trp_dragonstone_prison_guard_pl|드래곤스톤 감옥 간수
+trp_dragonstone_castle_guard|드래곤스톤 요새 경비병
+trp_dragonstone_castle_guard_pl|드래곤스톤 요새 경비병
+trp_dragonstone_local_lord|드래곤스톤 귀족
+trp_dragonstone_local_lord_pl|드래곤스톤 귀족
+trp_westerlands_peasant|웨스터랜드 소작농
+trp_westerlands_peasant_pl|웨스터랜드 소작농
+trp_westerlands_recruit|웨스터랜드 징집병
+trp_westerlands_recruit_pl|웨스터랜드 징집병
+trp_westerlands_foot_soldier|웨스터랜드 보병
+trp_westerlands_foot_soldier_pl|웨스터랜드 보병
+trp_westerlands_crossbowman|웨스터랜드 쇠뇌병
+trp_westerlands_crossbowman_pl|웨스터랜드 쇠뇌병
+trp_westerlands_infantry|웨스터랜드 장창병
+trp_westerlands_infantry_pl|웨스터랜드 장창병
+trp_westerlands_scout|웨스터랜드 정찰병
+trp_westerlands_scout_pl|웨스터랜드 정찰병
+trp_westerlands_arbelester|웨스터랜드 석궁병
+trp_westerlands_arbelester_pl|웨스터랜드 석궁병
+trp_westerlands_freerider|웨스터랜드 자유기수
+trp_westerlands_freerider_pl|웨스터랜드 자유기수
+trp_westerlands_lannisguard|웨스터랜드 무장 장창병
+trp_westerlands_lannisguard_pl|웨스터랜드 무장 장창병
+trp_westerlands_red_cloak_knight|'붉은 망토(Red Cloak)' 라니스터 가문 근위병
+trp_westerlands_red_cloak_knight_pl|'붉은 망토(Red Cloak)' 라니스터 가문 근위병
+trp_westerland_hornman|웨스터랜드 군악병
+trp_westerland_hornman_pl|웨스터랜드 군악병
+trp_westerland_standard_bearer|웨스터랜드 정규 수송병
+trp_westerland_standard_bearer_pl|웨스터랜드 정규 수송병
+trp_westerlands_messenger|웨스터랜드 전령
+trp_westerlands_messenger_pl|웨스터랜드 전령
+trp_westerlands_deserter|웨스터랜드 탈영병
+trp_westerlands_deserter_pl|웨스터랜드 탈영병
+trp_westerlands_prison_guard|웨스터랜드 감옥 간수
+trp_westerlands_prison_guard_pl|웨스터랜드 감옥 간수
+trp_westerlands_castle_guard|웨스터랜드 요새 경비병
+trp_westerlands_castle_guard_pl|웨스터랜드 요새 경비병
+trp_westerlands_local_lord|웨스터랜드 영주
+trp_westerlands_local_lord_pl|웨스터랜드 영주
+trp_westerlands_lannister_recruit|라니스터 가문 징집병
+trp_westerlands_lannister_recruit_pl|라니스터 가문 징집병
+trp_westerlands_lannister_foot_soldier|라니스터 가문 보병
+trp_westerlands_lannister_foot_soldier_pl|라니스터 가문 보병
+trp_westerlands_lannister_crossbowman|라니스터 가문 궁병
+trp_westerlands_lannister_crossbowman_pl|라니스터 가문 궁병
+trp_westerlands_lannister_infantry|라니스터 가문 장창병
+trp_westerlands_lannister_infantry_pl|라니스터 가문 장창병
+trp_westerlands_lannister_scout|라니스터 가문 정찰병
+trp_westerlands_lannister_scout_pl|라니스터 가문 정찰병
+trp_westerlands_lannister_arbelester|라니스터 가문 장궁병
+trp_westerlands_lannister_arbelester_pl|라니스터 가문 장궁병
+trp_westerlands_lannister_freerider|라니스터 가문 자유기수
+trp_westerlands_lannister_freerider_pl|라니스터 가문 자유기수
+trp_westerlands_lannister_lannisguard|라니스터 가문 기사
+trp_westerlands_lannister_lannisguard_pl|라니스터 가문 기사
+trp_westerlands_lannister_red_cloak_knight|'붉은 망토(Red Cloak)' 라니스터 가문 근위병
+trp_westerlands_lannister_red_cloak_knight_pl|'붉은 망토(Red Cloak)' 라니스터 가문 근위병
+trp_westerland_lannister_hornman|Lannister 군악병
+trp_westerland_lannister_hornman_pl|라니스터 가문 군악병
+trp_westerland_lannister_standard_bearer|라니스터 가문 정규 수송병
+trp_westerland_lannister_standard_bearer_pl|라니스터 가문 정규 수송병
+trp_westerlands_lannister_messenger|라니스터 가문 전령
+trp_westerlands_lannister_messenger_pl|라니스터 가문 전령
+trp_westerlands_lannister_deserter|라니스터 가문 탈영병
+trp_westerlands_lannister_deserter_pl|라니스터 가문 탈영병
+trp_westerlands_lannister_prison_guard|라니스터 가문 감옥 간수
+trp_westerlands_lannister_prison_guard_pl|라니스터 가문 감옥 간수
+trp_westerlands_lannister_castle_guard|라니스터 가문 요새 경비병
+trp_westerlands_lannister_castle_guard_pl|라니스터 가문 요새 경비병
+trp_westerlands_lannister_local_lord|라니스터 가문 영주
+trp_westerlands_lannister_local_lord_pl|라니스터 가문 영주
+trp_reach_peasant|리치 소작농
+trp_reach_peasant_pl|리치 소작농
+trp_reach_recruit|리치 징집병
+trp_reach_recruit_pl|리치 징집병
+trp_reach_rider|리치 기수
+trp_reach_rider_pl|리치 기수
+trp_reach_footman|리치 보병
+trp_reach_footman_pl|리치 보병
+trp_reach_man_at_arms|리치 중장병
+trp_reach_man_at_arms_pl|리치 중장병
+trp_reach_archer|리치 장궁병
+trp_reach_archer_pl|리치 장궁병
+trp_reach_mounted_man_at_arms|리치 중기병
+trp_reach_mounted_man_at_arms_pl|리치 중기병
+trp_reach_knight|리치 근위병
+trp_reach_knight_pl|리치 근위병
+trp_reach_mounted_knight|리치 기사
+trp_reach_mounted_knight_pl|리치 기사
+trp_reach_swornsword|리치 서약 기사
+trp_reach_swornsword_pl|리치 서약 기사
+trp_tyrell_house_guardsmen|티렐 가문 근위병
+trp_tyrell_house_guardsmen_pl|티렐 가문 근위병
+trp_reach_hornman|리치 군악병
+trp_reach_hornman_pl|리치 군악병
+trp_reach_standard_bearer|리치 정규 수송병
+trp_reach_standard_bearer_pl|리치 정규 수송병
+trp_reach_messenger|리치 전령
+trp_reach_messenger_pl|리치 전령
+trp_reach_deserter|리치 탈영병
+trp_reach_deserter_pl|리치 탈영병
+trp_reach_prison_guard|리치 감옥 간수
+trp_reach_prison_guard_pl|리치 감옥 간수
+trp_reach_castle_guard|리치 요새 경비병
+trp_reach_castle_guard_pl|리치 요새 경비병
+trp_reach_local_lord|리치 영주
+trp_reach_local_lord_pl|리치 영주
+trp_north_peasant|북부 소작농
+trp_north_peasant_pl|북부 소작농
+trp_north_recruit|북부 징집병
+trp_north_recruit_pl|북부 징집병
+trp_north_footman|북부 보병
+trp_north_footman_pl|북부 보병
+trp_north_archer|북부 궁병
+trp_north_archer_pl|북부 궁병
+trp_north_man_at_arms|북부 중장병
+trp_north_man_at_arms_pl|북부 중장병
+trp_north_hunting_archers|북부 사냥꾼
+trp_north_hunting_archers_pl|북부 사냥꾼
+trp_north_horseman|북부 경기병
+trp_north_horseman_pl|북부 경기병
+trp_north_cavalry|북부 기병
+trp_north_cavalry_pl|북부 기병
+trp_north_guardsman|북부 근위병
+trp_north_guardsman_pl|북부 근위병
+trp_north_pikeman|북부 장창병
+trp_north_pikeman_pl|북부 장창병
+trp_north_house_guard|북부 가문 근위병
+trp_north_house_guard_pl|북부 가문 근위병
+trp_white_harbour_knights|화이트 하버 기사
+trp_white_harbour_knights_pl|화이트 하버 기사
+trp_wild_hare|야생 토끼
+trp_wild_hare_pl|야생 토끼
+trp_wild_hare_vet|숙련 야생 토끼
+trp_wild_hare_vet_pl|숙련 야생 토끼
+trp_benfred_tallhart|벤프레드 톨하트
+trp_benfred_tallhart_pl|벤프레드 톨하트
+trp_north_hornman|북부 군악병
+trp_north_hornman_pl|북부 군악병
+trp_north_messenger|북부 전령
+trp_north_messenger_pl|북부 전령
+trp_north_deserter|북부 탈영병
+trp_north_deserter_pl|북부 탈영병
+trp_north_prison_guard|북부 감옥 간수
+trp_north_prison_guard_pl|북부 감옥 간수
+trp_north_castle_guard|북부 요새 경비병
+trp_north_castle_guard_pl|북부 요새 경비병
+trp_north_standard_bearer|북부 정규 수송병
+trp_north_standard_bearer_pl|북부 정규 수송병
+trp_north_local_lord|북부 귀족
+trp_north_local_lord_pl|북부 귀족
+trp_north_karstark_recruit|카스타크 가문 징집병
+trp_north_karstark_recruit_pl|카스타크 가문 징집병
+trp_north_karstark_footman|카스타크 가문 보병
+trp_north_karstark_footman_pl|카스타크 가문 보병
+trp_north_karstark_archer|카스타크 가문 궁병
+trp_north_karstark_archer_pl|카스타크 가문 궁병
+trp_north_karstark_guardsman|카스타크 가문 중장병
+trp_north_karstark_guardsman_pl|카스타크 가문 중장병
+trp_north_karstark_hunting_archers|카스타크 가문 숙련된 궁병
+trp_north_karstark_hunting_archers_pl|카스타크 가문 숙련된 궁병
+trp_north_karstark_horseman|카스타크 가문 경기병
+trp_north_karstark_horseman_pl|카스타크 가문 경기병
+trp_north_karstark_cavalry|카스타크 가문 기병
+trp_north_karstark_cavalry_pl|카스타크 가문 기병
+trp_north_karstark_guard|카스타크 가문 경비병
+trp_north_karstark_guard_pl|카스타크 가문 경비병
+trp_north_karstark_pikeman|카스타크 가문 장창병
+trp_north_karstark_pikeman_pl|카스타크 가문 장창병
+trp_north_karstark_household_guard|카스타크 가문 근위병
+trp_north_karstark_household_guard_pl|카스타크 가문 근위병
+trp_north_karstark_hornman|카스타크 가문 군악병
+trp_north_karstark_hornman_pl|카스타크 가문 군악병
+trp_north_karstark_messenger|카스타크 가문 전령
+trp_north_karstark_messenger_pl|카스타크 가문 전령
+trp_north_karstark_deserter|카스타크 가문 탈영병
+trp_north_karstark_deserter_pl|카스타크 가문 탈영병
+trp_north_karstark_prison_guard|카스타크 가문 감옥 간수
+trp_north_karstark_prison_guard_pl|카스타크 가문 감옥 간수
+trp_north_karstark_castle_guard|카스타크 가문 요새 경비병
+trp_north_karstark_castle_guard_pl|카스타크 가문 요새 경비병
+trp_north_karstark_standard_bearer|카스타크 가문 정규 수송병
+trp_north_karstark_standard_bearer_pl|카스타크 가문 정규 수송병
+trp_north_karstark_local_lord|카스타크 가문 귀족
+trp_north_karstark_local_lord_pl|카스타크 가문 귀족
+trp_north_stark_recruit|스타크 가문 징집병
+trp_north_stark_recruit_pl|스타크 가문 징집병
+trp_north_stark_footman|스타크 가문 보병
+trp_north_stark_footman_pl|스타크 가문 보병
+trp_north_stark_archer|스타크 가문 사냥꾼
+trp_north_stark_archer_pl|스타크 가문 사냥꾼
+trp_north_stark_guardsman|스타크 가문 중장병
+trp_north_stark_guardsman_pl|스타크 가문 중장병
+trp_north_stark_hunting_archers|스타크 가문 궁병
+trp_north_stark_hunting_archers_pl|스타크 가문 궁병
+trp_north_stark_horseman|스타크 가문 경기병
+trp_north_stark_horseman_pl|스타크 가문 경기병
+trp_north_stark_cavalry|스타크 가문 기병
+trp_north_stark_cavalry_pl|스타크 가문 기병
+trp_north_stark_guard|스타크 가문 경비병
+trp_north_stark_guard_pl|스타크 가문 경비병
+trp_north_stark_pikeman|스타크 가문 장창병
+trp_north_stark_pikeman_pl|스타크 가문 장창병
+trp_north_stark_household_guard|스타크 가문 근위병
+trp_north_stark_household_guard_pl|스타크 가문 근위병
+trp_north_stark_hornman|스타크 가문 군악병
+trp_north_stark_hornman_pl|스타크 가문 군악병
+trp_north_stark_messenger|스타크 가문 전령
+trp_north_stark_messenger_pl|스타크 가문 전령
+trp_north_stark_deserter|스타크 가문 탈영병
+trp_north_stark_deserter_pl|스타크 가문 탈영병
+trp_north_stark_prison_guard|스타크 가문 감옥 간수
+trp_north_stark_prison_guard_pl|스타크 가문 감옥 간수
+trp_north_stark_castle_guard|스타크 가문 요새 경비병
+trp_north_stark_castle_guard_pl|스타크 가문 요새 경비병
+trp_north_stark_standard_bearer|스타크 가문 정규 수송병
+trp_north_stark_standard_bearer_pl|스타크 가문 정규 수송병
+trp_north_stark_local_lord|스타크 가문 귀족
+trp_north_stark_local_lord_pl|스타크 가문 귀족
+trp_north_bolton_recruit|볼튼 가문 징집병
+trp_north_bolton_recruit_pl|볼튼 가문 징집병
+trp_north_bolton_footman|볼튼 가문 보병
+trp_north_bolton_footman_pl|볼튼 가문 보병
+trp_north_bolton_archer|볼튼 가문 궁병
+trp_north_bolton_archer_pl|볼튼 가문 궁병
+trp_north_bolton_guardsman|볼튼 가문 중장병
+trp_north_bolton_guardsman_pl|볼튼 가문 중장병
+trp_north_bolton_hunting_archers|볼튼 가문 숙련된 궁병
+trp_north_bolton_hunting_archers_pl|볼튼 가문 숙련된 궁병
+trp_north_bolton_horseman|볼튼 가문 경기병
+trp_north_bolton_horseman_pl|볼튼 가문 경기병
+trp_north_bolton_cavalry|볼튼 가문 기병
+trp_north_bolton_cavalry_pl|볼튼 가문 기병
+trp_north_bolton_guard|볼튼 가문 근위병
+trp_north_bolton_guard_pl|볼튼 가문 근위병
+trp_north_bolton_pikeman|볼튼 가문 장창병
+trp_north_bolton_pikeman_pl|볼튼 가문 장창병
+trp_north_bolton_household_guard|볼튼 가문 근위병
+trp_north_bolton_household_guard_pl|볼튼 가문 근위병
+trp_north_bolton_hornman|볼튼 가문 군악병
+trp_north_bolton_hornman_pl|볼튼 가문 군악병
+trp_north_bolton_messenger|볼튼 가문 전령
+trp_north_bolton_messenger_pl|볼튼 가문 전령
+trp_north_bolton_deserter|볼튼 가문 탈영병
+trp_north_bolton_deserter_pl|볼튼 가문 탈영병
+trp_north_bolton_prison_guard|볼튼 가문 감옥 간수
+trp_north_bolton_prison_guard_pl|볼튼 가문 감옥 간수
+trp_north_bolton_castle_guard|볼튼 가문 요새 경비병
+trp_north_bolton_castle_guard_pl|볼튼 가문 요새 경비병
+trp_north_bolton_standard_bearer|볼튼 가문 중장병
+trp_north_bolton_standard_bearer_pl|볼튼 가문 중장병
+trp_north_bolton_local_lord|볼튼 가문 귀족
+trp_north_bolton_local_lord_pl|볼튼 가문 귀족
+trp_wildling_female_peasant|와일들링
+trp_wildling_female_peasant_pl|와일들링
+trp_wildling_peasant|와일들링
+trp_wildling_peasant_pl|와일들링
+trp_wildling_warrior|와일들링 전사
+trp_wildling_warrior_pl|와일들링 전사
+trp_wildling_hunter|와일들링 사냥꾼
+trp_wildling_hunter_pl|와일들링 사냥꾼
+trp_wildling_huntress|와일들링 사냥꾼
+trp_wildling_huntress_pl|와일들링 사냥꾼
+trp_wildling_champion|와일들링 챔피언
+trp_wildling_champion_pl|와일들링 챔피언
+trp_wildling_stalker|와일들링 추적자
+trp_wildling_stalker_pl|와일들링 추적자
+trp_wildling_spearwives|스피어와이프(와일들링 여전사)
+trp_wildling_spearwives_pl|스피어와이프(와일들링 여전사)
+trp_wildling_horseman|와일들링 경기병
+trp_wildling_horseman_pl|와일들링 경기병
+trp_wildling_raider|와일들링 노련한 추적자
+trp_wildling_raider_pl|와일들링 노련한 추적자
+trp_wildling_hornman|와일들링 군악병
+trp_wildling_hornman_pl|와일들링 군악병
+trp_wildling_standard_bearer|와일들링 정규 수송병
+trp_wildling_standard_bearer_pl|와일들링 정규 수송병
+trp_wildling_messenger|와일들링 전령
+trp_wildling_messenger_pl|와일들링 전령
+trp_wildling_deserter|와일들링 탈영병
+trp_wildling_deserter_pl|와일들링 탈영병
+trp_wildling_prison_guard|와일들링 감옥 간수
+trp_wildling_prison_guard_pl|와일들링 감옥 간수
+trp_wildling_castle_guard|와일들링 야영지 경비병
+trp_wildling_castle_guard_pl|와일들링 야영지 경비병
+trp_giant|거인
+trp_giant_pl|거인
+trp_thenn_peasant|텐 족
+trp_thenn_peasant_pl|텐 족
+trp_thenn_warrior|텐 족 전사
+trp_thenn_warrior_pl|텐 족 전사
+trp_thenn_hunter|텐 족 사냥꾼
+trp_thenn_hunter_pl|텐 족 사냥꾼
+trp_thenn_champion|텐 족 챔피언
+trp_thenn_champion_pl|텐 족 챔피언
+trp_thenn_stalker|텐 족 추적자
+trp_thenn_stalker_pl|텐 족 추적자
+trp_thenn_raider|숙련된 텐 족 챔피언
+trp_thenn_raider_pl|숙련된 텐 족 챔피언
+trp_thenn_hornman|텐 족 군악병
+trp_thenn_hornman_pl|텐 족 군악병
+trp_thenn_standard_bearer|텐 족 정규 수송병
+trp_thenn_standard_bearer_pl|텐 족 정규 수송병
+trp_thenn_messenger|텐 족 전령
+trp_thenn_messenger_pl|텐 족 전령
+trp_thenn_deserter|텐 족 탈영병
+trp_thenn_deserter_pl|텐 족 탈영병
+trp_thenn_prison_guard|텐 족 감옥 간수
+trp_thenn_prison_guard_pl|텐 족 감옥 간수
+trp_thenn_castle_guard|텐 족 야영지 경비병
+trp_thenn_castle_guard_pl|텐 족 야영지 경비병
+trp_ironborn_peasant|강철 군도인
+trp_ironborn_peasant_pl|강철 군도인
+trp_ironborn_sailor|강철 군도 선원
+trp_ironborn_sailor_pl|강철 군도 선원
+trp_ironborn_seafarer|강철 군도 항해사
+trp_ironborn_seafarer_pl|강철 군도 항해사
+trp_ironborn_raider|강철 군도 침입자
+trp_ironborn_raider_pl|강철 군도 침입자
+trp_ironborn_skirmisher|강철 군도 척후병
+trp_ironborn_skirmisher_pl|강철 군도 척후병
+trp_ironborn_warrior|강철 군도 전사
+trp_ironborn_warrior_pl|강철 군도 전사
+trp_ironborn_scout|강철 군도 정찰병
+trp_ironborn_scout_pl|강철 군도 정찰병
+trp_ironborn_finger_dancer|핑거 댄서(강철함대 정예)
+trp_ironborn_finger_dancer_pl|핑거 댄서(강철함대 정예)
+trp_ironborn_marauder|강철 군도 습격자
+trp_ironborn_marauder_pl|강철 군도 습격자
+trp_ironborn_hornman|강철 군도 군악병
+trp_ironborn_hornman_pl|강철 군도 군악병
+trp_ironborn_standard_bearer|강철 군도 정규 수송병
+trp_ironborn_standard_bearer_pl|강철 군도 정규 수송병
+trp_ironborn_messenger|강철 군도 전령
+trp_ironborn_messenger_pl|강철 군도 전령
+trp_ironborn_deserter|강철 군도 탈영병
+trp_ironborn_deserter_pl|강철 군도 탈영병
+trp_ironborn_prison_guard|강철 군도 감옥 간수
+trp_ironborn_prison_guard_pl|강철 군도 감옥 간수
+trp_ironborn_castle_guard|강철 군도 수문장
+trp_ironborn_castle_guard_pl|강철 군도 수문장
+trp_ironborn_reaver|강철 군도 파괴자
+trp_ironborn_reaver_pl|강철 군도 파괴자
+trp_ironborn_reaver_vet|숙련된 강철 군도 파괴자
+trp_ironborn_reaver_vet_pl|숙련된 강철 군도 파괴자
+trp_ironborn_kraken_guard|크라켄 경비병
+trp_ironborn_kraken_guard_pl|크라켄 경비병
+trp_ironborn_local_lord|강철 군도 귀족
+trp_ironborn_local_lord_pl|강철 군도 귀족
+trp_dothraki_tribesman|도트라키 부족민
+trp_dothraki_tribesman_pl|도트라키 부족민
+trp_dothraki_warrior|도트라키 전사
+trp_dothraki_warrior_pl|도트라키 전사
+trp_dothraki_horseman|도트라키 경기병
+trp_dothraki_horseman_pl|도트라키 경기병
+trp_dothraki_scout|도트라키 정찰병
+trp_dothraki_scout_pl|도트라키 정찰병
+trp_dothraki_outrider|도트라키 호위 기병
+trp_dothraki_outrider_pl|도트라키 호위 기병
+trp_dothraki_jr|자콰 란
+trp_dothraki_jr_pl|자콰 란
+trp_dothraki_raider|도트라키 침입자
+trp_dothraki_raider_pl|도트라키 침입자
+trp_dothraki_horselord|도트라키 호스 로드
+trp_dothraki_horselord_pl|도트라키 호스 로드
+trp_dothraki_hornman|도트라키 군악병
+trp_dothraki_hornman_pl|도트라키 군악병
+trp_dothraki_standard_bearer|도트라키 정규 수송병
+trp_dothraki_standard_bearer_pl|도트라키 정규 수송병
+trp_dothraki_messenger|도트라키 전령
+trp_dothraki_messenger_pl|도트라키 전령
+trp_dothraki_deserter|도트라키 탈영병
+trp_dothraki_deserter_pl|도트라키 탈영병
+trp_dothraki_prison_guard|도트라키 감옥 간수
+trp_dothraki_prison_guard_pl|도트라키 감옥 간수
+trp_dothraki_castle_guard|도트라키 야영지 경비병
+trp_dothraki_castle_guard_pl|도트라키 야영지 경비병
+trp_merc_peasant|에소스 소작농
+trp_merc_peasant_pl|에소스 소작농
+trp_fc_merc_militia_recruit|에소스 징집병
+trp_fc_merc_militia_recruit_pl|에소스 징집병
+trp_fc_merc_militia|에소스 민병대
+trp_fc_merc_militia_pl|에소스 민병대
+trp_fc_merc_archer|에소스 궁수
+trp_fc_merc_archer_pl|에소스 궁수
+trp_fc_merc_swordsman|에소스 보병
+trp_fc_merc_swordsman_pl|에소스 보병
+trp_fc_merc_billmen|에소스 미늘창병
+trp_fc_merc_billmen_pl|에소스 미늘창병
+trp_fc_merc_light_cavalry|에소스 기병
+trp_fc_merc_light_cavalry_pl|에소스 기병
+trp_fc_merc_vet_archer|숙련된 에소스 궁수
+trp_fc_merc_vet_archer_pl|숙련된 에소스 궁수
+trp_fc_merc_sellsword|에소스 근위병
+trp_fc_merc_sellsword_pl|에소스 근위병
+trp_fc_merc_heavy_cavalry|에소스 중기병
+trp_fc_merc_heavy_cavalry_pl|에소스 중기병
+trp_fc_merc_veteran_bowman|노련한 에소스 궁병
+trp_fc_merc_veteran_bowman_pl|노련한 에소스 궁병
+trp_fc_merc_standard_bearer|에소스 수송병
+trp_fc_merc_standard_bearer_pl|에소스 수송병
+trp_free_messenger|전령
+trp_free_messenger_pl|전령
+trp_free_deserter|용병 탈영병
+trp_free_deserter_pl|용병 탈영병
+trp_free_prison_guard|감옥 간수
+trp_free_prison_guard_pl|감옥 간수
+trp_free_castle_guard|요새 경비병
+trp_free_castle_guard_pl|요새 경비병
+trp_vale_peasant|베일 소작농
+trp_vale_peasant_pl|베일 소작농
+trp_vale_recruit|베일 징집병
+trp_vale_recruit_pl|베일 징집병
+trp_vale_archer|베일 궁병
+trp_vale_archer_pl|베일 궁병
+trp_vale_footman|베일 보병
+trp_vale_footman_pl|베일 보병
+trp_vale_man_at_arms|베일 중장병
+trp_vale_man_at_arms_pl|베일 중장병
+trp_vale_rider|베일 기병
+trp_vale_rider_pl|베일 기병
+trp_vale_foot_knight|베일 근위병
+trp_vale_foot_knight_pl|베일 근위병
+trp_vale_mounted_knight|베일 기사
+trp_vale_mounted_knight_pl|베일 기사
+trp_vale_knight_of_the_gate|베일 관문의 기사
+trp_vale_knight_of_the_gate_pl|베일 관문의 기사
+trp_vale_hornman|베일 군악병
+trp_vale_hornman_pl|베일 군악병
+trp_vale_standard_bearer|베일 수송병
+trp_vale_standard_bearer_pl|베일 수송병
+trp_vale_messenger|베일 전령
+trp_vale_messenger_pl|베일 전령
+trp_vale_deserter|베일 탈영병
+trp_vale_deserter_pl|베일 탈영병
+trp_vale_prison_guard|베일 감옥 간수
+trp_vale_prison_guard_pl|베일 감옥 간수
+trp_vale_castle_guard|베일 요새 경비병
+trp_vale_castle_guard_pl|베일 요새 경비병
+trp_vale_local_lord|베일 귀족
+trp_vale_local_lord_pl|베일 귀족
+trp_sisterton_footman|시스터톤 보병
+trp_sisterton_footman_pl|시스터톤 보병
+trp_riverlands_peasant|리버랜드 소작농
+trp_riverlands_peasant_pl|리버랜드 소작농
+trp_riverlands_recruit|리버랜드 징집병
+trp_riverlands_recruit_pl|리버랜드 징집병
+trp_riverlands_tracker|리버랜드 추적자
+trp_riverlands_tracker_pl|리버랜드 추적자
+trp_riverlands_footman|리버랜드 보병
+trp_riverlands_footman_pl|리버랜드 보병
+trp_riverlands_archer|리버랜드 궁병
+trp_riverlands_archer_pl|리버랜드 궁병
+trp_riverlands_man_at_arms|리버랜드 중장병
+trp_riverlands_man_at_arms_pl|리버랜드 중장병
+trp_riverlands_rider|리버랜드 호위 기병
+trp_riverlands_rider_pl|리버랜드 호위 기병
+trp_riverlands_knight|리버랜드 근위병
+trp_riverlands_knight_pl|리버랜드 근위병
+trp_riverlands_cavalry|리버랜드 기병
+trp_riverlands_cavalry_pl|리버랜드 기병
+trp_riverlands_ranger|리버랜드 순찰자
+trp_riverlands_ranger_pl|리버랜드 순찰자
+trp_riverlands_mounted_knight|리버랜드 기사
+trp_riverlands_mounted_knight_pl|리버랜드 기사
+trp_riverlands_hornman|리버랜드 군악병
+trp_riverlands_hornman_pl|리버랜드 군악병
+trp_riverlands_standard_bearer|리버랜드 수송병
+trp_riverlands_standard_bearer_pl|리버랜드 수송병
+trp_riverlands_messenger|리버랜드 전령
+trp_riverlands_messenger_pl|리버랜드 전령
+trp_riverlands_deserter|리버랜드 탈영병
+trp_riverlands_deserter_pl|리버랜드 탈영병
+trp_riverlands_prison_guard|리버랜드 감옥 간수
+trp_riverlands_prison_guard_pl|리버랜드 감옥 간수
+trp_riverlands_castle_guard|리버랜드 요새 경비병
+trp_riverlands_castle_guard_pl|리버랜드 요새 경비병
+trp_riverlands_local_lord|리버랜드 귀족
+trp_riverlands_local_lord_pl|리버랜드 귀족
+trp_riverlands_frey_recruit|프레이 가문 징집병
+trp_riverlands_frey_recruit_pl|프레이 가문 징집병
+trp_riverlands_frey_tracker|프레이 가문 추적자
+trp_riverlands_frey_tracker_pl|프레이 가문 추적자
+trp_riverlands_frey_footman|프레이 가문 보병
+trp_riverlands_frey_footman_pl|프레이 가문 보병
+trp_riverlands_frey_archer|프레이 가문 궁병
+trp_riverlands_frey_archer_pl|프레이 가문 궁병
+trp_riverlands_frey_man_at_arms|프레이 가문 중장병
+trp_riverlands_frey_man_at_arms_pl|프레이 가문 중장병
+trp_riverlands_frey_rider|프레이 가문 경기병
+trp_riverlands_frey_rider_pl|프레이 가문 경기병
+trp_riverlands_frey_knight|프레이 가문 근위병
+trp_riverlands_frey_knight_pl|프레이 가문 근위병
+trp_riverlands_frey_cavalry|프레이 가문 기병
+trp_riverlands_frey_cavalry_pl|프레이 가문 기병
+trp_riverlands_frey_ranger|프레이 가문 순찰자
+trp_riverlands_frey_ranger_pl|프레이 가문 순찰자
+trp_riverlands_frey_mounted_knight|프레이 가문 기사
+trp_riverlands_frey_mounted_knight_pl|프레이 가문 기사
+trp_riverlands_frey_hornman|프레이 가문 군악병
+trp_riverlands_frey_hornman_pl|프레이 가문 군악병
+trp_riverlands_frey_standard_bearer|프레이 가문 수송병
+trp_riverlands_frey_standard_bearer_pl|프레이 가문 수송병
+trp_riverlands_frey_messenger|프레이 가문 전령
+trp_riverlands_frey_messenger_pl|프레이 가문 전령
+trp_riverlands_frey_deserter|프레이 가문 탈영병
+trp_riverlands_frey_deserter_pl|프레이 가문 탈영병
+trp_riverlands_frey_prison_guard|프레이 가문 감옥 간수
+trp_riverlands_frey_prison_guard_pl|프레이 가문 감옥 간수
+trp_riverlands_frey_castle_guard|프레이 가문 요새 경비병
+trp_riverlands_frey_castle_guard_pl|프레이 가문 요새 경비병
+trp_riverlands_frey_local_lord|프레이 가문 귀족
+trp_riverlands_frey_local_lord_pl|프레이 가문 귀족
+trp_crownlands_peasant|국왕령 소작농
+trp_crownlands_peasant_pl|국왕령 소작농
+trp_crownlands_recruit|국왕령 징집병
+trp_crownlands_recruit_pl|국왕령 징집병
+trp_crownlands_tracker|국왕령 궁병
+trp_crownlands_tracker_pl|국왕령 궁병
+trp_crownlands_footman|국왕령 보병
+trp_crownlands_footman_pl|국왕령 보병
+trp_crownlands_archer|국왕령 활잡이
+trp_crownlands_archer_pl|국왕령 활잡이
+trp_crownlands_man_at_arms|국왕령 중장병
+trp_crownlands_man_at_arms_pl|국왕령 중장병
+trp_crownlands_rider|국왕령 경기병
+trp_crownlands_rider_pl|국왕령 경기병
+trp_crownlands_knight|국왕령 기사
+trp_crownlands_knight_pl|국왕령 기사
+trp_crownlands_cavalry|국왕령 기마 창병
+trp_crownlands_cavalry_pl|국왕령 기마 창병
+trp_crownlands_ranger|국왕령 명사수
+trp_crownlands_ranger_pl|국왕령 명사수
+trp_dragonguards|드래곤 경비병
+trp_dragonguards_pl|드래곤 경비병
+trp_crownlands_hornman|국왕령 군악병
+trp_crownlands_hornman_pl|국왕령 군악병
+trp_crownlands_messenger|국왕의 전령
+trp_crownlands_messenger_pl|국왕의 전령
+trp_crownlands_deserter|국왕령 탈영병
+trp_crownlands_deserter_pl|국왕령 탈영병
+trp_crownlands_prison_guard|국왕령 감옥 간수
+trp_crownlands_prison_guard_pl|국왕령 감옥 간수
+trp_crownlands_castle_guard|국왕령 요새 경비병
+trp_crownlands_castle_guard_pl|국왕령 요새 경비병
+trp_targaryen_standard_bearer|국왕령 수송병
+trp_targaryen_standard_bearer_pl|국왕령 수송병
+trp_crownlands_local_lord|국왕령 귀족
+trp_crownlands_local_lord_pl|국왕령 귀족
+trp_golden_company_footman|황금 용병단 보병
+trp_golden_company_footman_pl|황금 용병단 보병
+trp_golden_company_infantry|황금 용병단 창병
+trp_golden_company_infantry_pl|황금 용병단 창병
+trp_golden_company_heavy_infantry|황금 용병단 무장 창병
+trp_golden_company_heavy_infantry_pl|황금 용병단 무장 창병
+trp_golden_company_swordsman|황금 용병단 검사
+trp_golden_company_swordsman_pl|황금 용병단 검사
+trp_golden_company_pikeman|황금 용병단 장창병
+trp_golden_company_pikeman_pl|황금 용병단 장창병
+trp_golden_company_heavy_pikeman|황금 용병단 무장 장창병
+trp_golden_company_heavy_pikeman_pl|황금 용병단 무장 장창병
+trp_golden_company_archer|황금 용병단 궁병
+trp_golden_company_archer_pl|황금 용병단 궁병
+trp_golden_company_longbowman|황금 용병단 장궁병
+trp_golden_company_longbowman_pl|황금 용병단 장궁병
+trp_golden_company_elite_longbowman|황금 용병단 명사수 장궁병
+trp_golden_company_elite_longbowman_pl|황금 용병단 명사수 장궁병
+trp_golden_company_rider|황금 용병단 경기병
+trp_golden_company_rider_pl|황금 용병단 경기병
+trp_golden_company_horseman|황금 용병단 기병
+trp_golden_company_horseman_pl|황금 용병단 기병
+trp_golden_company_heavy_horseman|황금 용병단 무장 기병
+trp_golden_company_heavy_horseman_pl|황금 용병단 무장 기병
+trp_nw_peasant|도적
+trp_nw_peasant_pl|도적
+trp_nw_recruit|나이트 워치 신병
+trp_nw_recruit_pl|나이트 워치 신병
+trp_nw_trainee_ranger|나이트 워치 수습 레인저
+trp_nw_trainee_ranger_pl|나이트 워치 수습 레인저
+trp_nw_trainee_footranger|나이트 워치 수습 보병
+trp_nw_trainee_footranger_pl|나이트 워치 수습 보병
+trp_nw_ranger|나이트 워치 레인저
+trp_nw_ranger_pl|나이트 워치 레인저
+trp_nw_footranger|나이트 워치 보병
+trp_nw_footranger_pl|나이트 워치 보병
+trp_nw_rider|나이트 워치 경기병
+trp_nw_rider_pl|나이트 워치 경기병
+trp_nw_vet_ranger|나이트 워치 숙련된 보병
+trp_nw_vet_ranger_pl|나이트 워치 숙련된 보병
+trp_nw_vet_rider|나이트 워치 숙련된 경기병
+trp_nw_vet_rider_pl|나이트 워치 숙련된 경기병
+trp_nw_vet_ranged_ranger|나이트 워치 숙련된 레인저
+trp_nw_vet_ranged_ranger_pl|나이트 워치 숙련된 레인저
+trp_nw_elite_ranger|나이트 워치 노련한 레인저
+trp_nw_elite_ranger_pl|나이트 워치 노련한 레인저
+trp_nw_hornman|나이트 워치 군악병
+trp_nw_hornman_pl|나이트 워치 군악병
+trp_nw_standard_bearer|나이트 워치 수송병
+trp_nw_standard_bearer_pl|나이트 워치 수송병
+trp_nw_messenger|나이트 워치 전령
+trp_nw_messenger_pl|나이트 워치 전령
+trp_nw_deserter|나이트 워치 탈영병
+trp_nw_deserter_pl|나이트 워치 탈영병
+trp_nw_prison_guard|나이트 워치 감옥 간수
+trp_nw_prison_guard_pl|나이트 워치 감옥 간수
+trp_nw_castle_guard|나이트 워치 요새 경비병
+trp_nw_castle_guard_pl|나이트 워치 요새 경비병
+trp_nightswatch_armsman|나이트워치 신병 모집관
+trp_nightswatch_armsman_pl|나이트워치 신병 모집관
+trp_braavosi_peasant|브라보스 소작농
+trp_braavosi_peasant_pl|브라보스 소작농
+trp_braavosi_trainee|브라보스 훈련생
+trp_braavosi_trainee_pl|브라보스 훈련생
+trp_bravos|브라보스 인
+trp_bravos_pl|브라보스 인
+trp_skilled_bravos|숙련된 브라보스 검사
+trp_skilled_bravos_pl|숙련된 브라보스 검사
+trp_water_dancer|수중 댄서
+trp_water_dancer_pl|수중 댄서
+trp_master_water_dancer|마스터 수중 댄서
+trp_master_water_dancer_pl|마스터 수중 댄서
+trp_braavosi_hornman|브라보스 군악병
+trp_braavosi_hornman_pl|브라보스 군악병
+trp_braavosi_standard_bearer|브라보스 수송병
+trp_braavosi_standard_bearer_pl|브라보스 수송병
+trp_braavosi_messenger|브라보스 전령
+trp_braavosi_messenger_pl|브라보스 전령
+trp_braavosi_deserter|브라보스 탈영병
+trp_braavosi_deserter_pl|브라보스 탈영병
+trp_braavosi_prison_guard|브라보스 감옥 간수
+trp_braavosi_prison_guard_pl|브라보스 감옥 간수
+trp_braavosi_castle_guard|브라보스 요새 경비병
+trp_braavosi_castle_guard_pl|브라보스 요새 경비병
+trp_norvoshi_initiate|노르보스 소작농
+trp_norvoshi_initiate_pl|노르보스 소작농
+trp_norvoshi_monk|노르보스 훈련생
+trp_norvoshi_monk_pl|노르보스 훈련생
+trp_norvoshi_militia|노르보스 민병대
+trp_norvoshi_militia_pl|노르보스 민병대
+trp_norvoshi_guardsman|노르보스 근위병
+trp_norvoshi_guardsman_pl|노르보스 근위병
+trp_norvoshi_horseman|노르보스 경기병
+trp_norvoshi_horseman_pl|노르보스 경기병
+trp_surgeon|노르보스 수도승
+trp_surgeon_pl|노르보스 수도승
+trp_bearded_priest|종교 지도자(자유도시,노르보스)
+trp_bearded_priest_pl|종교 지도자(자유도시,노르보스)
+trp_bearded_bishop|주교
+trp_bearded_bishop_pl|주교
+trp_norvos_standard_bearer|노르보스 수송병
+trp_norvos_standard_bearer_pl|노르보스 수송병
+trp_norvos_messenger|노르보스 전령
+trp_norvos_messenger_pl|노르보스 전령
+trp_norvos_deserter|노르보스 탈영병
+trp_norvos_deserter_pl|노르보스 탈영병
+trp_norvos_prison_guard|노르보스 감옥 간수
+trp_norvos_prison_guard_pl|노르보스 감옥 간수
+trp_norvos_castle_guard|노르보스 요새 경비병
+trp_norvos_castle_guard_pl|노르보스 요새 경비병s
+trp_essos_slave|노예
+trp_essos_slave_pl|노예
+trp_essos_slave_levy|노예 징집병
+trp_essos_slave_levy_pl|노예 징집병
+trp_essos_slave_warrior|노예 검투사
+trp_essos_slave_warrior_pl|노예 검투사
+trp_qohor_standard_bearer|쿼호르 수송병
+trp_qohor_standard_bearer_pl|쿼호르 수송병
+trp_qohor_messenger|쿼호르 전령
+trp_qohor_messenger_pl|쿼호르 전령
+trp_qohor_deserter|쿼호르 탈영병
+trp_qohor_deserter_pl|쿼호르 탈영병
+trp_qohor_prison_guard|쿼호르 감옥 간수
+trp_qohor_prison_guard_pl|쿼호르 감옥 간수
+trp_qohor_castle_guard|쿼호르 요새 경비병
+trp_qohor_castle_guard_pl|쿼호르 요새 경비병
+trp_volantine_peasant|볼란티스 소작농
+trp_volantine_peasant_pl|볼란티스 소작농
+trp_volantine_slave|볼란티스 노예
+trp_volantine_slave_pl|볼란티스 노예
+trp_tiger_trainee|수습 타이거 클록(Tiger Cloaks)
+trp_tiger_trainee_pl|수습 타이거 클록(Tiger Cloaks)
+trp_tiger_cloak|타이거 클록(Tiger Cloaks)
+trp_tiger_cloak_pl|타이거 클록(Tiger Cloaks)
+trp_tiger_archer|타이거 클록 궁병(Tiger Cloaks Archers)
+trp_tiger_archer_pl|타이거 클록 궁병(Tiger Cloaks Archers)
+trp_tiger_cloak_soldier|타이거 클록 병사(Tiger Cloak Soldiers)
+trp_tiger_cloak_soldier_pl|타이거 클록 병사(Tiger Cloak Soldiers)
+trp_tiger_cloak_guard|타이거 클록 중보병(Tiger Cloak Guards)
+trp_tiger_cloak_guard_pl|타이거 클록 중보병(Tiger Cloak Guards)
+trp_tiger_elite_archer|타이거 클록 명사수 궁병(Tiger Cloak Elite Archers)
+trp_tiger_elite_archer_pl|타이거 클록 명사수 궁병(Tiger Cloak Elite Archers)
+trp_volantine_freeman|볼란티스 자유민
+trp_volantine_freeman_pl|볼란티스 자유민
+trp_volantine_fighter|볼란티스 검투사
+trp_volantine_fighter_pl|볼란티스 검투사
+trp_volantine_soldier|볼란티스 병사
+trp_volantine_soldier_pl|볼란티스 병사
+trp_volantine_horseman|볼란티스 경기병
+trp_volantine_horseman_pl|볼란티스 경기병
+trp_volantine_cavalry|볼란티스 기병
+trp_volantine_cavalry_pl|볼란티스 기병
+trp_volantine_hornman|볼란티스 군악병
+trp_volantine_hornman_pl|볼란티스 군악병
+trp_volantine_standard_bearer|볼란티스 수송병
+trp_volantine_standard_bearer_pl|볼란티스 수송병
+trp_volantine_messenger|볼란티스 전령
+trp_volantine_messenger_pl|볼란티스 전령
+trp_volantine_deserter|볼란티스 탈영병
+trp_volantine_deserter_pl|볼란티스 탈영병
+trp_volantine_prison_guard|볼란티스 감옥 간수
+trp_volantine_prison_guard_pl|볼란티스 감옥 간수
+trp_volantine_castle_guard|볼란티스 요새 경비병
+trp_volantine_castle_guard_pl|볼란티스 요새 경비병
+trp_lys_peasant|리스 소작농
+trp_lys_peasant_pl|리스 소작농
+trp_lys_recruit|리스 신병
+trp_lys_recruit_pl|리스 신병
+trp_lys_militia|리스 민병대
+trp_lys_militia_pl|리스 민병대
+trp_lys_archer|리스 궁병
+trp_lys_archer_pl|리스 궁병
+trp_lys_swordsman|리스 경보병
+trp_lys_swordsman_pl|리스 경보병
+trp_lys_light_cavalry|리스 경비병
+trp_lys_light_cavalry_pl|리스 경비병
+trp_lys_vet_archer|리스 숙련된 궁병
+trp_lys_vet_archer_pl|리스 숙련된 궁병
+trp_lys_sellsword|리스 보병
+trp_lys_sellsword_pl|리스 보병
+trp_lys_heavy_cavalry|리스 기병
+trp_lys_heavy_cavalry_pl|리스 기병
+trp_lys_veteran_bowman|리스 명사수 궁병
+trp_lys_veteran_bowman_pl|리스 명사수 궁병
+trp_lys_hornman|리스 군악병
+trp_lys_hornman_pl|리스 군악병
+trp_lys_standard_bearer|리스 수송병
+trp_lys_standard_bearer_pl|리스 수송병
+trp_lys_messenger|리스 전령
+trp_lys_messenger_pl|리스 전령
+trp_lys_deserter|리스 탈영병
+trp_lys_deserter_pl|리스 탈영병
+trp_lys_prison_guard|리스 감옥 간수
+trp_lys_prison_guard_pl|리스 감옥 간수
+trp_lys_castle_guard|리스 요새 경비병
+trp_lys_castle_guard_pl|리스 요새 경비병
+trp_myr_peasant|미르 소작농
+trp_myr_peasant_pl|미르 소작농
+trp_myr_standard_bearer|미르 수송병
+trp_myr_standard_bearer_pl|미르 수송병
+trp_myr_messenger|미르 전령
+trp_myr_messenger_pl|미르 전령
+trp_myr_deserter|미르 탈영병
+trp_myr_deserter_pl|미르 탈영병
+trp_myr_prison_guard|미르 감옥 간수
+trp_myr_prison_guard_pl|미르 감옥 간수
+trp_myr_castle_guard|미르 요새 경비병
+trp_myr_castle_guard_pl|미르 요새 경비병
+trp_pentoshi_peasant|펜토스 소작농
+trp_pentoshi_peasant_pl|펜토스 소작농
+trp_pentoshi_novice|펜토스 징집병
+trp_pentoshi_novice_pl|펜토스 징집병
+trp_pentoshi_civil_guard|펜토스 민병대
+trp_pentoshi_civil_guard_pl|펜토스 민병대
+trp_pentoshi_footman|펜토스 경보병
+trp_pentoshi_footman_pl|펜토스 경보병
+trp_pentoshi_archer|펜토스 궁병
+trp_pentoshi_archer_pl|펜토스 궁병
+trp_pentoshi_warrior|펜토스 전사
+trp_pentoshi_warrior_pl|펜토스 전사
+trp_pentoshi_mounted_warrior|펜토스 기병
+trp_pentoshi_mounted_warrior_pl|펜토스 기병
+trp_pentoshi_marksman|펜토스 숙련된 궁병
+trp_pentoshi_marksman_pl|펜토스 숙련된 궁병
+trp_pentoshi_veteran|펜토스 숙련된 전사
+trp_pentoshi_veteran_pl|펜토스 숙련된 전사
+trp_pentoshi_mounted_veteran|펜토스 숙련된 기병
+trp_pentoshi_mounted_veteran_pl|펜토스 숙련된 기병
+trp_pentoshi_veteran_marksman|펜토스 노련한 궁병
+trp_pentoshi_veteran_marksman_pl|펜토스 노련한 궁병
+trp_pentoshi_hornman|펜토스 군악병
+trp_pentoshi_hornman_pl|펜토스 군악병
+trp_pentos_standard_bearer|펜토스 수송병
+trp_pentos_standard_bearer_pl|펜토스 수송병
+trp_pentos_messenger|펜토스 전령
+trp_pentos_messenger_pl|펜토스 전령
+trp_pentos_deserter|펜토스 탈영병
+trp_pentos_deserter_pl|펜토스 탈영병
+trp_pentos_prison_guard|펜토스 감옥 간수
+trp_pentos_prison_guard_pl|펜토스 감옥 간수
+trp_pentos_castle_guard|펜토스 요새 경비병
+trp_pentos_castle_guard_pl|펜토스 요새 경비병
+trp_tyrosh_peasant|티로쉬 소작농
+trp_tyrosh_peasant_pl|티로쉬 소작농
+trp_tyroshi_slave|티로쉬 노예
+trp_tyroshi_slave_pl|티로쉬 노예
+trp_tyroshi_guard|티로쉬 경비병
+trp_tyroshi_guard_pl|티로쉬 경비병
+trp_tyroshi_archer|티로쉬 궁병
+trp_tyroshi_archer_pl|티로쉬 궁병
+trp_tyroshi_footman|티로쉬 보병
+trp_tyroshi_footman_pl|티로쉬 보병
+trp_tyrosh_standard_bearer|티로쉬 수송병
+trp_tyrosh_standard_bearer_pl|티로쉬 수송병
+trp_tyrosh_messenger|티로쉬 전령
+trp_tyrosh_messenger_pl|티로쉬 전령
+trp_tyrosh_deserter|티로쉬 탈영병
+trp_tyrosh_deserter_pl|티로쉬 탈영병
+trp_tyrosh_prison_guard|티로쉬 감옥 간수
+trp_tyrosh_prison_guard_pl|티로쉬 감옥 간수
+trp_tyrosh_castle_guard|티로쉬 요새 경비병
+trp_tyrosh_castle_guard_pl|티로쉬 요새 경비병
+trp_lorath_standard_bearer|로라스 수송병
+trp_lorath_standard_bearer_pl|로라스 수송병
+trp_lorath_messenger|로라스 전령
+trp_lorath_messenger_pl|로라스 전령
+trp_lorath_deserter|로라스 탈영병
+trp_lorath_deserter_pl|로라스 탈영병
+trp_lorath_prison_guard|로라스 감옥 간수
+trp_lorath_prison_guard_pl|로라스 감옥 간수
+trp_lorath_castle_guard|로라스 요새 경비병
+trp_lorath_castle_guard_pl|로라스 요새 경비병
+trp_red_initiate|수습 붉은 사제
+trp_red_initiate_pl|수습 붉은 사제
+trp_red_worshiper|'를로르' 숭배자
+trp_red_worshiper_pl|'를로르' 숭배자
+trp_servant_of_rhllor|'를로르' 봉사자
+trp_servant_of_rhllor_pl|'를로르' 봉사자
+trp_devout_servant_of_rhllor|'를로르' 독실한 봉사자
+trp_devout_servant_of_rhllor_pl|'를로르' 독실한 봉사자
+trp_red_priest|붉은 사제
+trp_red_priest_pl|붉은 사제
+trp_fire_priest|불의 사제
+trp_fire_priest_pl|불의 사제
+trp_fireborn|불의 자손
+trp_fireborn_pl|불의 자손
+trp_looter|약탈자
+trp_looter_pl|약탈자
+trp_bandit|산적
+trp_bandit_pl|산적
+trp_brigand|도둑
+trp_brigand_pl|도둑
+trp_poachers|밀렵꾼
+trp_poachers_pl|밀렵꾼
+trp_forest_bandit|숲 도적
+trp_forest_bandit_pl|숲 도적
+trp_sea_raider|해적
+trp_sea_raider_pl|해적
+trp_steppe_bandit|해적
+trp_steppe_bandit_pl|해적
+trp_essosi_bandit|산적
+trp_essosi_bandit_pl|산적
+trp_essosi_brigand|도둑
+trp_essosi_brigand_pl|도둑
+trp_robber_knight|강도 기사단
+trp_robber_knight_pl|강도 기사단
+trp_exiled_robber_knight|추방된 기사단
+trp_exiled_robber_knight_pl|추방된 기사단
+trp_hill_tribesman|산악 부족들
+trp_hill_tribesman_pl|산악 부족들
+trp_tribe_hornman|혼맨 부족
+trp_tribe_hornman_pl|혼맨 부족
+trp_hill_tribesman_chief|산악 부족들 족장
+trp_hill_tribesman_chief_pl|산악 부족들 족장
+trp_black_ears|산악 부족 검은 귀
+trp_black_ears_pl|산악 부족 검은 귀
+trp_sons_of_the_mist|산악 부족 안개의 아들들
+trp_sons_of_the_mist_pl|산악 부족 안개의 아들들
+trp_hill_tribesman2|산악 부족 달 형제
+trp_hill_tribesman2_pl|산악 부족 달 형제
+trp_ironborn_pirate|강철 군도인 습격자
+trp_ironborn_pirate_pl|강철 군도인 습격자
+trp_northern_clansman|산의 씨족들
+trp_northern_clansman_pl|산의 씨족들
+trp_northern_clansman_hardened|강화된 산의 씨족들
+trp_northern_clansman_hardened_pl|강화된 산의 씨족들
+trp_sea_raider_leader3|선박 선장
+trp_sea_raider_leader3_pl|선박 선장
+trp_sea_raider_leader4|선박 선장
+trp_sea_raider_leader4_pl|선박 선장
+trp_sea_raider_leader2|강철 군도인 선장
+trp_sea_raider_leader2_pl|강철 군도인 선장
+trp_looter_leader2|도적 두목
+trp_looter_leader2_pl|도적 두목
+trp_northern_clansman_leader|산의 씨족 챔피언
+trp_northern_clansman_leader_pl|산의 씨족 챔피언
+trp_exiled_knight_leader|강도 기사단 수장
+trp_exiled_knight_leader_pl|강도 기사단 수장
+trp_dothraki_raider_khal|도트라키 습격자 칼
+trp_dothraki_raider_khal_pl|도트라키 습격자 칼
+trp_dothraki_raider_bloodrider|도트라키 혈기수
+trp_dothraki_raider_bloodrider_pl|도트라키 혈기수
+trp_slaver_infantry|노예
+trp_slaver_infantry_pl|노예
+trp_slaver_infantry2|노예 창병
+trp_slaver_infantry2_pl|노예 창병
+trp_slaver_camel_rider|노예 낙타병
+trp_slaver_camel_rider_pl|노예 낙타병
+trp_slaver_camel_rider2|노예 지도자
+trp_slaver_camel_rider2_pl|노예 지도자
+trp_night_king|나이트 킹
+trp_night_king_pl|나이트 킹
+trp_whitewalker_1|화이트 워커
+trp_whitewalker_1_pl|화이트 워커
+trp_whitewalker_2|화이트 워커
+trp_whitewalker_2_pl|화이트 워커
+trp_whitewalker_3|화이트 워커
+trp_whitewalker_3_pl|화이트 워커
+trp_whitewalker_4|화이트 워커
+trp_whitewalker_4_pl|화이트 워커
+trp_whitewalker_5|화이트 워커
+trp_whitewalker_5_pl|화이트 워커
+trp_whitewalker_6|화이트 워커
+trp_whitewalker_6_pl|화이트 워커
+trp_whitewalker_7|화이트 워커
+trp_whitewalker_7_pl|화이트 워커
+trp_wight_male|와이트
+trp_wight_male_pl|와이트
+trp_wight_giant|거인 와이트
+trp_wight_giant_pl|거인 와이트
+trp_manhunter|형제단 병사
+trp_manhunter_pl|형제단 병사
+trp_slave_driver|형제단 자경단원
+trp_slave_driver_pl|형제단 자경단원
+trp_slave_hunter|형제단 사냥꾼
+trp_slave_hunter_pl|형제단 사냥꾼
+trp_slave_crusher|형제단 숙련된 사냥꾼
+trp_slave_crusher_pl|형제단 숙련된 사냥꾼
+trp_slaver_chief|할로우 힐 기사
+trp_slaver_chief_pl|할로우 힐 기사
+trp_pit_fighter|구덩이 싸움꾼 마르코
+trp_pit_fighter_pl|구덩이 싸움꾼 마르코
+trp_follower_woman|야영지 여성
+trp_follower_woman_pl|야영지 여성
+trp_hunter_woman|야영지 추종자
+trp_hunter_woman_pl|야영지 추종자
+trp_fighter_woman|병사의 아내
+trp_fighter_woman_pl|병사의 아내
+trp_sword_sister|야영지 수비병
+trp_sword_sister_pl|야영지 수비병
+trp_refugee|노예
+trp_refugee_pl|노예
+trp_peasant_woman|여성 소작농
+trp_peasant_woman_pl|여성 소작농
+trp_refugeeromanruins|난민
+trp_refugeeromanruins_pl|난민
+trp_peasant_womanromanruins|여성 소작농
+trp_peasant_womanromanruins_pl|여성 소작농
+trp_refugeedruid|난민
+trp_refugeedruid_pl|난민
+trp_peasant_womandruid|여성 소작농
+trp_peasant_womandruid_pl|여성 소작농
+trp_farmerdruid|농부
+trp_farmerdruid_pl|농부
+trp_prisionerdruid|수감자
+trp_prisionerdruid_pl|수감자
+trp_quarry_trabajador|노동자
+trp_quarry_trabajador_pl|노동자
+trp_quarry_capataz|채석장 감독
+trp_quarry_capataz_pl|채석장 감독
+trp_high_septon|하이 셉톤
+trp_high_septon_pl|하이 셉톤
+trp_caravan_master|상단장
+trp_caravan_master_pl|상단장
+trp_kidnapped_girl|납치된 소녀
+trp_kidnapped_girl_pl|납치된 소녀
+trp_town_walker_1|주민
+trp_town_walker_1_pl|주민
+trp_town_walker_2|주민
+trp_town_walker_2_pl|주민
+trp_town_walker_3|주민
+trp_town_walker_3_pl|주민
+trp_town_walker_4|주민
+trp_town_walker_4_pl|주민
+trp_town_walker_5|주민
+trp_town_walker_5_pl|주민
+trp_town_walker_6|주민
+trp_town_walker_6_pl|주민
+trp_town_walker_7|자유민
+trp_town_walker_7_pl|자유민
+trp_town_walker_8|자유민
+trp_town_walker_8_pl|자유민
+trp_town_walker_9|부족원
+trp_town_walker_9_pl|부족원
+trp_town_walker_10|부족원
+trp_town_walker_10_pl|부족원
+trp_town_walker_11|주민
+trp_town_walker_11_pl|주민
+trp_town_walker_12|주민
+trp_town_walker_12_pl|주민
+trp_town_walker_13|주민
+trp_town_walker_13_pl|주민
+trp_town_walker_14|주민
+trp_town_walker_14_pl|주민
+trp_town_walker_15|주민
+trp_town_walker_15_pl|주민
+trp_town_walker_16|주민
+trp_town_walker_16_pl|주민
+trp_town_walker_17|주민
+trp_town_walker_17_pl|주민
+trp_nino_varon|아이
+trp_nino_varon_pl|아이
+trp_nina_chica|아이
+trp_nina_chica_pl|아이
+trp_village_walker_1|주민
+trp_village_walker_1_pl|주민
+trp_village_walker_2|주민
+trp_village_walker_2_pl|주민
+trp_village_walker_3|주민
+trp_village_walker_3_pl|주민
+trp_village_walker_4|주민
+trp_village_walker_4_pl|주민
+trp_village_walker_5|주민
+trp_village_walker_5_pl|주민
+trp_village_walker_6|주민
+trp_village_walker_6_pl|주민
+trp_village_walker_7|자유민
+trp_village_walker_7_pl|자유민
+trp_village_walker_8|자유민
+trp_village_walker_8_pl|자유민
+trp_village_walker_9|부족원
+trp_village_walker_9_pl|부족원
+trp_village_walker_10|부족원
+trp_village_walker_10_pl|부족원
+trp_village_walker_11|주민
+trp_village_walker_11_pl|주민
+trp_village_walker_12|주민
+trp_village_walker_12_pl|주민
+trp_village_walker_13|주민
+trp_village_walker_13_pl|주민
+trp_village_walker_14|주민
+trp_village_walker_14_pl|주민
+trp_village_walker_15|주민
+trp_village_walker_15_pl|주민
+trp_village_walker_16|주민
+trp_village_walker_16_pl|주민
+trp_village_walker_17|주민
+trp_village_walker_17_pl|주민
+trp_village_walker_18|주민
+trp_village_walker_18_pl|주민
+trp_spy_walker_1|주민
+trp_spy_walker_1_pl|주민
+trp_spy_walker_2|주민
+trp_spy_walker_2_pl|주민
+trp_spy_walker_3|자유민
+trp_spy_walker_3_pl|자유민
+trp_spy_walker_4|자유민
+trp_spy_walker_4_pl|자유민
+trp_spy_walker_5|부족원
+trp_spy_walker_5_pl|부족원
+trp_spy_walker_6|부족원
+trp_spy_walker_6_pl|부족원
+trp_spy_walker_7|주민
+trp_spy_walker_7_pl|주민
+trp_spy_walker_8|주민
+trp_spy_walker_8_pl|주민
+trp_spy_walker_9|주민
+trp_spy_walker_9_pl|주민
+trp_spy_walker_10|주민
+trp_spy_walker_10_pl|주민
+trp_spy_walker_11|주민
+trp_spy_walker_11_pl|주민
+trp_spy_walker_12|주민
+trp_spy_walker_12_pl|주민
+trp_spy_walker_13|주민
+trp_spy_walker_13_pl|주민
+trp_spy_walker_14|주민
+trp_spy_walker_14_pl|주민
+trp_spy_walker_15|주민
+trp_spy_walker_15_pl|주민
+trp_spy_walker_16|주민
+trp_spy_walker_16_pl|주민
+trp_spy_walker_17|주민
+trp_spy_walker_17_pl|주민
+trp_spy_walker_18|주민
+trp_spy_walker_18_pl|주민
+trp_tournament_master|경기 관리인
+trp_tournament_master_pl|경기 관리인
+trp_trainer|훈련 교관
+trp_trainer_pl|훈련 교관
+trp_Constable_Hareck|치안관 하렉
+trp_Constable_Hareck_pl|치안관 하렉
+trp_guide|울릭
+trp_guide_pl|울릭
+trp_Xerina|게드릭
+trp_Xerina_pl|게드릭
+trp_Dranton|니알
+trp_Dranton_pl|니알
+trp_Kradus|마티우스
+trp_Kradus_pl|마티우스
+trp_tutorial_trainer|훈련장 관리자
+trp_tutorial_trainer_pl|훈련장 관리자
+trp_Galeas|발린
+trp_Galeas_pl|발린
+trp_farmer_from_bandit_village|농부
+trp_farmer_from_bandit_village_pl|농부
+trp_trainer_1|훈련 교관
+trp_trainer_1_pl|훈련 교관
+trp_trainer_2|훈련 교관
+trp_trainer_2_pl|훈련 교관
+trp_trainer_3|훈련 교관
+trp_trainer_3_pl|훈련 교관
+trp_trainer_4|훈련 교관
+trp_trainer_4_pl|훈련 교관
+trp_trainer_5|훈련 교관
+trp_trainer_5_pl|훈련 교관
+trp_ransom_broker_1|노예 상인 질레노
+trp_ransom_broker_1_pl|노예 상인 질레노
+trp_ransom_broker_2|노예 상인 마에카르
+trp_ransom_broker_2_pl|노예 상인 마에카르
+trp_ransom_broker_3|노예 상인 포노
+trp_ransom_broker_3_pl|노예 상인 포노
+trp_ransom_broker_4|노예 상인 그란던
+trp_ransom_broker_4_pl|노예 상인 그란던
+trp_ransom_broker_5|노예 상인 케프펜
+trp_ransom_broker_5_pl|노예 상인 케프펜
+trp_ransom_broker_16|노예 상인 틸란
+trp_ransom_broker_16_pl|노예 상인 틸란
+trp_ransom_broker_17|노예 상인 뮬런
+trp_ransom_broker_17_pl|노예 상인 뮬런
+trp_ransom_broker_18|노예 상인 랜디
+trp_ransom_broker_18_pl|노예 상인 랜디
+trp_ransom_broker_19|노예 상인 트레비르
+trp_ransom_broker_19_pl|노예 상인 트레비르
+trp_ransom_broker_20|노예 상인 그래즈단
+trp_ransom_broker_20_pl|노예 상인 그래즈단
+trp_wandering_crow_1|알리서 쏜 경
+trp_wandering_crow_1_pl|알리서 쏜 경 
+trp_wandering_crow_3|징병관 구에렌
+trp_wandering_crow_3_pl|징병관 구에렌
+trp_wandering_crow_4|오웬
+trp_wandering_crow_4_pl|오웬
+trp_Ramun_the_slave_trader|요렌
+trp_Ramun_the_slave_trader_pl|요렌
+trp_wandering_crow_2|알린 벨라리온
+trp_wandering_crow_2_pl|알린 벨라리온
+trp_tavern_traveler_1|릭카드
+trp_tavern_traveler_1_pl|릭카드
+trp_tavern_traveler_2|로타르
+trp_tavern_traveler_2_pl|로타르
+trp_tavern_traveler_3|마르코
+trp_tavern_traveler_3_pl|마르코
+trp_tavern_traveler_4|트리스티퍼
+trp_tavern_traveler_4_pl|트리스티퍼
+trp_tavern_traveler_5|아에리스
+trp_tavern_traveler_5_pl|아에리스
+trp_tavern_traveler_6|조고
+trp_tavern_traveler_6_pl|조고
+trp_tavern_traveler_7|그롤레오
+trp_tavern_traveler_7_pl|그롤레오
+trp_tavern_traveler_8|일리리오
+trp_tavern_traveler_8_pl|일리리오
+trp_tavern_traveler_9|밀드레드
+trp_tavern_traveler_9_pl|밀드레드
+trp_tavern_traveler_13|덩크
+trp_tavern_traveler_13_pl|덩크
+trp_tavern_traveler_18|타이코
+trp_tavern_traveler_18_pl|타이코
+trp_tavern_traveler_19|리샤코
+trp_tavern_traveler_19_pl|리샤코
+trp_tavern_traveler_20|트레가르
+trp_tavern_traveler_20_pl|트레가르
+trp_tavern_bookseller_1|학자 로마스
+trp_tavern_bookseller_1_pl|학자 로마스
+trp_tavern_bookseller_2|시타델 하르윈의 학생
+trp_tavern_bookseller_2_pl|시타델 하르윈의 학생
+trp_tavern_minstrel_1|마릴리온
+trp_tavern_minstrel_1_pl|마릴리온
+trp_tavern_minstrel_2|미소의 와트
+trp_tavern_minstrel_2_pl|미소의 와트
+trp_tavern_minstrel_3|은의 혀 사이몬
+trp_tavern_minstrel_3_pl|은의 혀 사이몬
+trp_tavern_minstrel_4|라이머 라이문드
+trp_tavern_minstrel_4_pl|라이머 라이문드
+trp_tavern_minstrel_5|세븐스트림스의 톰
+trp_tavern_minstrel_5_pl|세븐스트림스의 톰
+trp_musican_male|큰 소리의 벌도어
+trp_musican_male_pl|큰 소리의 벌도어
+trp_musican_female|부드러운 실크의 트레벌
+trp_musican_female_pl|부드러운 실크의 트레벌
+trp_musicans_end| 
+trp_musicans_end_pl| 
+trp_bardo_1|왕국 음유시인
+trp_bardo_1_pl|음유시인
+trp_bardo_2|왕국 음유시인
+trp_bardo_2_pl|음유시인
+trp_bardo_3|왕국 음유시인
+trp_bardo_3_pl|음유시인
+trp_bardo_4|왕국 음유시인
+trp_bardo_4_pl|음유시인
+trp_bardo_5|왕국 음유시인
+trp_bardo_5_pl|음유시인
+trp_bardo_6|왕국 음유시인
+trp_bardo_6_pl|음유시인
+trp_bardo_7|왕국 음유시인
+trp_bardo_7_pl|음유시인
+trp_bardo_8|왕국 음유시인
+trp_bardo_8_pl|음유시인
+trp_bardo_9|왕국 음유시인
+trp_bardo_9_pl|음유시인
+trp_bardo_11|왕국 음유시인
+trp_bardo_11_pl|음유시인
+trp_bardo_12|왕국 음유시인
+trp_bardo_12_pl|음유시인
+trp_bardo_13|왕국 음유시인
+trp_bardo_13_pl|음유시인
+trp_bardo_15|왕국 음유시인
+trp_bardo_15_pl|음유시인
+trp_bardo_16|왕국 음유시인
+trp_bardo_16_pl|음유시인
+trp_bardo_17|왕국 음유시인
+trp_bardo_17_pl|음유시인
+trp_bardo_18|왕국 음유시인
+trp_bardo_18_pl|음유시인
+trp_bardo_19|왕국 음유시인
+trp_bardo_19_pl|음유시인
+trp_bardo_20|왕국 음유시인
+trp_bardo_20_pl|음유시인
+trp_bardo_21|왕국 음유시인
+trp_bardo_21_pl|음유시인
+trp_bardo_22|왕국 음유시인
+trp_bardo_22_pl|음유시인
+trp_sacerdote_1|셉톤
+trp_sacerdote_1_pl|셉톤
+trp_sacerdote_2|셉톤 셀레달
+trp_sacerdote_2_pl|셉톤
+trp_sacerdote_3|셉톤
+trp_sacerdote_3_pl|셉톤
+trp_sacerdote_5|셉톤
+trp_sacerdote_5_pl|셉톤
+trp_sacerdote_6|하이 셉톤
+trp_sacerdote_6_pl|하이 셉톤
+trp_sacerdote_7|셉톤
+trp_sacerdote_7_pl|셉톤
+trp_sacerdote_8|셉톤
+trp_sacerdote_8_pl|셉톤
+trp_sacerdote_12|셉톤
+trp_sacerdote_12_pl|셉톤
+trp_sacerdote_13|셉톤
+trp_sacerdote_13_pl|셉톤
+trp_sacerdote_14|셉톤
+trp_sacerdote_14_pl|셉톤
+trp_sacerdote_18|셉톤
+trp_sacerdote_18_pl|셉톤
+trp_sacerdote_21|셉톤
+trp_sacerdote_21_pl|셉톤
+trp_quastuosa_1|매춘부 로스
+trp_quastuosa_1_pl|매춘부 로스
+trp_quastuosa_2|매춘부 아메카
+trp_quastuosa_2_pl|매춘부 아메카
+trp_quastuosa_3|매춘부 데이지
+trp_quastuosa_3_pl|매춘부 데이지
+trp_alayaya|알라야야
+trp_alayaya_pl|알라야야
+trp_dancy|댄시
+trp_dancy_pl|댄시
+trp_marei|마레이
+trp_marei_pl|마레이
+trp_jayde|제이드
+trp_jayde_pl|제이드
+trp_bella|벨라
+trp_bella_pl|벨라
+trp_leslyn|레슬린
+trp_leslyn_pl|레슬린
+trp_cass|카스
+trp_cass_pl|카스
+trp_quastuosa_5|헬리
+trp_quastuosa_5_pl|헬리
+trp_jyzene|지젠
+trp_jyzene_pl|지젠
+trp_fort_whore|산드라
+trp_fort_whore_pl|산드라
+trp_bethany|베사니
+trp_bethany_pl|베사니
+trp_quastuosa_6|란나
+trp_quastuosa_6_pl|란나
+trp_quastuosa_7|선원의 아내
+trp_quastuosa_7_pl|선원의 아내
+trp_whorehouse_keeper|사창가 관리인
+trp_whorehouse_keeper_pl|사창가 관리인
+trp_chataya|차타야
+trp_chataya_pl|차타야
+trp_tansy|탠시
+trp_tansy_pl|탠시
+trp_meralyn|메럴린
+trp_meralyn_pl|메럴린
+trp_varys|바리스 공
+trp_varys_pl|바리스 공
+trp_doran_martell|도란 마르텔
+trp_doran_martell_pl|도란 마르텔
+trp_ellaria_sand|엘라리아 샌드
+trp_ellaria_sand_pl|엘라리아 샌드
+trp_agent_of_varys|주민
+trp_agent_of_varys_pl|주민
+trp_varys_spy|알프레드
+trp_varys_spy_pl|알프레드
+trp_varys_spy_partner|피터
+trp_varys_spy_partner_pl|피터
+trp_illyrio_unsullied|무결병
+trp_illyrio_unsullied_pl|무결병
+trp_westerlands_foot_soldier_tied|웨스터랜드 보병
+trp_westerlands_foot_soldier_tied_pl|웨스터랜드 보병
+trp_kingdom_heroes_including_player_begin|왕국의 영웅들이 함께한다.
+trp_kingdom_heroes_including_player_begin_pl|왕국의 영웅들이 함께한다.
+trp_npc1|시리오 포렐
+trp_npc1_pl|시리오 포렐
+trp_npc2|브론
+trp_npc2_pl|브론
+trp_npc3|크라스토스
+trp_npc3_pl|크라스토스
+trp_npc4|겐드리
+trp_npc4_pl|겐드리
+trp_npc5|'땡전 한푼 없는' 일리페르 경
+trp_npc5_pl|'땡전 한푼 없는' 일리페르 경
+trp_npc6|바리스탄 셀미 경
+trp_npc6_pl|바리스탄 셀미 경
+trp_npc7|콰이번
+trp_npc7_pl|콰이번
+trp_npc8|타스의 브리엔느
+trp_npc8_pl|타스의 브리엔느
+trp_npc9|딕 크랩
+trp_npc9_pl|딕 크랩
+trp_npc10|존도
+trp_npc10_pl|존도
+trp_npc11|히발드
+trp_npc11_pl|히발드
+trp_npc12|크레이톤 롱보우 경
+trp_npc12_pl|크레이톤 롱보우 경
+trp_npc13|돌프의 아들 샤가
+trp_npc13_pl|돌프의 아들 샤가
+trp_npc14|앤거이
+trp_npc14_pl|앤거이
+trp_npc15|포드릭 페인
+trp_npc15_pl|포드릭 페인
+trp_kurleket|컬리켓
+trp_kurleket_pl|컬리켓
+trp_thoros|미르의 토로스 
+trp_thoros_pl|미르의 토로스 
+trp_dacey_mormont|데이시 모르몬트
+trp_dacey_mormont_pl|데이시 모르몬트
+trp_wunwun|운 운
+trp_wunwun_pl|운 웩 운 달 운
+trp_dongo|파멸의 돈고
+trp_dongo_pl|파멸의 돈고
+trp_son|아들
+trp_son_pl|아들
+trp_daughter|딸
+trp_daughter_pl|딸
+trp_fat_son|샘
+trp_fat_son_pl|샘
+trp_kingdom_1_lord|라이사 아린 부인
+trp_kingdom_1_lord_pl|라이사 아린
+trp_kingdom_2_lord|'좁은 바다의 왕' 스타니스 바라테온
+trp_kingdom_2_lord_pl|스타니스 바라테온
+trp_kingdom_3_lord|고위 행정관 쿠아로
+trp_kingdom_3_lord_pl|고위 행정관 쿠아로
+trp_kingdom_4_lord|'북부의 왕' 롭 스타크
+trp_kingdom_4_lord_pl|롭 스타크
+trp_kingdom_5_lord|대영주 에드뮤어 툴리 경
+trp_kingdom_5_lord_pl|에드뮤어 툴리
+trp_kingdom_6_lord|'남부의 관리자' 메이스 티렐
+trp_kingdom_6_lord_pl|메이스 티렐
+trp_kingdom_7_lord|'바다 영주' 페레고 앤타리온
+trp_kingdom_7_lord_pl|페레고 앤타리온
+trp_kingdom_8_lord|'소금과 암초의 왕' 발론 그레이조이
+trp_kingdom_8_lord_pl|발론 그레이조이
+trp_kingdom_9_lord|도란 마르텔 대공
+trp_kingdom_9_lord_pl|도란 마르텔
+trp_kingdom_10_lord|'나이트 워치 총사령관' 제오르 모르몬트
+trp_kingdom_10_lord_pl|제오르 모르몬트
+trp_kingdom_11_lord|'장벽 너머의 왕' 만스 레이더
+trp_kingdom_11_lord_pl|만스 레이더
+trp_kingdom_12_lord|칼 포노
+trp_kingdom_12_lord_pl|칼 포노
+trp_kingdom_13_lord|군주 트레가르 모하리스
+trp_kingdom_13_lord_pl|군주 트레가르 모하리스
+trp_kingdom_14_lord|왕 아에곤 타르가르옌
+trp_kingdom_14_lord_pl|아에곤 타르가르옌
+trp_kingdom_14_1_lord|'여왕' 대너리스 타르가르옌
+trp_kingdom_14_1_lord_pl|'여왕' 대너리스 타르가르옌
+trp_kingdom_15_lord|행정관 페레고 드라하르
+trp_kingdom_15_lord_pl|행정관 페레고 드라하르
+trp_kingdom_16_lord|집정관 알레그로 투미투스
+trp_kingdom_16_lord_pl|집정관 알레그로 투미투스
+trp_kingdom_17_lord|행정관 아다로스 아로란
+trp_kingdom_17_lord_pl|행정관 아다로스 아로란
+trp_kingdom_18_lord|'서부의 관리자' 타이윈 라니스터 공
+trp_kingdom_18_lord_pl|'서부의 관리자' 타이윈 라니스터 공
+trp_kingdom_19_lord|행정관 트레가 오몰렌
+trp_kingdom_19_lord_pl|행정관 트레가 오몰렌
+trp_kingdom_20_lord|왕 오레아 탈로드
+trp_kingdom_20_lord_pl|왕 오레아 탈로드
+trp_kingdom_21_lord|'호랑이당 소속 삼두' 말라큐오 마에기르
+trp_kingdom_21_lord_pl|'호랑이당 소속 삼두' 말라큐오 마에기르
+trp_kingdom_22_lord|'하이가든의 왕' 렌리 바라테온
+trp_kingdom_22_lord_pl|렌리 바라테온
+trp_knight_1_1|가주 라이오넬 코브레이
+trp_knight_1_1_pl|라이오넬 코브레이
+trp_knight_1_2|가주 트리스톤 선더랜드
+trp_knight_1_2_pl|트리스톤 선더랜드
+trp_knight_1_3|가주 제롤드 그래프튼
+trp_knight_1_3_pl|제롤드 그래프튼
+trp_knight_1_4|관문의 기사 도넬 웨인우드
+trp_knight_1_4_pl|도넬 웨인우드
+trp_knight_1_5|가주 베네다르 벨모어 공
+trp_knight_1_5_pl|베네다르 벨모어 공
+trp_knight_1_6|'늙은 헌터 공' 이언 헌터 공
+trp_knight_1_6_pl|이언 헌터 공
+trp_knight_1_7|영주 욘 로이스
+trp_knight_1_7_pl|욘 로이스
+trp_knight_1_8|가주 로이스 콜드워터
+trp_knight_1_8_pl|로이스 콜드워터
+trp_knight_1_9|가주 아냐 웨인우드 부인
+trp_knight_1_9_pl|가주 아냐 웨인우드 부인
+trp_knight_1_10|영주 호튼 레드포트 공
+trp_knight_1_10_pl|영주호튼 레드포트 공
+trp_knight_1_11|에드먼드 웩슬리 경
+trp_knight_1_11_pl|에드먼드 웩슬리 경
+trp_knight_1_12|영주 존 린덜리
+trp_knight_1_12_pl|영주 존 린덜리
+trp_knight_2_1|'양파 기사' 다보스 시워스 경
+trp_knight_2_1_pl|'양파 기사' 다보스 시워스 경
+trp_knight_2_2|영주 듀람 바 에몬
+trp_knight_2_2_pl|듀람 바 에몬
+trp_knight_2_3|영주 악셀 플로렌트
+trp_knight_2_3_pl|영주 악셀 플로렌트
+trp_knight_2_4|저스틴 매시 경
+trp_knight_2_4_pl|저스틴 매시 경
+trp_knight_2_5|가주 몬포드 벨라리온
+trp_knight_2_5_pl|가주 몬포드 벨라리온
+trp_knight_2_6|리처드 호프 경
+trp_knight_2_6_pl|리처드 호프 경
+trp_knight_2_7|영주 하우드 펠공
+trp_knight_2_7_pl|영주 하우드 펠공
+trp_knight_3_1|행정관 다리오 발레르
+trp_knight_3_1_pl|행정관 다리오 발레르
+trp_knight_3_2|행정관 모레오 호르티르
+trp_knight_3_2_pl|행정관 모레오 호르티르
+trp_knight_3_3|행정관 데니오 노타리스
+trp_knight_3_3_pl|행정관 데니오 노타리스
+trp_knight_4_1|가주 존 움버
+trp_knight_4_1_pl|그레이트존 움버
+trp_knight_4_2|가주 갤버트 글로버
+trp_knight_4_2_pl|갤버트 글로버
+trp_knight_4_3|가주 릭카드 카스타크
+trp_knight_4_3_pl|릭카드 카스타크
+trp_knight_4_4|가주 루즈 볼튼
+trp_knight_4_4_pl|루즈 볼튼
+trp_knight_4_5|영주 헬만 톨하트 경
+trp_knight_4_5_pl|헬만 톨하트 경
+trp_knight_4_6|가주 매지 모르몬트
+trp_knight_4_6_pl|매지 모르몬트
+trp_knight_4_7|가주 와이먼 맨더리
+trp_knight_4_7_pl|와이먼 맨더리
+trp_knight_4_8|가주 메드거 커윈
+trp_knight_4_8_pl|가주 메드거 커윈
+trp_knight_4_9|영주 로빈 플린트
+trp_knight_4_9_pl|영주 로빈 플린트
+trp_knight_4_10|영주 리에사 플린트
+trp_knight_4_10_pl|영주 리에사 플린트
+trp_knight_4_11|가주 할리스 혼우드
+trp_knight_4_11_pl|가주 할리스 혼우드
+trp_knight_4_12|미망인 바브레이 더스틴
+trp_knight_4_12_pl|미망인 바브레이 더스틴
+trp_knight_4_13|가주 하울랜드 리드
+trp_knight_4_13_pl|가주 하울랜드 리드
+trp_knight_4_14|'늙은 로크가의 영주' 온드류 로크
+trp_knight_4_14_pl|'늙은 로크가의 영주' 온드류 로크
+trp_knight_4_15|말론 맨더리 경 
+trp_knight_4_15_pl|말론 맨더리 경
+trp_knight_5_1|'블랙피쉬' 브린덴 툴리 경
+trp_knight_5_1_pl|브린덴 툴리 경
+trp_knight_5_2|'늦는 프레이 공' 왈더 프레이
+trp_knight_5_2_pl|왈더 프레이
+trp_knight_5_3|가주 제이슨 말리스터
+trp_knight_5_3_pl|제이슨 말리스터
+trp_knight_5_4|가주 조노스 브랙켄
+trp_knight_5_4_pl|조노스 브랙켄
+trp_knight_5_5|가주 타이토스 블랙우드
+trp_knight_5_5_pl|타이토스 블랙우드
+trp_knight_5_6|가주 윌렘 무톤
+trp_knight_5_6_pl|윌렘 무톤
+trp_knight_5_7|할몬 페이지 경
+trp_knight_5_7_pl|할몬 페이지 경
+trp_knight_5_8|퀸시 콕스 경
+trp_knight_5_8_pl|퀸시 콕스 경
+trp_knight_5_9|영주 클레멘트 파이퍼
+trp_knight_5_9_pl|영주 클레멘트 파이퍼
+trp_knight_5_10|가주 테오마르 스몰우드
+trp_knight_5_10_pl|가주 테오마르 스몰우드
+trp_knight_5_11|가주 카릴 밴스
+trp_knight_5_11_pl|가주 카릴 밴스
+trp_knight_6_1|영주 팩스터 레드와인
+trp_knight_6_1_pl|영주 팩스터 레드와인
+trp_knight_6_2|영주 엘우드 메도우즈
+trp_knight_6_2_pl|영주 엘우드 메도우즈
+trp_knight_6_3|'올드타운의 올드 맨' 레이톤 하이타워
+trp_knight_6_3_pl|레이톤 하이타워
+trp_knight_6_4|영주 돈토스 푸틀리
+trp_knight_6_4_pl|영주 돈토스 푸틀리
+trp_knight_6_5|'킹스 가드' 발론 스완 경
+trp_knight_6_5_pl|발론 스완 경
+trp_knight_6_6|영주 레오 애쉬포드
+trp_knight_6_6_pl|영주 레오 애쉬포드
+trp_knight_6_7|영주 랜딜 탈리
+trp_knight_6_7_pl|랜딜 탈리
+trp_knight_6_8|가주 매티스 로완
+trp_knight_6_8_pl|가주 매티스 로완
+trp_knight_6_9|가주 로렌트 카스웰 공 
+trp_knight_6_9_pl|가주 로렌트 카스웰 공
+trp_knight_6_10|'용감한 갈란' 갈란 티렐 경
+trp_knight_6_10_pl|갈란 티렐 경
+trp_knight_6_11|영주 구터 그림
+trp_knight_6_11_pl|구터 그림
+trp_knight_6_12|가주 와린 비스버리
+trp_knight_6_12_pl|가주 와린 비스버리
+trp_knight_6_13|레오 블랙바 경
+trp_knight_6_13_pl|레오 블랙바 경
+trp_knight_6_14|가주 알윈 오크하트 부인
+trp_knight_6_14_pl|가주 알윈 오크하트 부인
+trp_knight_6_15|'하이가든의 훈련장' 보티머 크레인 경
+trp_knight_6_15_pl|'하이가든의 훈련장' 보티머 크레인 경
+trp_knight_6_16|영주 브랜스톤 쿠이
+trp_knight_6_16_pl|영주 브랜스톤 쿠이
+trp_knight_6_17|가주 토멘 코스테인
+trp_knight_6_17_pl|가주 토멘 코스테인
+trp_knight_6_18|영주 오톤 메리웨더 
+trp_knight_6_18_pl|영주 오톤 메리웨더 
+trp_knight_6_20|가주 알리산느 불워 부인
+trp_knight_6_20_pl|가주 알리산느 불워 부인
+trp_knight_7_1|'브라보스의 제일검' 콰로 볼렌틴
+trp_knight_7_1_pl|'브라보스의 제일검' 콰로 볼렌틴
+trp_knight_7_2|바다군주 토르모 프레가드
+trp_knight_7_2_pl|바다군주 토르모 프레가드
+trp_knight_8_1|가주 로드릭 할로우
+trp_knight_8_1_pl|'독서가' 로드릭
+trp_knight_8_2|가주 고롤드 굿브라더
+trp_knight_8_2_pl|고롤드 굿브라더
+trp_knight_8_3|영주 왈던 윈치
+trp_knight_8_3_pl|영주 왈던 윈치
+trp_knight_8_4|'페블톤의 영주' 멜드레드 메를린
+trp_knight_8_4_pl|멜드레드 메를린
+trp_knight_8_5|'블랙 윈드 선장' 야라 그레이조이
+trp_knight_8_5_pl|'블랙 윈드 선장' 야라 그레이조이
+trp_knight_8_6|'로드스포트의 영주' 사웨인 보틀리
+trp_knight_8_6_pl|'로드스포트의 영주' 사웨인 보틀리
+trp_knight_8_7|'뇌신의 선장' 던스탄 드럼
+trp_knight_8_7_pl|'뇌신의 선장' 던스탄 드럼
+trp_knight_9_1|가주 에드릭 데인
+trp_knight_9_1_pl|가주 에드릭 데인
+trp_knight_9_2|가주 앤더슨 아이언우드
+trp_knight_9_2_pl|앤더슨 아이언우드
+trp_knight_9_3|영주 트레몬드 가가렌
+trp_knight_9_3_pl|트레몬드 가가렌
+trp_knight_9_4|가주 트레버 조르데인
+trp_knight_9_4_pl|트레버 조르데인
+trp_knight_9_5|가주 하멘 울레르
+trp_knight_9_5_pl|하멘 울레르
+trp_knight_9_6|가주 프랭클린 파울러
+trp_knight_9_6_pl|'늙은 매'
+trp_knight_9_7|'붉은 독사' 오베린 마르텔
+trp_knight_9_7_pl|'붉은 독사' 오베린 마르텔
+trp_knight_9_8|가주 다에론 바이스
+trp_knight_9_8_pl|가주 다에론 바이스
+trp_knight_9_9|가주 라라 블랙몬트 부인
+trp_knight_9_9_pl|가주 라라 블랙몬트 부인
+trp_knight_9_10|디젤 달트 경
+trp_knight_9_10_pl|디젤 달트 경
+trp_knight_9_11|'검은별' 제롤드 데인 경
+trp_knight_9_11_pl|'검은별' 제롤드 데인 경
+trp_knight_9_12|영주 데런 드링크워터
+trp_knight_9_12_pl|영주 데런 드링크워터
+trp_knight_9_13|가주 다고스 맨우디
+trp_knight_9_13_pl|가주 다고스 맨우디
+trp_knight_9_14|가주 쿠엔틴 쿼르가일
+trp_knight_9_14_pl|가주 쿠엔틴 쿼르가일
+trp_knight_9_15|가주 니멜라 톨란드 부인
+trp_knight_9_15_pl|가주 니멜라 톨란드 부인
+trp_knight_9_16|영주 에드미드 윌
+trp_knight_9_16_pl|영주 에드미드 윌
+trp_knight_10_1|반쪽손 코린
+trp_knight_10_1_pl|반쪽손 코린
+trp_knight_10_2|'이스트워치의 사령관' 코터 파이크
+trp_knight_10_2_pl|'이스트워치의 사령관' 코터 파이크
+trp_knight_10_3|'섀도우 타워의 사령관' 데니스 말리스터 경
+trp_knight_10_3_pl|'섀도우 타워의 사령관' 데니스 말리스터 경
+trp_knight_10_4|말라도르 로크
+trp_knight_10_4_pl|말라도르 로크
+trp_knight_10_5|자르만 버크웰
+trp_knight_10_5_pl|자르만 버크웰
+trp_knight_11_1|토르문드
+trp_knight_11_1_pl|토르문드 거인 살해자
+trp_knight_11_2|백골 영주
+trp_knight_11_2_pl|래틀셔트
+trp_knight_11_4|'마그나르 (텐족의 족장)' 스티르
+trp_knight_11_4_pl|'마그나르 (텐족의 족장)' 스티르
+trp_knight_11_5|'독스헤드' 하르마 
+trp_knight_11_5_pl|'독스헤드' 하르마 
+trp_knight_11_6|위퍼
+trp_knight_11_6_pl|위퍼
+trp_knight_12_1|코 자코
+trp_knight_12_1_pl|코 자코
+trp_knight_12_2|코 헤고
+trp_knight_12_2_pl|코 헤고
+trp_knight_12_3|코 다고
+trp_knight_12_3_pl|코 다고
+trp_knight_12_4|코 마고
+trp_knight_12_4_pl|코 마고
+trp_knight_13_1|행정관 일리리오 모파티스
+trp_knight_13_1_pl|행정관 일리리오 모파티스
+trp_knight_13_2|행정관 그롤리오 타데로스
+trp_knight_13_2_pl|행정관 그롤리오 타데로스
+trp_knight_13_3|행정관 골딘 호르테크
+trp_knight_13_3_pl|행정관 골딘 호르테크
+trp_knight_14_1|'전 핸드' 존 코닝턴 경
+trp_knight_14_1_pl|존 코닝턴 경
+trp_knight_14_2|'집 없는' 해리 스트릭랜드
+trp_knight_14_2_pl|해리 스트릭랜드
+trp_knight_14_3|존 로스스톤
+trp_knight_14_3_pl|존 로스스톤
+trp_knight_14_4|블랙 발라크
+trp_knight_14_4_pl|블랙 발라크
+trp_knight_14_5|'갈색 사과' 프랭클린 플라워스
+trp_knight_14_5_pl|'갈색 사과' 프랭클린 플라워스
+trp_knight_14_6|라스웰 피크 경
+trp_knight_14_6_pl|라스웰 피크 경
+trp_knight_14_7|트리스탄 리버스 경
+trp_knight_14_7_pl|트리스탄 리버스 경
+trp_knight_14_8|마크 만드레이크 경
+trp_knight_14_8_pl|마크 만드레이크 경
+trp_knight_14_9|데니스 스트롱 경
+trp_knight_14_9_pl|데니스 스트롱 경
+trp_knight_14_10|'용병단의 대장장이' 롤리 덕필드
+trp_knight_14_10_pl|'용병단의 대장장이' 롤리 덕필드
+trp_knight_14_1_1|회색 벌레
+trp_knight_14_1_1_pl|회색 벌레
+trp_knight_14_1_2|칼 쿼토
+trp_knight_14_1_2_pl|칼 쿼토
+trp_knight_14_1_3|칼 일도
+trp_knight_14_1_3_pl|칼 일도
+trp_knight_14_1_4|칼 지노
+trp_knight_14_1_4_pl|칼 지노
+trp_knight_14_1_5|칼 애드리보
+trp_knight_14_1_5_pl|칼 애드리보
+trp_knight_14_1_6|테온 그레이조이
+trp_knight_14_1_6_pl|테온 그레이조이
+trp_knight_14_1_7|'안달족의 조라' 조라 모르몬트 경
+trp_knight_14_1_7_pl|'안달족의 조라' 조라 모르몬트 경
+trp_knight_15_1|행정관 모로쉬 살도리스
+trp_knight_15_1_pl|행정관 모로쉬 살도리스
+trp_knight_15_2|행정관 아리오 알베르산
+trp_knight_15_2_pl|행정관 아리오 알베르산
+trp_knight_15_3|행정관 스탈로스 레고르
+trp_knight_15_3_pl|행정관 스탈로스 레고르
+trp_knight_16_1|행정관 프레가르 우오리스
+trp_knight_16_1_pl|행정관 프레가르 우오리스
+trp_knight_16_2|행정관 올로 헤스토리스
+trp_knight_16_2_pl|행정관 올로 헤스토리스
+trp_knight_16_3|행정관 일리리오 스타시르
+trp_knight_16_3_pl|행정관 일리리오 스타시르
+trp_knight_17_1|군주 나르보 올로리온
+trp_knight_17_1_pl|군주 나르보 올로리온
+trp_knight_17_2|군주 스탈라쿠 파사르
+trp_knight_17_2_pl|군주 스탈라쿠 파사르
+trp_knight_17_3|군주 보그 발레리오
+trp_knight_17_3_pl|군주 보그 발레리오
+trp_knight_18_1|'철왕좌의 왕' 조프리 바라테온
+trp_knight_18_1_pl|'철왕좌의 왕' 조프리 바라테온
+trp_knight_18_2|영주 롤란드 크레이크홀 공
+trp_knight_18_2_pl|롤란드 크레이크홀 공
+trp_knight_18_3|'거산' 그레고르 클리게인 경 
+trp_knight_18_3_pl|'거산' 그레고르 클리게인 경 
+trp_knight_18_4|가주 렌프레드 리커 공
+trp_knight_18_4_pl|렌프레드 리커 공
+trp_knight_18_5|가주 레오 레포드
+trp_knight_18_5_pl|레오 레포드
+trp_knight_18_6|가주 데이먼 마브랜드 
+trp_knight_18_6_pl|데이먼 마브랜드 
+trp_knight_18_7|케반 라니스터 경
+trp_knight_18_7_pl|케반 라니스터 경
+trp_knight_18_8|영주 저스틴 세렛
+trp_knight_18_8_pl|영주 저스틴 세렛
+trp_knight_18_9|가주 류이스 리덴
+trp_knight_18_9_pl|류이스 리덴
+trp_knight_18_10|가주 해리스 스위프트
+trp_knight_18_10_pl|해리스 스위프트
+trp_knight_18_11|영주 쿠엔텐 베인포트
+trp_knight_18_11_pl|쿠엔텐 베인포트
+trp_knight_18_12|다벤 라니스터 경
+trp_knight_18_12_pl|다벤 라니스터 경
+trp_knight_18_13|영주 테렌스 케닝
+trp_knight_18_13_pl|영주 테렌스 케닝
+trp_knight_18_14|영주 가웬 웨스털링
+trp_knight_18_14_pl|영주 가웬 웨스털링
+trp_knight_18_15|영주 티토스 브랙스
+trp_knight_18_15_pl|영주 티토스 브랙스
+trp_knight_18_16|가주 세브스톤 파먼
+trp_knight_18_16_pl|가주 세브스톤 파먼
+trp_knight_18_17|영주 개리슨 프레스터
+trp_knight_18_17_pl|영주 개리슨 프레스터
+trp_knight_18_18|영주 멜윈 사스필드 
+trp_knight_18_18_pl|영주 멜윈 사스필드
+trp_knight_18_19|영주 모건 버크웰
+trp_knight_18_19_pl|영주 모건 버크웰
+trp_knight_19_1|주인 리사로 바엘라로
+trp_knight_19_1_pl|주인 리사로 바엘라로
+trp_knight_19_2|주인 아마르 놀슬린
+trp_knight_19_2_pl|주인 아마르 놀슬린
+trp_knight_19_3|주인 다라르 포르밀
+trp_knight_19_3_pl|주인 다라르 포르밀
+trp_knight_20_1|군주 네로 아도리
+trp_knight_20_1_pl|군주 네로 아도리
+trp_knight_20_2|행정관 아델리 마리오
+trp_knight_20_2_pl|행정관 아델리 마리오
+trp_knight_20_3|행정관 바르고 보아타르
+trp_knight_20_3_pl|행정관 바르고 보아타르
+trp_knight_21_1|'코끼리당 소속 삼두' 니에소스 바사르
+trp_knight_21_1_pl|'코끼리당 소속 삼두' 니에소스 바사르
+trp_knight_21_2|'코끼리당 소속 삼두' 도니포스 파에니미온
+trp_knight_21_2_pl|'코끼리당 소속 삼두' 도니포스 파에니미온
+trp_knight_21_3|'호랑이당 소속 삼두'  알리오스 코에다르
+trp_knight_21_3_pl|'호랑이당 소속 삼두'  알리오스 코에다르
+trp_knight_21_4|'호랑이당 소속 삼두'  "후한" 발라소
+trp_knight_21_4_pl|'호랑이당 소속 삼두'  "후한" 발라소
+trp_knight_21_5|'호랑이당 소속 삼두'  벨리코 스테이곤
+trp_knight_21_5_pl|'호랑이당 소속 삼두' 벨리코 스테이곤
+trp_knight_22_1|로네트 코닝턴 경
+trp_knight_22_1_pl|로네트 코닝턴
+trp_knight_22_2|영주 세바스티온 에롤
+trp_knight_22_2_pl|세바스티온 에롤
+trp_knight_22_3|영주 레스터 모리겐
+trp_knight_22_3_pl|레스터 모리겐
+trp_knight_22_4|브라이언 포소웨이 경
+trp_knight_22_4_pl|브라이언 포소웨이 경
+trp_knight_22_5|영주 브라이스 카론
+trp_knight_22_5_pl|영주 브라이스 카론
+trp_knight_22_6|영주 굴리완 스완
+trp_knight_22_6_pl|영주 굴리완 스완
+trp_knight_22_7|'이븐스타' 셀윈 타스 공
+trp_knight_22_7_pl|'이븐스타' 셀윈 타스 공
+trp_knight_22_8|가주 엘든 에스터몬트 
+trp_knight_22_8_pl|가주 엘든 에스터몬트 
+trp_knight_22_9|가주 캐스퍼 윌드
+trp_knight_22_9_pl|가주 캐스퍼 윌드
+trp_knight_22_10|가주 랄프 버클러
+trp_knight_22_10_pl|가주 랄프 버클러
+trp_knight_22_11|가주 마틴 물렌도르 공
+trp_knight_22_11_pl|가주 마틴 물렌도르 공
+trp_knight_22_12|가주 메리 멜틴스 부인
+trp_knight_22_12_pl|가주 메리 멜틴스 부인
+trp_knight_22_13|영주 만프레드 돈다리온
+trp_knight_22_13_pl|영주 만프레드 돈다리온
+trp_kingdom_1_pretender|영주 발라르 블랙파이어
+trp_kingdom_1_pretender_pl|영주 발라르 블랙파이어
+trp_knight_1_1_wife|Error - knight 1 1 wife should not appear in game
+trp_knight_1_1_wife_pl|1 1 아내
+trp_kingdom_1_lady_1|미라임 콜드워터 부인
+trp_kingdom_1_lady_1_pl|미라임 콜드워터 부인
+trp_kingdom_1_lady_2|코브레이 부인
+trp_kingdom_1_lady_2_pl|코브레이 부인
+trp_kingdom_1_lady_3|조이 그래프튼 부인
+trp_kingdom_1_lady_3_pl|조이 그래프튼 부인
+trp_kingdom_1_lady_4|릴레인 그래프튼 부인
+trp_kingdom_1_lady_4_pl|릴레인 그래프튼 부인
+trp_kingdom_1_lady_5|아르신데 벨모어 부인
+trp_kingdom_1_lady_5_pl|아르신데 벨모어 부인
+trp_kingdom_1_lady_6|셀리나 벨모어 부인
+trp_kingdom_1_lady_6_pl|셀리나 벨모어 부인
+trp_kingdom_1_lady_7|베서니 레드포트 부인
+trp_kingdom_1_lady_7_pl|베서니 레드포트 부인
+trp_kingdom_1_lady_8|아달라 웩슬리 부인
+trp_kingdom_1_lady_8_pl|아달라 웩슬리 부인
+trp_kingdom_1_lady_9|팔레나 콜드워터 부인
+trp_kingdom_1_lady_9_pl|팔레나 콜드워터 부인
+trp_kingdom_1_lady_10|에르메산데 콜드워터 부인
+trp_kingdom_1_lady_10_pl|에르메산데 콜드워터 부인
+trp_kingdom_1_lady_11|요레나 콜드워터 부인
+trp_kingdom_1_lady_11_pl|요레나 콜드워터 부인
+trp_kingdom_1_lady_12|아글란틴 린덜리 부인
+trp_kingdom_1_lady_12_pl|아글란틴 린덜리 부인
+trp_kingdom_1_lady_13|레오나 린덜리 부인
+trp_kingdom_1_lady_13_pl|레오나 린덜리 부인
+trp_kingdom_1_lady_14|메라 린덜리 부인
+trp_kingdom_1_lady_14_pl|메라 린덜리 부인
+trp_kingdom_1_lady_15|앨리스 선더랜드 부인
+trp_kingdom_1_lady_15_pl|앨리스 선더랜드 부인
+trp_kingdom_1_lady_16|안나라 그래프튼 부인
+trp_kingdom_1_lady_16_pl|안나라 그래프튼 부인
+trp_kingdom_1_lady_17|이실라 로이스 부인
+trp_kingdom_1_lady_17_pl|이실라 로이스 부인
+trp_kingdom_2_lady_1|공주 시린 바라테온 
+trp_kingdom_2_lady_1_pl|공주 시린 바라테온
+trp_kingdom_2_lady_2|셀리즈 플로렌트 부인
+trp_kingdom_2_lady_2_pl|셀리즈 플로렌트 부인
+trp_kingdom_2_lady_3|마리아
+trp_kingdom_2_lady_3_pl|마리아
+trp_kingdom_2_lady_4|마리아 벨라리온 부인
+trp_kingdom_2_lady_4_pl|마리아 벨라리온 부인
+trp_kingdom_3_lady_1|비센야 발레르 부인
+trp_kingdom_3_lady_1_pl|비센야 발레르 부인
+trp_kingdom_3_lady_2|벨란드라 발레르 부인
+trp_kingdom_3_lady_2_pl|벨란드라 발레르 부인
+trp_kingdom_3_lady_3|멜라리오 호르티르 부인
+trp_kingdom_3_lady_3_pl|멜라리오 호르티르 부인
+trp_kingdom_3_lady_4|미라 호르티르 부인
+trp_kingdom_3_lady_4_pl|미라 호르티르 부인
+trp_kingdom_3_lady_5|니사 노타리스 부인
+trp_kingdom_3_lady_5_pl|니사 노타리스 부인
+trp_kingdom_3_lady_6|토르마 노타리스 부인
+trp_kingdom_3_lady_6_pl|토르마 노타리스 부인
+trp_kingdom_4_lady_1|캐틀린 스타크 부인
+trp_kingdom_4_lady_1_pl|캐틀린 스타크 부인
+trp_kingdom_4_lady_2|'윈터펠의 공녀' 산사 스타크
+trp_kingdom_4_lady_2_pl|'윈터펠의 공녀' 산사 스타크
+trp_kingdom_4_lady_3|아리아 스타크
+trp_kingdom_4_lady_3_pl|아리아 스타크 부인
+trp_kingdom_4_lady_6|기셀라 카스타크 부인
+trp_kingdom_4_lady_6_pl|기셀라 카스타크 부인
+trp_kingdom_4_lady_8|'뚱보' 왈다 볼튼
+trp_kingdom_4_lady_8_pl|'뚱보' 왈다 볼튼
+trp_kingdom_4_lady_15|마드 맨더리 부인
+trp_kingdom_4_lady_15_pl|마드 맨더리 부인
+trp_kingdom_4_lady_16|도넬라 맨더리 부인
+trp_kingdom_4_lady_16_pl|도넬라 맨더리 부인
+trp_kingdom_4_lady_17|라이라 모르몬트 부인
+trp_kingdom_4_lady_17_pl|라이라 모르몬트 부인
+trp_kingdom_4_lady_18|리안나 모르몬트 부인
+trp_kingdom_4_lady_18_pl|리안나 모르몬트 부인
+trp_kingdom_4_lady_19|미라 리드
+trp_kingdom_4_lady_19_pl|미라 리드
+trp_kingdom_4_lady_20|조아나 리드 부인
+trp_kingdom_4_lady_20_pl|조아나 리드 부인
+trp_kingdom_4_lady_21|에드다라 톨하트 부인
+trp_kingdom_4_lady_21_pl|에드다라 톨하트 부인
+trp_kingdom_4_lady_22|조넬라 커윈 부인
+trp_kingdom_4_lady_22_pl|조넬라 커윈 부인
+trp_kingdom_4_lady_23|베서니 로크 부인
+trp_kingdom_4_lady_23_pl|베서니 로크 부인
+trp_kingdom_4_lady_24|엘리스 로크 부인
+trp_kingdom_4_lady_24_pl|엘리스 로크 부인
+trp_kingdom_4_lady_25|알리산 움버 부인
+trp_kingdom_4_lady_25_pl|알리산 움버 부인
+trp_kingdom_4_lady_26|윌라 움버 부인
+trp_kingdom_4_lady_26_pl|윌라 움버 부인
+trp_kingdom_5_lady_1|조유즈 이렌포드
+trp_kingdom_5_lady_1_pl|조유즈 이렌포드
+trp_kingdom_5_lady_2|페리안 프레이
+trp_kingdom_5_lady_2_pl|페리안 프레이
+trp_kingdom_5_lady_3|쉬리 프레이
+trp_kingdom_5_lady_3_pl|쉬리 프레이
+trp_kingdom_5_lady_4|왈다 프레이
+trp_kingdom_5_lady_4_pl|왈다 프레이
+trp_kingdom_5_lady_5|데와 프레이
+trp_kingdom_5_lady_5_pl|데와 프레이
+trp_kingdom_5_lady_6|왈다 프레이
+trp_kingdom_5_lady_6_pl|왈다 프레이
+trp_kingdom_5_lady_7|로슬린 프레이
+trp_kingdom_5_lady_7_pl|로슬린 프레이
+trp_kingdom_5_lady_8|베서니 블랙우드
+trp_kingdom_5_lady_8_pl|베서니 블랙우드
+trp_kingdom_5_lady_9|바바라 브랙켄
+trp_kingdom_5_lady_9_pl|바바라 브랙켄
+trp_kingdom_5_lady_10|제인 브랙켄
+trp_kingdom_5_lady_10_pl|제인 브랙켄
+trp_kingdom_5_lady_11|캐틀린 브랙켄
+trp_kingdom_5_lady_11_pl|캐틀린 브랙켄
+trp_kingdom_5_lady_12|베스 브랙켄
+trp_kingdom_5_lady_12_pl|베스 브랙켄
+trp_kingdom_5_lady_13|알리산느 브랙켄
+trp_kingdom_5_lady_13_pl|알리산느 브랙켄
+trp_kingdom_5_lady_14|알레리 페이지
+trp_kingdom_5_lady_14_pl|알레리 페이지
+trp_kingdom_5_lady_15|라벨라 스완
+trp_kingdom_5_lady_15_pl|라벨라 스완
+trp_kingdom_5_lady_16|카렐렌 스몰우드 
+trp_kingdom_5_lady_16_pl|카렐렌 스몰우드 
+trp_kingdom_5_lady_17|리안느 밴스
+trp_kingdom_5_lady_17_pl|리안느 밴스
+trp_kingdom_5_lady_18|르알타 밴스
+trp_kingdom_5_lady_18_pl|르알타 밴스
+trp_kingdom_5_lady_19|엠퓨리아 밴스
+trp_kingdom_5_lady_19_pl|엠퓨리아 밴스
+trp_kingdom_6_lady_1|알레리에 티렐
+trp_kingdom_6_lady_1_pl|알레리에 티렐
+trp_kingdom_6_lady_3|미나 레드와인
+trp_kingdom_6_lady_3_pl|미나 레드와인
+trp_kingdom_6_lady_4|자나 티렐
+trp_kingdom_6_lady_4_pl|자나 티렐
+trp_kingdom_6_lady_6|'가시 여왕' 올레나 티렐 부인
+trp_kingdom_6_lady_6_pl|'가시 여왕' 올레나 티렐 부인
+trp_kingdom_6_lady_7|멜리사 플로렌트
+trp_kingdom_6_lady_7_pl|멜리사 플로렌트
+trp_kingdom_6_lady_8|탈라 탈리
+trp_kingdom_6_lady_8_pl|탈라 탈리
+trp_kingdom_6_lady_9|데스메라 레드와인
+trp_kingdom_6_lady_9_pl|데스메라 레드와인
+trp_kingdom_6_lady_10|레아 플로렌트 부인
+trp_kingdom_6_lady_10_pl|레아 플로렌트 부인
+trp_kingdom_6_lady_11|베서니 레드와인 부인
+trp_kingdom_6_lady_11_pl|베서니 레드와인 부인
+trp_kingdom_6_lady_12|아샤 로완
+trp_kingdom_6_lady_12_pl|아샤 로완
+trp_kingdom_6_lady_13|밀렌다 카스웰
+trp_kingdom_6_lady_13_pl|밀렌다 카스웰
+trp_kingdom_6_lady_14|아랄라인 카스웰
+trp_kingdom_6_lady_14_pl|아랄라인 카스웰
+trp_kingdom_6_lady_15|레오네트 포소웨이 부인
+trp_kingdom_6_lady_15_pl|레오네트 포소웨이 부인
+trp_kingdom_6_lady_16|올렌 티렐 부인
+trp_kingdom_6_lady_16_pl|올렌 티렐 부인
+trp_kingdom_6_lady_17|미르의 타에나
+trp_kingdom_6_lady_17_pl|미르의 타에나
+trp_kingdom_7_lady_1|메럴린 앤타리온
+trp_kingdom_7_lady_1_pl|메럴린 앤타리온
+trp_kingdom_7_lady_2|베타리오스 앤타리온
+trp_kingdom_7_lady_2_pl|베타리오스 앤타리온
+trp_kingdom_7_lady_3|이나 볼렌틴
+trp_kingdom_7_lady_3_pl|이나 볼렌틴
+trp_kingdom_7_lady_4|스브론 볼렌틴
+trp_kingdom_7_lady_4_pl|스브론 볼렌틴
+trp_kingdom_7_lady_5|벨리지어 프레가드
+trp_kingdom_7_lady_5_pl|벨리지어 프레가드
+trp_kingdom_7_lady_6|브레아 프레가드
+trp_kingdom_7_lady_6_pl|브레아 프레가드
+trp_kingdom_8_lady_1|알리아니스 그레이조이
+trp_kingdom_8_lady_1_pl|알리아니스 그레이조이
+trp_kingdom_8_lady_2|네사 굿브라더
+trp_kingdom_8_lady_2_pl|네사 굿브라더
+trp_kingdom_8_lady_3|기셀라 굿브라더
+trp_kingdom_8_lady_3_pl|기셀라 굿브라더
+trp_kingdom_8_lady_4|그윈 굿브라더
+trp_kingdom_8_lady_4_pl|그윈 굿브라더
+trp_kingdom_8_lady_5|빅토리아 굿브라더
+trp_kingdom_8_lady_5_pl|빅토리아 굿브라더
+trp_kingdom_8_lady_6|올리비아 굿브라더
+trp_kingdom_8_lady_6_pl|올리비아 굿브라더
+trp_kingdom_8_lady_7|트리셀다 굿브라더
+trp_kingdom_8_lady_7_pl|트리셀다 굿브라더
+trp_kingdom_8_lady_8|고르모나 굿브라더
+trp_kingdom_8_lady_8_pl|고르모나 굿브라더
+trp_kingdom_8_lady_9|윌마 굿브라더
+trp_kingdom_8_lady_9_pl|윌마 굿브라더
+trp_kingdom_8_lady_10|요반카 굿브라더
+trp_kingdom_8_lady_10_pl|요반카 굿브라더
+trp_kingdom_8_lady_11|에리카 굿브라더
+trp_kingdom_8_lady_11_pl|에리카 굿브라더
+trp_kingdom_8_lady_12|잉그리드 굿브라더
+trp_kingdom_8_lady_12_pl|잉그리드 굿브라더
+trp_kingdom_8_lady_13|네다 굿브라더
+trp_kingdom_8_lady_13_pl|네다 굿브라더
+trp_kingdom_8_lady_14|우르실라 굿브라더
+trp_kingdom_8_lady_14_pl|우르실라 굿브라더
+trp_kingdom_8_lady_15|그리셀라 윈치
+trp_kingdom_8_lady_15_pl|그리셀라 윈치
+trp_kingdom_8_lady_16|그레첼 윈치
+trp_kingdom_8_lady_16_pl|그레첼 윈치
+trp_kingdom_8_lady_17|라다 메를린
+trp_kingdom_8_lady_17_pl|라다 메를린
+trp_kingdom_8_lady_18|라이닐라 메를린
+trp_kingdom_8_lady_18_pl|라이닐라 메를린
+trp_kingdom_8_lady_19|쿠엘라 보틀리
+trp_kingdom_8_lady_19_pl|쿠엘라 보틀리
+trp_kingdom_9_lady_1|제인 파울러
+trp_kingdom_9_lady_1_pl|제인 
+trp_kingdom_9_lady_2|자넬린 파울러
+trp_kingdom_9_lady_2_pl|자넬린 
+trp_kingdom_9_lady_3|엘라리아 샌드
+trp_kingdom_9_lady_3_pl|엘라리아 샌드
+trp_kingdom_9_lady_4|미리아 조르데인
+trp_kingdom_9_lady_4_pl|미리아
+trp_kingdom_9_lady_5|귀네스 아이언우드
+trp_kingdom_9_lady_5_pl|귀네스 아이언우드
+trp_kingdom_9_lady_6|이니스 아이언우드
+trp_kingdom_9_lady_6_pl|이니스 아이언우드
+trp_kingdom_9_lady_7|엘리아 샌드
+trp_kingdom_9_lady_7_pl|엘리아 샌드
+trp_kingdom_9_lady_8|오벨라 샌드
+trp_kingdom_9_lady_8_pl|오벨라 샌드
+trp_kingdom_9_lady_9|도레아 샌드
+trp_kingdom_9_lady_9_pl|도레아 샌드
+trp_kingdom_9_lady_10|로레자 샌드
+trp_kingdom_9_lady_10_pl|로레자 샌드
+trp_kingdom_9_lady_11|발레나 톨란드
+trp_kingdom_9_lady_11_pl|발레나 톨란드
+trp_kingdom_9_lady_12|테오라 톨란드
+trp_kingdom_9_lady_12_pl|테오라 톨란드
+trp_kingdom_11_lady_1|완다
+trp_kingdom_11_lady_1_pl|완다
+trp_kingdom_11_lady_2|헬레드
+trp_kingdom_11_lady_2_pl|헬레드
+trp_kingdom_11_lady_3|문다
+trp_kingdom_11_lady_3_pl|문다
+trp_kingdom_12_lady_1|미라크
+trp_kingdom_12_lady_1_pl|미라크
+trp_kingdom_12_lady_2|코바
+trp_kingdom_12_lady_2_pl|코바
+trp_kingdom_12_lady_3|아티
+trp_kingdom_12_lady_3_pl|아티
+trp_kingdom_12_lady_4|로스키쇼
+trp_kingdom_12_lady_4_pl|로스키쇼
+trp_kingdom_13_lady_1|알리아 모하리스
+trp_kingdom_13_lady_1_pl|알리아 모하리스
+trp_kingdom_13_lady_2|세라 모하리스
+trp_kingdom_13_lady_2_pl|세라 모하리스
+trp_kingdom_13_lady_3|세라라 모하리스
+trp_kingdom_13_lady_3_pl|세라라 모하리스
+trp_kingdom_13_lady_4|벨로 타데로스
+trp_kingdom_13_lady_4_pl|벨로 타데로스
+trp_kingdom_13_lady_5|오르벨라 타데로스
+trp_kingdom_13_lady_5_pl|오르벨라 타데로스
+trp_kingdom_13_lady_6|토르나 호르테크
+trp_kingdom_13_lady_6_pl|토르나 호르테크
+trp_kingdom_13_lady_7|노라 호르테크
+trp_kingdom_13_lady_7_pl|노라 호르테크
+trp_kingdom_15_lady_1|세라라 드라하르
+trp_kingdom_15_lady_1_pl|세라라 드라하르
+trp_kingdom_15_lady_2|타에나드라하르
+trp_kingdom_15_lady_2_pl|타에나드라하르
+trp_kingdom_15_lady_3|테르네시아 살도리스
+trp_kingdom_15_lady_3_pl|테르네시아 살도리스
+trp_kingdom_15_lady_4|네세야 살도리스
+trp_kingdom_15_lady_4_pl|네세야 살도리스
+trp_kingdom_15_lady_5|레아 알베르산
+trp_kingdom_15_lady_5_pl|레아 알베르산
+trp_kingdom_15_lady_6|세라라 알베르산
+trp_kingdom_15_lady_6_pl|세라라 알베르산
+trp_kingdom_15_lady_7|란나 레고르
+trp_kingdom_15_lady_7_pl|란나 레고르
+trp_kingdom_15_lady_8|모레데아 레고르
+trp_kingdom_15_lady_8_pl|모레데아 레고르
+trp_kingdom_16_lady_1|시벨 투미투스
+trp_kingdom_16_lady_1_pl|시벨 투미투스
+trp_kingdom_16_lady_2|네세야 투미투스
+trp_kingdom_16_lady_2_pl|네세야 투미투스
+trp_kingdom_16_lady_3|트리안나 우오리스
+trp_kingdom_16_lady_3_pl|트리안나 우오리스
+trp_kingdom_16_lady_4|미라 우오리스
+trp_kingdom_16_lady_4_pl|미라 우오리스
+trp_kingdom_16_lady_5|살리사 헤스토리스
+trp_kingdom_16_lady_5_pl|살리사 헤스토리스
+trp_kingdom_16_lady_6|멜로라 헤스토리스
+trp_kingdom_16_lady_6_pl|멜로라 헤스토리스
+trp_kingdom_16_lady_7|네세라 스타시르
+trp_kingdom_16_lady_7_pl|네세라 스타시르
+trp_kingdom_16_lady_8|도레아 스타시르
+trp_kingdom_16_lady_8_pl|도레아 스타시르
+trp_kingdom_17_lady_1|미라 아로란
+trp_kingdom_17_lady_1_pl|미라 아로란
+trp_kingdom_17_lady_2|니릴리아 아로란
+trp_kingdom_17_lady_2_pl|니릴리아 아로란
+trp_kingdom_17_lady_3|탈레아 올로리온
+trp_kingdom_17_lady_3_pl|탈레아 올로리온
+trp_kingdom_17_lady_4|올로리온
+trp_kingdom_17_lady_4_pl|올로리온
+trp_kingdom_17_lady_5|살리사 파사르
+trp_kingdom_17_lady_5_pl|살리사 파사르
+trp_kingdom_17_lady_6|이오라 파사르
+trp_kingdom_17_lady_6_pl|이오라 파사르
+trp_kingdom_17_lady_7|멜로라 발레리오
+trp_kingdom_17_lady_7_pl|멜로라 발레리오
+trp_kingdom_17_lady_8|셰이 발레리오
+trp_kingdom_17_lady_8_pl|셰이 발레리오
+trp_kingdom_18_lady_1|세르세이 라니스터 
+trp_kingdom_18_lady_1_pl|세르세이 라니스터 
+trp_kingdom_18_lady_2|미르셀라 바라테온
+trp_kingdom_18_lady_2_pl|미르셀라 바라테온
+trp_kingdom_18_lady_3|도나 스위프트
+trp_kingdom_18_lady_3_pl|도나 스위프트
+trp_kingdom_18_lady_4|아비 리커
+trp_kingdom_18_lady_4_pl|아비 리커
+trp_kingdom_18_lady_6|애비게일 리커
+trp_kingdom_18_lady_6_pl|애비게일 리커
+trp_kingdom_18_lady_8|페트롤라 레포드
+trp_kingdom_18_lady_8_pl|페트롤라 레포드
+trp_kingdom_18_lady_9|알리산느 레포드
+trp_kingdom_18_lady_9_pl|알리산느 레포드
+trp_kingdom_18_lady_10|엘레냐 마브랜드
+trp_kingdom_18_lady_10_pl|엘레냐 마브랜드
+trp_kingdom_18_lady_11|자네이 라니스터
+trp_kingdom_18_lady_11_pl|자네이 라니스터
+trp_kingdom_18_lady_13|엘리사 리덴
+trp_kingdom_18_lady_13_pl|엘리사 리덴
+trp_kingdom_18_lady_14|마케타 리덴
+trp_kingdom_18_lady_14_pl|마케타 리덴
+trp_kingdom_18_lady_15|헬로이즈 스위프트
+trp_kingdom_18_lady_15_pl|헬로이즈 스위프트
+trp_kingdom_18_lady_16|페니카 베인포트
+trp_kingdom_18_lady_16_pl|페니카 베인포트
+trp_kingdom_18_lady_17|시벨 스파이서
+trp_kingdom_18_lady_17_pl|시벨 스파이서서 
+trp_kingdom_18_lady_18|엘레이나 웨스털링
+trp_kingdom_18_lady_18_pl|엘레이나 웨스털링
+trp_kingdom_18_lady_19|제인 웨스털링
+trp_kingdom_18_lady_19_pl|제인 웨스털링
+trp_kingdom_18_lady_20|리아네 프레스터
+trp_kingdom_18_lady_20_pl|리아네 프레스터
+trp_kingdom_18_lady_26|제인 파먼
+trp_kingdom_18_lady_26_pl|제인 파먼
+trp_kingdom_19_lady_1|리네스 하이타워
+trp_kingdom_19_lady_1_pl|리네스 하이타워
+trp_kingdom_19_lady_2|세레네이 오몰렌
+trp_kingdom_19_lady_2_pl|세레네이 오몰렌
+trp_kingdom_19_lady_3|네세라 바엘라로
+trp_kingdom_19_lady_3_pl|네세라 바엘라로
+trp_kingdom_19_lady_4|멜레나 바엘라로
+trp_kingdom_19_lady_4_pl|멜레나 바엘라로
+trp_kingdom_19_lady_5|딜레아 놀슬린
+trp_kingdom_19_lady_5_pl|딜레아 놀슬린
+trp_kingdom_19_lady_6|도라 놀슬린
+trp_kingdom_19_lady_6_pl|도라 놀슬린
+trp_kingdom_19_lady_7|벨라 포르밀
+trp_kingdom_19_lady_7_pl|벨라 포르밀
+trp_kingdom_19_lady_8|도레아 포르밀
+trp_kingdom_19_lady_8_pl|도레아 포르밀
+trp_kingdom_20_lady_1|카리아 탈로드
+trp_kingdom_20_lady_1_pl|카리아 탈로드
+trp_kingdom_20_lady_2|란나 탈로드
+trp_kingdom_20_lady_2_pl|란나 탈로드
+trp_kingdom_20_lady_3|세레네이 아도리
+trp_kingdom_20_lady_3_pl|세레네이 아도리
+trp_kingdom_20_lady_4|페라 아도리
+trp_kingdom_20_lady_4_pl|페라 아도리
+trp_kingdom_20_lady_5|이슬라 마리오
+trp_kingdom_20_lady_5_pl|이슬라 마리오
+trp_kingdom_20_lady_6|잉겐 마리오
+trp_kingdom_20_lady_6_pl|잉겐 마리오
+trp_kingdom_20_lady_7|이슬라 보아타르
+trp_kingdom_20_lady_7_pl|이슬라 보아타르
+trp_kingdom_20_lady_8|란나 보아타르
+trp_kingdom_20_lady_8_pl|란나 보아타르
+trp_kingdom_21_lady_1|알레아스 니에소스
+trp_kingdom_21_lady_1_pl|알레아스 니에소스
+trp_kingdom_21_lady_2|알리아 니에소스
+trp_kingdom_21_lady_2_pl|알리아 니에소스
+trp_kingdom_21_lady_3|시벨 코에다르
+trp_kingdom_21_lady_3_pl|시벨 코에다르
+trp_kingdom_21_lady_4|탈리사 코에다르
+trp_kingdom_21_lady_4_pl|탈리사 코에다르
+trp_kingdom_21_lady_5|트리안나 발라소
+trp_kingdom_21_lady_5_pl|트리안나 발라소
+trp_kingdom_21_lady_6|로테아 발라소
+trp_kingdom_21_lady_6_pl|로테아 발라소
+trp_kingdom_21_lady_7|알리아 스테이곤
+trp_kingdom_21_lady_7_pl|알리아 스테이곤
+trp_kingdom_21_lady_8|탈리사 스테이곤
+trp_kingdom_21_lady_8_pl|탈리사 스테이곤
+trp_kingdom_21_lady_9|호노라 도니포스
+trp_kingdom_21_lady_9_pl|호노라 도니포스
+trp_kingdom_21_lady_10|토르마 도니포스
+trp_kingdom_21_lady_10_pl|토르마 도니포스
+trp_kingdom_22_lady_1|'작은 여왕' 마저리 티렐
+trp_kingdom_22_lady_1_pl|'작은 여왕' 마저리 티렐
+trp_kingdom_22_lady_2|알린느 코닝턴 부인
+trp_kingdom_22_lady_2_pl|알린느 코닝턴
+trp_kingdom_22_lady_3|시라 부인
+trp_kingdom_22_lady_3_pl|시라
+trp_kingdom_22_lady_4|Lady 도니스 카론 부인
+trp_kingdom_22_lady_4_pl|도니스 카론
+trp_kingdom_22_lady_5|다니엘라 에스터몬트  부인
+trp_kingdom_22_lady_5_pl|다니엘라 에스터몬트 
+trp_kingdom_22_lady_6|Lady 아랄라인 윌드 부인
+trp_kingdom_22_lady_6_pl|아랄라인 윌드
+trp_kingdom_22_lady_7|베릴 윌드 부인
+trp_kingdom_22_lady_7_pl|베릴 윌드
+trp_kingdom_22_lady_8|Lady 알레리 버클러 부인
+trp_kingdom_22_lady_8_pl|알레리 버클러
+trp_kingdom_22_lady_9|알레레이 버클러 부인
+trp_kingdom_22_lady_9_pl|알레레이 버클러
+trp_kingdom_22_lady_10|말로라 물렌도르 부인
+trp_kingdom_22_lady_10_pl|말로라 물렌도르
+trp_town_1_arena_master|대회 관리인
+trp_town_2_arena_master|대회 관리인
+trp_town_3_arena_master|대회 관리인
+trp_town_4_arena_master|대회 관리인
+trp_town_5_arena_master|대회 관리인
+trp_town_6_arena_master|대회 관리인
+trp_town_7_arena_master|대회 관리인
+trp_town_8_arena_master|대회 관리인
+trp_town_9_arena_master|대회 관리인
+trp_town_10_arena_master|대회 관리인
+trp_town_11_arena_master|대회 관리인
+trp_town_12_arena_master|대회 관리인
+trp_town_13_arena_master|대회 관리인
+trp_town_14_arena_master|대회 관리인
+trp_town_15_arena_master|대회 관리인
+trp_town_16_arena_master|대회 관리인
+trp_town_17_arena_master|대회 관리인
+trp_town_18_arena_master|대회 관리인
+trp_town_19_arena_master|대회 관리인
+trp_town_20_arena_master|대회 관리인
+trp_town_21_arena_master|대회 관리인
+trp_town_22_arena_master|대회 관리인
+trp_town_23_arena_master|대회 관리인
+trp_town_24_arena_master|대회 관리인
+trp_town_25_arena_master|대회 관리인
+trp_town_26_arena_master|대회 관리인
+trp_town_27_arena_master|대회 관리인
+trp_town_29_arena_master|대회 관리인
+trp_town_30_arena_master|대회 관리인
+trp_town_31_arena_master|대회 관리인
+trp_town_32_arena_master|대회 관리인
+trp_town_33_arena_master|대회 관리인
+trp_town_34_arena_master|'대회 관리인' 리히자르
+trp_town_35_arena_master|대회 관리인
+trp_town_36_arena_master|대회 관리인
+trp_town_37_arena_master|대회 관리인
+trp_town_38_arena_master|대회 관리인
+trp_town_39_arena_master|대회 관리인
+trp_town_40_arena_master|대회 관리인
+trp_town_41_arena_master|대회 관리인
+trp_town_42_arena_master|대회 관리인
+trp_town_1_armorer|방어구 제작자
+trp_town_2_armorer|방어구 제작자
+trp_town_3_armorer|방어구 제작자
+trp_town_4_armorer|방어구 제작자
+trp_town_5_armorer|방어구 제작자
+trp_town_6_armorer|'방어구 제작자' 토보 모트
+trp_town_7_armorer|방어구 제작자
+trp_town_8_armorer|방어구 제작자
+trp_town_9_armorer|방어구 제작자
+trp_town_10_armorer|방어구 제작자
+trp_town_11_armorer|방어구 제작자
+trp_town_12_armorer|방어구 제작자
+trp_town_13_armorer|방어구 제작자
+trp_town_14_armorer|방어구 제작자
+trp_town_15_armorer|방어구 제작자
+trp_town_16_armorer|방어구 제작자
+trp_town_17_armorer|방어구 제작자
+trp_town_18_armorer|방어구 제작자
+trp_town_19_armorer|방어구 제작자
+trp_town_20_armorer|방어구 제작자
+trp_town_21_armorer|방어구 제작자
+trp_town_22_armorer|방어구 제작자
+trp_town_23_armorer|방어구 제작자
+trp_town_24_armorer|방어구 제작자
+trp_town_25_armorer|방어구 제작자
+trp_town_26_armorer|방어구 제작자
+trp_town_27_armorer|방어구 제작자
+trp_town_29_armorer|방어구 제작자
+trp_town_30_armorer|방어구 제작자
+trp_town_31_armorer|방어구 제작자
+trp_town_32_armorer|방어구 제작자
+trp_town_33_armorer|방어구 제작자
+trp_town_34_armorer|'방어구 제작자' 베페쉬
+trp_town_35_armorer|방어구 제작자
+trp_town_36_armorer|방어구 제작자
+trp_town_37_armorer|방어구 제작자
+trp_town_38_armorer|방어구 제작자
+trp_town_39_armorer|방어구 제작자
+trp_town_40_armorer|방어구 제작자
+trp_town_41_armorer|방어구 제작자
+trp_town_42_armorer|방어구 제작자
+trp_town_43_armorer|'방어구 제작자' 그레고르
+trp_town_1_weaponsmith|무기 제작자
+trp_town_2_weaponsmith|무기 제작자
+trp_town_3_weaponsmith|무기 제작자
+trp_town_4_weaponsmith|무기 제작자
+trp_town_5_weaponsmith|무기 제작자
+trp_town_6_weaponsmith|무기 제작자
+trp_town_7_weaponsmith|무기 제작자
+trp_town_8_weaponsmith|'무기 제작자' 미켄
+trp_town_9_weaponsmith|무기 제작자
+trp_town_10_weaponsmith|무기 제작자
+trp_town_11_weaponsmith|무기 제작자
+trp_town_12_weaponsmith|무기 제작자
+trp_town_13_weaponsmith|무기 제작자
+trp_town_14_weaponsmith|무기 제작자
+trp_town_15_weaponsmith|무기 제작자
+trp_town_16_weaponsmith|무기 제작자
+trp_town_17_weaponsmith|무기 제작자
+trp_town_18_weaponsmith|무기 제작자
+trp_town_19_weaponsmith|무기 제작자
+trp_town_20_weaponsmith|무기 제작자
+trp_town_21_weaponsmith|무기 제작자
+trp_town_22_weaponsmith|무기 제작자
+trp_town_23_weaponsmith|무기 제작자
+trp_town_24_weaponsmith|하렌빌리의 무기제작자
+trp_town_25_weaponsmith|'무기 제작자' 마오니언
+trp_town_26_weaponsmith|'무기 제작자' 우오르민
+trp_town_27_weaponsmith|'무기 제작자' 고지푸
+trp_town_29_weaponsmith|에드의 무기제작자
+trp_town_30_weaponsmith|'무기 제작자' 포가르타흐
+trp_town_31_weaponsmith|무기 제작자
+trp_town_32_weaponsmith|무기 제작자
+trp_town_33_weaponsmith|무기 제작자
+trp_town_34_weaponsmith|'무기 제작자' 자파
+trp_town_35_weaponsmith|무기 제작자
+trp_town_36_weaponsmith|무기 제작자
+trp_town_37_weaponsmith|무기 제작자
+trp_town_38_weaponsmith|무기 제작자
+trp_town_39_weaponsmith|무기 제작자
+trp_town_40_weaponsmith|무기 제작자
+trp_town_41_weaponsmith|무기 제작자
+trp_town_42_weaponsmith|무기 제작자
+trp_town_43_weaponsmith|'무기 제작자' 건트레드
+trp_town_1_tavernkeeper|주인
+trp_town_2_tavernkeeper|주인
+trp_town_3_tavernkeeper|주인
+trp_town_4_tavernkeeper|주인
+trp_town_5_tavernkeeper|호르사 모놀리토스
+trp_town_6_tavernkeeper|주인
+trp_town_7_tavernkeeper|주인
+trp_town_8_tavernkeeper|주인
+trp_town_9_tavernkeeper|주인
+trp_town_10_tavernkeeper|주인
+trp_town_11_tavernkeeper|주인
+trp_town_12_tavernkeeper|주인
+trp_town_13_tavernkeeper|주인
+trp_town_14_tavernkeeper|주인
+trp_town_15_tavernkeeper|주인
+trp_town_16_tavernkeeper|주인
+trp_town_17_tavernkeeper|주인
+trp_town_18_tavernkeeper|주인
+trp_town_19_tavernkeeper|주인
+trp_town_20_tavernkeeper|주인
+trp_town_21_tavernkeeper|주인
+trp_town_22_tavernkeeper|주인
+trp_town_23_tavernkeeper|주인
+trp_town_24_tavernkeeper|주인
+trp_town_25_tavernkeeper|주인
+trp_town_26_tavernkeeper|주인
+trp_town_27_tavernkeeper|주인
+trp_town_29_tavernkeeper|주인
+trp_town_30_tavernkeeper|주인
+trp_town_31_tavernkeeper|주인
+trp_town_32_tavernkeeper|주인
+trp_town_33_tavernkeeper|주인
+trp_town_34_tavernkeeper|아트라
+trp_town_35_tavernkeeper|주인
+trp_town_36_tavernkeeper|주인
+trp_town_37_tavernkeeper|주인
+trp_town_38_tavernkeeper|주인
+trp_town_39_tavernkeeper|주인
+trp_town_40_tavernkeeper|주인
+trp_town_41_tavernkeeper|주인
+trp_town_42_tavernkeeper|주인
+trp_town_43_tavernkeeper|알프레드
+trp_town_1_merchant|상인
+trp_town_2_merchant|상인
+trp_town_3_merchant|상인
+trp_town_4_merchant|상인
+trp_town_5_merchant|상인
+trp_town_6_merchant|상인
+trp_town_7_merchant|상인
+trp_town_8_merchant|상인
+trp_town_9_merchant|상인
+trp_town_10_merchant|상인
+trp_town_11_merchant|상인
+trp_town_12_merchant|상인
+trp_town_13_merchant|상인
+trp_town_14_merchant|상인
+trp_town_15_merchant|상인
+trp_town_16_merchant|상인
+trp_town_17_merchant|상인
+trp_town_18_merchant|상인
+trp_town_19_merchant|상인
+trp_town_20_merchant|상인
+trp_town_21_merchant|상인
+trp_town_22_merchant|상인
+trp_town_23_merchant|상인
+trp_town_24_merchant|상인
+trp_town_25_merchant|상인
+trp_town_26_merchant|상인
+trp_town_27_merchant|상인
+trp_town_29_merchant|상인
+trp_town_30_merchant|상인
+trp_town_31_merchant|상인
+trp_town_32_merchant|상인
+trp_town_33_merchant|상인
+trp_town_34_merchant|바소프
+trp_town_35_merchant|상인
+trp_town_36_merchant|상인
+trp_town_37_merchant|상인
+trp_town_38_merchant|상인
+trp_town_39_merchant|상인
+trp_town_40_merchant|상인
+trp_town_41_merchant|상인
+trp_town_42_merchant|상인
+trp_salt_mine_merchant|윌프레드
+trp_salt_mine_merchant_pl|윌프레드
+trp_iron_mine_merchant|페티르
+trp_iron_mine_merchant_pl|페티르
+trp_town_1_horse_merchant|말 상인
+trp_town_2_horse_merchant|말 상인
+trp_town_3_horse_merchant|말 상인
+trp_town_4_horse_merchant|말 상인
+trp_town_5_horse_merchant|말 상인
+trp_town_6_horse_merchant|말 상인
+trp_town_7_horse_merchant|말 상인
+trp_town_8_horse_merchant|하르윈
+trp_town_9_horse_merchant|말 상인
+trp_town_10_horse_merchant|말 상인
+trp_town_11_horse_merchant|말 상인
+trp_town_12_horse_merchant|말 상인
+trp_town_13_horse_merchant|말 상인
+trp_town_14_horse_merchant|말 상인
+trp_town_15_horse_merchant|말 상인
+trp_town_16_horse_merchant|말 상인
+trp_town_17_horse_merchant|말 상인
+trp_town_18_horse_merchant|말 상인
+trp_town_19_horse_merchant|말 상인
+trp_town_20_horse_merchant|말 상인
+trp_town_21_horse_merchant|말 상인
+trp_town_22_horse_merchant|말 상인
+trp_town_23_horse_merchant|말 상인
+trp_town_24_horse_merchant|말 상인
+trp_town_25_horse_merchant|말 상인
+trp_town_26_horse_merchant|말 상인
+trp_town_27_horse_merchant|말 상인
+trp_town_29_horse_merchant|말 상인
+trp_town_30_horse_merchant|말 상인
+trp_town_31_horse_merchant|말 상인
+trp_town_32_horse_merchant|말 상인
+trp_town_33_horse_merchant|말 상인
+trp_town_34_horse_merchant|코스키시
+trp_town_35_horse_merchant|말 상인
+trp_town_36_horse_merchant|말 상인
+trp_town_37_horse_merchant|말 상인
+trp_town_38_horse_merchant|말 상인
+trp_town_39_horse_merchant|말 상인
+trp_town_40_horse_merchant|말 상인
+trp_town_41_horse_merchant|말 상인
+trp_town_42_horse_merchant|말 상인
+trp_town_1_mayor|조합장
+trp_town_2_mayor|조합장
+trp_town_3_mayor|조합장
+trp_town_4_mayor|조합장
+trp_town_5_mayor|조합장
+trp_town_6_mayor|조합장
+trp_town_7_mayor|조합장
+trp_town_8_mayor|조합장
+trp_town_9_mayor|조합장
+trp_town_10_mayor|조합장
+trp_town_11_mayor|조합장
+trp_town_12_mayor|조합장
+trp_town_13_mayor|조합장
+trp_town_14_mayor|조합장
+trp_town_15_mayor|조합장
+trp_town_16_mayor|조합장
+trp_town_17_mayor|조합장
+trp_town_18_mayor|조합장
+trp_town_19_mayor|조합장
+trp_town_20_mayor|조합장
+trp_town_21_mayor|조합장
+trp_town_22_mayor|조합장
+trp_town_23_mayor|조합장
+trp_town_24_mayor|조합장
+trp_town_25_mayor|조합장
+trp_town_26_mayor|조합장
+trp_town_27_mayor|조합장
+trp_town_29_mayor|조합장
+trp_town_30_mayor|조합장
+trp_town_31_mayor|조합장
+trp_town_32_mayor|조합장
+trp_town_33_mayor|조합장
+trp_town_34_mayor|'조합장' 차흐
+trp_town_35_mayor|조합장
+trp_town_36_mayor|조합장
+trp_town_37_mayor|조합장
+trp_town_38_mayor|조합장
+trp_town_39_mayor|조합장
+trp_town_40_mayor|조합장
+trp_town_41_mayor|조합장
+trp_town_42_mayor|조합장
+trp_village_1_elder|마을 장로
+trp_village_2_elder|마을 장로
+trp_north_village|마을 장로
+trp_village_3_elder|마을 장로
+trp_village_4_elder|마을 장로
+trp_village_5_elder|마을 장로
+trp_village_6_elder|마을 장로
+trp_village_7_elder|마을 장로
+trp_village_8_elder|마을 장로
+trp_village_9_elder|마을 장로
+trp_village_10_elder|마을 장로
+trp_village_11_elder|마을 장로
+trp_village_12_elder|마을 장로
+trp_village_13_elder|마을 장로
+trp_village_14_elder|마을 장로
+trp_village_15_elder|마을 장로
+trp_village_16_elder|마을 장로
+trp_village_17_elder|마을 장로
+trp_village_18_elder|마을 장로
+trp_village_19_elder|마을 장로
+trp_village_20_elder|마을 장로
+trp_village_21_elder|마을 장로
+trp_village_22_elder|마을 장로
+trp_village_23_elder|마을 장로
+trp_village_24_elder|마을 장로
+trp_village_25_elder|마을 장로
+trp_village_26_elder|마을 장로
+trp_village_27_elder|마을 장로
+trp_village_28_elder|마을 장로
+trp_village_29_elder|마을 장로
+trp_village_30_elder|마을 장로
+trp_village_31_elder|마을 장로
+trp_village_32_elder|마을 장로
+trp_village_33_elder|마을 장로
+trp_village_34_elder|마을 장로
+trp_village_35_elder|마을 장로
+trp_village_36_elder|마을 장로
+trp_village_37_elder|마을 장로
+trp_village_38_elder|마을 장로
+trp_village_39_elder|마을 장로
+trp_village_40_elder|마을 장로
+trp_village_41_elder|마을 장로
+trp_village_42_elder|마을 장로
+trp_village_43_elder|마을 장로
+trp_village_44_elder|마을 장로
+trp_village_45_elder|마을 장로
+trp_village_46_elder|마을 장로
+trp_village_47_elder|마을 장로
+trp_village_48_elder|마을 장로
+trp_village_49_elder|마을 장로
+trp_village_50_elder|마을 장로
+trp_village_51_elder|마을 장로
+trp_village_52_elder|마을 장로
+trp_village_53_elder|마을 장로
+trp_village_54_elder|산의 씨족 족장
+trp_village_55_elder|달 형제 족장
+trp_village_56_elder|마을 장로
+trp_village_57_elder|마을 장로
+trp_village_58_elder|마을 장로
+trp_village_59_elder|마을 장로
+trp_village_60_elder|마을 장로
+trp_village_61_elder|마을 장로
+trp_village_62_elder|마을 장로
+trp_village_63_elder|마을 장로
+trp_village_64_elder|마을 장로
+trp_village_65_elder|마을 장로
+trp_village_66_elder|마을 장로
+trp_village_67_elder|마을 장로
+trp_village_68_elder|마을 장로
+trp_village_69_elder|마을 장로
+trp_village_70_elder|마을 장로
+trp_village_71_elder|마을 장로
+trp_village_72_elder|마을 장로
+trp_village_73_elder|마을 장로
+trp_village_74_elder|마을 장로
+trp_village_75_elder|마을 장로
+trp_village_76_elder|마을 장로
+trp_village_77_elder|마을 장로
+trp_village_78_elder|마을 장로
+trp_village_79_elder|마을 장로
+trp_village_80_elder|마을 장로
+trp_village_81_elder|마을 장로
+trp_village_82_elder|마을 장로
+trp_village_83_elder|마을 장로
+trp_village_84_elder|마을 장로
+trp_village_85_elder|마을 장로
+trp_village_86_elder|마을 장로
+trp_village_87_elder|마을 장로
+trp_village_88_elder|마을 장로
+trp_village_89_elder|마을 장로
+trp_village_90_elder|마을 장로
+trp_village_91_elder|마을 장로
+trp_village_92_elder|마을 장로
+trp_village_93_elder|마을 장로
+trp_village_94_elder|마을 장로
+trp_village_95_elder|마을 장로
+trp_village_96_elder|마을 장로
+trp_village_97_elder|마을 장로
+trp_village_98_elder|마을 장로
+trp_village_99_elder|마을 장로
+trp_village_100_elder|마을 장로
+trp_village_101_elder|마을 장로
+trp_village_102_elder|마을 장로
+trp_village_103_elder|마을 장로
+trp_village_104_elder|마을 장로
+trp_village_105_elder|마을 장로
+trp_village_106_elder|마을 장로
+trp_village_107_elder|마을 장로
+trp_village_108_elder|마을 장로
+trp_village_109_elder|마을 장로
+trp_village_110_elder|마을 장로
+trp_village_111_elder|마을 장로
+trp_village_112_elder|마을 장로
+trp_village_113_elder|마을 장로
+trp_village_114_elder|마을 장로
+trp_village_115_elder|마을 장로
+trp_village_116_elder|마을 장로
+trp_village_117_elder|마을 장로
+trp_village_118_elder|마을 장로
+trp_village_119_elder|마을 장로
+trp_village_120_elder|마을 장로
+trp_village_121_elder|마을 장로
+trp_village_122_elder|마을 장로
+trp_village_123_elder|마을 장로
+trp_village_124_elder|마을 장로
+trp_village_125_elder|마을 장로
+trp_village_126_elder|마을 장로
+trp_village_127_elder|마을 장로
+trp_village_128_elder|마을 장로
+trp_village_129_elder|마을 장로
+trp_village_130_elder|마을 장로
+trp_village_131_elder|마을 장로
+trp_village_132_elder|마을 장로
+trp_village_133_elder|마을 장로
+trp_village_134_elder|마을 장로
+trp_village_135_elder|마을 장로
+trp_village_136_elder|마을 장로
+trp_village_137_elder|마을 장로
+trp_village_138_elder|마을 장로
+trp_village_139_elder|마을 장로
+trp_village_140_elder|마을 장로
+trp_village_141_elder|마을 장로
+trp_village_142_elder|마을 장로
+trp_village_143_elder|마을 장로
+trp_village_144_elder|마을 장로
+trp_village_145_elder|마을 장로
+trp_village_146_elder|마을 장로
+trp_village_147_elder|마을 장로
+trp_village_148_elder|마을 장로
+trp_village_149_elder|마을 장로
+trp_village_150_elder|마을 장로
+trp_village_151_elder|마을 장로
+trp_village_152_elder|마을 장로
+trp_village_153_elder|마을 장로
+trp_village_154_elder|마을 장로
+trp_village_155_elder|마을 장로
+trp_village_156_elder|마을 장로
+trp_makeshift_village_elder|마을 장로
+trp_village_157_elder|마을 장로
+trp_village_158_elder|마을 장로
+trp_village_159_elder|마을 장로
+trp_village_160_elder|마을 장로
+trp_village_161_elder|마을 장로
+trp_village_162_elder|마을 장로
+trp_village_163_elder|마을 장로
+trp_village_164_elder|마을 장로
+trp_village_165_elder|마을 장로
+trp_village_166_elder|마을 장로
+trp_village_167_elder|마을 장로
+trp_village_168_elder|마을 장로
+trp_village_169_elder|마을 장로
+trp_village_170_elder|마을 장로
+trp_village_171_elder|마을 장로
+trp_village_172_elder|마을 장로
+trp_village_174_elder|마을 장로
+trp_village_175_elder|마을 장로
+trp_village_176_elder|마을 장로
+trp_village_177_elder|마을 장로
+trp_brigand_hideout_merchant|도적 상인
+trp_brigand_hideout_merchant_pl|도적 상인
+trp_monje_mercader|수도승 상인
+trp_monje_mercader_pl|수도승 상인
+trp_especial_merchant|신비한 상인
+trp_especial_merchant_pl|신비한 상인
+trp_merchants_end|merchants end
+trp_merchants_end_pl|merchants end
+trp_town_1_healer|의사
+trp_town_2_healer|의사
+trp_town_3_healer|의사
+trp_town_4_healer|의사
+trp_town_5_healer|의사
+trp_town_6_healer|의사
+trp_town_7_healer|의사
+trp_town_8_healer|의사
+trp_town_9_healer|의사
+trp_town_10_healer|의사
+trp_town_11_healer|의사
+trp_town_12_healer|의사
+trp_town_13_healer|의사
+trp_town_14_healer|의사
+trp_town_15_healer|의사
+trp_town_16_healer|의사
+trp_town_17_healer|의사
+trp_town_18_healer|의사
+trp_town_19_healer|의사
+trp_town_20_healer|의사
+trp_town_21_healer|의사
+trp_town_22_healer|의사
+trp_town_23_healer|의사
+trp_town_24_healer|의사
+trp_town_25_healer|의사
+trp_town_26_healer|의사
+trp_town_27_healer|의사
+trp_town_29_healer|의사
+trp_town_30_healer|의사
+trp_town_31_healer|의사
+trp_town_32_healer|의사
+trp_town_33_healer|의사
+trp_town_34_healer|의사
+trp_town_35_healer|의사
+trp_town_36_healer|의사
+trp_town_37_healer|의사
+trp_town_38_healer|의사
+trp_town_39_healer|의사
+trp_town_40_healer|의사
+trp_town_41_healer|의사
+trp_town_42_healer|의사
+trp_healer_end|healer end
+trp_town_1_shipwright|조선공
+trp_town_2_shipwright|조선공
+trp_town_3_shipwright|조선공
+trp_port_chief|항구 관리
+trp_port_chief_pl|항구 관리
+trp_town_5_shipwright|조선공
+trp_town_6_shipwright|선박의 주인
+trp_town_7_shipwright|조선공
+trp_town_8_shipwright|조선공
+trp_town_9_shipwright|조선공
+trp_town_10_shipwright|조선공
+trp_town_11_shipwright|조선공
+trp_town_12_shipwright|조선공
+trp_town_13_shipwright|조선공
+trp_town_14_shipwright|조선공
+trp_town_15_shipwright|조선공
+trp_town_16_shipwright|조선공
+trp_town_17_shipwright|조선공
+trp_town_18_shipwright|조선공
+trp_town_19_shipwright|조선공
+trp_town_20_shipwright|조선공
+trp_town_21_shipwright|조선공
+trp_town_22_shipwright|조선공
+trp_town_23_shipwright|조선공
+trp_town_24_shipwright|조선공
+trp_town_25_shipwright|조선공
+trp_town_26_shipwright|조선공
+trp_town_27_shipwright|조선공
+trp_town_29_shipwright|조선공
+trp_town_30_shipwright|조선공
+trp_town_31_shipwright|조선공
+trp_town_32_shipwright|조선공
+trp_town_33_shipwright|조선공
+trp_town_34_shipwright|조선공
+trp_town_35_shipwright|조선공
+trp_town_36_shipwright|조선공
+trp_town_37_shipwright|조선공
+trp_town_38_shipwright|조선공
+trp_town_39_shipwright|조선공
+trp_town_40_shipwright|조선공
+trp_town_41_shipwright|조선공
+trp_town_42_shipwright|조선공
+trp_shipwright_end|야생 돼지
+trp_shipwright_end_pl|야생 돼지
+trp_npc17|다그머
+trp_npc17_pl|다그머 '갈라진 턱'
+trp_npc18|좋은 주인들
+trp_npc18_pl|좋은 주인들
+trp_the_tickler|티클러 
+trp_the_tickler_pl|티클러 
+trp_wildling_raider1|골칫거리 루터
+trp_wildling_raider1_pl|골칫거리 루터
+trp_hareck|로리
+trp_hareck_pl|로리
+trp_violet|에일프윈
+trp_violet_pl|에일프윈
+trp_violet2|루네트
+trp_violet2_pl|루네트
+trp_violet3|시라
+trp_violet3_pl|시라
+trp_pagano_19|'옛 신' 숭배자 
+trp_pagano_19_pl|'옛 신' 숭배자 
+trp_rhllor|'를로르' 붉은 사제
+trp_rhllor_pl|'를로르' 붉은 사제
+trp_drowned_god|'세번 익사한' 타를
+trp_drowned_god_pl|'세번 익사한' 타를
+trp_npc20|울프
+trp_npc20_pl|울프의 아들 우마르
+trp_npc50|누더기 대공
+trp_npc50_pl|누더기 대공
+trp_npc51|'시체살해자' 카고
+trp_npc51_pl|'시체살해자' 카고
+trp_npc52|덴조 드한
+trp_npc52_pl|덴조 드한
+trp_urho|더러운 우루호
+trp_urho_pl|더러운 우루호
+trp_lady_korra|코라 부인
+trp_lady_korra_pl|코라 부인
+trp_shrouded_lord|뒤덮인 군주
+trp_shrouded_lord_pl|뒤덮인 군주
+trp_mero|'타이탄의 사생아' 메로
+trp_mero_pl|'타이탄의 사생아' 메로
+trp_ben_plumm|'갈색' 벤 플럼
+trp_ben_plumm_pl|'갈색' 벤 플럼
+trp_kasporio|'교활한' 카스포리오
+trp_kasporio_pl|'교활한' 카스포리오
+trp_prendahl|프렌달 나 게즌
+trp_prendahl_pl|프렌달 나 게즌
+trp_sallor|용감한 살로르
+trp_sallor_pl|용감한 살로르
+trp_locke|로크
+trp_locke_pl|로크
+trp_npc33|호도르
+trp_npc33_pl|호도르
+trp_npc34|'임프' 티리온 라니스터
+trp_npc34_pl|'임프' 티리온 라니스터
+trp_npc35|멜리산드레 
+trp_npc35_pl|멜리산드레 
+trp_missandei|미산데이
+trp_missandei_pl|미산데이
+trp_npc31|그랜드 마에스터 파이셀
+trp_npc31_pl|그랜드 마에스터 파이셀
+trp_npc32|마에스터 루윈 
+trp_npc32_pl|마에스터 루윈 
+trp_npc36|마에스터 아에몬 타르가르옌 
+trp_npc36_pl|마에스터 아에몬 타르가르옌
+trp_npc38|'리틀 핑거' 피터 베일리쉬 공
+trp_npc38_pl|'리틀 핑거' 피터 베일리쉬 공
+trp_npc37|마에스터 크레센
+trp_npc37_pl|마에스터 크레센
+trp_npc40|마에스터 콜몬
+trp_npc40_pl|마에스터 콜몬
+trp_npc41|마에스터 하르문
+trp_npc41_pl|마에스터 하르문
+trp_npc42|마에스터 물린
+trp_npc42_pl|마에스터 물린
+trp_npc43|마에스터 웬다미르
+trp_npc43_pl|마에스터 웬다미르
+trp_npc44|마에스터 고몬 
+trp_npc44_pl|마에스터 고몬 
+trp_npc45|마에스터 테오모어 
+trp_npc45_pl|마에스터 테오모어 
+trp_npc46|마에스터 굴리완 
+trp_npc46_pl|마에스터 굴리완 
+trp_maester_tybald|마에스터 타이발드
+trp_maester_tybald_pl|마에스터 타이발드
+trp_fort_maester|마에스터 모린
+trp_fort_maester_pl|마에스터 모린
+trp_npc47|마에스터 마일스
+trp_npc47_pl|마에스터 마일스
+trp_maester1|마에스터 볼라릭
+trp_maester1_pl|마에스터 볼라릭
+trp_maester2|마에스터 헬리윅
+trp_maester2_pl|마에스터 헬리윅
+trp_maester4|마에스터 베론
+trp_maester4_pl|마에스터 베론
+trp_maester5|마에스터 아담
+trp_maester5_pl|마에스터 아담
+trp_maester6|마에스터 갈라든 
+trp_maester6_pl|마에스터 갈라든 
+trp_maester7|마에스터 펠튼
+trp_maester7_pl|마에스터 펠튼
+trp_maester8|마에스터 
+trp_maester8_pl|마에스터 
+trp_maester9|마에스터 
+trp_maester9_pl|마에스터 
+trp_maester10|마에스터 
+trp_maester10_pl|마에스터 
+trp_npc48|낸 할멈
+trp_npc48_pl|낸 할멈
+trp_beric|베릭 돈다리온
+trp_beric_pl|베릭 돈다리온
+trp_npc49|모린 티렐 경
+trp_npc49_pl|모린 티렐 경
+trp_wendal_manderly|웬델 맨더리 경
+trp_wendal_manderly_pl|웬델 맨더리 경
+trp_ser_wylis_manderly|윌리스 맨더리 경
+trp_ser_wylis_manderly_pl|윌리스 맨더리 경
+trp_donnel_locke|도넬 로크 경
+trp_donnel_locke_pl|도넬 로크 경
+trp_leobald_tallhart|레오발드 톨하트
+trp_leobald_tallhart_pl|레오발드 톨하트
+trp_robett_glover|로베트 글로버
+trp_robett_glover_pl|로베트 글로버
+trp_arnolf_karstark|아놀프 카스타크
+trp_arnolf_karstark_pl|아놀프 카스타크
+trp_ramsay_snow|램지 스노우
+trp_ramsay_snow_pl|램지 스노우
+trp_mors_umber|모르스 움버
+trp_mors_umber_pl|모르스 '까마귀 밥' 움버
+trp_hother_umber|호더 움버
+trp_hother_umber_pl|호더 '창녀살해자' 움버
+trp_smalljon_umber|스몰존 움버
+trp_smalljon_umber_pl|스몰존 움버
+trp_ser_loras_tyrell|'꽃의 기사' 로라스 티렐 경
+trp_ser_loras_tyrell_pl|'꽃의 기사' 로라스 티렐 경
+trp_ser_robar_royce|'붉은 로바르' 로바르 로이스 경
+trp_ser_robar_royce_pl|'붉은 로바르' 로바르 로이스 경
+trp_ser_emmon_cuy|'노란색' 에몬 쿠이 경
+trp_ser_emmon_cuy_pl|'노란색' 에몬 쿠이 경
+trp_morton_waynwood|모튼 웨인우드 경
+trp_morton_waynwood_pl|모튼 웨인우드 경
+trp_jasper_redfort|재스퍼 레드포트 경
+trp_jasper_redfort_pl|재스퍼 레드포트 경
+trp_creighton_redfort|크레이튼 레드포트 경
+trp_creighton_redfort_pl|크레이튼 레드포트 경
+trp_jon_redfort|존 레드포트 경
+trp_jon_redfort_pl|존 레드포트 경
+trp_mychel_redfort|미첼 레드포트 경
+trp_mychel_redfort_pl|미첼 레드포트 경
+trp_raymund_waxley|레이먼드  웩슬리 경
+trp_raymund_waxley_pl|레이먼드  웩슬리 경
+trp_terrance_lynderly|테런스 린덜리
+trp_terrance_lynderly_pl|테런스 린덜리
+trp_lyn_corbray|린 코브레이 경
+trp_lyn_corbray_pl|린 코브레이 경
+trp_lucus_corbray|루카스 코브레이 경
+trp_lucus_corbray_pl|루카스 코브레이 경
+trp_gyles_grafton|가일즈 그래프튼
+trp_gyles_grafton_pl|가일즈 그래프튼
+trp_nestor_royce|영주 네스토 로이스 경
+trp_nestor_royce_pl|영주 네스토 로이스 경
+trp_marwyn_belmore|마윈 벨모어 경
+trp_marwyn_belmore_pl|마윈 벨모어 경
+trp_andar_royce|앤다르 로이스 경
+trp_andar_royce_pl|앤다르 로이스 경
+trp_vardis_egen|바르디스 에겐
+trp_vardis_egen_pl|바르디스 에겐
+trp_matthos_seaworth|마소스 시워스
+trp_matthos_seaworth_pl|마소스 시워스
+trp_jaremy_mallister|제레미 말리스터 경
+trp_jaremy_mallister_pl|제레미 말리스터 경
+trp_robert_paege|로버트 페이지 경
+trp_robert_paege_pl|로버트 페이지 경
+trp_damon_paege|데이먼 페이지 경
+trp_damon_paege_pl|데이먼 페이지 경
+trp_osmund_cox|오스문드 콕스 경
+trp_osmund_cox_pl|오스문드 콕스 경
+trp_halmon_cox|할몬콕스 경
+trp_halmon_cox_pl|할몬콕스 경
+trp_brynden_blackwood|브랜던 블랙우드
+trp_brynden_blackwood_pl|브랜던 블랙우드
+trp_lucas_blackwood|루카스 블랙우드
+trp_lucas_blackwood_pl|루카스 블랙우드
+trp_stevron_frey|스테브론 프레이 경
+trp_stevron_frey_pl|스테브론 프레이 경
+trp_marq_piper|마크 파이퍼 경
+trp_marq_piper_pl|마크 파이퍼 경
+trp_dafyn_vance|다핀 밴스 경
+trp_dafyn_vance_pl|다핀 밴스 경
+trp_stafford_lannister|스테포드 라니스터 경
+trp_stafford_lannister_pl|스테포드 라니스터 경
+trp_lorent_lorch|로렌트 로치 경
+trp_lorent_lorch_pl|로렌트 로치 경
+trp_rolph_spicer|영주 롤프 스파이서
+trp_rolph_spicer_pl|영주 롤프 스파이서
+trp_robert_brax|Ser 로버트 브락스
+trp_robert_brax_pl|Ser 로버트 브락스
+trp_flement_brax|Ser 플레멘트 브락스
+trp_flement_brax_pl|Ser 플레멘트 브락스
+trp_tybolt_crakehall|타이볼트 크레이크홀 경
+trp_tybolt_crakehall_pl|타이볼트 크레이크홀 경
+trp_lyle_crakehall|'힘 센 멧돼지' 라이레 크레이크홀 경
+trp_lyle_crakehall_pl|'힘 센 멧돼지' 라이레 크레이크홀 경
+trp_burton_crakehall|부톤 크레이크홀 경
+trp_burton_crakehall_pl|부톤 크레이크홀 경
+trp_addam_marbrand|아담 마브랜드
+trp_addam_marbrand_pl|아담 마브랜드
+trp_forley_prester|폴리 프레스터 경
+trp_forley_prester_pl|폴리 프레스터 경
+trp_jonothor_serrett|조노토 세렛 경
+trp_jonothor_serrett_pl|조노토 세렛 경
+trp_steffon_swift|스테폰 스위프트
+trp_steffon_swift_pl|스테폰 스위프트
+trp_sandor_clegane|'사냥개 ' 산도르 클리게인
+trp_sandor_clegane_pl|'사냥개 ' 산도르 클리게인
+trp_amory_lorch|아모리 로치 경
+trp_amory_lorch_pl|아모리 로치 경
+trp_ygritte|이그리트
+trp_ygritte_pl|이그리트
+trp_orell|오렐
+trp_orell_pl|오렐
+trp_mag|맥 말 둔 돟 웩
+trp_mag_pl|막강한 맥
+trp_jon_snow|존 스노우
+trp_jon_snow_pl|존 스노우
+trp_white_harbour_trainer|바티무스 경
+trp_white_harbour_trainer_pl|바티무스 경
+trp_highgarden_trainer|보티머 크레인 경
+trp_highgarden_trainer_pl|보티머 크레인 경
+trp_dragonstone_trainer|훈련 교관
+trp_dragonstone_trainer_pl|훈련 교관
+trp_thenn_trainer|훈련 교관
+trp_thenn_trainer_pl|훈련 교관
+trp_braavos_trainer|친절한 남자
+trp_braavos_trainer_pl|친절한 남자
+trp_sunspear_trainer|'호위 대장' 아레오 호타
+trp_sunspear_trainer_pl|'호위 대장' 아레오 호타
+trp_oldtown_trainer|'회색 강철' 가스 하이타워 경
+trp_oldtown_trainer_pl|'회색 강철' 가스 하이타워 경
+trp_pyke_trainer|훈련 교관
+trp_pyke_trainer_pl|훈련 교관
+trp_kings_landing_trainer|자노스 슬린트 공
+trp_kings_landing_trainer_pl|자노스 슬린트 공
+trp_lannister_trainer|베네딕트 브룸 경
+trp_lannister_trainer_pl|베네딕트 브룸 경
+trp_stark_trainer|Ser 로드릭 카셀 경
+trp_stark_trainer_pl|로드릭 카셀 경
+trp_karstark_trainer|크레간 카스타크 경
+trp_karstark_trainer_pl|크레간 카스타크 경
+trp_bolton_trainer|강철 정강이
+trp_bolton_trainer_pl|강철 정강이
+trp_frey_trainer|프랭클린 프레이 경
+trp_frey_trainer_pl|프랭클린 프레이 경
+trp_hallyne|화염술사 할린
+trp_hallyne_pl|화염술사 할린
+trp_maester_citadel|수련자 몰랜더
+trp_maester_citadel_pl|수련자 몰랜더
+trp_kingdom_1_merchant|베일 대장장이
+trp_kingdom_1_merchant_pl|베일 대장장이
+trp_kingdom_2_merchant|대장장이
+trp_kingdom_2_merchant_pl|대장장이
+trp_kingdom_3_merchant|대장장이
+trp_kingdom_3_merchant_pl|대장장이
+trp_kingdom_4_merchant|북부 대장장이
+trp_kingdom_4_merchant_pl|북부 대장장이
+trp_kingdom_5_merchant|대장장이
+trp_kingdom_5_merchant_pl|대장장이
+trp_kingdom_6_merchant|대장장이
+trp_kingdom_6_merchant_pl|대장장이
+trp_kingdom_7_merchant|대장장이
+trp_kingdom_7_merchant_pl|대장장이
+trp_kingdom_8_merchant|대장장이
+trp_kingdom_8_merchant_pl|대장장이
+trp_kingdom_9_merchant|대장장이
+trp_kingdom_9_merchant_pl|대장장이
+trp_kingdom_10_merchant|대장장이
+trp_kingdom_10_merchant_pl|대장장이
+trp_kingdom_11_merchant|대장장이
+trp_kingdom_11_merchant_pl|대장장이
+trp_kingdom_12_merchant|대장장이
+trp_kingdom_12_merchant_pl|대장장이
+trp_kingdom_13_merchant|대장장이
+trp_kingdom_13_merchant_pl|대장장이
+trp_kingdom_14_merchant|대장장이
+trp_kingdom_14_merchant_pl|대장장이
+trp_kingdom_14_1_merchant|대장장이
+trp_kingdom_14_1_merchant_pl|대장장이
+trp_kingdom_15_merchant|대장장이
+trp_kingdom_15_merchant_pl|대장장이
+trp_kingdom_16_merchant|대장장이
+trp_kingdom_16_merchant_pl|대장장이
+trp_kingdom_17_merchant|대장장이
+trp_kingdom_17_merchant_pl|대장장이
+trp_kingdom_18_merchant|웨스터랜드 대장장이
+trp_kingdom_18_merchant_pl|웨스터랜드 대장장이
+trp_kingdom_19_merchant|대장장이
+trp_kingdom_19_merchant_pl|대장장이
+trp_kingdom_20_merchant|대장장이
+trp_kingdom_20_merchant_pl|대장장이
+trp_kingdom_21_merchant|대장장이
+trp_kingdom_21_merchant_pl|대장장이
+trp_kingdom_22_merchant|대장장이
+trp_kingdom_22_merchant_pl|대장장이
+trp_town_6_special_merchant|대장장이
+trp_town_6_special_merchant_pl|대장장이
+trp_bolton_merchant|볼튼 가문 대장장이
+trp_bolton_merchant_pl|볼튼 가문 대장장이
+trp_stark_merchant|스타크 가문 대장장이
+trp_stark_merchant_pl|스타크 가문 대장장이
+trp_karstark_merchant|카스타크 가문 대장장이
+trp_karstark_merchant_pl|카스타크 가문 대장장이
+trp_lannister_merchant|라니스터 가문 대장장이
+trp_lannister_merchant_pl|라니스터 가문 대장장이
+trp_frey_merchant|프레이 가문 대장장이
+trp_frey_merchant_pl|프레이 가문 대장장이
+trp_umber_merchant|움버 가문 대장장이
+trp_umber_merchant_pl|움버 가문 대장장이
+trp_osmundkettleback|오스문드 케틀블랙 경
+trp_osmundkettleback_pl|오스문드 케틀블랙 경
+trp_jaimelannister|'킹스 가드 총사령관' 제이미 라니스터 경
+trp_jaimelannister_pl|'킹스 가드 총사령관' 제이미 라니스터 경
+trp_meryntrant|'킹스 가드' 메린 트란트 경
+trp_meryntrant_pl|'킹스 가드' 메린 트란트 경
+trp_arysoakheart|'킹스 가드' 아리스 오크하트 경
+trp_arysoakheart_pl|'킹스 가드' 아리스 오크하트 경
+trp_mandonmoore|'킹스 가드' 맨든 무어 경
+trp_mandonmoore_pl|'킹스 가드' 맨든 무어 경
+trp_prestongreenfield|'킹스 가드' 프레스턴 그린필드 경
+trp_prestongreenfield_pl|'킹스 가드' 프레스턴 그린필드 경
+trp_borosblount|'킹스 가드' 보로스 블라운트 경
+trp_borosblount_pl|'킹스 가드' 보로스 블라운트 경
+trp_ned_stark|'북부의 관리자' 에다드 스타크 공
+trp_ned_stark_pl|'북부의 관리자' 에다드 스타크 공
+trp_mormont|영주 모르몬트
+trp_mormont_pl|영주 모르몬트
+trp_luthor_tyrell|영주 루터 티렐
+trp_luthor_tyrell_pl|영주 루터 티렐
+trp_toland|영주 톨란드
+trp_toland_pl|영주 톨란드
+trp_robert_baratheon|'폭풍의 왕' 로버트 바라테온
+trp_robert_baratheon_pl|'폭풍의 왕' 로버트 바라테온
+trp_hoster_tully|'트라이던트의 대영주' 호스터 툴리 공
+trp_hoster_tully_pl|'트라이던트의 대영주' 호스터 툴리 공
+trp_tyrell|영주 런시포드 레드와인
+trp_tyrell_pl|영주 런시포드 레드와인
+trp_local_merchant|지역 상인
+trp_local_merchant_pl|지역 상인
+trp_tax_rebel|반역 소작농
+trp_tax_rebel_pl|반역 소작농
+trp_trainee_peasant|소작농
+trp_trainee_peasant_pl|소작농
+trp_trainee_dothraki|도트라키
+trp_trainee_dothraki_pl|도트라키
+trp_fugitive|불안해 보이는 남자
+trp_fugitive_pl|불안해 보이는 남자
+trp_fugitive2|불안해 보이는 여자
+trp_fugitive2_pl|불안해 보이는 여자
+trp_bounty12|사생아인 아이
+trp_bounty12_pl|사생아인 아이
+trp_bounty13|은퇴한 병사
+trp_bounty13_pl|은퇴한 병사
+trp_bounty14|사기꾼
+trp_bounty14_pl|사기꾼
+trp_bounty1|추방된 기사
+trp_bounty1_pl|추방된 기사단
+trp_bounty3|강도 기사
+trp_bounty3_pl|강도 기사단
+trp_bounty4|산의 씨족들 습격자
+trp_bounty4_pl|산의 씨족들 습격자
+trp_bounty2|폭한
+trp_bounty2_pl|폭한
+trp_bounty5|리스 해적
+trp_bounty5_pl|리스 해적
+trp_bounty6|노예
+trp_bounty6_pl|노예
+trp_bounty7|산적
+trp_bounty7_pl|산적
+trp_bounty8|힐 부족
+trp_bounty8_pl|힐 부족
+trp_bounty9|산적
+trp_bounty9_pl|산적
+trp_bounty10|강철 군도인
+trp_bounty10_pl|강철 군도인
+trp_bounty11|와일들링
+trp_bounty11_pl|와일들링
+trp_belligerent_drunk|주정뱅이
+trp_belligerent_drunk_pl|주정뱅이
+trp_tavern_drunk1|주정뱅이 페티르
+trp_tavern_drunk1_pl|주정뱅이 페티르
+trp_tavern_drunk2|주정뱅이 브랜
+trp_tavern_drunk2_pl|주정뱅이 브랜
+trp_tavern_drunk3|주정뱅이 아르놀프
+trp_tavern_drunk3_pl|주정뱅이 아르놀프
+trp_tavern_drunk4|주정뱅이 그렌델
+trp_tavern_drunk4_pl|주정뱅이 그렌델
+trp_tavern_drunk5|주정뱅이 배시
+trp_tavern_drunk5_pl|주정뱅이 배시
+trp_tower_of_joy|배시
+trp_tower_of_joy_pl|배시
+trp_tavern_npc2|마사 헤들
+trp_tavern_npc2_pl|마사 헤들
+trp_local_traveller|지역 여행자
+trp_local_traveller_pl|지역 여행자
+trp_tavern_npc3|농부
+trp_tavern_npc3_pl|농부
+trp_tavern_npc4|현상금 사냥꾼
+trp_tavern_npc4_pl|현상금 사냥꾼
+trp_tavern_npc5|도박꾼 로드릭
+trp_tavern_npc5_pl|도박꾼 로드릭
+trp_ruined_castle_quest_npc|제니스 라이렌 경
+trp_ruined_castle_quest_npc_pl|제니스 라이렌 경
+trp_tavern_npc6|브랜든
+trp_tavern_npc6_pl|브랜든
+trp_stark_soldier_merchant|북부 위병
+trp_stark_soldier_merchant_pl|북부 위병
+trp_dog|다이어 울프
+trp_dog_pl|다이어 울프
+trp_dog2|늑대
+trp_dog2_pl|늑대
+trp_farm_npc1|프랜시스
+trp_farm_npc1_pl|프랜시스
+trp_farm_npc2|농부
+trp_farm_npc2_pl|농부
+trp_farm_npc3|농부
+trp_farm_npc3_pl|농부
+trp_farm_npc4|농부
+trp_farm_npc4_pl|농부
+trp_farm_npc5|농부
+trp_farm_npc5_pl|농부
+trp_innkeeper_1|샤르나
+trp_innkeeper_1_pl|샤르나
+trp_innkeeper_2|여관 주인
+trp_innkeeper_2_pl|여관 주인
+trp_inn_npc1|농부
+trp_inn_npc1_pl|농부
+trp_inn_npc2|농부
+trp_inn_npc2_pl|농부
+trp_inn_npc3|농부
+trp_inn_npc3_pl|농부
+trp_inn_npc4|농부
+trp_inn_npc4_pl|농부
+trp_inn_npc_end|not used
+trp_inn_npc_end_pl|not used
+trp_hired_assassin|고용된 암살자
+trp_hired_assassin_pl|고용된 암살자
+trp_fight_promoter|거칠어 보이는 사람
+trp_fight_promoter_pl|거칠어 보이는 사람
+trp_spy|평범한 주민
+trp_spy_pl|평범한 주민
+trp_spy_partner|평범해 보이는 주민
+trp_spy_partner_pl|평범해 보이는 주민
+trp_rioter|폭도
+trp_rioter_pl|폭도
+trp_camp_armory|야영지 무기고
+trp_camp_armory_pl|야영지 무기고
+trp_nurse_for_lady|시종
+trp_nurse_for_lady_pl|시종
+trp_temporary_minister|재상
+trp_temporary_minister_pl|재상
+trp_swadian_crossbowman_multiplayer_aino|Bonheddwr (Lig. I.)
+trp_swadian_crossbowman_multiplayer_aino_pl|Bonheddwyr
+trp_swadian_infantry_multiplayer_aino|Pedyt (Med. I.)
+trp_swadian_infantry_multiplayer_aino_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_aino|Uchelwr (Hv. I.)
+trp_swadian_man_at_arms_multiplayer_aino_pl|Uchelwyr
+trp_westerlands_scout_multiplayer_aino|Sceotand Seaxe (Missile)
+trp_westerlands_scout_multiplayer_aino_pl|Sceotandas Seaxna
+trp_vaegir_spearman_multiplayer_aino|Geneata Seaxe (Med. I.)
+trp_vaegir_spearman_multiplayer_aino_pl|Geneatas Seaxna
+trp_westerlands_freerider_multiplayer_aino|Gesith Seaxe (Lig. C.)
+trp_westerlands_freerider_multiplayer_aino_pl|Gesithas Seaxna
+trp_khergit_dismounted_lancer_multiplayer_aino|Fuidir (Skrm.)
+trp_khergit_dismounted_lancer_multiplayer_aino_pl|Fuidirs
+trp_reach_footman_multiplayer_aino|Eite Fuidir (Elit. Skrm.)
+trp_reach_footman_multiplayer_aino_pl|Elite Fuidirs
+trp_reach_archer_multiplayer_aino|Creach Sluagh (Med. I.)
+trp_reach_archer_multiplayer_aino_pl|Creach Sluagh
+trp_north_hunting_archers_multiplayer_aino|Geneata Engle (Med. I.)
+trp_north_hunting_archers_multiplayer_aino_pl|Geneatas Engles
+trp_nord_scout_multiplayer_aino|Gesith Engle (Lig. C.)
+trp_nord_scout_multiplayer_aino_pl|Gesithas Engles
+trp_north_cavalry_multiplayer_aino|Sceotand Engle (Missile)
+trp_north_cavalry_multiplayer_aino_pl|Sceotandas Engles
+trp_ironborn_scout_multiplayer_aino|Cliarthaire (Med. I.)
+trp_ironborn_scout_multiplayer_aino_pl|Cliarthaires
+trp_ironborn_skirmisher_multiplayer_aino|Fian (Skrm.)
+trp_ironborn_skirmisher_multiplayer_aino_pl|Fianna
+trp_rhodok_scout_multiplayer_aino|Marcach (Lig. C.)
+trp_rhodok_scout_multiplayer_aino_pl|Marcachs
+trp_dornish_spearman_multiplayer_aino|Beadu rinc Jute (Med. I.)
+trp_dornish_spearman_multiplayer_aino_pl|Beadu rincas Jutes
+trp_dornish_spearman_vet_multiplayer_aino|Sceotand Jute (Missile)
+trp_dornish_spearman_vet_multiplayer_aino_pl|Sceotandas Jutes
+trp_dornish_sand_scout_multiplayer_aino|Gesith Jute (Lig. C.)
+trp_dornish_sand_scout_multiplayer_aino_pl|Gesithas Jutes
+trp_swadian_crossbowman_multiplayerno|Bonheddwr (Lig. I.)
+trp_swadian_crossbowman_multiplayerno_pl|Bonheddwyr
+trp_swadian_infantry_multiplayerno|Pedyt (Med. I.)
+trp_swadian_infantry_multiplayerno_pl|Pedytes
+trp_swadian_man_at_arms_multiplayerno|Uchelwr (Hv. I.)
+trp_swadian_man_at_arms_multiplayerno_pl|Uchelwyr
+trp_westerlands_scout_multiplayerno|Prisoner
+trp_westerlands_scout_multiplayerno_pl|Prisoners
+trp_vaegir_spearman_multiplayerno|Geneata Seaxe (Med. I.)
+trp_vaegir_spearman_multiplayerno_pl|Geneatas Seaxna
+trp_westerlands_freerider_multiplayerno|Gesith Seaxe (Lig. C.)
+trp_westerlands_freerider_multiplayerno_pl|Gesithas Seaxna
+trp_reach_footman_multiplayerno|Fuidir (Skrm.)
+trp_reach_footman_multiplayerno_pl|Fuidirs
+trp_reach_archer_multiplayerno|Eite Fuidir (Elit. Skrm.)
+trp_reach_archer_multiplayerno_pl|Elite Fuidirs
+trp_north_cavalry_multiplayerno|Geneata Engle (Med. I.)
+trp_north_cavalry_multiplayerno_pl|Geneatas Engles
+trp_north_hunting_archers_multiplayerno|Gesith Engle (Lig. C.)
+trp_north_hunting_archers_multiplayerno_pl|Gesithas Engles
+trp_nord_scout_multiplayerno|Sceotand Engle (Missile)
+trp_nord_scout_multiplayerno_pl|Sceotandas Engles
+trp_ironborn_scout_multiplayerno|Cliarthaire (Med. I.)
+trp_ironborn_scout_multiplayerno_pl|Cliarthaires
+trp_ironborn_warrior_multiplayerno|Fian (Skrm.)
+trp_ironborn_warrior_multiplayerno_pl|Fianna
+trp_rhodok_horseman_multiplayerno|Marcach (Lig. C.)
+trp_rhodok_horseman_multiplayerno_pl|Marcachs
+trp_dornish_spearman_vet_multiplayerno|Beadu rinc Jute (Med. I.)
+trp_dornish_spearman_vet_multiplayerno_pl|Beadu rincas Jutes
+trp_dornish_recruit_multiplayerno|Sceotand Jute (Missile)
+trp_dornish_recruit_multiplayerno_pl|Sceotandas Jutes
+trp_dornish_sand_warrior_multiplayerno|Gesith Jute (Lig. C.)
+trp_dornish_sand_warrior_multiplayerno_pl|Gesithas Jutes
+trp_nurse|시종
+trp_global_value|quick battle 6 player
+trp_global_value_pl|quick battle 6 player
+trp_fire_arrows|지역 상인
+trp_fire_arrows_pl|지역 상인
+trp_x_coordinate|지역 상인
+trp_x_coordinate_pl|지역 상인
+trp_y_coordinate|지역 상인
+trp_y_coordinate_pl|지역 상인
+trp_z_coordinate|지역 상인
+trp_z_coordinate_pl|지역 상인
+trp_x_velocity|지역 상인
+trp_x_velocity_pl|지역 상인
+trp_y_velocity|지역 상인
+trp_y_velocity_pl|지역 상인
+trp_z_velocity|지역 상인
+trp_z_velocity_pl|지역 상인
+trp_fire_arrows_tick_count|지역 상인
+trp_fire_arrows_tick_count_pl|지역 상인
+trp_object_instance_no|지역 상인
+trp_object_instance_no_pl|지역 상인
+trp_object_durability|지역 상인
+trp_object_durability_pl|지역 상인
+trp_frame_tick_count|지역 상인
+trp_frame_tick_count_pl|지역 상인
+trp_x_frame_position|지역 상인
+trp_x_frame_position_pl|지역 상인
+trp_y_frame_position|지역 상인
+trp_y_frame_position_pl|지역 상인
+trp_z_frame_position|지역 상인
+trp_z_frame_position_pl|지역 상인
+trp_burning_object|지역 상인
+trp_burning_object_pl|지역 상인
+trp_scene_prop_id|지역 상인
+trp_scene_prop_id_pl|지역 상인
+trp_ship_colisions|지역 상인
+trp_ship_colisions_pl|지역 상인
+trp_ship_num_crew|지역 상인
+trp_ship_num_crew_pl|지역 상인
+trp_ship_speed|지역 상인
+trp_ship_speed_pl|지역 상인
+trp_ship_behavior|지역 상인
+trp_ship_behavior_pl|지역 상인
+trp_ship_rudder|지역 상인
+trp_ship_rudder_pl|지역 상인
+trp_quick_battle_troop_1|네로
+trp_quick_battle_troop_1_pl|네로
+trp_quick_battle_troop_2|웃고 있는 나무의 기사
+trp_quick_battle_troop_2_pl|웃고 있는 나무의 기사
+trp_quick_battle_troop_3|로토르 브룬
+trp_quick_battle_troop_3_pl|로토르 브룬
+trp_quick_battle_troop_4|잘라바르 소
+trp_quick_battle_troop_4_pl|잘라바르 소
+trp_quick_battle_troop_5|돈토스 홀라드
+trp_quick_battle_troop_5_pl|돈토스 홀라드
+trp_quick_battle_troop_6|해롤드 하딩
+trp_quick_battle_troop_6_pl|해롤드 하딩
+trp_Ser_Osney|오스네이 캐틀블랙 경
+trp_Ser_Osney_pl|오스네이 경
+trp_Ser_Osfryd|오스프리드 캐틀블랙 경
+trp_Ser_Osfryd_pl|오스프리드 경
+trp_Ser_Osmund|오스문드 케틀블랙 경
+trp_Ser_Osmund_pl|오스문드 경
+trp_quick_battle_troop_7|자이언트 고호르
+trp_quick_battle_troop_7_pl|자이언트 고호르
+trp_quick_battle_troop_8|크라즈
+trp_quick_battle_troop_8_pl|크라즈
+trp_quick_battle_troop_9|얼룩 고양이
+trp_quick_battle_troop_9_pl|얼룩 고양이
+trp_quick_battle_troop_10|본브레이커 벨라쿠오
+trp_quick_battle_troop_10_pl|본브레이커 벨라쿠오
+trp_tutorial_fighter_1|신입 전사
+trp_tutorial_fighter_1_pl|신입 전사
+trp_tutorial_fighter_2|신입 전사
+trp_tutorial_fighter_2_pl|신입 전사
+trp_tutorial_fighter_3|정규 전사
+trp_tutorial_fighter_3_pl|정규 전사
+trp_tutorial_fighter_4|정예 전사
+trp_tutorial_fighter_4_pl|정예 전사
+trp_tutorial_archer_1|궁수
+trp_tutorial_archer_1_pl|궁수
+trp_tutorial_master_archer|궁술 훈련 교관
+trp_tutorial_master_archer_pl|궁술 훈련 교관
+trp_tutorial_rider_1|기수
+trp_tutorial_rider_2|말탄 이방인
+trp_tutorial_master_horseman|승마 훈련 교관
+trp_tutorial_master_horseman_pl|승마 훈련 교관
+trp_swadian_merchant|영주 에드거
+trp_vaegir_merchant|사제
+trp_khergit_merchant|사제
+trp_nord_merchant|스타크 가문 경비병
+trp_rhodok_merchant|사제
+trp_sarranid_merchant|사제
+trp_startup_merchants_end|startup merchants end
+trp_startup_merchants_end_pl|startup merchants end
+trp_sea_raider_leader|옛 영웅
+trp_sea_raider_leader_pl|옛 영웅
+trp_looter_leader|도적 우두머리
+trp_looter_leader_pl|도적 우두머리
+trp_bandit_leaders_end|bandit leaders end
+trp_bandit_leaders_end_pl|bandit leaders end
+trp_relative_of_merchant|상인의 형제
+trp_relative_of_merchants_end|relative of merchants end
+trp_relative_of_merchants_end_pl|relative of merchants end
+trp_lair_master_at_arms|훈련 교관
+trp_lair_master_at_arms_pl|훈련 교관
+trp_fort_drowned_man|'익사한 신' 사제
+trp_fort_drowned_man_pl|'익사한 신' 사제
+trp_fort_old_gods|'옛 신' 숭배자
+trp_fort_old_gods_pl|'옛 신' 숭배자
+trp_fort_rhllor|'를로르' 붉은 사제
+trp_fort_rhllor_pl|'를로르' 붉은 사제
+trp_fort_septon|셉톤
+trp_fort_septon_pl|셉톤
+trp_bardo_lair|바드 
+trp_bardo_lair_pl|바드 
+trp_skald_lair|바드 
+trp_skald_lair_pl|바드 
+trp_quastuosa_lair1|마레이
+trp_quastuosa_lair1_pl|매춘부
+trp_quastuosa_lair2|제나
+trp_quastuosa_lair2_pl|매춘부
+trp_quastuosa_lair3|카일라
+trp_quastuosa_lair3_pl|매춘부
+trp_quastuosa_lair4|로사
+trp_quastuosa_lair4_pl|매춘부
+trp_lair_barber1|자켄
+trp_lair_barber1_pl|자켄
+trp_lair_barber2|다리오
+trp_lair_barber2_pl|다리오
+trp_lair_barber3|멜윈
+trp_lair_barber3_pl|멜윈
+trp_lair_barber4|자노스
+trp_lair_barber4_pl|자노스
+trp_cook_lair|앨리저
+trp_cook_lair_pl|요리사
+trp_lair_captain|요렌
+trp_lair_captain_pl|요렌
+trp_mule_troop|개구리
+trp_mule_troop_pl|개구리
+trp_fort_captain|은신처 관리자
+trp_fort_captain_pl|은신처 관리자
+trp_deer|사슴
+trp_deer_pl|사슴
+trp_boar|야생 돼지
+trp_boar_pl|야생 돼지
+trp_wolf|늑대
+trp_wolf_pl|늑대
+trp_coat|염소
+trp_coat_pl|염소
+trp_coat_b|염소
+trp_coat_b_pl|염소
+trp_wilddonkey|야생 당나귀
+trp_wilddonkey_pl|야생 당나귀
+trp_port_crew|늙은 선장
+trp_port_crew_pl|늙은 선장
+trp_port_pirate|노예 상인
+trp_port_pirate_pl|노예 상인
+trp_fisher|어부
+trp_fisher_pl|어부
+trp_dplmc_chamberlain|재무대신
+trp_dplmc_chamberlain_pl|재무대신
+trp_dplmc_constable|군사대신
+trp_dplmc_constable_pl|군사대신
+trp_dplmc_chancellor|외무대신
+trp_dplmc_chancellor_pl|외무대신
+trp_dplmc_messenger|전령
+trp_dplmc_messenger_pl|전령
+trp_dplmc_scout|정찰병
+trp_dplmc_scout_pl|정찰병
+trp_dplmc_recruiter|징집관
+trp_dplmc_recruiter_pl|징집관
+trp_bishop|주교
+trp_bishop_pl|주교
+trp_iniau|이니아우
+trp_iniau_pl|이니아우
+trp_northern_clansman_hero|옛 영웅
+trp_northern_clansman_hero_pl|옛 영웅
+trp_forest_bandit_hero|드루이드
+trp_forest_bandit_hero_pl|드루이드
+trp_sea_raider_hero|옛 로마인
+trp_sea_raider_hero_pl|옛 로마인
+trp_hill_tribesman_hero|도적왕
+trp_hill_tribesman_hero_pl|도적왕
+trp_pseudo_troop_01|pt01
+trp_pseudo_troop_01_pl|
+trp_pseudo_troop_02|pt02
+trp_pseudo_troop_02_pl|
+trp_pseudo_troop_03|pt03
+trp_pseudo_troop_03_pl|
+trp_pseudo_troop_04|pt04
+trp_pseudo_troop_04_pl|pt
+trp_pseudo_troop_05|pt05
+trp_pseudo_troop_05_pl|pt
+trp_pseudo_troop_06|pt06
+trp_pseudo_troop_06_pl|pt
+trp_pseudo_troop_07|pt07
+trp_pseudo_troop_07_pl|pt
+trp_pseudo_troop_08|pt08
+trp_pseudo_troop_08_pl|pt
+trp_pseudo_troop_09|pt09
+trp_pseudo_troop_09_pl|pt
+trp_pseudo_troop_end|Second Outfit
+trp_pseudo_troop_end_pl|pseudo troop end
+trp_dornish_spearman_multiplayer_ai|(Hv. I.)
+trp_dornish_spearman_multiplayer_ai_pl|(Hv. I.)
+trp_dornish_spearman_vet_multiplayer_ai|(Missile)
+trp_dornish_spearman_vet_multiplayer_ai_pl|(Missile)
+trp_sarranid_frank_multiplayer_ai|Frank
+trp_sarranid_frank_multiplayer_ai_pl|Frankish
+trp_dornish_sand_scout_multiplayer_ai|Gesith Jute (C.)
+trp_dornish_sand_scout_multiplayer_ai_pl|Gesithas Jutes
+trp_westerlands_scout_multiplayer_ai|Sceotand Seaxe (Missile)
+trp_westerlands_scout_multiplayer_ai_pl|Sceotandas Seaxna
+trp_vaegir_spearman_multiplayer_ai|Beadu rinc Seaxe (Hv. I.)
+trp_vaegir_spearman_multiplayer_ai_pl|Beadu rincas Seaxna
+trp_westerlands_freerider_multiplayer_ai|Ridwiga Seaxe (El. I.)
+trp_westerlands_freerider_multiplayer_ai_pl|Ridwigas Seaxna
+trp_vaegir_gesith_multiplayer_ai|Gesith Seaxe (Lig. C.)
+trp_vaegir_gesith_multiplayer_ai_pl|Gesithas Seaxna
+trp_westerlands_scout_multiplayer_ai2|Sceotand Seaxe (Missile)
+trp_westerlands_scout_multiplayer_ai2_pl|Sceotandas Seaxna
+trp_vaegir_spearman_multiplayer_ai2|Beadu rinc Seaxe (Hv. I.)
+trp_vaegir_spearman_multiplayer_ai2_pl|Beadu rincas Seaxna
+trp_westerlands_freerider_multiplayer_ai2|Ridwiga Seaxe (El. I.)
+trp_westerlands_freerider_multiplayer_ai2_pl|Ridwigas Seaxna
+trp_vaegir_gesith_multiplayer_ai2|Gesith Seaxe (Lig. C.)
+trp_vaegir_gesith_multiplayer_ai2_pl|Gesithas Seaxna
+trp_north_hunting_archers_multiplayer_ai|Beadu rinc Engle (Med. I.)
+trp_north_hunting_archers_multiplayer_ai_pl|Beadu rincas Engles
+trp_nord_scout_multiplayer_ai|Rigwiga Engle (Hv. I.)
+trp_nord_scout_multiplayer_ai_pl|Ridwigas Engles
+trp_north_cavalry_multiplayer_ai|Sceotand Engle (Missile)
+trp_north_cavalry_multiplayer_ai_pl|Sceotandas Engles
+trp_sarranid_dena_multiplayer_ai|Dena Mercenary (El. I.)
+trp_sarranid_dena_multiplayer_ai_pl|Dena
+trp_westerlands_scout_multiplayer_ai3|Sceotand Seaxe (Missile)
+trp_westerlands_scout_multiplayer_ai3_pl|Sceotandas Seaxna
+trp_vaegir_spearman_multiplayer_ai3|Fresena (Lig. I.)
+trp_vaegir_spearman_multiplayer_ai3_pl|Frisen
+trp_westerlands_freerider_multiplayer_ai3|Ridwiga Seaxe (El. I.)
+trp_westerlands_freerider_multiplayer_ai3_pl|Ridwigas Seaxna
+trp_vaegir_gesith_multiplayer_ai3|Gesith Seaxe (Lig. C.)
+trp_vaegir_gesith_multiplayer_ai3_pl|Gesithas Seaxna
+trp_swadian_crossbowman_multiplayer_ai|Saethydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai_pl|Saethydds
+trp_swadian_infantry_multiplayer_ai|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai_pl|Marcach
+trp_gwrdas_multiplayer_ai|Gwrda (Skrm.)
+trp_gwrdas_multiplayer_ai_pl|Gwrdas
+trp_swadian_crossbowman_multiplayer_ai2|Saethydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai2_pl|Saethydds
+trp_swadian_infantry_multiplayer_ai2|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai2_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai2|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai2_pl|Marcach
+trp_gwrdas_multiplayer_ai2|Gwrda (Skrm.)
+trp_gwrdas_multiplayer_ai2_pl|Gwrdas
+trp_swadian_crossbowman_multiplayer_ai3|Bweydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai3_pl|Bweydds
+trp_swadian_infantry_multiplayer_ai3|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai3_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai3|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai3_pl|Marcach
+trp_cantaber_iuventus_multiplayer_ai|Cantaber Iuventus
+trp_cantaber_iuventus_multiplayer_ai_pl|Cantaber Iuventi
+trp_north_hunting_archers_multiplayer_ai2|Beadu rinc Engle (Hv. I.)
+trp_north_hunting_archers_multiplayer_ai2_pl|Beadu rincas Engles
+trp_nord_scout_multiplayer_ai2|Rigwiga Engle (El. I.)
+trp_nord_scout_multiplayer_ai2_pl|Ridwigas Engles
+trp_north_cavalry_multiplayer_ai2|Sceotand Engle (Missile)
+trp_north_cavalry_multiplayer_ai2_pl|Sceotandas Engles
+trp_north_horseman_multiplayer_ai|Gesith Engle (Lig. C.)
+trp_north_horseman_multiplayer_ai_pl|Gesithas Engles
+trp_swadian_crossbowman_multiplayer_ai4|Saethydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai4_pl|Saethydds
+trp_swadian_infantry_multiplayer_ai4|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai4_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai4|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai4_pl|Marcach
+trp_gwrdas_multiplayer_ai4|Gwrda (Skrm.)
+trp_gwrdas_multiplayer_ai4_pl|Gwrdas
+trp_swadian_crossbowman_multiplayer_ai5|Saethydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai5_pl|Saethydds
+trp_swadian_infantry_multiplayer_ai5|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai5_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai5|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai5_pl|Marcach
+trp_gwrdas_multiplayer_ai5|Gwrda (Skrm.)
+trp_gwrdas_multiplayer_ai5_pl|Gwrdas
+trp_swadian_crossbowman_multiplayer_ai6|Saethydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai6_pl|Saethydds
+trp_swadian_infantry_multiplayer_ai6|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai6_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai6|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai6_pl|Marcach
+trp_gwrdas_multiplayer_ai6|Gwrda (Skrm.)
+trp_gwrdas_multiplayer_ai6_pl|Gwrdas
+trp_north_hunting_archers_multiplayer_ai3|Beadu rinc Engle (Hv. I.)
+trp_north_hunting_archers_multiplayer_ai3_pl|Beadu rincas Engles
+trp_nord_scout_multiplayer_ai3|Rigwiga Engle (El. I.)
+trp_nord_scout_multiplayer_ai3_pl|Ridwigas Engles
+trp_north_cavalry_multiplayer_ai3|Sceotand Engle (Missile)
+trp_north_cavalry_multiplayer_ai3_pl|Sceotandas Engles
+trp_north_horseman_multiplayer_ai3|Gesith Engle (Lig. C.)
+trp_north_horseman_multiplayer_ai3_pl|Gesithas Engles
+trp_swadian_crossbowman_multiplayer_ai7|Saethydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai7_pl|Saethydds
+trp_swadian_infantry_multiplayer_ai7|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai7_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai7|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai7_pl|Marcach
+trp_gwrdas_multiplayer_ai7|Gwrda (Skrm.)
+trp_gwrdas_multiplayer_ai7_pl|Gwrdas
+trp_swadian_crossbowman_multiplayer_ai8|Saethydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai8_pl|Saethydds
+trp_swadian_infantry_multiplayer_ai8|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai8_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai8|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai8_pl|Marcach
+trp_gwrdas_multiplayer_ai8|Gwrda (Skrm.)
+trp_gwrdas_multiplayer_ai8_pl|Gwrdas
+trp_ironborn_scout_multiplayer_ai|Saiogdear Goidel (Missile)
+trp_ironborn_scout_multiplayer_ai_pl|Saiogdears Goidels
+trp_ironborn_skirmisher_multiplayer_ai|Ocaire (Hv. I.)
+trp_ironborn_skirmisher_multiplayer_ai_pl|Ocaires
+trp_rhodok_scout_multiplayer_ai|Marcach (Med. C.)
+trp_rhodok_scout_multiplayer_ai_pl|Marcachs
+trp_steppe_bandit_multiplayer_ai|Scotos
+trp_steppe_bandit_multiplayer_ai_pl|Scoti
+trp_swadian_crossbowman_multiplayer_ai9|Saethydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai9_pl|Saethydds
+trp_swadian_infantry_multiplayer_ai9|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai9_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai9|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai9_pl|Marcach
+trp_gwrdas_multiplayer_ai9|Gwrda (Skrm.)
+trp_gwrdas_multiplayer_ai9_pl|Gwrdas
+trp_ironborn_scout_multiplayer_ai2|Saiogdear Goidel (Missile)
+trp_ironborn_scout_multiplayer_ai2_pl|Saiogdears Goidels
+trp_ironborn_skirmisher_multiplayer_ai2|Ocaire (Med. I.)
+trp_ironborn_skirmisher_multiplayer_ai2_pl|Ocaires
+trp_rhodok_scout_multiplayer_ai2|Marcach (Med. C.)
+trp_rhodok_scout_multiplayer_ai2_pl|Marcachs
+trp_ironborn_marauder_multiplayer_ai|Deaisbard (Elit. Skrm.)
+trp_ironborn_marauder_multiplayer_ai_pl|Deaisbards
+trp_khergit_dismounted_lancer_multiplayer_ai|Each Raidh (Lig. C.
+trp_khergit_dismounted_lancer_multiplayer_ai_pl|Each Raidhs
+trp_reach_footman_multiplayer_ai|Eite Fuidir (Elit. Skrm.)
+trp_reach_footman_multiplayer_ai_pl|Elite Fuidirs
+trp_reach_archer_multiplayer_ai|Bruide (Hv. I.)
+trp_reach_archer_multiplayer_ai_pl|Bruides
+trp_khergit_skirmisher_multiplayer_ai|Saiogdear Picti (Missile)
+trp_khergit_skirmisher_multiplayer_ai_pl|Saiogdears Picti
+trp_swadian_crossbowman_multiplayer_ai10|Saethydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai10_pl|Saethydds
+trp_swadian_infantry_multiplayer_ai10|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai10_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai10|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai10_pl|Marcach
+trp_gwrdas_multiplayer_ai10|Gwrda (Skrm.)
+trp_gwrdas_multiplayer_ai10_pl|Gwrdas
+trp_swadian_crossbowman_multiplayer_ai12|Saethydd (Missile)
+trp_swadian_crossbowman_multiplayer_ai12_pl|Saethydds
+trp_swadian_infantry_multiplayer_ai12|Pedyt (Hv. I.)
+trp_swadian_infantry_multiplayer_ai12_pl|Pedytes
+trp_swadian_man_at_arms_multiplayer_ai12|Marchoc (Med. C.)
+trp_swadian_man_at_arms_multiplayer_ai12_pl|Marcach
+trp_gwrdas_multiplayer_ai12|Gwrda (Skrm.)
+trp_gwrdas_multiplayer_ai12_pl|Gwrdas
+trp_ironborn_scout_multiplayer_ai3|Saiogdear Goidel (Missile)
+trp_ironborn_scout_multiplayer_ai3_pl|Saiogdears Goidels
+trp_ironborn_skirmisher_multiplayer_ai3|Ocaire (Med. I.)
+trp_ironborn_skirmisher_multiplayer_ai3_pl|Ocaires
+trp_rhodok_scout_multiplayer_ai3|Marcach (Med. C.)
+trp_rhodok_scout_multiplayer_ai3_pl|Marcachs
+trp_ironborn_marauder_multiplayer_ai3|Deaisbard (Elit. Skrm.)
+trp_ironborn_marauder_multiplayer_ai3_pl|Deaisbards
+trp_ironborn_scout_multiplayer_ai4|Saiogdear Goidel (Missile)
+trp_ironborn_scout_multiplayer_ai4_pl|Saiogdears Goidels
+trp_ironborn_skirmisher_multiplayer_ai4|Ocaire (Med. I.)
+trp_ironborn_skirmisher_multiplayer_ai4_pl|Ocaires
+trp_rhodok_scout_multiplayer_ai4|Marcach (Med. C.)
+trp_rhodok_scout_multiplayer_ai4_pl|Marcachs
+trp_ironborn_marauder_multiplayer_ai4|Deaisbard (Elit. Skrm.)
+trp_ironborn_marauder_multiplayer_ai4_pl|Deaisbards
+trp_ironborn_scout_multiplayer_ai5|Saiogdear Goidel (Missile)
+trp_ironborn_scout_multiplayer_ai5_pl|Saiogdears Goidels
+trp_ironborn_skirmisher_multiplayer_ai5|Ocaire (Med. I.)
+trp_ironborn_skirmisher_multiplayer_ai5_pl|Ocaires
+trp_rhodok_scout_multiplayer_ai5|Marcach (Med. C.)
+trp_rhodok_scout_multiplayer_ai5_pl|Marcachs
+trp_ironborn_marauder_multiplayer_ai5|Deaisbard (Elit. Skrm.)
+trp_ironborn_marauder_multiplayer_ai5_pl|Deaisbards
+trp_ironborn_scout_multiplayer_ai6|Saiogdear Goidel (Missile)
+trp_ironborn_scout_multiplayer_ai6_pl|Saiogdears Goidels
+trp_ironborn_skirmisher_multiplayer_ai6|Ocaire (Med. I.)
+trp_ironborn_skirmisher_multiplayer_ai6_pl|Ocaires
+trp_rhodok_scout_multiplayer_ai6|Marcach (Med. C.)
+trp_rhodok_scout_multiplayer_ai6_pl|Marcachs
+trp_ironborn_marauder_multiplayer_ai6|Deaisbard (Elit. Skrm.)
+trp_ironborn_marauder_multiplayer_ai6_pl|Deaisbards
+trp_ironborn_scout_multiplayer_ai7|Saiogdear Goidel (Missile)
+trp_ironborn_scout_multiplayer_ai7_pl|Saiogdears Goidels
+trp_ironborn_skirmisher_multiplayer_ai7|Ocaire (Med. I.)
+trp_ironborn_skirmisher_multiplayer_ai7_pl|Ocaires
+trp_rhodok_scout_multiplayer_ai7|Marcach (Med. C.)
+trp_rhodok_scout_multiplayer_ai7_pl|Marcachs
+trp_ironborn_marauder_multiplayer_ai7|Skirmisher
+trp_ironborn_marauder_multiplayer_ai7_pl|Skirmisher
+trp_dornish_spearman_vet_multiplayer|Skirmish
+trp_dornish_spearman_vet_multiplayer_pl|Archers
+trp_dornish_recruit_multiplayer|Footman
+trp_dornish_recruit_multiplayer_pl|footman
+trp_dornish_sand_warrior_multiplayer|Horseman
+trp_dornish_sand_warrior_multiplayer_pl|Horsemen
+trp_frankish_footman_multiplayer|Frank Warrior
+trp_frankish_footman_multiplayer_pl|Frankish Warriors
+trp_westerlands_scout_multiplayer|Skirmish
+trp_westerlands_scout_multiplayer_pl|Archers
+trp_vaegir_spearman_multiplayer|Spearman
+trp_vaegir_spearman_multiplayer_pl|Spearman
+trp_westerlands_freerider_multiplayer|Horseman
+trp_westerlands_freerider_multiplayer_pl|Horsemen
+trp_westerlands_scout_multiplayer2|Skirmish
+trp_westerlands_scout_multiplayer2_pl|Archers
+trp_vaegir_spearman_multiplayer2|Spearman
+trp_vaegir_spearman_multiplayer2_pl|Spearman
+trp_westerlands_freerider_multiplayer2|Horseman
+trp_westerlands_freerider_multiplayer2_pl|Horsemen
+trp_north_cavalry_multiplayer|Skirmish
+trp_north_cavalry_multiplayer_pl|Archers
+trp_north_hunting_archers_multiplayer|Warrior
+trp_north_hunting_archers_multiplayer_pl|Warriors
+trp_nord_scout_multiplayer|Horseman
+trp_nord_scout_multiplayer_pl|Horsemen
+trp_dena_veteran_multiplayer4|Pirate
+trp_dena_veteran_multiplayer4_pl|Pirates
+trp_westerlands_scout_multiplayer3|Skirmish
+trp_westerlands_scout_multiplayer3_pl|Archers
+trp_vaegir_spearman_multiplayer3|Spearman
+trp_vaegir_spearman_multiplayer3_pl|Spearman
+trp_westerlands_freerider_multiplayer3|Horseman
+trp_westerlands_freerider_multiplayer3_pl|Horsemen
+trp_frisian_spearman_multiplayer3|Mercenary
+trp_frisian_spearman_multiplayer3_pl|Mercenaries
+trp_swadian_crossbowman_multiplayer|Skirmish
+trp_swadian_crossbowman_multiplayer_pl|Archers
+trp_swadian_infantry_multiplayer|Infantry
+trp_swadian_infantry_multiplayer_pl|Infantry
+trp_swadian_man_at_arms_multiplayer|Horseman
+trp_swadian_man_at_arms_multiplayer_pl|Horsemen
+trp_swadian_crossbowman_multiplayer2|Skirmish
+trp_swadian_crossbowman_multiplayer2_pl|Archers
+trp_swadian_infantry_multiplayer2|Infantry
+trp_swadian_infantry_multiplayer2_pl|Infantry
+trp_swadian_man_at_arms_multiplayer2|Horseman
+trp_swadian_man_at_arms_multiplayer2_pl|Horsemen
+trp_swadian_crossbowman_multiplayer3|Skirmish
+trp_swadian_crossbowman_multiplayer3_pl|Archers
+trp_swadian_infantry_multiplayer3|Infantry
+trp_swadian_infantry_multiplayer3_pl|Infantry
+trp_swadian_man_at_arms_multiplayer3|Horseman
+trp_swadian_man_at_arms_multiplayer3_pl|Horsemen
+trp_north_cavalry_multiplayer2|Skirmish
+trp_north_cavalry_multiplayer2_pl|Archers
+trp_north_hunting_archers_multiplayer2|Warrior
+trp_north_hunting_archers_multiplayer2_pl|Warriors
+trp_nord_scout_multiplayer2|Horseman
+trp_nord_scout_multiplayer2_pl|Horsemen
+trp_swadian_crossbowman_multiplayer4|Skirmish
+trp_swadian_crossbowman_multiplayer4_pl|Archers
+trp_swadian_infantry_multiplayer4|Infantry
+trp_swadian_infantry_multiplayer4_pl|Infantry
+trp_swadian_man_at_arms_multiplayer4|Horseman
+trp_swadian_man_at_arms_multiplayer4_pl|Horsemen
+trp_swadian_crossbowman_multiplayer5|Skirmish
+trp_swadian_crossbowman_multiplayer5_pl|Archers
+trp_swadian_infantry_multiplayer5|Infantry
+trp_swadian_infantry_multiplayer5_pl|Infantry
+trp_swadian_man_at_arms_multiplayer5|Horseman
+trp_swadian_man_at_arms_multiplayer5_pl|Horsemen
+trp_swadian_crossbowman_multiplayer6|Skirmish
+trp_swadian_crossbowman_multiplayer6_pl|Archers
+trp_swadian_infantry_multiplayer6|Infantry
+trp_swadian_infantry_multiplayer6_pl|Infantry
+trp_swadian_man_at_arms_multiplayer6|Horseman
+trp_swadian_man_at_arms_multiplayer6_pl|Horsemen
+trp_north_cavalry_multiplayer3|Skirmish
+trp_north_cavalry_multiplayer3_pl|Archers
+trp_north_hunting_archers_multiplayer3|Warrior
+trp_north_hunting_archers_multiplayer3_pl|Warriors
+trp_nord_scout_multiplayer3|Horseman
+trp_nord_scout_multiplayer3_pl|Horsemen
+trp_swadian_crossbowman_multiplayer7|Skirmish
+trp_swadian_crossbowman_multiplayer7_pl|Archers
+trp_swadian_infantry_multiplayer7|Infantry
+trp_swadian_infantry_multiplayer7_pl|Infantry
+trp_swadian_man_at_arms_multiplayer7|Horseman
+trp_swadian_man_at_arms_multiplayer7_pl|Horsemen
+trp_swadian_crossbowman_multiplayer8|Skirmish
+trp_swadian_crossbowman_multiplayer8_pl|Archers
+trp_swadian_infantry_multiplayer8|Infantry
+trp_swadian_infantry_multiplayer8_pl|Infantry
+trp_swadian_man_at_arms_multiplayer8|Horseman
+trp_swadian_man_at_arms_multiplayer8_pl|Horsemen
+trp_ironborn_scout_multiplayer|Skirmish
+trp_ironborn_scout_multiplayer_pl|Archers
+trp_ironborn_warrior_multiplayer|Spearman
+trp_ironborn_warrior_multiplayer_pl|Spearmen
+trp_rhodok_horseman_multiplayer|Horseman
+trp_rhodok_horseman_multiplayer_pl|Horsemen
+trp_scoti_sergeant_multiplayer|Footman
+trp_scoti_sergeant_multiplayer_pl|Footmen
+trp_swadian_crossbowman_multiplayer9|Skirmish
+trp_swadian_crossbowman_multiplayer9_pl|Archers
+trp_swadian_infantry_multiplayer9|Infantry
+trp_swadian_infantry_multiplayer9_pl|Infantry
+trp_swadian_man_at_arms_multiplayer9|Horseman
+trp_swadian_man_at_arms_multiplayer9_pl|Horsemen
+trp_ironborn_scout_multiplayer2|Skirmish
+trp_ironborn_scout_multiplayer2_pl|Archers
+trp_ironborn_warrior_multiplayer2|Spearman
+trp_ironborn_warrior_multiplayer2_pl|Spearmen
+trp_rhodok_horseman_multiplayer2|Horseman
+trp_rhodok_horseman_multiplayer2_pl|Horsemen
+trp_reach_footman_multiplayer|Skirmisher
+trp_reach_footman_multiplayer_pl|Skirmishers
+trp_reach_archer_multiplayer|Spearman
+trp_reach_archer_multiplayer_pl|Spearmen
+trp_khergit_horse_multiplayer|Horseman
+trp_khergit_horse_multiplayer_pl|Horsemen
+trp_swadian_crossbowman_multiplayer10|Skirmish
+trp_swadian_crossbowman_multiplayer10_pl|Archers
+trp_swadian_infantry_multiplayer10|Infantry
+trp_swadian_infantry_multiplayer10_pl|Infantry
+trp_swadian_man_at_arms_multiplayer10|Horseman
+trp_swadian_man_at_arms_multiplayer10_pl|Horsemen
+trp_swadian_crossbowman_multiplayer12|Skirmish
+trp_swadian_crossbowman_multiplayer12_pl|Archers
+trp_swadian_infantry_multiplayer12|Infantry
+trp_swadian_infantry_multiplayer12_pl|Infantry
+trp_swadian_man_at_arms_multiplayer12|Horseman
+trp_swadian_man_at_arms_multiplayer12_pl|Horsemen
+trp_swadian_crossbowman_multiplayer13|Skirmish
+trp_swadian_crossbowman_multiplayer13_pl|Archers
+trp_swadian_man_at_arms_multiplayer13|Horseman
+trp_swadian_man_at_arms_multiplayer13_pl|Horsemen
+trp_ironborn_scout_multiplayer3|Skirmish
+trp_ironborn_scout_multiplayer3_pl|Archers
+trp_ironborn_warrior_multiplayer3|Spearman
+trp_ironborn_warrior_multiplayer3_pl|Spearmen
+trp_rhodok_horseman_multiplayer3|Horseman
+trp_rhodok_horseman_multiplayer3_pl|Horsemen
+trp_ironborn_scout_multiplayer4|Skirmish
+trp_ironborn_scout_multiplayer4_pl|Archers
+trp_ironborn_warrior_multiplayer4|Spearman
+trp_ironborn_warrior_multiplayer4_pl|Spearmen
+trp_rhodok_horseman_multiplayer4|Horseman
+trp_rhodok_horseman_multiplayer4_pl|Horsemen
+trp_ironborn_scout_multiplayer5|Skirmish
+trp_ironborn_scout_multiplayer5_pl|Archers
+trp_ironborn_warrior_multiplayer5|Spearman
+trp_ironborn_warrior_multiplayer5_pl|Spearmen
+trp_rhodok_horseman_multiplayer5|Horseman
+trp_rhodok_horseman_multiplayer5_pl|Horsemen
+trp_ironborn_scout_multiplayer6|Skirmish
+trp_ironborn_scout_multiplayer6_pl|Archers
+trp_ironborn_warrior_multiplayer6|Spearman
+trp_ironborn_warrior_multiplayer6_pl|Spearmen
+trp_rhodok_horseman_multiplayer6|Horseman
+trp_rhodok_horseman_multiplayer6_pl|Horsemen
+trp_ironborn_scout_multiplayer7|Skirmish
+trp_ironborn_scout_multiplayer7_pl|Archers
+trp_ironborn_warrior_multiplayer7|Spearman
+trp_ironborn_warrior_multiplayer7_pl|Spearmen
+trp_rhodok_horseman_multiplayer7|Horseman
+trp_rhodok_horseman_multiplayer7_pl|Horsemen
+trp_capitan1|영주
+trp_capitan1_pl|영주
+trp_mercenario1|돌격대장
+trp_mercenario1_pl|돌격대장
+trp_tropa1|병사
+trp_tropa1_pl|병사
+trp_capitan2|영주
+trp_capitan2_pl|영주
+trp_tropa2|병사
+trp_tropa2_pl|병사
+trp_capitan3|영주
+trp_capitan3_pl|영주
+trp_tropa3|병사
+trp_tropa3_pl|병사
+trp_capitan4|영주
+trp_capitan4_pl|영주
+trp_mercenario2|돌격대장
+trp_mercenario2_pl|돌격대장
+trp_tropa4|병사
+trp_tropa4_pl|병사
+trp_capitan5|영주
+trp_capitan5_pl|영주
+trp_mercenario3|돌격대장
+trp_mercenario3_pl|돌격대장
+trp_tropa5|병사
+trp_tropa5_pl|병사
+trp_capitan6|영주
+trp_capitan6_pl|영주
+trp_tropa6|병사
+trp_tropa6_pl|병사
+trp_capitan7|영주
+trp_capitan7_pl|영주
+trp_tropa7|병사
+trp_tropa7_pl|병사
+trp_capitan8|영주
+trp_capitan8_pl|영주
+trp_mercenario4|용병 대장
+trp_mercenario4_pl|용병 대장
+trp_tropa8|병사
+trp_tropa8_pl|병사
+trp_capitan9|영주
+trp_capitan9_pl|영주
+trp_tropa9|병사
+trp_tropa9_pl|병사
+trp_capitan10|영주
+trp_capitan10_pl|영주
+trp_tropa10|병사
+trp_tropa10_pl|병사
+trp_capitan11|영주
+trp_capitan11_pl|영주
+trp_tropa11|병사
+trp_tropa11_pl|병사
+trp_capitan12|영주
+trp_capitan12_pl|영주
+trp_tropa12|병사
+trp_tropa12_pl|병사
+trp_capitan13|영주
+trp_capitan13_pl|영주
+trp_tropa13|병사
+trp_tropa13_pl|병사
+trp_capitan15|영주
+trp_capitan15_pl|영주
+trp_tropa15|병사
+trp_tropa15_pl|병사
+trp_capitan16|영주
+trp_capitan16_pl|영주
+trp_tropa16|병사
+trp_tropa16_pl|병사
+trp_capitan17|영주
+trp_capitan17_pl|영주
+trp_mercenario5|돌격대장
+trp_mercenario5_pl|돌격대장
+trp_tropa17|병사
+trp_tropa17_pl|병사
+trp_capitan18|영주
+trp_capitan18_pl|영주
+trp_tropa18|병사
+trp_tropa18_pl|병사
+trp_capitan19|영주
+trp_capitan19_pl|영주
+trp_tropa19|병사
+trp_tropa19_pl|병사
+trp_capitan20|영주
+trp_capitan20_pl|영주
+trp_tropa20|병사
+trp_tropa20_pl|병사
+trp_capitan21|브리튼 영주
+trp_capitan21_pl|브리튼 영주
+trp_tropa21|병사
+trp_tropa21_pl|병사
+trp_tropa32|병사
+trp_tropa32_pl|병사

@@ -1,0 +1,140 @@
+﻿
+qst_deliver_message|{s13}에게 편지를 전달하라
+qst_deliver_message_to_enemy_lord|{s13}에게 메세지 전달
+qst_raise_troops|{reg1} {s14}명을 양성하라
+qst_escort_lady|{s13}을(를) {s14}(으)로 호위하라
+qst_deal_with_bandits_at_lords_village|{s15}을(를) 약탈자들로부터 보호하라
+qst_collect_taxes|{s3}에서 세금을 징수하라
+qst_hunt_down_fugitive|{s4}을(를) 추적하라
+qst_bounty_1|{s4}을 사냥하라
+qst_bounty_1_text|{s9} {s4}라는 사람을 찾아서 처리하라. 그는 현재 {s3}에 있는 것으로 보인다.
+qst_bounty_2|{s4}을 사냥하라
+qst_bounty_2_text|{s9} {s4}라는 사람을 찾아서 처리하라. 그는 현재 {s3}에 있는 것으로 보인다.
+qst_bounty_3|{s4}을 사냥하라
+qst_bounty_3_text|{s9} {s4}라는 사람을 찾아서 처리하라. 그는 현재 {s3}에 있는 것으로 보인다.
+qst_bounty_4|{s4}을 사냥하라
+qst_bounty_4_text|{s9} {s4}라는 사람을 찾아서 처리하라. 그는 현재 {s3}에 있는 것으로 보인다.
+qst_bounty_5|{s4}을 사냥하라
+qst_bounty_5_text|{s9} {s4}라는 사람을 찾아서 처리하라. 그는 현재 {s3}에 있는 것으로 보인다.
+qst_bounty_6|{s4}을 사냥하라
+qst_bounty_6_text|{s9} {s4}라는 사람을 찾아서 처리하라. 그는 현재 {s3}에 있는 것으로 보인다.
+qst_kill_local_merchant|{s3}의 지역 상인을 암살하라
+qst_bring_back_runaway_serfs|도망친 농노를 붙잡아라
+qst_follow_spy|접선 장소까지 밀정을 미행하라
+qst_capture_enemy_hero|{s13}로부터 영주를 포로로 붙잡아라
+qst_lend_companion|당신의 동료 {s3}을(를) {s9}에게 대여
+qst_collect_debt|{s3}에게서 {s9}의 빚을 회수하라
+qst_incriminate_loyal_commander|{s13}의 충성스러운 사령관인 {s16}에게 누명을 씌워라
+qst_meet_spy_in_enemy_town|{s13}에서 스파이와 접선하라
+qst_capture_prisoners|{reg1}명의 {s3} 포로를 확보하라
+qst_lend_surgeon|당신의 동료인 {s3}을(를) {s1}에게 빌려준다.
+qst_follow_army|{s9}의 군대에 종군하라
+qst_report_to_army|총사령관 {s13}에게 보고하라
+qst_deliver_cattle_to_army|소 {reg3}마리를 {s13}(으)로 배달하라
+qst_join_siege_with_army|{s14}의 공성전에 참여하라
+qst_screen_army|{s13} 군대의 진격을 막아라
+qst_scout_waypoints|{s13}, {s14} 그리고 {s15}을(를) 정찰하라
+qst_rescue_lord_by_replace|{s13}을(를) {s14}에서 구출하라
+qst_deliver_message_to_prisoner_lord|{s14}의 {s13}에게 편지를 전달하라
+qst_duel_for_lady|{s13}에게 결투를 도전하라
+qst_duel_courtship_rival|{s13}에게 결투를 도전하라 (선택)
+qst_duel_avenge_insult|{s13}에게 결투를 도전하라
+qst_move_cattle_herd|소 떼를 {s13}(으)로 배달하라
+qst_escort_merchant_caravan|상단을 {s8}(으)로 호위하라
+qst_deliver_wine|{reg5}개의 {s6}을 {s4}(으)로 배달하라
+qst_troublesome_bandits|도적들을 추격하라
+qst_kidnapped_girl|도적들로부터 소녀를 구출하라
+qst_persuade_lords_to_make_peace|두 명의 영주가 평화 서약을 하도록 설득하라
+qst_deal_with_looters|약탈자 처리
+qst_deal_with_night_bandits|밤에 기승을 부리는 도적을 처리하라
+qst_deliver_grain|밀을 {s3}(으)로 배달하라
+qst_deliver_cattle|소 {reg5}마리를 {s3}(으)로 배달하라
+qst_train_peasants_against_bandits|도적들에 대항하여 {s13}의 농부들을 훈련시켜라
+qst_eliminate_bandits_infesting_village|{s7} 마을을 약탈자들에게서 보호하라
+qst_visit_lady|귀부인 방문
+qst_formal_marriage_proposal|정식 청혼
+qst_obtain_liege_blessing|정식 청혼
+qst_wed_betrothed|약혼자와 결혼
+qst_wed_betrothed_female|약혼자와 결혼
+qst_join_faction|{s1}에게 충성 서약을 하라
+qst_rebel_against_kingdom|{s13}(이)가 {s14}의 왕위를 되찾는 것을 도와라
+qst_consult_with_minister|대신의 조언을 듣는다
+qst_organize_feast|축제 개최
+qst_resolve_dispute|논쟁 해결
+qst_offer_gift|선물하기
+qst_denounce_lord|영주를 비난하라
+qst_intrigue_against_lord|주군에 대한 음모
+qst_track_down_bandits|도적들을 추적하라
+qst_track_down_provocateurs|선동자를 추적하라
+qst_retaliate_for_border_incident|국경 분쟁에 대한 보복을 하여라
+qst_raid_caravan_to_start_war|중립국의 상인을 공격하여 전쟁을 일으켜라
+qst_cause_provocation|왕국을 자극하여 다른 나라를 공격하도록 만들어라
+qst_rescue_prisoner|포로를 구해내거나 몸값을 지불하라
+qst_destroy_bandit_lair|도적들의 은신처를 파괴하라
+qst_espada_beowulf|탈리에신의 현악기와 아더왕의 뿔피리 찾기
+qst_espada_falcata|로마 제국의 귀환 : 런디니움(런던)
+qst_relic|라니스터는 항상 그의 빚을 갚는다
+qst_relic_text|베릭 돈다리온은 할로우 힐 주변의 마을을 약탈하는 라니스터 병사들을 처리하길 요청했습니다. 완료되면 베릭 돈다리온 한테 돌아 가야합니다.
+qst_mod_trouble|우리는 우리의 것을 취합니다.
+qst_mod_trouble_text|로리가 당신에게 아버 주위에 문제를 일으키는 강철군도인 습격자들을 처리해 달라고 했습니다. 어떻게 문제를 해결할 것인가는 당신에게 달렸습니다. 당신이 성공하면 그는 보상을 약속했습니다.
+qst_starting_quest|뾰족한 끝부분
+qst_starting_quest_text|북부의 두 병사를 윈터펠에 동행 시키라는 요청을 받았습니다. 도착하자마자 롭 스타크에게 킹스랜딩에서 일어난 일을 알려야합니다.
+qst_starting_quest2|겨울이 다가온다
+qst_starting_quest2_text|윈터펠의 북쪽에 있는 농장에서 야인들을 찾아 제거해야합니다. 완료되면 '북부의 왕' 롭 스타크에게 돌아가십시오.
+qst_starting_quest3|겨울이 다가온다 - 파트2
+qst_bridge_of_skulls|다리와 뼈
+qst_bridge_of_skulls_fail|다리와 뼈 - 파트2
+qst_bridge_of_skulls_success|다리와 뼈 - 파트2
+qst_bolster_the_black|블랙을 강화
+qst_lands_of_always_winter|항상 겨울의 땅
+qst_kill_boar_king|너는 이기거나 너는 죽는다
+qst_floris_active_tournament|{s13}에서 토너먼트에 참가하십시오
+qst_escort_bishop|주교를 {s8}까지 호위
+qst_iniau_the_banished|이니아우 섬멸
+qst_iniau_the_banished_text|이니아우 섬멸.
+qst_talk_to_zamoshie_elder|란 해우무노 마을의 장로와 대화하라.
+qst_talk_to_zamoshie_elder_text|해우무노 마을에 몇가지 도움이 필요하다고 한다. 아마 이곳을 방문하여 돈을 조금 벌 수 있을지도 모르겠다.
+qst_zamoshie_lower_taxes|농부의 세금
+qst_zamoshie_lower_taxes_text|그단스크의 영주를 위해 해우무노 마을의 세금문제를 해결하라.
+qst_deal_with_zamoshie_bandits|북쪽 도적단
+qst_deal_with_zamoshie_bandits_text|북부의 도적들을 섬멸하라.
+qst_oim_bring_goods_zamoshie|해우무노로 운송
+qst_oim_bring_goods_zamoshie_text|소금을 해우무노 마을로 운송하라.
+qst_oim_trakay_icon|어리석은 사제
+qst_oim_trakay_icon_text|어리석은 사제
+qst_oim_getman_tampliers_archives|기록 보관소
+qst_oim_getman_tampliers_archives_text|기록 보관소
+qst_oim_dmitriy_gerasim|Veracius Evangelic
+qst_freelancer_enlisted|{s13} 의 부대에 사병으로 입대
+qst_freelancer_vacation|사병: 휴가
+qst_freelancer_captured|사병: 포획
+qst_freelancer_revolt|사병: 반란 
+qst_freelancer_end|자유 계약의 퀘스트 끝
+qst_vc_menu|바이킹 컨퀘스트 메뉴 시스템
+qst_vc_wounds|바이킹 컨퀘스트 부상 시스템
+qst_sea_battle_spawn|해상 전투 스폰 시스템
+qst_team_0_ships|해상 전투 스폰 시스템
+qst_team_1_ships|해상 전투 스폰 시스템
+qst_collect_men|다섯 명의 군사 징집
+qst_learn_where_merchant_brother_is|인질들이 어디에 있는지 알아내라
+qst_save_relative_of_merchant|도적 소굴을 공격
+qst_save_town_from_bandits|도적들로부터 마을을 보호
+qst_varys_inv_1|전령
+qst_varys_inv_1_text|바리스 경은 도른에 있는 선스피어에 있는 그의 첩자로부터 당신이 보고서를 수집하기를 요구한다. 당신은 이 보고서를 바리스 공에게 돌려주어야 한다.
+qst_varys_inv_2|스파이 사냥꾼
+qst_varys_inv_2_text|바리스 경은 당신에게 떠날 스파이들을 따라가라고 요청하였습니다. 당신은 반드시 반드시 스파이들이 이동할때 발각되지 않도록(의심을 가지거나 돌아오는 행동) 주의해야 합니다. 일단 스파이가 그들의 공범자를 만나면, 매복했다가 그들을 잡아서 포획하십시오.
+qst_varys_inv_3|기사 살해자
+qst_varys_inv_3_text|바리스 경은 당신이 더스켄데일로 가는 길에 야영을 하고 있는 방랑 기사들의 무리를 분산시켜 주기를 바란다.
+qst_varys_inv_4|브라보스 시커
+qst_varys_inv_4_text|바리스 경은 당신에게 최소한 12명의 숙련된 브라보스 병사를 가져다 달라고 요구했다.
+qst_varys_inv_5|전령
+qst_varys_inv_5_text|바리스 경은 비센야의 언덕에서 바엘로르의 대셉트뒤에서 당신이 그를 만나 보기를 바란다.
+qst_ff_join|장벽 너머의 왕과 합류하라
+qst_ff_join_text|자유민에 대한 당신의 충성심을 증명하기 위해서, 당신은 까마귀 레인저(나이트워치)를 죽이고 그들의 갑옷을 가져와야 한다.
+qst_old_valyria|구 발리리아
+qst_old_valyria_text|제니스 리렌 경이 당신에게 에소스에 있는 그의 선조의 고향을 찾는 것을 도와 달라고 부탁했습니다. 그는 그것을 다시 짓기 위해서는 적어도 50명의 남자들과 10,000개의 실버가 필요할 것이라고 말한다.
+qst_bastards_and_broken_things|사생아들과 부서진 물건들.
+qst_bastards_and_broken_things_text|반드시 찾아낸 편지가 스타니스 바라테온 왕 앞으로 가는 것으로 해야 합니다
+qst_bastards_and_broken_things_alt|사생아들과 부서진 물건들.
+qst_bastards_and_broken_things_alt_text|당신은 편지의 소식을 조프리 바라테온 왕에게 가져가기로 결정했습니다.
+qst_quests_end|퀘스트 끝
