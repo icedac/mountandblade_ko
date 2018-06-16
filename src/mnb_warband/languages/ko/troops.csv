@@ -1,4 +1,4 @@
-﻿lockitver|DO NOT DELETE THIS LINE! 2896
+﻿
 trp_multiplayer_profile_troop_male|멀티플레이어 프로필 남성
 trp_multiplayer_profile_troop_male_pl|멀티플레이어 프로필 남성
 trp_multiplayer_profile_troop_female|멀티플레이어 프로필 여성
@@ -67,30 +67,30 @@ trp_mercenary_cavalry|용병 기병
 trp_mercenary_cavalry_pl|용병 기병
 trp_mercenaries_end|최종예 용병
 trp_mercenaries_end_pl|최종예 용병
-trp_swadian_recruit|스와디아 신병
-trp_swadian_recruit_pl|스와디아 신병
-trp_swadian_militia|스와디아 민병
-trp_swadian_militia_pl|스와디아 민병
-trp_swadian_footman|스와디아 경보병
-trp_swadian_footman_pl|스와디아 경보병
-trp_swadian_infantry|스와디아 중보병
-trp_swadian_infantry_pl|스와디아 중보병
-trp_swadian_sergeant|스와디아 병장
-trp_swadian_sergeant_pl|스와디아 병장
-trp_swadian_skirmisher|스와디아 척후병
-trp_swadian_skirmisher_pl|스와디아 척후병
-trp_swadian_crossbowman|스와디아 노궁병
-trp_swadian_crossbowman_pl|스와디아 노궁병
-trp_swadian_sharpshooter|스와디아 저격병
-trp_swadian_sharpshooter_pl|스와디아 저격병
-trp_swadian_man_at_arms|스와디아 중기병
-trp_swadian_man_at_arms_pl|스와디아 중기병
-trp_swadian_knight|스와디아 기사
-trp_swadian_knight_pl|스와디아 기사
-trp_swadian_messenger|스와디아 전령
-trp_swadian_messenger_pl|스와디아 전령
-trp_swadian_deserter|스와디아 탈영병
-trp_swadian_deserter_pl|스와디아 탈영병
+trp_swadian_recruit|스와디안 신병
+trp_swadian_recruit_pl|스와디안 신병
+trp_swadian_militia|스와디안 민병
+trp_swadian_militia_pl|스와디안 민병
+trp_swadian_footman|스와디안 경보병
+trp_swadian_footman_pl|스와디안 경보병
+trp_swadian_infantry|스와디안 중보병
+trp_swadian_infantry_pl|스와디안 중보병
+trp_swadian_sergeant|스와디안 병장
+trp_swadian_sergeant_pl|스와디안 병장
+trp_swadian_skirmisher|스와디안 척후병
+trp_swadian_skirmisher_pl|스와디안 척후병
+trp_swadian_crossbowman|스와디안 노궁병
+trp_swadian_crossbowman_pl|스와디안 노궁병
+trp_swadian_sharpshooter|스와디안 저격병
+trp_swadian_sharpshooter_pl|스와디안 저격병
+trp_swadian_man_at_arms|스와디안 중기병
+trp_swadian_man_at_arms_pl|스와디안 중기병
+trp_swadian_knight|스와디안 기사
+trp_swadian_knight_pl|스와디안 기사
+trp_swadian_messenger|스와디안 전령
+trp_swadian_messenger_pl|스와디안 전령
+trp_swadian_deserter|스와디안 탈영병
+trp_swadian_deserter_pl|스와디안 탈영병
 trp_swadian_prison_guard|간수
 trp_swadian_prison_guard_pl|간수
 trp_swadian_castle_guard|성 수비병
@@ -105,8 +105,8 @@ trp_vaegir_archer|베기어 궁병
 trp_vaegir_archer_pl|베기어 궁병
 trp_vaegir_marksman|베기어 저격병
 trp_vaegir_marksman_pl|베기어 저격병
-trp_vaegir_veteran|베기어 정예 경보병
-trp_vaegir_veteran_pl|베기어 정예 경보병
+trp_vaegir_veteran|베기어 숙련 경보병
+trp_vaegir_veteran_pl|베기어 숙련 경보병
 trp_vaegir_infantry|베기어 중보병
 trp_vaegir_infantry_pl|베기어 중보병
 trp_vaegir_guard|베기어 근위병
@@ -149,10 +149,10 @@ trp_nord_footman|노르드 보병
 trp_nord_footman_pl|노르드 보병
 trp_nord_trained_footman|노르드 숙련 보병
 trp_nord_trained_footman_pl|노르드 숙련 보병
-trp_nord_warrior|노르드 전사
-trp_nord_warrior_pl|노르드 전사
-trp_nord_veteran|노르드 정예 전사
-trp_nord_veteran_pl|노르드 정예 전사
+trp_nord_warrior|노르드 용사
+trp_nord_warrior_pl|노르드 용사
+trp_nord_veteran|노르드 정예 보병
+trp_nord_veteran_pl|노르드 정예 보병
 trp_nord_champion|노르드 허스칼
 trp_nord_champion_pl|노르드 허스칼
 trp_nord_huntsman|노르드 사냥꾼
@@ -160,7 +160,7 @@ trp_nord_huntsman_pl|노르드 사냥꾼
 trp_nord_archer|노르드 궁병
 trp_nord_archer_pl|노르드 궁병
 trp_nord_veteran_archer|노르드 정예 궁병
-trp_nord_veteran_archer_pl|노르드 정예 궁병
+trp_nord_veteran_archer_pl|N노르드 정예 궁병
 trp_nord_messenger|노르드 전령
 trp_nord_messenger_pl|노르드 전령
 trp_nord_deserter|노르드 탈영병
@@ -195,30 +195,30 @@ trp_rhodok_prison_guard|간수
 trp_rhodok_prison_guard_pl|간수
 trp_rhodok_castle_guard|성 수비병
 trp_rhodok_castle_guard_pl|성 수비병
-trp_sarranid_recruit|사라니드 신병
-trp_sarranid_recruit_pl|사라니드 신병
-trp_sarranid_footman|사라니드 경보병
-trp_sarranid_footman_pl|사라니드 경보병
-trp_sarranid_veteran_footman|사라니드 정예 경보병
-trp_sarranid_veteran_footman_pl|사라니드 정예 경보병
-trp_sarranid_infantry|사라니드 중보병
-trp_sarranid_infantry_pl|사라니드 중보병
-trp_sarranid_guard|사라니드 근위병
-trp_sarranid_guard_pl|사라니드 근위병
-trp_sarranid_skirmisher|사라니드 척후병
-trp_sarranid_skirmisher_pl|사라니드 척후병
-trp_sarranid_archer|사라니드 궁병
-trp_sarranid_archer_pl|사라니드 궁병
-trp_sarranid_master_archer|사라니드 정예 궁병
-trp_sarranid_master_archer_pl|사라니드 정예 궁병
-trp_sarranid_horseman|사라니드 경기병
-trp_sarranid_horseman_pl|사라니드 경기병
-trp_sarranid_mamluke|사라니드 맘루크
-trp_sarranid_mamluke_pl|사라니드 맘루크
-trp_sarranid_messenger|사라니드 전령
-trp_sarranid_messenger_pl|사라니드 전령
-trp_sarranid_deserter|사라니드 탈영병
-trp_sarranid_deserter_pl|사라니드 탈영병
+trp_sarranid_recruit|살란 신병
+trp_sarranid_recruit_pl|살란 신병
+trp_sarranid_footman|살란 경보병
+trp_sarranid_footman_pl|살란 경보병
+trp_sarranid_veteran_footman|살란 정예 경보병
+trp_sarranid_veteran_footman_pl|살란 정예 경보병
+trp_sarranid_infantry|살란 중보병
+trp_sarranid_infantry_pl|살란 중보병
+trp_sarranid_guard|살란 근위병
+trp_sarranid_guard_pl|살란 근위병
+trp_sarranid_skirmisher|살란 척후병
+trp_sarranid_skirmisher_pl|살란 척후병
+trp_sarranid_archer|살란 궁병
+trp_sarranid_archer_pl|살란 궁병
+trp_sarranid_master_archer|살란 정예 궁병
+trp_sarranid_master_archer_pl|살란 정예 궁병
+trp_sarranid_horseman|살란 경기병
+trp_sarranid_horseman_pl|살란 경기병
+trp_sarranid_mamluke|살란 맘루크
+trp_sarranid_mamluke_pl|살란 맘루크
+trp_sarranid_messenger|살란 전령
+trp_sarranid_messenger_pl|살란 전령
+trp_sarranid_deserter|살란 탈영병
+trp_sarranid_deserter_pl|살란 탈영병
 trp_sarranid_prison_guard|간수
 trp_sarranid_prison_guard_pl|간수
 trp_sarranid_castle_guard|성 수비병
@@ -241,8 +241,8 @@ trp_taiga_bandit|설원 도적
 trp_taiga_bandit_pl|설원 도적
 trp_desert_bandit|사막 도적
 trp_desert_bandit_pl|사막 도적
-trp_black_khergit_horseman|검은 케르지트 기병
-trp_black_khergit_horseman_pl|검은 케르지트 기병
+trp_black_khergit_horseman|블랙 케르지트 기병
+trp_black_khergit_horseman_pl|블랙 케르지트 기병
 trp_manhunter|인간 사냥꾼
 trp_manhunter_pl|인간 사냥꾼
 trp_slave_driver|노예 감시자
@@ -299,16 +299,16 @@ trp_ramun_the_slave_trader|노예상인 라문
 trp_ramun_the_slave_trader_pl|노예상인 라문
 trp_guide|퀵 지미
 trp_guide_pl|퀵 지미
-trp_xerina|제리나
-trp_xerina_pl|제리나
+trp_xerina|세리나
+trp_xerina_pl|세리나
 trp_dranton|드렌턴
 trp_dranton_pl|드렌턴
 trp_kradus|크라두스
 trp_kradus_pl|크라두스
 trp_tutorial_trainer|훈련장 교관
 trp_tutorial_trainer_pl|훈련장 교관
-trp_galeas|갈레아스
-trp_galeas_pl|갈레아스
+trp_galeas|갈레선
+trp_galeas_pl|갈레선
 trp_farmer_from_bandit_village|농부
 trp_farmer_from_bandit_village_pl|농부
 trp_trainer_1|훈련 교관
@@ -377,8 +377,8 @@ trp_tavern_minstrel_5|음유시인
 trp_tavern_minstrel_5_pl|음유시인
 trp_kingdom_heroes_including_player_begin|왕국의 영웅들이 함께 한다.
 trp_kingdom_heroes_including_player_begin_pl|왕국의 영웅들이 함께 한다.
-trp_npc1|보르차
-trp_npc1_pl|보르차
+trp_npc1|보르츠
+trp_npc1_pl|보르츠
 trp_npc2|마르니드
 trp_npc2_pl|마르니드
 trp_npc3|유미라
@@ -393,8 +393,8 @@ trp_npc7|데샤비
 trp_npc7_pl|데샤비
 trp_npc8|마틸드
 trp_npc8_pl|마틸드
-trp_npc9|알라이엔
-trp_npc9_pl|알라이엔
+trp_npc9|알라옌
+trp_npc9_pl|알라옌
 trp_npc10|번더크
 trp_npc10_pl|번더크
 trp_npc11|카트린
@@ -409,11 +409,11 @@ trp_npc15|아르티매너
 trp_npc15_pl|아르티매너
 trp_npc16|클레시
 trp_npc16_pl|클레시
-trp_kingdom_1_lord|국왕 할라우스
-trp_kingdom_1_lord_pl|할라우스
+trp_kingdom_1_lord|국왕 하를루스
+trp_kingdom_1_lord_pl|하를루스
 trp_kingdom_2_lord|국왕 야로글렉
 trp_kingdom_2_lord_pl|야로글렉
-trp_kingdom_3_lord|산자르 칸
+trp_kingdom_3_lord|칸 산자르
 trp_kingdom_3_lord_pl|산자르
 trp_kingdom_4_lord|국왕 라그나
 trp_kingdom_4_lord_pl|라그나
@@ -421,257 +421,257 @@ trp_kingdom_5_lord|국왕 그라베스
 trp_kingdom_5_lord_pl|그라베스
 trp_kingdom_6_lord|술탄 하킴
 trp_kingdom_6_lord_pl|하킴
-trp_knight_1_1|백작 클라구스
+trp_knight_1_1|영주 클라구스
 trp_knight_1_1_pl|클라구스
-trp_knight_1_2|백작 델리나드
+trp_knight_1_2|영주 델리나드
 trp_knight_1_2_pl|델리나드
-trp_knight_1_3|백작 하링고스
+trp_knight_1_3|영주 하링고스
 trp_knight_1_3_pl|하링고스
-trp_knight_1_4|백작 클레이
-trp_knight_1_4_pl|클레이
-trp_knight_1_5|백작 데글란
+trp_knight_1_4|영주 클라스
+trp_knight_1_4_pl|클라스
+trp_knight_1_5|영주 데글란
 trp_knight_1_5_pl|데글란
-trp_knight_1_6|백작 트레디안
+trp_knight_1_6|영주 트레디안
 trp_knight_1_6_pl|트레디안
-trp_knight_1_7|백작 그레인와드
+trp_knight_1_7|영주 그레인와드
 trp_knight_1_7_pl|그레인와드
-trp_knight_1_8|백작 라이스
-trp_knight_1_8_pl|라이스
-trp_knight_1_9|백작 플레
+trp_knight_1_8|영주 리스
+trp_knight_1_8_pl|리스
+trp_knight_1_9|영주 플레
 trp_knight_1_9_pl|플레
-trp_knight_1_10|백작 미르차우드
-trp_knight_1_10_pl|미르차우드
-trp_knight_1_11|백작 스타마르
+trp_knight_1_10|영주 밀카우드
+trp_knight_1_10_pl밀카우드
+trp_knight_1_11|영주 스타마르
 trp_knight_1_11_pl|스타마르
-trp_knight_1_12|백작 멜토르
-trp_knight_1_12_pl|멜토르
-trp_knight_1_13|백작 베란즈
+trp_knight_1_12|영주 멜토
+trp_knight_1_12_pl|멜토
+trp_knight_1_13|영주 베란즈
 trp_knight_1_13_pl|베란즈
-trp_knight_1_14|백작 라파드
+trp_knight_1_14|영주 라파드
 trp_knight_1_14_pl|라파드
-trp_knight_1_15|백작 레가스
+trp_knight_1_15|영주 레가스
 trp_knight_1_15_pl|레가스
-trp_knight_1_16|백작 데블리안
+trp_knight_1_16|영주 데블리안
 trp_knight_1_16_pl|데블리안
-trp_knight_1_17|백작 라파르츠
-trp_knight_1_17_pl|라파르츠
-trp_knight_1_18|백작 로차바스
-trp_knight_1_18_pl|로차바스
-trp_knight_1_19|백작 데스핀
+trp_knight_1_17|영주 라파치
+trp_knight_1_17_pl|라파치
+trp_knight_1_18|영주 로크바스
+trp_knight_1_18_pl|로크바스
+trp_knight_1_19|영주 데스핀
 trp_knight_1_19_pl|데스핀
-trp_knight_1_20|백작 몬테와르
+trp_knight_1_20|영주 몬테와르
 trp_knight_1_20_pl|몬테와르
-trp_knight_2_1|보야르 불드라트
-trp_knight_2_1_pl|불드라트
-trp_knight_2_2|보야르 날데라
+trp_knight_2_1|영주 벌드랫
+trp_knight_2_1_pl|벌드랫
+trp_knight_2_2|영주 날데라
 trp_knight_2_2_pl|날데라
-trp_knight_2_3|보야르 메리가
-trp_knight_2_3_pl|메리가
-trp_knight_2_4|보야르 카벨
+trp_knight_2_3|영주 멜가
+trp_knight_2_3_pl|멜가
+trp_knight_2_4|영주 카벨
 trp_knight_2_4_pl|카벨
-trp_knight_2_5|보야르 도루
+trp_knight_2_5|영주 도루
 trp_knight_2_5_pl|도루
-trp_knight_2_6|보야르 벨가루
+trp_knight_2_6|영주 벨가루
 trp_knight_2_6_pl|벨가루
-trp_knight_2_7|보야르 랄챠
+trp_knight_2_7|영주 랄챠
 trp_knight_2_7_pl|랄챠
-trp_knight_2_8|보야르 블란
+trp_knight_2_8|영주 블란
 trp_knight_2_8_pl|블란
-trp_knight_2_9|보야르 믈레자
+trp_knight_2_9|영주 믈레자
 trp_knight_2_9_pl|믈레자
-trp_knight_2_10|보야르 넬라그
-trp_knight_2_10_pl|넬라그
-trp_knight_2_11|보야르 크라하스크
-trp_knight_2_11_pl|크라하스크
-trp_knight_2_12|보야르 브라카
+trp_knight_2_10|영주 넬락
+trp_knight_2_10_pl|넬락
+trp_knight_2_11|영주 크레하스크
+trp_knight_2_11_pl|크레하스크
+trp_knight_2_12|영주 브라카
 trp_knight_2_12_pl|브라카
-trp_knight_2_13|보야르 드룰리
+trp_knight_2_13|영주 드룰리
 trp_knight_2_13_pl|드룰리
-trp_knight_2_14|보야르 마르문
-trp_knight_2_14_pl|마르문
-trp_knight_2_15|보야르 가스티야
-trp_knight_2_15_pl|가스티야
-trp_knight_2_16|보야르 하리쉬
+trp_knight_2_14|영주 마문
+trp_knight_2_14_pl|마문
+trp_knight_2_15|영주 가스야
+trp_knight_2_15_pl|가스야
+trp_knight_2_16|영주 하리쉬
 trp_knight_2_16_pl|하리쉬
-trp_knight_2_17|보야르 타이사
-trp_knight_2_17_pl|타이사
-trp_knight_2_18|보야르 발리신
+trp_knight_2_17|영주 테이사
+trp_knight_2_17_pl|테이사
+trp_knight_2_18|영주 발리신
 trp_knight_2_18_pl|발리신
-trp_knight_2_19|보야르 루딘
+trp_knight_2_19|영주 루딘
 trp_knight_2_19_pl|루딘
-trp_knight_2_20|보야르 쿠미파
+trp_knight_2_20|영주 쿠미파
 trp_knight_2_20_pl|쿠미파
-trp_knight_3_1|나안 알라구르
-trp_knight_3_1_pl|알라구르
-trp_knight_3_2|나안 톤주
+trp_knight_3_1|호족 알구르
+trp_knight_3_1_pl|알구르
+trp_knight_3_2|호족 톤주
 trp_knight_3_2_pl|톤주
-trp_knight_3_3|나안 벨리어
-trp_knight_3_3_pl|벨리어
-trp_knight_3_4|나안 아수간
-trp_knight_3_4_pl|아수간
-trp_knight_3_5|나안 브룰라
-trp_knight_3_5_pl|브룰라
-trp_knight_3_6|나안 이미르자
-trp_knight_3_6_pl|이미르자
-trp_knight_3_7|나안 우루무다
+trp_knight_3_3|호족 베릴
+trp_knight_3_3_pl|베릴
+trp_knight_3_4|호족 아쉬간
+trp_knight_3_4_pl|아쉬간
+trp_knight_3_5|호족 브루라
+trp_knight_3_5_pl|브루라
+trp_knight_3_6|호족 미르자
+trp_knight_3_6_pl|미르자
+trp_knight_3_7|호족 우루무다
 trp_knight_3_7_pl|우루무다
-trp_knight_3_8|나안 크라무크
+trp_knight_3_8|호족 크라무크
 trp_knight_3_8_pl|크라무크
-trp_knight_3_9|나안 차우르카
+trp_knight_3_9|호족 차우르카
 trp_knight_3_9_pl|차우르카
-trp_knight_3_10|나안 세불라
+trp_knight_3_10|호족 세불라
 trp_knight_3_10_pl|세불라
-trp_knight_3_11|나안 툴루그
-trp_knight_3_11_pl|툴루그
-trp_knight_3_12|나안 나수게이
+trp_knight_3_11|호족 툴룩
+trp_knight_3_11_pl|툴룩
+trp_knight_3_12|호족 나수게이
 trp_knight_3_12_pl|나수게이
-trp_knight_3_13|나안 우루베이
+trp_knight_3_13|호족 우루베이
 trp_knight_3_13_pl|우루베이
-trp_knight_3_14|나안 후구
-trp_knight_3_14_pl|후구
-trp_knight_3_15|나안 탄슈가이
-trp_knight_3_15_pl|탄슈가이
-trp_knight_3_16|나안 티리다
+trp_knight_3_14|호족 휴구
+trp_knight_3_14_pl|휴구
+trp_knight_3_15|호족 탄수가이
+trp_knight_3_15_pl|탄수가이
+trp_knight_3_16|호족 티리다
 trp_knight_3_16_pl|티리다
-trp_knight_3_17|나안 울루사마이
-trp_knight_3_17_pl|울루사마이
-trp_knight_3_18|나안 카라반
+trp_knight_3_17|호족 우루사마이
+trp_knight_3_17_pl|우루사마이
+trp_knight_3_18|호족 카라반
 trp_knight_3_18_pl|카라반
-trp_knight_3_19|나안 아카단
+trp_knight_3_19|호족 아카단
 trp_knight_3_19_pl|아카단
-trp_knight_3_20|나안 던두쉬
+trp_knight_3_20|호족 던두쉬
 trp_knight_3_20_pl|던두쉬
-trp_knight_4_1|야를 에이딘
-trp_knight_4_1_pl|에이딘
-trp_knight_4_2|야를 이리야
+trp_knight_4_1|수령 에딘
+trp_knight_4_1_pl|에딘
+trp_knight_4_2|수령 이리야
 trp_knight_4_2_pl|이리야
-trp_knight_4_3|야를 올라프
-trp_knight_4_3_pl|올라프
-trp_knight_4_4|야를 리말드
-trp_knight_4_4_pl|리말드
-trp_knight_4_5|야를 투리야
+trp_knight_4_3|수령 오라프
+trp_knight_4_3_pl|오라프
+trp_knight_4_4|수령 레말드
+trp_knight_4_4_pl|레말드
+trp_knight_4_5|수령 투리야
 trp_knight_4_5_pl|투리야
-trp_knight_4_6|야를 건더르
-trp_knight_4_6_pl|건더르
-trp_knight_4_7|야를 헤럴드
-trp_knight_4_7_pl|헤럴드
-trp_knight_4_8|야를 크누다르
-trp_knight_4_8_pl|크누다르
-trp_knight_4_9|야를 하에다
-trp_knight_4_9_pl|하에다
-trp_knight_4_10|야를 투레고르
+trp_knight_4_6|수령 건더
+trp_knight_4_6_pl|건더
+trp_knight_4_7|수령 헤랄드
+trp_knight_4_7_pl|헤랄드
+trp_knight_4_8|수령 크누달
+trp_knight_4_8_pl|크누달
+trp_knight_4_9|수령 헤다
+trp_knight_4_9_pl|헤다
+trp_knight_4_10|수령 투레고르
 trp_knight_4_10_pl|투레고르
-trp_knight_4_11|야를 로가르손
-trp_knight_4_11_pl|로가르손
-trp_knight_4_12|야를 에릭
+trp_knight_4_11|수령 로갈슨
+trp_knight_4_11_pl|로갈슨
+trp_knight_4_12|수령 에릭
 trp_knight_4_12_pl|에릭
-trp_knight_4_13|야를 파아른
-trp_knight_4_13_pl|파아른
-trp_knight_4_14|야를 부르바
-trp_knight_4_14_pl|부르바
-trp_knight_4_15|야를 레예크
+trp_knight_4_13|수령 파른
+trp_knight_4_13_pl|파른
+trp_knight_4_14|수령 벌다
+trp_knight_4_14_pl|벌다
+trp_knight_4_15|수령 레예크
 trp_knight_4_15_pl|레예크
-trp_knight_4_16|야를 디리건
+trp_knight_4_16|수령 디리건
 trp_knight_4_16_pl|디리건
-trp_knight_4_17|야를 마라이르
-trp_knight_4_17_pl|마라이르
-trp_knight_4_18|야를 기어스
-trp_knight_4_18_pl|기어스
-trp_knight_4_19|야를 서르둔
-trp_knight_4_19_pl|서르둔
-trp_knight_4_20|야를 게라드
-trp_knight_4_20_pl|게라드
-trp_knight_5_1|백작 마데아스
-trp_knight_5_1_pl|마데아스
-trp_knight_5_2|백작 구틀란스
+trp_knight_4_17|수령 마라위르
+trp_knight_4_17_pl|마라위르
+trp_knight_4_18|수령 게르스
+trp_knight_4_18_pl|게르스
+trp_knight_4_19|수령 술던
+trp_knight_4_19_pl|술던
+trp_knight_4_20|수령 겔라드
+trp_knight_4_20_pl|겔라드
+trp_knight_5_1|영주 마데스
+trp_knight_5_1_pl|마데스
+trp_knight_5_2|영주 구틀란스
 trp_knight_5_2_pl|구틀란스
-trp_knight_5_3|백작 라루퀜
-trp_knight_5_3_pl|라루퀜
-trp_knight_5_4|백작 라이크스
-trp_knight_5_4_pl|라이크스
-trp_knight_5_5|백작 리랜드
-trp_knight_5_5_pl|리랜드
-trp_knight_5_6|백작 타르치아스
+trp_knight_5_3|영주 라르켄
+trp_knight_5_3_pl|라르켄
+trp_knight_5_4|영주 레이크
+trp_knight_5_4_pl|레이크
+trp_knight_5_5|영주 리란드
+trp_knight_5_5_pl|리란드
+trp_knight_5_6|영주 타르치아스
 trp_knight_5_6_pl|타르치아스
-trp_knight_5_7|백작 가르몰
+trp_knight_5_7|영주 가르몰
 trp_knight_5_7_pl|가르몰
-trp_knight_5_8|백작 탈바르
-trp_knight_5_8_pl|탈바르
-trp_knight_5_9|백작 리무스크
+trp_knight_5_8|영주 탤바
+trp_knight_5_8_pl|탤바
+trp_knight_5_9|영주 리무스크
 trp_knight_5_9_pl|리무스크
-trp_knight_5_10|백작 펄세버
-trp_knight_5_10_pl|펄세버
-trp_knight_5_11|백작 에트로스크
+trp_knight_5_10|영주 펠세버
+trp_knight_5_10_pl|펠세버
+trp_knight_5_11|영주 에트로스크
 trp_knight_5_11_pl|에트로스크
-trp_knight_5_12|백작 쿠르니아스
+trp_knight_5_12|영주 쿠르니아스
 trp_knight_5_12_pl|쿠르니아스
-trp_knight_5_13|백작 텔로그
-trp_knight_5_13_pl|텔로그
-trp_knight_5_14|백작 트리비단
+trp_knight_5_13|영주 텔록
+trp_knight_5_13_pl|텔록
+trp_knight_5_14|영주 트리비단
 trp_knight_5_14_pl|트리비단
-trp_knight_5_15|백작 게를러크스
+trp_knight_5_15|영주 게를러크스
 trp_knight_5_15_pl|게를러크스
-trp_knight_5_16|백작 퍼드레임
-trp_knight_5_16_pl|퍼드레임
-trp_knight_5_17|백작 닐챠
-trp_knight_5_17_pl|닐챠
-trp_knight_5_18|백작 프레이친
+trp_knight_5_16|영주 퓨드레임
+trp_knight_5_16_pl|퓨드레임
+trp_knight_5_17|영주 닐카
+trp_knight_5_17_pl|닐카
+trp_knight_5_18|영주 프레이친
 trp_knight_5_18_pl|프레이친
-trp_knight_5_19|백작 트림바우
-trp_knight_5_19_pl|트림바우
-trp_knight_5_20|백작 라이히슨
-trp_knight_5_20_pl|라이히슨
-trp_knight_6_1|아미르 우콰이스
-trp_knight_6_1_pl|우콰이스
-trp_knight_6_2|아미르 하메잔
+trp_knight_5_19|영주 트림부
+trp_knight_5_19_pl|트림부
+trp_knight_5_20|영주 레이크신
+trp_knight_5_20_pl|레이크신
+trp_knight_6_1|토후 우카스
+trp_knight_6_1_pl|우카스
+trp_knight_6_2|토후 하메잔
 trp_knight_6_2_pl|하메잔
-trp_knight_6_3|아미르 아티스
+trp_knight_6_3|토후 아티스
 trp_knight_6_3_pl|아티스
-trp_knight_6_4|아미르 누와스
+trp_knight_6_4|토후 누와스
 trp_knight_6_4_pl|누와스
-trp_knight_6_5|아미르 문달리르
-trp_knight_6_5_pl|문달리르
-trp_knight_6_6|아미르 가나와
+trp_knight_6_5|토후 문드하릴
+trp_knight_6_5_pl|문드하릴
+trp_knight_6_6|토후 가나와
 trp_knight_6_6_pl|가나와
-trp_knight_6_7|아미르 누암
+trp_knight_6_7|토후 누암
 trp_knight_6_7_pl|누암
-trp_knight_6_8|아미르 디율
+trp_knight_6_8|토후 디율
 trp_knight_6_8_pl|디율
-trp_knight_6_9|아미르 라크함
+trp_knight_6_9|토후 라크함
 trp_knight_6_9_pl|라크함
-trp_knight_6_10|아미르 굴라센
+trp_knight_6_10|토후 굴라센
 trp_knight_6_10_pl|굴라센
-trp_knight_6_11|아미르 아자둔
+trp_knight_6_11|토후 아자둔
 trp_knight_6_11_pl|아자둔
-trp_knight_6_12|아미르 쿠리야스
-trp_knight_6_12_pl|쿠리야스
-trp_knight_6_13|아미르 암다르
+trp_knight_6_12|토후 쿨야스
+trp_knight_6_12_pl|쿨야스
+trp_knight_6_13|토후 암다르
 trp_knight_6_13_pl|암다르
-trp_knight_6_14|아미르 하이완
+trp_knight_6_14|토후 하이완
 trp_knight_6_14_pl|하이완
-trp_knight_6_15|아미르 무닐
+trp_knight_6_15|토후 무닐
 trp_knight_6_15_pl|무닐
-trp_knight_6_16|아미르 아이얌
-trp_knight_6_16_pl|아이얌
-trp_knight_6_17|아미르 랏돈
-trp_knight_6_17_pl|랏돈
-trp_knight_6_18|아미르 틸림산
-trp_knight_6_18_pl|틸림산
-trp_knight_6_19|아미르 다쉬왈
+trp_knight_6_16|토후 아이암
+trp_knight_6_16_pl|아이암
+trp_knight_6_17|토후 랏돔
+trp_knight_6_17_pl|랏돔
+trp_knight_6_18|토후 티림샨
+trp_knight_6_18_pl|티림샨
+trp_knight_6_19|토후 다쉬왈
 trp_knight_6_19_pl|다쉬왈
-trp_knight_6_20|아미르 빌리야
+trp_knight_6_20|토후 빌리야
 trp_knight_6_20_pl|빌리야
-trp_kingdom_1_pretender|수노 공주 이솔라
+trp_kingdom_1_pretender|수노의 이솔라 공주
 trp_kingdom_1_pretender_pl|이솔라
 trp_kingdom_2_pretender|사생아 왕자 발딤
 trp_kingdom_2_pretender_pl|발딤
 trp_kingdom_3_pretender|더스텀 칸
 trp_kingdom_3_pretender_pl|더스텀
-trp_kingdom_4_pretender|선지자 레드윈
-trp_kingdom_4_pretender_pl|레드윈
-trp_kingdom_5_pretender|벨루카 영주 카스터
-trp_kingdom_5_pretender_pl|카스터
-trp_kingdom_6_pretender|진주 빛 아르와
+trp_kingdom_4_pretender|멀리보는 자 레스윈
+trp_kingdom_4_pretender_pl|레스윈
+trp_kingdom_5_pretender|벨루카 영주 카스톨
+trp_kingdom_5_pretender_pl|카스톨
+trp_kingdom_6_pretender|고귀한 자 아르와
 trp_kingdom_6_pretender_pl|아르와
 trp_knight_1_1_wife|Error - knight 1 1 wife should not appear in game
 trp_knight_1_1_wife_pl|knight 1 1 wife
@@ -809,12 +809,12 @@ trp_kingdom_4_lady_6|귀부인 브륀
 trp_kingdom_4_lady_6_pl|브륀
 trp_kingdom_4_lady_7|귀부인 에이르
 trp_kingdom_4_lady_7_pl|에이르
-trp_knight_4_2b_daughter_1|귀부인 테라
-trp_knight_4_2b_daughter_1_pl|테라
+trp_knight_4_2b_daughter|귀부인 구드런
+trp_knight_4_2b_daughter_pl|구드런
 trp_kingdom_4_lady_9|귀부인 힐드
 trp_kingdom_4_lady_9_pl|힐드
-trp_knight_4_2c_wife_1|귀부인 엔데그리드
-trp_knight_4_2c_wife_1_pl|엔데그리드
+trp_knight_4_2c_wife|귀부인 아에사
+trp_knight_4_2c_wife_pl|아에사
 trp_kingdom_4_lady_11|귀부인 헬자사
 trp_kingdom_4_lady_11_pl|헬자사
 trp_knight_4_2c_daughter|귀부인 스비풀
@@ -825,12 +825,8 @@ trp_kingdom_4_lady_14|귀부인 케텔리
 trp_kingdom_4_lady_14_pl|케텔리
 trp_knight_4_1b_daughter|귀부인 엘리프
 trp_knight_4_1b_daughter_pl|엘리프
-trp_knight_4_2b_daughter_2|귀부인 구드런
-trp_knight_4_2b_daughter_2_pl|구드런
 trp_kingdom_4_lady_17|귀부인 벨짓
 trp_kingdom_4_lady_17_pl|벨짓
-trp_knight_4_2c_wife_2|귀부인 아에사
-trp_knight_4_2c_wife_2_pl|아에사
 trp_knight_4_1c_daughter|귀부인 알프런
 trp_knight_4_1c_daughter_pl|알프런
 trp_kingdom_4_lady_20|귀부인 어프리드
@@ -845,34 +841,20 @@ trp_kingdom_5_lady_4|귀부인 레다
 trp_kingdom_5_lady_4_pl|레다
 trp_kingdom_5_5_wife|귀부인 세라텐
 trp_kingdom_5_5_wife_pl|세라텐
-trp_kingdom_5_2b_wife_1|귀부인 베오디아
-trp_kingdom_5_2b_wife_1_pl|베오디아
-trp_kingdom_5_1c_daughter_1|귀부인 엘란드라
-trp_kingdom_5_1c_daughter_1_pl|엘란드라
-trp_kingdom_5_2c_daughter_1|귀부인 메라세드
-trp_kingdom_5_2c_daughter_1_pl|메라세드
-trp_kingdom_5_1c_wife_1|귀부인 아델리사
-trp_kingdom_5_1c_wife_1_pl|아델리사
-trp_kingdom_5_2c_wife_1|귀부인 칼란티나
-trp_kingdom_5_2c_wife_1_pl|칼란티나
-trp_kingdom_5_1c_daughter_2|귀부인 포베사
-trp_kingdom_5_1c_daughter_2_pl|포베사
-trp_kingdom_5_2c_daughter_2|귀부인 클라우도라
-trp_kingdom_5_2c_daughter_2_pl|클라우도라
+trp_kingdom_5_2b_wife|귀부인 미라이아
+trp_kingdom_5_2b_wife_pl|미라이아
+trp_kingdom_5_1c_daughter|귀부인 엘리시앙
+trp_kingdom_5_1c_daughter_pl|엘리시앙
+trp_kingdom_5_2c_daughter|귀부인 클라우도라
+trp_kingdom_5_2c_daughter_pl|클라우도라
+trp_kingdom_5_1c_wife|귀부인 그웬엘
+trp_kingdom_5_1c_wife_pl|그웬엘
+trp_kingdom_5_2c_wife|귀부인 이셰스
+trp_kingdom_5_2c_wife_pl|이셰스
 trp_kingdom_5_1b_wife|귀부인 아나이스
 trp_kingdom_5_1b_wife_pl|아나이스
-trp_kingdom_5_2b_wife_2|귀부인 미레이아
-trp_kingdom_5_2b_wife_2_pl|미레이아
-trp_kingdom_5_1c_daughter_3|귀부인 아가시아
-trp_kingdom_5_1c_daughter_3_pl|아가시아
 trp_kingdom_5_lady_16|귀부인 제네이바
 trp_kingdom_5_lady_16_pl|제네이바
-trp_kingdom_5_1c_wife_2|귀부인 그웨나엘
-trp_kingdom_5_1c_wife_2_pl|그웨나엘
-trp_kingdom_5_2c_wife_2|귀부인 이수에스
-trp_kingdom_5_2c_wife_2_pl|이수에스
-trp_kingdom_5_1c_daughter_4|귀부인 엘리안
-trp_kingdom_5_1c_daughter_4_pl|엘리안
 trp_kingdom_5_lady_20|귀부인 티메시
 trp_kingdom_5_lady_20_pl|티메시
 trp_kingdom_6_lady_1|귀부인 레이마
@@ -1071,140 +1053,140 @@ trp_town_19_mayor|조합장
 trp_town_20_mayor|조합장
 trp_town_21_mayor|조합장
 trp_town_22_mayor|조합장
-trp_village_1_elder|촌장
-trp_village_2_elder|촌장
-trp_village_3_elder|촌장
-trp_village_4_elder|촌장
-trp_village_5_elder|촌장
-trp_village_6_elder|촌장
-trp_village_7_elder|촌장
-trp_village_8_elder|촌장
-trp_village_9_elder|촌장
-trp_village_10_elder|촌장
-trp_village_11_elder|촌장
-trp_village_12_elder|촌장
-trp_village_13_elder|촌장
-trp_village_14_elder|촌장
-trp_village_15_elder|촌장
-trp_village_16_elder|촌장
-trp_village_17_elder|촌장
-trp_village_18_elder|촌장
-trp_village_19_elder|촌장
-trp_village_20_elder|촌장
-trp_village_21_elder|촌장
-trp_village_22_elder|촌장
-trp_village_23_elder|촌장
-trp_village_24_elder|촌장
-trp_village_25_elder|촌장
-trp_village_26_elder|촌장
-trp_village_27_elder|촌장
-trp_village_28_elder|촌장
-trp_village_29_elder|촌장
-trp_village_30_elder|촌장
-trp_village_31_elder|촌장
-trp_village_32_elder|촌장
-trp_village_33_elder|촌장
-trp_village_34_elder|촌장
-trp_village_35_elder|촌장
-trp_village_36_elder|촌장
-trp_village_37_elder|촌장
-trp_village_38_elder|촌장
-trp_village_39_elder|촌장
-trp_village_40_elder|촌장
-trp_village_41_elder|촌장
-trp_village_42_elder|촌장
-trp_village_43_elder|촌장
-trp_village_44_elder|촌장
-trp_village_45_elder|촌장
-trp_village_46_elder|촌장
-trp_village_47_elder|촌장
-trp_village_48_elder|촌장
-trp_village_49_elder|촌장
-trp_village_50_elder|촌장
-trp_village_51_elder|촌장
-trp_village_52_elder|촌장
-trp_village_53_elder|촌장
-trp_village_54_elder|촌장
-trp_village_55_elder|촌장
-trp_village_56_elder|촌장
-trp_village_57_elder|촌장
-trp_village_58_elder|촌장
-trp_village_59_elder|촌장
-trp_village_60_elder|촌장
-trp_village_61_elder|촌장
-trp_village_62_elder|촌장
-trp_village_63_elder|촌장
-trp_village_64_elder|촌장
-trp_village_65_elder|촌장
-trp_village_66_elder|촌장
-trp_village_67_elder|촌장
-trp_village_68_elder|촌장
-trp_village_69_elder|촌장
-trp_village_70_elder|촌장
-trp_village_71_elder|촌장
-trp_village_72_elder|촌장
-trp_village_73_elder|촌장
-trp_village_74_elder|촌장
-trp_village_75_elder|촌장
-trp_village_76_elder|촌장
-trp_village_77_elder|촌장
-trp_village_78_elder|촌장
-trp_village_79_elder|촌장
-trp_village_80_elder|촌장
-trp_village_81_elder|촌장
-trp_village_82_elder|촌장
-trp_village_83_elder|촌장
-trp_village_84_elder|촌장
-trp_village_85_elder|촌장
-trp_village_86_elder|촌장
-trp_village_87_elder|촌장
-trp_village_88_elder|촌장
-trp_village_89_elder|촌장
-trp_village_90_elder|촌장
-trp_village_91_elder|촌장
-trp_village_92_elder|촌장
-trp_village_93_elder|촌장
-trp_village_94_elder|촌장
-trp_village_95_elder|촌장
-trp_village_96_elder|촌장
-trp_village_97_elder|촌장
-trp_village_98_elder|촌장
-trp_village_99_elder|촌장
-trp_village_100_elder|촌장
-trp_village_101_elder|촌장
-trp_village_102_elder|촌장
-trp_village_103_elder|촌장
-trp_village_104_elder|촌장
-trp_village_105_elder|촌장
-trp_village_106_elder|촌장
-trp_village_107_elder|촌장
-trp_village_108_elder|촌장
-trp_village_109_elder|촌장
-trp_village_110_elder|촌장
-trp_merchants_end|merchants end
-trp_merchants_end_pl|merchants end
+trp_village_1_elder|마을 촌장
+trp_village_2_elder|마을 촌장
+trp_village_3_elder|마을 촌장
+trp_village_4_elder|마을 촌장
+trp_village_5_elder|마을 촌장
+trp_village_6_elder|마을 촌장
+trp_village_7_elder|마을 촌장
+trp_village_8_elder|마을 촌장
+trp_village_9_elder|마을 촌장
+trp_village_10_elder|마을 촌장
+trp_village_11_elder|마을 촌장
+trp_village_12_elder|마을 촌장
+trp_village_13_elder|마을 촌장
+trp_village_14_elder|마을 촌장
+trp_village_15_elder|마을 촌장
+trp_village_16_elder|마을 촌장
+trp_village_17_elder|마을 촌장
+trp_village_18_elder|마을 촌장
+trp_village_19_elder|마을 촌장
+trp_village_20_elder|마을 촌장
+trp_village_21_elder|마을 촌장
+trp_village_22_elder|마을 촌장
+trp_village_23_elder|마을 촌장
+trp_village_24_elder|마을 촌장
+trp_village_25_elder|마을 촌장
+trp_village_26_elder|마을 촌장
+trp_village_27_elder|마을 촌장
+trp_village_28_elder|마을 촌장
+trp_village_29_elder|마을 촌장
+trp_village_30_elder|마을 촌장
+trp_village_31_elder|마을 촌장
+trp_village_32_elder|마을 촌장
+trp_village_33_elder|마을 촌장
+trp_village_34_elder|마을 촌장
+trp_village_35_elder|마을 촌장
+trp_village_36_elder|마을 촌장
+trp_village_37_elder|마을 촌장
+trp_village_38_elder|마을 촌장
+trp_village_39_elder|마을 촌장
+trp_village_40_elder|마을 촌장
+trp_village_41_elder|마을 촌장
+trp_village_42_elder|마을 촌장
+trp_village_43_elder|마을 촌장
+trp_village_44_elder|마을 촌장
+trp_village_45_elder|마을 촌장
+trp_village_46_elder|마을 촌장
+trp_village_47_elder|마을 촌장
+trp_village_48_elder|마을 촌장
+trp_village_49_elder|마을 촌장
+trp_village_50_elder|마을 촌장
+trp_village_51_elder|마을 촌장
+trp_village_52_elder|마을 촌장
+trp_village_53_elder|마을 촌장
+trp_village_54_elder|마을 촌장
+trp_village_55_elder|마을 촌장
+trp_village_56_elder|마을 촌장
+trp_village_57_elder|마을 촌장
+trp_village_58_elder|마을 촌장
+trp_village_59_elder|마을 촌장
+trp_village_60_elder|마을 촌장
+trp_village_61_elder|마을 촌장
+trp_village_62_elder|마을 촌장
+trp_village_63_elder|마을 촌장
+trp_village_64_elder|마을 촌장
+trp_village_65_elder|마을 촌장
+trp_village_66_elder|마을 촌장
+trp_village_67_elder|마을 촌장
+trp_village_68_elder|마을 촌장
+trp_village_69_elder|마을 촌장
+trp_village_70_elder|마을 촌장
+trp_village_71_elder|마을 촌장
+trp_village_72_elder|마을 촌장
+trp_village_73_elder|마을 촌장
+trp_village_74_elder|마을 촌장
+trp_village_75_elder|마을 촌장
+trp_village_76_elder|마을 촌장
+trp_village_77_elder|마을 촌장
+trp_village_78_elder|마을 촌장
+trp_village_79_elder|마을 촌장
+trp_village_80_elder|마을 촌장
+trp_village_81_elder|마을 촌장
+trp_village_82_elder|마을 촌장
+trp_village_83_elder|마을 촌장
+trp_village_84_elder|마을 촌장
+trp_village_85_elder|마을 촌장
+trp_village_86_elder|마을 촌장
+trp_village_87_elder|마을 촌장
+trp_village_88_elder|마을 촌장
+trp_village_89_elder|마을 촌장
+trp_village_90_elder|마을 촌장
+trp_village_91_elder|마을 촌장
+trp_village_92_elder|마을 촌장
+trp_village_93_elder|마을 촌장
+trp_village_94_elder|마을 촌장
+trp_village_95_elder|마을 촌장
+trp_village_96_elder|마을 촌장
+trp_village_97_elder|마을 촌장
+trp_village_98_elder|마을 촌장
+trp_village_99_elder|마을 촌장
+trp_village_100_elder|마을 촌장
+trp_village_101_elder|마을 촌장
+trp_village_102_elder|마을 촌장
+trp_village_103_elder|마을 촌장
+trp_village_104_elder|마을 촌장
+trp_village_105_elder|마을 촌장
+trp_village_106_elder|마을 촌장
+trp_village_107_elder|마을 촌장
+trp_village_108_elder|마을 촌장
+trp_village_109_elder|마을 촌장
+trp_village_110_elder|마을 촌장
+trp_merchants_end|거상
+trp_merchants_end_pl|거상
 trp_local_merchant|지역 상인
 trp_local_merchant_pl|지역 상인
-trp_tax_rebel|반항하는 농민
-trp_tax_rebel_pl|반항하는 농민
-trp_trainee_peasant|농민
-trp_trainee_peasant_pl|농민
+trp_tax_rebel|소작농 반란군
+trp_tax_rebel_pl|소작농 반란군
+trp_trainee_peasant|소작농
+trp_trainee_peasant_pl|소작농
 trp_fugitive|긴장한 남자
 trp_fugitive_pl|긴장한 남자
 trp_belligerent_drunk|화가난 주정뱅이
 trp_belligerent_drunk_pl|화가난 주정뱅이
-trp_hired_assassin|전문 암살자
-trp_hired_assassin_pl|전문 암살자
+trp_hired_assassin|화가난 주정뱅이
+trp_hired_assassin_pl|화가난 주정뱅이
 trp_fight_promoter|거칠어 보이는 사람
 trp_fight_promoter_pl|거칠어 보이는 사람
 trp_spy|평범한 주민
 trp_spy_pl|평범한 주민
-trp_spy_partner|매우 평범한 주민
-trp_spy_partner_pl|매우 평범한 주민
-trp_nurse_for_lady|하녀
-trp_nurse_for_lady_pl|하녀
-trp_temporary_minister|수석 장관
-trp_temporary_minister_pl|수석 장관
+trp_spy_partner|지극히 평범한 주민
+trp_spy_partner_pl|지극히 평범한 주민
+trp_nurse_for_lady|식모
+trp_nurse_for_lady_pl|식모
+trp_temporary_minister|내각
+trp_temporary_minister_pl|내각
 trp_swadian_crossbowman_multiplayer_ai|스와디아 노궁병
 trp_swadian_crossbowman_multiplayer_ai_pl|스와디아 노궁병
 trp_swadian_infantry_multiplayer_ai|스와디아 보병
@@ -1235,12 +1217,12 @@ trp_rhodok_veteran_spearman_multiplayer_ai|로독 창병
 trp_rhodok_veteran_spearman_multiplayer_ai_pl|로독 창병
 trp_rhodok_scout_multiplayer_ai|로독 기병
 trp_rhodok_scout_multiplayer_ai_pl|로독 기병
-trp_sarranid_infantry_multiplayer_ai|사라니드 보병
-trp_sarranid_infantry_multiplayer_ai_pl|사라니드 보병
-trp_sarranid_archer_multiplayer_ai|사라니드 궁병
-trp_sarranid_archer_multiplayer_ai_pl|사라니드 궁병
-trp_sarranid_horseman_multiplayer_ai|사라니드 기병
-trp_sarranid_horseman_multiplayer_ai_pl|사라니드 기병
+trp_sarranid_infantry_multiplayer_ai|살란 보병
+trp_sarranid_infantry_multiplayer_ai_pl|살란 보병
+trp_sarranid_archer_multiplayer_ai|살란 궁병
+trp_sarranid_archer_multiplayer_ai_pl|살란 궁병
+trp_sarranid_horseman_multiplayer_ai|살란 기병
+trp_sarranid_horseman_multiplayer_ai_pl|살란 기병
 trp_swadian_crossbowman_multiplayer|스와디아 노궁병
 trp_swadian_crossbowman_multiplayer_pl|스와디아 노궁병
 trp_swadian_infantry_multiplayer|스와디아 보병
@@ -1255,8 +1237,6 @@ trp_vaegir_horseman_multiplayer|베기어 기병
 trp_vaegir_horseman_multiplayer_pl|베기어 기병
 trp_khergit_veteran_horse_archer_multiplayer|케르지트 궁기병
 trp_khergit_veteran_horse_archer_multiplayer_pl|케르지트 궁기병
-trp_khergit_infantry_multiplayer|케르지트 중보병
-trp_khergit_infantry_multiplayer_pl|케르지트 중보병
 trp_khergit_lancer_multiplayer|케르지트 창기병
 trp_khergit_lancer_multiplayer_pl|케르지트 창기병
 trp_nord_archer_multiplayer|노르드 궁병
@@ -1271,12 +1251,13 @@ trp_rhodok_sergeant_multiplayer|로독 보병장교
 trp_rhodok_sergeant_multiplayer_pl|로독 보병장교
 trp_rhodok_horseman_multiplayer|로독 기병
 trp_rhodok_horseman_multiplayer_pl|로독 기병
-trp_sarranid_archer_multiplayer|사라니드 궁병
-trp_sarranid_archer_multiplayer_pl|사라니드 궁병
-trp_sarranid_footman_multiplayer|사라니드 보병
-trp_sarranid_footman_multiplayer_pl|사라니드 보병
-trp_sarranid_mamluke_multiplayer|사라니드 맘루크
-trp_sarranid_mamluke_multiplayer_pl|사라니드 맘루크
+trp_sarranid_archer_multiplayer|살란 궁병
+trp_sarranid_archer_multiplayer_pl|살란 궁병
+trp_sarranid_footman_multiplayer|살란 보병
+trp_sarranid_footman_multiplayer_pl|살란 보병
+trp_sarranid_mamluke_multiplayer|살란 맘루크
+trp_sarranid_mamluke_multiplayer_pl|살란 맘루크
+trp_nurse|식모
 trp_quick_battle_troop_1|로드리고 데 브라간카
 trp_quick_battle_troop_1_pl|로드리고 데 브라간카
 trp_quick_battle_troop_2|우샤트라
@@ -1285,20 +1266,20 @@ trp_quick_battle_troop_3|헤겐
 trp_quick_battle_troop_3_pl|헤겐
 trp_quick_battle_troop_4|콘라드
 trp_quick_battle_troop_4_pl|콘라드
-trp_quick_battle_troop_5|스베르
-trp_quick_battle_troop_5_pl|스베르
+trp_quick_battle_troop_5|스벨
+trp_quick_battle_troop_5_pl|스벨
 trp_quick_battle_troop_6|보리슬라브
 trp_quick_battle_troop_6_pl|보리슬라브
 trp_quick_battle_troop_7|스타브로스
 trp_quick_battle_troop_7_pl|스타브로스
 trp_quick_battle_troop_8|가마라
 trp_quick_battle_troop_8_pl|가마라
-trp_quick_battle_troop_9|아에드로드
-trp_quick_battle_troop_9_pl|아에드로드
+trp_quick_battle_troop_9|에스로드
+trp_quick_battle_troop_9_pl|에스로드
 trp_quick_battle_troop_10|자이라
 trp_quick_battle_troop_10_pl|자이라
-trp_quick_battle_troop_11|아르고 센드날
-trp_quick_battle_troop_11_pl|아르고 센드날
+trp_quick_battle_troop_11|알고 센드날
+trp_quick_battle_troop_11_pl|알고 센드날
 trp_tutorial_fighter_1|견습 전사
 trp_tutorial_fighter_1_pl|견습 전사
 trp_tutorial_fighter_2|전사
@@ -1311,20 +1292,20 @@ trp_tutorial_archer_1|궁사
 trp_tutorial_archer_1_pl|궁사
 trp_tutorial_master_archer|궁술 훈련관
 trp_tutorial_master_archer_pl|궁술 훈련관
-trp_tutorial_rider_1|기병
+trp_tutorial_rider_1|라이더
 trp_tutorial_rider_2|궁기병
 trp_tutorial_master_horseman|말 조련사
 trp_tutorial_master_horseman_pl|말 조련사
 trp_swadian_merchant|프라벤의 상인
-trp_vaegir_merchant|레이바딘의 상인
+trp_vaegir_merchant|레비바딘의 상인
 trp_khergit_merchant|툴가의 상인
-trp_nord_merchant|사르고스의 상인
-trp_rhodok_merchant|젤칼라의 상인
+trp_nord_merchant|사라고스의 상인
+trp_rhodok_merchant|젤카라의 상인
 trp_sarranid_merchant|샤리즈의 상인
 trp_startup_merchants_end|startup merchants end
 trp_startup_merchants_end_pl|startup merchants end
-trp_sea_raider_leader|해적 선장
-trp_sea_raider_leader_pl|해적
+trp_sea_raider_leader|해적 두목
+trp_sea_raider_leader_pl|해적 두목
 trp_looter_leader|강도
 trp_looter_leader_pl|약탈자
 trp_bandit_leaders_end|bandit leaders end
@@ -1332,287 +1313,35 @@ trp_bandit_leaders_end_pl|bandit leaders end
 trp_relative_of_merchant|상인의 형제
 trp_relative_of_merchants_end|relative of merchants end
 trp_relative_of_merchants_end_pl|relative of merchants end
-trp_swadian_crossbowman_multiplayer_coop_tier_1|스와디아 노궁병
-trp_swadian_crossbowman_multiplayer_coop_tier_1_pl|스와디아 노궁병
-trp_swadian_infantry_multiplayer_coop_tier_1|스와디아 중보병
-trp_swadian_infantry_multiplayer_coop_tier_1_pl|스와디아 중보병
-trp_swadian_man_at_arms_multiplayer_coop_tier_1|스와디아 중기병
-trp_swadian_man_at_arms_multiplayer_coop_tier_1_pl|스와디아 중기병
-trp_vaegir_archer_multiplayer_coop_tier_1|베기어 궁병
-trp_vaegir_archer_multiplayer_coop_tier_1_pl|베기어 궁병
-trp_vaegir_spearman_multiplayer_coop_tier_1|베기어 창병
-trp_vaegir_spearman_multiplayer_coop_tier_1_pl|베기어 창병
-trp_vaegir_horseman_multiplayer_coop_tier_1|베기어 기병
-trp_vaegir_horseman_multiplayer_coop_tier_1_pl|베기어 기병
-trp_khergit_veteran_horse_archer_multiplayer_coop_tier_1|케르지트 궁기병
-trp_khergit_veteran_horse_archer_multiplayer_coop_tier_1_pl|케르지트 궁기병
-trp_khergit_infantry_multiplayer_coop_tier_1|케르지트 중보병
-trp_khergit_infantry_multiplayer_coop_tier_1_pl|케르지트 중보병
-trp_khergit_lancer_multiplayer_coop_tier_1|케르지트 창기병
-trp_khergit_lancer_multiplayer_coop_tier_1_pl|케르지트 창기병
-trp_nord_archer_multiplayer_coop_tier_1|노르드 궁병
-trp_nord_archer_multiplayer_coop_tier_1_pl|노르드 궁병
-trp_nord_veteran_multiplayer_coop_tier_1|노르드 허스칼
-trp_nord_veteran_multiplayer_coop_tier_1_pl|노르드 허스칼
-trp_nord_scout_multiplayer_coop_tier_1|노르드 정찰병
-trp_nord_scout_multiplayer_coop_tier_1_pl|노르드 정찰병
-trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_1|로독 노궁병
-trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_1_pl|로독 노궁병
-trp_rhodok_sergeant_multiplayer_coop_tier_1|로독 병장
-trp_rhodok_sergeant_multiplayer_coop_tier_1_pl|로독 병장
-trp_rhodok_horseman_multiplayer_coop_tier_1|로독 기병
-trp_rhodok_horseman_multiplayer_coop_tier_1_pl|로독 기병
-trp_sarranid_archer_multiplayer_coop_tier_1|사라니드 궁병
-trp_sarranid_archer_multiplayer_coop_tier_1_pl|사라니드 궁병
-trp_sarranid_footman_multiplayer_coop_tier_1|사라니드 경보병
-trp_sarranid_footman_multiplayer_coop_tier_1_pl|사라니드 경보병
-trp_sarranid_mamluke_multiplayer_coop_tier_1|사라니드 맘루크
-trp_sarranid_mamluke_multiplayer_coop_tier_1_pl|사라니드 맘루크
-trp_swadian_crossbowman_multiplayer_coop_tier_2|스와디아 노궁병
-trp_swadian_crossbowman_multiplayer_coop_tier_2_pl|스와디아 노궁병
-trp_swadian_infantry_multiplayer_coop_tier_2|스와디아 중보병
-trp_swadian_infantry_multiplayer_coop_tier_2_pl|스와디아 중보병
-trp_swadian_man_at_arms_multiplayer_coop_tier_2|스와디아 중기병
-trp_swadian_man_at_arms_multiplayer_coop_tier_2_pl|스와디아 중기병
-trp_vaegir_archer_multiplayer_coop_tier_2|베기어 궁병
-trp_vaegir_archer_multiplayer_coop_tier_2_pl|베기어 궁병
-trp_vaegir_spearman_multiplayer_coop_tier_2|베기어 창병
-trp_vaegir_spearman_multiplayer_coop_tier_2_pl|베기어 창병
-trp_vaegir_horseman_multiplayer_coop_tier_2|베기어 기병
-trp_vaegir_horseman_multiplayer_coop_tier_2_pl|베기어 기병
-trp_khergit_veteran_horse_archer_multiplayer_coop_tier_2|케르지트 궁기병
-trp_khergit_veteran_horse_archer_multiplayer_coop_tier_2_pl|케르지트 궁기병
-trp_khergit_infantry_multiplayer_coop_tier_2|케르지트 중보병
-trp_khergit_infantry_multiplayer_coop_tier_2_pl|케르지트 중보병
-trp_khergit_lancer_multiplayer_coop_tier_2|케르지트 창기병
-trp_khergit_lancer_multiplayer_coop_tier_2_pl|케르지트 창기병
-trp_nord_archer_multiplayer_coop_tier_2|노르드 궁병
-trp_nord_archer_multiplayer_coop_tier_2_pl|노르드 궁병
-trp_nord_veteran_multiplayer_coop_tier_2|노르드 허스칼
-trp_nord_veteran_multiplayer_coop_tier_2_pl|노르드 허스칼
-trp_nord_scout_multiplayer_coop_tier_2|노르드 정찰병
-trp_nord_scout_multiplayer_coop_tier_2_pl|노르드 정찰병
-trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_2|로독 노궁병
-trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_2_pl|로독 노궁병
-trp_rhodok_sergeant_multiplayer_coop_tier_2|로독 병장
-trp_rhodok_sergeant_multiplayer_coop_tier_2_pl|로독 병장
-trp_rhodok_horseman_multiplayer_coop_tier_2|로독 기병
-trp_rhodok_horseman_multiplayer_coop_tier_2_pl|로독 기병
-trp_sarranid_archer_multiplayer_coop_tier_2|사라니드 궁병
-trp_sarranid_archer_multiplayer_coop_tier_2_pl|사라니드 궁병
-trp_sarranid_footman_multiplayer_coop_tier_2|사라니드 경보병
-trp_sarranid_footman_multiplayer_coop_tier_2_pl|사라니드 경보병
-trp_sarranid_mamluke_multiplayer_coop_tier_2|사라니드 맘루크
-trp_sarranid_mamluke_multiplayer_coop_tier_2_pl|사라니드 맘루크
-trp_swadian_crossbowman_multiplayer_coop_tier_3|스와디아 노궁병
-trp_swadian_crossbowman_multiplayer_coop_tier_3_pl|스와디아 노궁병
-trp_swadian_infantry_multiplayer_coop_tier_3|스와디아 중보병
-trp_swadian_infantry_multiplayer_coop_tier_3_pl|스와디아 중보병
-trp_swadian_man_at_arms_multiplayer_coop_tier_3|스와디아 중기병
-trp_swadian_man_at_arms_multiplayer_coop_tier_3_pl|스와디아 중기병
-trp_vaegir_archer_multiplayer_coop_tier_3|베기어 궁병
-trp_vaegir_archer_multiplayer_coop_tier_3_pl|베기어 궁병
-trp_vaegir_spearman_multiplayer_coop_tier_3|베기어 창병
-trp_vaegir_spearman_multiplayer_coop_tier_3_pl|베기어 창병
-trp_vaegir_horseman_multiplayer_coop_tier_3|베기어 기병
-trp_vaegir_horseman_multiplayer_coop_tier_3_pl|베기어 기병
-trp_khergit_veteran_horse_archer_multiplayer_coop_tier_3|케르지트 궁기병
-trp_khergit_veteran_horse_archer_multiplayer_coop_tier_3_pl|케르지트 궁기병
-trp_khergit_infantry_multiplayer_coop_tier_3|케르지트 중보병
-trp_khergit_infantry_multiplayer_coop_tier_3_pl|케르지트 중보병
-trp_khergit_lancer_multiplayer_coop_tier_3|케르지트 창기병
-trp_khergit_lancer_multiplayer_coop_tier_3_pl|케르지트 창기병
-trp_nord_archer_multiplayer_coop_tier_3|노르드 궁병
-trp_nord_archer_multiplayer_coop_tier_3_pl|노르드 궁병
-trp_nord_veteran_multiplayer_coop_tier_3|노르드 허스칼
-trp_nord_veteran_multiplayer_coop_tier_3_pl|노르드 허스칼
-trp_nord_scout_multiplayer_coop_tier_3|노르드 정찰병
-trp_nord_scout_multiplayer_coop_tier_3_pl|노르드 정찰병
-trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_3|로독 노궁병
-trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_3_pl|로독 노궁병
-trp_rhodok_sergeant_multiplayer_coop_tier_3|로독 병장
-trp_rhodok_sergeant_multiplayer_coop_tier_3_pl|로독 병장
-trp_rhodok_horseman_multiplayer_coop_tier_3|로독 기병
-trp_rhodok_horseman_multiplayer_coop_tier_3_pl|로독 기병
-trp_sarranid_archer_multiplayer_coop_tier_3|사라니드 궁병
-trp_sarranid_archer_multiplayer_coop_tier_3_pl|사라니드 궁병
-trp_sarranid_footman_multiplayer_coop_tier_3|사라니드 경보병
-trp_sarranid_footman_multiplayer_coop_tier_3_pl|사라니드 경보병
-trp_sarranid_mamluke_multiplayer_coop_tier_3|사라니드 맘루크
-trp_sarranid_mamluke_multiplayer_coop_tier_3_pl|사라니드 맘루크
-trp_swadian_crossbowman_multiplayer_coop_tier_4|스와디아 노궁병
-trp_swadian_crossbowman_multiplayer_coop_tier_4_pl|스와디아 노궁병
-trp_swadian_infantry_multiplayer_coop_tier_4|스와디아 중보병
-trp_swadian_infantry_multiplayer_coop_tier_4_pl|스와디아 중보병
-trp_swadian_man_at_arms_multiplayer_coop_tier_4|스와디아 중기병
-trp_swadian_man_at_arms_multiplayer_coop_tier_4_pl|스와디아 중기병
-trp_vaegir_archer_multiplayer_coop_tier_4|베기어 궁병
-trp_vaegir_archer_multiplayer_coop_tier_4_pl|베기어 궁병
-trp_vaegir_spearman_multiplayer_coop_tier_4|베기어 창병
-trp_vaegir_spearman_multiplayer_coop_tier_4_pl|베기어 창병
-trp_vaegir_horseman_multiplayer_coop_tier_4|베기어 기병
-trp_vaegir_horseman_multiplayer_coop_tier_4_pl|베기어 기병
-trp_khergit_veteran_horse_archer_multiplayer_coop_tier_4|케르지트 궁기병
-trp_khergit_veteran_horse_archer_multiplayer_coop_tier_4_pl|케르지트 궁기병
-trp_khergit_infantry_multiplayer_coop_tier_4|케르지트 중보병
-trp_khergit_infantry_multiplayer_coop_tier_4_pl|케르지트 중보병
-trp_khergit_lancer_multiplayer_coop_tier_4|케르지트 창기병
-trp_khergit_lancer_multiplayer_coop_tier_4_pl|케르지트 창기병
-trp_nord_archer_multiplayer_coop_tier_4|노르드 궁병
-trp_nord_archer_multiplayer_coop_tier_4_pl|노르드 궁병
-trp_nord_veteran_multiplayer_coop_tier_4|노르드 허스칼
-trp_nord_veteran_multiplayer_coop_tier_4_pl|노르드 허스칼
-trp_nord_scout_multiplayer_coop_tier_4|노르드 정찰병
-trp_nord_scout_multiplayer_coop_tier_4_pl|노르드 정찰병
-trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_4|로독 노궁병
-trp_rhodok_veteran_crossbowman_multiplayer_coop_tier_4_pl|로독 노궁병
-trp_rhodok_sergeant_multiplayer_coop_tier_4|로독 병장
-trp_rhodok_sergeant_multiplayer_coop_tier_4_pl|로독 병장
-trp_rhodok_horseman_multiplayer_coop_tier_4|로독 기병
-trp_rhodok_horseman_multiplayer_coop_tier_4_pl|로독 기병
-trp_sarranid_archer_multiplayer_coop_tier_4|사라니드 궁병
-trp_sarranid_archer_multiplayer_coop_tier_4_pl|사라니드 궁병
-trp_sarranid_footman_multiplayer_coop_tier_4|사라니드 경보병
-trp_sarranid_footman_multiplayer_coop_tier_4_pl|사라니드 경보병
-trp_sarranid_mamluke_multiplayer_coop_tier_4|사라니드 맘루크
-trp_sarranid_mamluke_multiplayer_coop_tier_4_pl|사라니드 맘루크
-trp_npc1_1|보르차
-trp_npc1_1_pl|보르차
-trp_npc2_1|마르니드
-trp_npc2_1_pl|마르니드
-trp_npc3_1|유미라
-trp_npc3_1_pl|유미라
-trp_npc4_1|롤프
-trp_npc4_1_pl|롤프
-trp_npc5_1|바헤슈터
-trp_npc5_1_pl|바헤슈터
-trp_npc6_1|피렌티스
-trp_npc6_1_pl|피렌티스
-trp_npc7_1|데샤비
-trp_npc7_1_pl|데샤비
-trp_npc8_1|마틸드
-trp_npc8_1_pl|마틸드
-trp_npc9_1|알라이엔
-trp_npc9_1_pl|알라이엔
-trp_npc10_1|번더크
-trp_npc10_1_pl|번더크
-trp_npc11_1|카트린
-trp_npc11_1_pl|카트린
-trp_npc12_1|제레무스
-trp_npc12_1_pl|제레무스
-trp_npc13_1|니자르
-trp_npc13_1_pl|니자르
-trp_npc14_1|레잘리트
-trp_npc14_1_pl|레잘리트
-trp_npc15_1|아르티매너
-trp_npc15_1_pl|아르티매너
-trp_npc16_1|클레시
-trp_npc16_1_pl|클레시
-trp_npc1_2|보르차
-trp_npc1_2_pl|보르차
-trp_npc2_2|마르니드
-trp_npc2_2_pl|마르니드
-trp_npc3_2|유미라
-trp_npc3_2_pl|유미라
-trp_npc4_2|롤프
-trp_npc4_2_pl|롤프
-trp_npc5_2|바헤슈터
-trp_npc5_2_pl|바헤슈터
-trp_npc6_2|피렌티스
-trp_npc6_2_pl|피렌티스
-trp_npc7_2|데샤비
-trp_npc7_2_pl|데샤비
-trp_npc8_2|마틸드
-trp_npc8_2_pl|마틸드
-trp_npc9_2|알라이엔
-trp_npc9_2_pl|알라이엔
-trp_npc10_2|번더크
-trp_npc10_2_pl|번더크
-trp_npc11_2|카트린
-trp_npc11_2_pl|카트린
-trp_npc12_2|제레무스
-trp_npc12_2_pl|제레무스
-trp_npc13_2|니자르
-trp_npc13_2_pl|니자르
-trp_npc14_2|레잘리트
-trp_npc14_2_pl|레잘리트
-trp_npc15_2|아르티매너
-trp_npc15_2_pl|아르티매너
-trp_npc16_2|클레시
-trp_npc16_2_pl|클레시
-trp_npc1_3|보르차
-trp_npc1_3_pl|보르차
-trp_npc2_3|마르니드
-trp_npc2_3_pl|마르니드
-trp_npc3_3|유미라
-trp_npc3_3_pl|유미라
-trp_npc4_3|롤프
-trp_npc4_3_pl|롤프
-trp_npc5_3|바헤슈터
-trp_npc5_3_pl|바헤슈터
-trp_npc6_3|피렌티스
-trp_npc6_3_pl|피렌티스
-trp_npc7_3|데샤비
-trp_npc7_3_pl|데샤비
-trp_npc8_3|마틸드
-trp_npc8_3_pl|마틸드
-trp_npc9_3|알라이엔
-trp_npc9_3_pl|알라이엔
-trp_npc10_3|번더크
-trp_npc10_3_pl|번더크
-trp_npc11_3|카트린
-trp_npc11_3_pl|카트린
-trp_npc12_3|제레무스
-trp_npc12_3_pl|제레무스
-trp_npc13_3|니자르
-trp_npc13_3_pl|니자르
-trp_npc14_3|레잘리트
-trp_npc14_3_pl|레잘리트
-trp_npc15_3|아르티매너
-trp_npc15_3_pl|아르티매너
-trp_npc16_3|클레시
-trp_npc16_3_pl|클레시
-trp_npc1_4|보르차
-trp_npc1_4_pl|보르차
-trp_npc2_4|마르니드
-trp_npc2_4_pl|마르니드
-trp_npc3_4|유미라
-trp_npc3_4_pl|유미라
-trp_npc4_4|롤프
-trp_npc4_4_pl|롤프
-trp_npc5_4|바헤슈터
-trp_npc5_4_pl|바헤슈터
-trp_npc6_4|피렌티스
-trp_npc6_4_pl|피렌티스
-trp_npc7_4|데샤비
-trp_npc7_4_pl|데샤비
-trp_npc8_4|마틸드
-trp_npc8_4_pl|마틸드
-trp_npc9_4|알라이엔
-trp_npc9_4_pl|알라이엔
-trp_npc10_4|번더크
-trp_npc10_4_pl|번더크
-trp_npc11_4|카트린
-trp_npc11_4_pl|카트린
-trp_npc12_4|제레무스
-trp_npc12_4_pl|제레무스
-trp_npc13_4|니자르
-trp_npc13_4_pl|니자르
-trp_npc14_4|레잘리트
-trp_npc14_4_pl|레잘리트
-trp_npc15_4|아르티매너
-trp_npc15_4_pl|아르티매너
-trp_npc16_4|클레시
-trp_npc16_4_pl|클레시
-trp_dplmc_chamberlain|시종 오브레이 데 베레
-trp_dplmc_chamberlain_pl|시종
-trp_dplmc_constable|성내순찰관 마일스 드 글로스터
-trp_dplmc_constable_pl|성내순찰관
-trp_dplmc_chancellor|집정관 허패스트
-trp_dplmc_chancellor_pl|집정관
-trp_dplmc_messenger|전령
-trp_dplmc_messenger_pl|전령
-trp_dplmc_scout|정찰병
-trp_dplmc_scout_pl|정찰병
-trp_dplmc_recruiter|신병 모집자
-trp_dplmc_recruiter_pl|신병 모집자
+trp_knight_4_2b_daughter_1|귀부인 테라
+trp_knight_4_2b_daughter_2|귀부인 구드런
+trp_knight_4_2b_daughter_1_pl|테라
+trp_knight_4_2b_daughter_2_pl|구드런
+trp_knight_4_2c_wife_1|귀부인 엔데그리드
+trp_knight_4_2c_wife_2|귀부인 아에사
+trp_knight_4_2c_wife_1_pl|엔데그리드
+trp_knight_4_2c_wife_2_pl|아에사
+trp_kingdom_5_2b_wife_1|귀부인 베오디아
+trp_kingdom_5_2b_wife_2|귀부인 미레이아
+trp_kingdom_5_2b_wife_1_pl|베오디아
+trp_kingdom_5_2b_wife_2_pl|미레이아
+trp_kingdom_5_1c_daughter_1|귀부인 엘란드라
+trp_kingdom_5_1c_daughter_2|귀부인 포베사
+trp_kingdom_5_1c_daughter_3|귀부인 아가시아
+trp_kingdom_5_1c_daughter_4|귀부인 엘리안
+trp_kingdom_5_1c_daughter_1_pl|엘란드라
+trp_kingdom_5_1c_daughter_2_pl|포베사
+trp_kingdom_5_1c_daughter_3_pl|아가시아
+trp_kingdom_5_1c_daughter_4_pl|엘리안
+trp_kingdom_5_2c_daughter_1|귀부인 메라세드
+trp_kingdom_5_2c_daughter_2|귀부인 클라우도라
+trp_kingdom_5_2c_daughter_1_pl|메라세드
+trp_kingdom_5_2c_daughter_2_pl|클라우도라
+trp_kingdom_5_1c_wife_1|귀부인 아델리사
+trp_kingdom_5_1c_wife_2|귀부인 그웨나엘
+trp_kingdom_5_1c_wife_1_pl|아델리사
+trp_kingdom_5_1c_wife_2_pl|그웨나엘
+trp_kingdom_5_2c_wife_1|귀부인 칼란티나
+trp_kingdom_5_2c_wife_2|귀부인 이수에스
+trp_kingdom_5_2c_wife_1_pl|칼란티나
+trp_kingdom_5_2c_wife_2_pl|이수에스

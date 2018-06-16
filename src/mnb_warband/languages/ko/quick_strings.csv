@@ -1,8 +1,7 @@
-﻿lockitver|DO NOT DELETE THIS LINE! 2896
+﻿
 qstr_Next_Page|다음 페이지
 qstr_Game_Rules:^|게임 룰:^
 qstr_0|0
-qstr_Lv._{reg0}|Lv. {reg0}
 qstr_Show_game_rules|게임 룰 보기
 qstr_Continue...|계속...
 qstr_Candidate_#1:_{s1}|지원자 #1: {s1}
@@ -189,7 +188,6 @@ qstr_Best_threat_of_{s4}_|가장 적대적인 {s4}은(는) {reg1} 정도의 가�
 qstr_No_center_found_to_d|방어할 중심을 찾지 못했습니다.
 qstr_You_gain_right_to_ru|당신은 정통성을 얻었습니다.
 qstr_You_lose_right_to_ru|당신은 정통성을 잃었습니다.
-qstr_Added_money_for_your|예전 말에 돈을 추가했습니다.
 qstr_You_got_keys_of_dung|당신은 지하감옥의 열쇠를 얻었습니다.
 qstr_You_must_stay_behind|선 안에 머물러야 합니다! 포인트는 빠져나가지 않습니다.
 qstr_Tutorial|튜토리얼
@@ -223,7 +221,6 @@ qstr_Back_to_the_beginnin|처음으로 돌아가기...
 qstr_View_next_segment...|다음 세그먼트 보기...
 qstr_^No_food:___{reg7}|^식량 고갈: -{reg7}
 qstr_^Wage_debt:___{reg6}|^고용 비용: -{reg6}
-qstr_On_loan|대출 중,
 qstr_Appoint_next_marshal|다음 총사령관을 지목
 qstr_Award_{s12}_as_fief|{s12}를 영지로 수여
 qstr_No_one|아무도 없습니다.
@@ -448,7 +445,7 @@ qstr_He_currently_command|그는 지금 {reg0}의 {reg1?, 약 {reg1} 부상당�
 qstr_The_elder_of_the_vil|{s3}의 장로가 당신에게 {reg5}꾸러미의 밀을 가져와 달라고 요청했습니다.
 qstr_The_elder_of_the_vill|{s13}의 촌장이 도적에 대항할 {reg5}명의 농부를 훈련시켜달라고 요청했습니다.
 qstr_The_elder_of_the_villa|{s3}의 촌장이 당신에게 {reg5}마리의 소를 데려다 달라고 요청했습니다.
-qstr_{s16}_and_{s15}|{s16} 그리고 {s15}
+qstr_{s16}_{s15}|{s16} 그리고 {s15}
 qstr_I_can_smell_a_fat_pu|난 두둑한 지갑의 냄새는 1마일이 떨어져 있어도 맡을 수 있지.내가 생각하기에는 자네 것을 좀 더 가볍게 할 수 있을 거 같은데, 응?
 qstr_Why_it_be_another_tr|이야, 또 다른 여행자로군, 길에서 마주치는 우연이 있다니! 난 자네가 걱정스럽군, 이 나라는 자네 같은 사람 좋은 {소년/소녀}이(가) 여행하기에는 위험한 곳이네. 하지만 나의 아이들에게 작은 기부를 한다면 난 자네를 목적지까지 확실히 가게 해줄 수 있네, 어때?
 qstr_Well_well_look_at_th|좋아, 좋아, 이거 보라구! 자네가 돈을 조금 토해낸다면 최고의 시작을 하는거야, 친구, 그렇지 않으면 나와 내 아이들이 너를 부숴 버릴거야.

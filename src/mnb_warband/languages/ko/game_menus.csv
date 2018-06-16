@@ -1,4 +1,4 @@
-﻿lockitver|DO NOT DELETE THIS LINE! 2896
+﻿
 menu_start_game_0|모험가여, 마운트 앤 블레이드: 워밴드에 오신것을 환영합니다. 모험을 시작하기 전에, 먼저 당신의 캐릭터를 만들어 주세요. 이곳 칼라디아는 전통적인 중세의 사회임을 기억하셔야 됩니다. 전쟁과 사회는 평소 신분이 높은 남자에 의해서 좌우됩니다. 그렇다고 당신이 여성 캐릭터을 선택할 수 없다는 뜻은 아닙니다. 고귀한 태생이 아닌 사람보다 남성 귀족들이 아마 시작시 어느 정도의 이점을 가지고 있을테지만, 어떤 성별이든, 어떤 직업이든 신분을 초월한 성취를 달성할 수 있습니다.
 mno_continue|계속...
 mno_go_back|뒤로 가기
@@ -391,7 +391,7 @@ mno_visit_lady|숙녀를 방문한다
 mno_visit_lady_door|정원의 입구
 mno_trade_with_merchants|시장으로 간다.
 mno_walled_center_manage|이 {reg0?도시를:성을} 관리한다.
-mno_walled_center_move_court|당신의 궁전을 이 곳으로 옮긴다.
+mno_move_your_court_here|당신의 궁전을 이 곳으로 옮긴다.
 mno_castle_station_troops|수비병을 관리한다 {s10}
 mno_guild_master_meeting|조합장을 만난다.
 mno_castle_wait|이곳에서 잠시동안 대기 {s1}.
@@ -408,8 +408,6 @@ mno_visit_lady_3_door|정원의 입구.
 mno_visit_lady_4|{s12} 방문
 mno_visit_lady_5|{s12} 방문
 mno_visit_lady_6|{s12} 방문
-mno_visit_lady_7|{s12} 방문
-mno_visit_lady_8|{s12} 방문
 mno_leave|떠난다
 menu_town_tournament_lost|당신은 토너먼트에서 패배했습니다.{s8}
 mno_continue|계속
@@ -630,7 +628,6 @@ mno_appoint_npc7|{s10}을(를) 임명
 mno_appoint_npc8|{s10}을(를) 임명
 mno_appoint_npc9|{s10}을(를) 임명
 mno_appoint_npc9|{s10}을(를) 임명
-mno_appoint_npc10|{s10}을(를) 임명
 mno_appoint_npc11|{s10}을(를) 임명
 mno_appoint_npc12|{s10}을(를) 임명
 mno_appoint_npc13|{s10}을(를) 임명
@@ -676,12 +673,12 @@ menu_notification_player_should_consult|당신의 장관이 음모에 관한 글
 mno_continue|계속
 menu_notification_player_feast_in_progress|축제 준비^^{s11}의 홀에서 당신의 부인이 연회를 열었습니다.
 mno_continue|계속
-menu_notification_lady_requests_visit|하인으로 보이는 나이 많은 여자 하나가 당신의 파티에와서 밀랍으로 봉인된 편지를 당신의 부하에게 건냈습니다. 이것은 당신에게로 온 편지입니다. 당신이 봉인을 찢을 때, 편지가 {s15}로 부터 왔다는 것을 확인할 수 있었습니다. "저번에 방문해 주셔서 정말 감사드려요, {s14} 저는 지금 {s10}에 있답니다. {s12}"라고 적혀있습니다.
+menu_notification_lady_requests_visit|하인으로 보이는 나이 많은 여자 하나가 당신의 파티에와서 밀랍으로 봉인된 편지를 당신의 부하에게 건냈습니다. 이것은 당신에게로 온 편지입니다. 당신이 봉인을 찢을 때, 편지가 {s15}로 부터 왔다는 것을 확인할 수 있었습니다. "저번에 방문에 주셔서 정말 감사드려요, {s14} 저는 지금 {s10}에 있답니다. {s12}"라고 적혀있습니다.
 mno_continue_come|그 하인에게 곧 가겠다고 전하라고 한다
 mno_continue_indisposed|그 하인에게 거절한다고 전하라고 한다
 menu_garden|{s12}
 mno_enter|들어간다
-mno_nurse|보모와 함께 간다
+mno_nurse_go|보모와 함께 간다
 mno_nurse_wait|분수대 옆에서 기다린다
 mno_leave|떠난다
 menu_kill_local_merchant_begin|당신은 희생양을 발견하여 그를 뒤쫒아 갔습니다. 그가 어두운 골목 안으로 들어가는 것을 보았습니다. 그를 공격할 기회입니다.

@@ -1,5 +1,4 @@
-﻿lockitver|DO NOT DELETE THIS LINE! 2896
-ui_music_volume|음악 볼륨:
+﻿ui_music_volume|음악 볼륨:
 ui_sound_volume|효과음 볼륨:
 ui_mouse_sensitivity|마우스 감도:
 ui_invert_mouse_y_axis|마우스 Y축 반전
@@ -87,28 +86,36 @@ ui_saving_policy_realistic|현실감 있게! 저장 없이는 종료할 수 없�
 ui_saving_policy_nonrealistic|저장 없이도 종료할 수 있게 해주십시오.
 ui_tutorial_character_generation|이름을 입력하고, 포인트를 분배하십시오.
 이 능력치들은 당신의 캐릭터에 영향을 미칩니다.
-ui_str|근력
+ui_str|힘
 ui_agi|민첩
-ui_int|지력
-ui_cha|매력
+ui_int|지능
+ui_cha|카리스마
 ui_at_learning_limit|-능력치 분배 제한-
 ui_not_enough_skill_points_to_learn|-포인트가 부족합니다-
-ui_strength|근력
+ui_strength|힘
 ui_agility|민첩
-ui_intelligence|지력
-ui_charisma|매력
+ui_intelligence|지능
+ui_charisma|카리스마
 ui_not_enough_attributetype_to_learn_this_skill|-%s이(가) 부족합니다-
 ui_explanation_one_handed_weapon|한손검, 도끼, 둔기에 적용됩니다.
-ui_explanation_two_handed_weapon|양손검, 양손 도끼, 양손 둔기에 적용됩니다.
-ui_explanation_polearm|창, 기병창, 목봉 등에 적용됩니다.
+ui_explanation_two_handed_weapon|양손검, 대형 도끼, 대형 둔기에 적용됩니다.
+ui_explanation_polearm|창, 랜스, 지팡이 등에 적용됩니다.
 ui_explanation_archery|활에 적용됩니다.
-ui_explanation_crossbow|쇠뇌에 적용됩니다.
-ui_explanation_throwing|투창, 투척화살, 돌맹이 등에 적용됩니다.
+ui_explanation_crossbow|석궁에 적용됩니다.
+ui_explanation_throwing|자벨린, 다트, 돌멩이 등에 적용됩니다.
 ui_explanation_firearms|권총, 머스켓에 적용됩니다.
-ui_explanation_strength|근력: 체력이 1씩 추가됩니다. [단단한 몸, 때리는 힘, 던지는 힘, 당기는 힘] 기술은 근력 수치의 1/3 이상은 올릴 수 없습니다.
-ui_explanation_agility|민첩: '숙련도 포인트'를 5씩 추가하며, 숙련도 최대치를 올려줍니다. 그리고 무기 속도가 약간 증가합니다. [무기 장악, 방패, 운동, 승마, 기마 궁술, 약탈] 기술은 민첩 수치의 1/3 이상은 올릴 수 없습니다.
-ui_explanation_intelligence|지력: '기술 포인트'를 1씩 추가해줍니다. [교련, 추적, 전술,  향도, 정찰, 재고 관리, 치료, 수술, 구급, 공학, 설득] 기술은 지력 수치의 1/3 이상은 올릴 수 없습니다.
-ui_explanation_charisma|매력: 부대 규모가 1씩 커집니다. [포로 관리, 통솔, 교역] 기술은 매력 수치의 1/3 이상은 올릴 수 없습니다.
+ui_explanation_strength|힘: 체력이 1씩 추가됩니다. [단단한 피부, 타격하는 힘, 던지는 힘, 당기는 힘] 기술은
+힘 수치의 1/3 이상은 올릴 수 없습니다.
+ui_explanation_agility|민첩: '숙련도 포인트'를 5씩 추가하며, 숙련도 최대치를 올려줍니다.
+그리고 무기 속도가 약간 증가합니다.
+[무기의 달인, 방어술, 운동능력, 승마술, 기마궁술, 약탈] 기술은
+민첩 수치의 1/3 이상은 올릴 수 없습니다.
+ui_explanation_intelligence|지능: '기술 포인트'를 1씩 추가해줍니다.
+[훈련 능력, 추적술, 전략,  길찾기, 감지,
+재고 관리, 상처치료, 수술, 응급치료, 기계술, 설득력] 기술은
+지능 수치의 1/3 이상은 올릴 수 없습니다.
+ui_explanation_charisma|카리스마: 부대 규모가 1씩 커집니다. [포로 관리, 리더쉽, 상술] 기술은
+카리스마 수치의 1/3 이상은 올릴 수 없습니다.
 ui_level|레벨: %d
 ui_xp|경험치: %d
 ui_next_level_at|다음 레벨까지 남은 경험치: %d
@@ -234,8 +241,8 @@ ui_horse|말
 ui_food|음식
 ui_reclaim_your_sold_goods|사기 전에 이미 매각한 상품을 찾아가시오!
 ui_return_your_bought_goods|팔기 전에 이미 구입한 상품을 돌려주시오!
-ui_polearm_no_shield|장병기 (방패착용 불가)
-ui_polearm|장병기
+ui_polearm_no_shield|폴암 (방패착용 불가)
+ui_polearm|폴암
 ui_two_handed|양손
 ui_two_handed_one_handed|양손/한손
 ui_one_handed|한손
@@ -268,22 +275,22 @@ ui_requires_value_difficulty|필요수치 %s: %d
 ui_bonus_against_shields|방패에 대한 보너스
 ui_cant_be_used_to_block|방어할 수 없음
 ui_troop_cant_use_item|%s: 이 아이템을 사용할 수 없습니다! 
-ui_notification_riding_skill_not_enough|이 말을 타기에는 기술이 부족합니다.
+ui_notification_riding_skill_not_enough|이 말을 타기에는 승마술이 부족합니다.
 ui_notification_requirements_not_met|이 무기를 사용하기 위한 필수 기술이 부족합니다.
 ui_notification_payment_value|당신은 %s을 지불해야 합니다.
 ui_notification_payment_receive_value|당신은 %s을 받습니다. 
 ui_one_handed_weapons|한손무기
 ui_two_handed_weapons|양손무기
-ui_polearms|장병기
+ui_polearms|폴암
 ui_archery|활
-ui_crossbows|쇠뇌
+ui_crossbows|석궁
 ui_throwing|투척무기
 ui_firearms|화기
 ui_reset|초기화
 ui_release_one|풀어주기
 ui_move_up|올리기
 ui_move_down|내리기
-ui_upgrade_one|승급
+ui_upgrade_one|업그레이드
 ui_party_skills|부대 기술
 ui_morale|사기: %s
 ui_terrible|끔찍함
@@ -318,21 +325,21 @@ ui_all| 모두
 ui_joining_cost_weekly_wage|합류 비용: %d, 주간 유지비: %d
 ui_weekly_wage|주간 유지비: %d 디나르
 ui_price|가격: %d
-ui_number_ready_to_upgrade|%d명의 승급이 준비되었습니다.
-ui_upgrade_to_value|%s (으)로 승급 (%d 디나르)
-ui_notification_no_slot_for_upgrade|%s을(를) 승급할 자리가 없습니다! 
+ui_number_ready_to_upgrade|%d명의 업그레이드가 준비되었습니다.
+ui_upgrade_to_value|%s로 업그레이드
+ui_notification_no_slot_for_upgrade|%s을(를) 업그레이드할 자리가 없습니다! 
 ui_shield_broken|방패가 부서짐.
 ui_shield_cracked|방패에 금이감.
 ui_shield_deformed|방패가 망가짐.
 ui_you_hit_a_friendly_troop|아군을 공격하고 있습니다!
 ui_hit_shield_on_back|등에 맨 방패가 적의 공격을 방어했습니다!
-ui_delivered_couched_lance_damage|기병창 돌격 데미지!
-ui_received_couched_lance_damage|당신은 기병창에 타격 당했습니다!
+ui_delivered_couched_lance_damage|랜스 돌격 데미지!
+ui_received_couched_lance_damage|당신은 랜스에 타격 당했습니다!
 ui_speed_bonus_plus|가속도 보너스: +%d%%
 ui_speed_bonus|가속도 보너스: %d%%
 ui_cant_reload_this_weapon_on_horseback|이 무기는 말 위에서 장전 할 수 없습니다.
-ui_no_more_bolts|쇠뇌 화살이 없습니다.
-ui_you_are_not_carrying_any_bolts|더 이상 쇠뇌 화살이 없습니다.
+ui_no_more_bolts|볼트가 없습니다.
+ui_you_are_not_carrying_any_bolts|더 이상 볼트가 없습니다.
 ui_no_more_arrows|화살이 없습니다.
 ui_you_are_not_carrying_any_arrows|더 이상 화살이 없습니다.
 ui_head_shot|헤드샷!
@@ -369,7 +376,7 @@ ui_items_lost| (아이템을 잃음:
 ui_party_has_nothing_to_eat|부대가 아무것도 먹지 못하고 있습니다!
 ui_days_training_is_complete|하루의 훈련이 끝났습니다...
 ui_total_experience_gained_through_training_number|훈련으로 얻어진 경험치: %d
-ui_some_soldiers_are_ready_to_upgrade|몇 명의 병사가 승급 준비를 끝냈습니다.
+ui_some_soldiers_are_ready_to_upgrade|몇 명의 병사가 업그레이드 준비를 끝냈습니다.
 ui_number_of_companions_exceeds_leadership_limit| 부대의 수가 제한 수치를 넘었습니다.
 ui_number_of_prisoners_exceeds_prisoner_management_limit| 포로의 수가 포로 관리 제한을 넘었습니다.
 ui_party_morale_is_low| 부대의 사기가 낮습니다! 
@@ -522,8 +529,6 @@ ui_order_3|명령3 선택
 ui_order_4|명령4 선택
 ui_order_5|명령5 선택
 ui_order_6|명령6 선택
-ui_order_7|명령 7선택
-ui_order_8|명령 8선택
 ui_order_button_hold_this_position|대형 유지
 ui_order_button_follow_me|뒤따르기
 ui_order_button_charge|돌격
@@ -531,30 +536,17 @@ ui_order_button_stand_ground|땅에 서기
 ui_order_button_retreat|후퇴
 ui_order_button_advance|10보 전진
 ui_order_button_fall_back|10보 뒤로
-ui_order_form_1_row|1열 대형
-ui_order_form_2_row|2열 대형
-ui_order_form_3_row|3열 대형
-ui_order_form_4_row|4열 대형
-ui_order_form_5_row|5열 대형
 ui_order_button_spread_out|산개 대형
 ui_order_button_stand_closer|밀집 대형
 ui_order_button_mount_horses|말 타기
 ui_order_button_dismount|말 내리기
 ui_order_button_hold_fire|사격 중지
-ui_order_button_fire_at_will|자유롭게 사격
-ui_order_button_fire_at_my_command|사격 지시까지 대기
-ui_order_button_all_fire_now|전원 사격
-ui_order_button_left_fire_now|좌측선 사격
-ui_order_button_middle_fire_now|중앙선 사격
-ui_order_button_right_fire_now|우측선 사격
-ui_order_button_use_melee_weapons|근접무기 장착
-ui_order_button_use_ranged_weapons|사격무기 장착
+ui_order_button_fire_at_will|발사
 ui_order_button_use_blunt_weapons|둔기 장착
 ui_order_button_use_any_weapon|모든 무기 허가
 ui_order_button_movement_orders|이동 명령
 ui_order_button_formation_orders|대형 명령
 ui_order_button_fire_orders|사격 명령
-ui_order_button_weapon_usage_orders|무기 사용 명령
 ui_follow_me_e_|%s, 따라와!
 ui_charge_e_|%s, 돌격!!!
 ui_stand_ground_e_|%s, 땅 위에 서!
@@ -563,25 +555,12 @@ ui_mount_horses_e_|%s, 말에 타라!
 ui_dismount_e_|%s, 말에서 내려!
 ui_advance_e_|%s, 10보 전진!
 ui_fall_back_e_|%s, 10보 뒤로!
-ui_fall_back_e_|%s, 10보 뒤로!
-ui_form_1_row_e_|%s, 1열로 서라!
-ui_form_2_row_e_|%s, 2열로 서라!
-ui_form_3_row_e_|%s, 3열로 서라!
-ui_form_4_row_e_|%s, 4열로 서라!
-ui_form_5_row_e_|%s, 5열로 서라!
-ui_stand_closer_e_|%s, 간격을 좁혀라!
-ui_spread_out_e_|%s, 간격을 넓혀라!
-ui_use_melee_weapons_e_|%s, 오직 백병전만 하라!
-ui_use_ranged_weapons_e_|%s, 오직 사격전만 하라!
+ui_stand_closer_e_|%s, 모여라!
+ui_spread_out_e_|%s, 흩어져!
 ui_use_blunt_weapons_e_|%s, 오직 둔기만 써라!
-ui_use_any_weapon_e_|%s, 모든 무기를 써도 좋다!
+ui_use_any_weapon_e_|%s, 무기를 써도 좋다!
 ui_hold_fire_e_|%s, 사격 중지!
-ui_fire_at_will_e_|%s, 자유롭게 사격!
-ui_fire_at_my_command_e_|%s, 사격 지시까지 대기하라!
-ui_all_fire_now_e_|%s, 전원 사격!
-ui_left_fire_now_e_|%s, 좌선 사격!
-ui_middle_fire_now_e_|%s, 중앙선 사격!
-ui_right_fire_now_e_|%s, 우선 사격!
+ui_fire_at_will_e_|%s, 발사!
 ui_hold_this_position_e_|%s, 대형 유지!
 ui_infantry|보병
 ui_archers|궁병
@@ -752,7 +731,7 @@ ui_can_crush_through_blocks|방어를 부수고 공격
 ui_turn_camera_with_horse|1인칭 시점으로 승마시 카메라 회전 설정
 ui_widescreen_mode_on|멀티 스크린 모드 가능
 ui_widescreen_mode_off|멀티 스크린 모드 불가능
-ui_notification_cant_upgrade|돈이 부족하여 승급을 할 수 없습니다.
+ui_notification_cant_upgrade|돈이 부족하여 업그레이드를 할 수 없습니다.
 ui_turn_never|사용 안함
 ui_turn_ranged_only|원거리 전용
 ui_turn_melee_only|근접 전용

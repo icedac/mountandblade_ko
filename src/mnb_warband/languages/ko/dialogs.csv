@@ -1,5 +1,5 @@
-﻿lockitver|DO NOT DELETE THIS LINE! 2896
-dlga_award_fief_to_vassal:award_fief_to_vassal_defer|영주의 임명은 신하들의 조언을 들을 때까지 보류할 걸세.
+﻿
+dlga_award_fief_to_vassal:award_fief_to_vassal_defer|영주의 임명은 백성들의 조언을 들을 때까지 보류할 걸세.
 dlga_award_fief_to_vassal_defer:close_window|{폐하/여왕폐하}의 뜻대로. 후에 이 문제를 결정하실 수 있습니다.
 dlga_award_fief_to_vassal_2:close_window|{폐하/여왕폐하}의 뜻대로. {reg6?제:{reg7?당신:{s11}}}이(가) {s1}의 새로운 {reg3?레이디:영주}가 될 것입니다.
 dlga_event_triggered:center_captured_rebellion|{s1}는 아무도 소유하고 있지 않습니다. 누구에게 맡겨야 하겠습니까?
@@ -7,30 +7,30 @@ dlga_center_captured_rebellion:center_captured_rebellion_2|{s11}. {s1}
 dlga_center_captured_rebellion:center_captured_rebellion_2.1|부탁드립니다, {s65}. 제가 {s1}를 소유하고 싶군요. (영지: {s0})
 dlga_center_captured_rebellion:center_captured_rebellion_2.2|{s66}, 당신이 {s1}을 다스리시오. (영지: {s0})
 dlga_center_captured_rebellion_2:close_window|흠, 알겠소. {playername}. 나는 당신의 의견을 높이 평가하오. {reg6?I:{reg7?당신:{s11}}}이(가) 새로운 {s1}의 {reg3?레이디:영주}가 될 것이오.
-dlga_start:fighter_talk|안녕하시오. 우리는 전투 능력을 기르기 위해 여기서 대련을 좀 하고 있소. 당신도 훈련받은 사람이로군. 우리와 함께 하시겠소? 몇 가지 기술을 보여드릴 수 있다오. 그리고 전술에 대해 궁금하다면, 질문만 하시오, 바로 최선을 다해 알려주겠소.
+dlga_start:fighter_talk|안녕하시오. 우리는 전투 능력을 기르기 위해 여기서 약간의 대련을 하고 있소. 당신도 훈련받은 사람이로군. 우리와 함께 하시겠소? 몇 가지 기술을 보여드릴 수 있다오. 그리고 전술에 대해 궁금하다면, 질문만 하시오, 바로 최선을 다해 알려드리리다.
 dlga_start:fighter_talk.1|무엇을 연습하고 싶소?
 dlga_fighter_pretalk:fighter_talk|어떤 훈련을 해보고 싶은 지 말해주겠소?
-dlga_fighter_talk:fighter_talk_train_attack|공격 연습을 해보고 싶소.
-dlga_fighter_talk:fighter_talk_train_parry|제 무기로 공격을 막는 연습을 해보고 싶소.
-dlga_fighter_talk:fighter_talk_train_combat|실전연습을 해보고 싶소.
+dlga_fighter_talk:fighter_talk_train_attack|공격 연습을 해보고 싶습니다.
+dlga_fighter_talk:fighter_talk_train_parry|제 무기로 공격을 막는 연습을 해보고 싶습니다.
+dlga_fighter_talk:fighter_talk_train_combat|가서 실전연습을 해보고 싶습니다!
 dlga_fighter_talk:close_window|[떠난다]
-dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|좋소. 공격하는 방법은 4가지가 있소. 머리 위로 상단 공격, 오른쪽 공격, 왼쪽 공격 그리고 찌르기. 이제, 내가 어느 방향으로 공격할 지를 말해주겠소, 그럼 당신이 맞는 방향의 공격을 해보게. ^^(마우스 왼쪽 클릭을 하면서, 특정 방향으로 마우스를 움직입니다. 예를 들어, 상단 공격을 하려면, 마우스를 위로 움직이며 왼쪽 클릭을 하면 됩니다. 스크린 아이콘이 당신이 제대로 공격했는지 도움 줄 것입니다.)
-dlga_fighter_talk_train_attack_2:close_window|그럼 시작하시오. 난 준비가 되었소.
-dlga_fighter_talk_train_attack_2:fighter_pretalk|사실은 다른 것을 해보고 싶소.
-dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|방패 없이, 무기로 방어할 때는 오직 한 방향에서만 오는 공격만 막을 수 있소. 예를 들어 상단 방어를 했다면, 당신은 머리 위에서 베는 공격을 막을 수 있을테지만, 측면 베기나 찌르기는 막을 수 없소. ^^(당신이 공격을 막기 위해서는 오른쪽 버튼을 누르고 있어야 합니다.)
+dlga_fighter_talk_train_attack:fighter_talk_train_attack_2|좋아. 공격하는 방법은 4가지가 있네. 머리 위로 상단 공격, 오른쪽 공격, 왼쪽 공격 그리고 찌르기. 이제, 내가 어느 방향으로 공격할 지를 말해주겠네, 그럼 자네가 맞는 방향의 공격을 해보게. ^^(마우스 왼쪽 클릭을 하면서, 특정 방향으로 마우스를 움직여보시오. 예를 들어, 상단 공격을 하려면, 마우스를 위쪽으로 이동시키며 왼쪽 클릭을 하면 됩니다. 스크린의 아이콘이 당신이 맞는 공격을 수행했는지 도움을 줄 것입니다.),
+dlga_fighter_talk_train_attack_2:close_window|그럼 시작하십시오. 전 준비가 되었습니다.
+dlga_fighter_talk_train_attack_2:fighter_pretalk|사실은 다른 것을 해보고 싶습니다.
+dlga_fighter_talk_train_parry:fighter_talk_train_parry_2|방패 없이, 무기로 방어할 때는 오직 한 방향에서만 오는 공격만 막을 수 있소. 예를 들어 막아 올렸다면, 당신은 머리 위에서 베는 공격을 막을 수 있을테지만, 측면 베기나 찌르기는 막을 수 없소. ^^(당신이 공격을 막기 위해서는 오른쪽 버튼을 누르고 있어야 합니다.)
 dlga_fighter_talk_train_parry_2:fighter_talk_train_parry_3|난 이제 다른 타입의 공격을 할 것이오, 당신은 공격받기 전에 맞는 방향으로 방어하시오. 당신이 가능한한 맞게 방어해보시오. ^^(이 연습은 세팅에서 디폴트로 지정된 막는 방향 설정을 자동으로 두면 쉽습니다. 만약 설정을 키보드나 마우스로 설정하시게 되면 수동으로 방향을 지정해야 합니다. 이런 설정은 더 까다롭지만, 게임의 흥미를 높여줄 수 있습니다. 이 연습은 수동 설정을 연습하는데 유용할 것입니다.)
-dlga_fighter_talk_train_parry_3:close_window|그럼 시작하시오. 난 준비가 되었소.
-dlga_fighter_talk_train_parry_3:fighter_pretalk|사실은 다른 것을 해보고 싶소.
+dlga_fighter_talk_train_parry_3:close_window|그럼 시작하십시오. 전 준비가 되었습니다.
+dlga_fighter_talk_train_parry_3:fighter_pretalk|사실은 다른 것을 해보고 싶습니다.
 dlga_fighter_talk_train_combat:fighter_talk_train_combat_2|스파링은 근접전을 위한 최고의 연습 방법이라오. 우리는 지금부터 치명적이지 않은 무기로 서로와 겨룰 것이오, 한 명이 땅에 쓰러질 때까지. 물론 당신은 상처를 입을 수도 있소, 하지만 진짜 무기로 베이는 것보다 나을 것이오.
-dlga_fighter_talk_train_combat_2:close_window|그럼 시작하시오. 난 준비가 되었소.
-dlga_fighter_talk_train_combat_2:fighter_pretalk|사실은 다른 것을 해보고 싶소.
+dlga_fighter_talk_train_combat_2:close_window|지금 당장 시작하죠. 난 준비되었습니다.
+dlga_fighter_talk_train_combat_2:fighter_pretalk|사실은 다른 것을 해보고 싶습니다.
 dlga_start:fighter_parry_try_again|좋군. 당신을 내 공격을 성공적으로 막았소. 당신은 이 연습을 반복할 것이고 매 시간마다 더 빨리 하게 될 것이오. 이 기술이 충분히 습득되기 전까지 말이오. 다시 한번 하길 원하시오?
 dlga_start:fighter_parry_try_again.1|글쎄... 영 시원치 않군, 그렇지 않소? (기억하십시오, 당신이 반드시 오른쪽 마우스 버튼을 누르고 있어야 효과적으로 방어가 됩니다.) 다시 하길 원하시오?
-dlga_fighter_parry_try_again:fighter_talk_train_parry|그렇소. 다시 한번 합시다.
-dlga_fighter_parry_try_again:fighter_talk_leave_parry|아니오, 지금은 괜찮소.
+dlga_fighter_parry_try_again:fighter_talk_train_parry|네. 다시 한번 합시다.
+dlga_fighter_parry_try_again:fighter_talk_leave_parry|아뇨, 지금은 되었습니다.
 dlga_start:fighter_parry_warn|이보시오! 당신은 방어 연습 중이잖소, 친구! 당신은 내 공격을 막아야 할테니, 다신 날 공격하지 마시오.
-dlga_fighter_parry_warn:fighter_talk_train_parry|미안하오. 다시 한번 합시다.
-dlga_fighter_parry_warn:fighter_talk_leave_parry|미안하오. 이 연습은 그만 해야겠소.
+dlga_fighter_parry_warn:fighter_talk_train_parry|미안합니다. 다시 한번 하죠.
+dlga_fighter_parry_warn:fighter_talk_leave_parry|미안합니다. 이 연습은 그만 해야겠습니다.
 dlga_fighter_talk_leave_parry:close_window|알겠소. 마음대로 하시오.
 dlga_start:fighter_combat_try_again|글쎄...영 시원치 않군, 그렇지 않소? 그렇다고 너무 기분 나빠하지 말고 다시는 실수하지 마시오. 다시 한번 하길 원하시오?
 dlga_fighter_combat_try_again:fighter_talk_train_combat|예, 한판 더 합시다.
@@ -38,37 +38,35 @@ dlga_fighter_combat_try_again:fighter_talk_leave_combat|아니요, 이 정도면
 dlga_fighter_talk_leave_combat:close_window|알겠소, 마음 바뀌면 다시 말하시오.
 dlga_start:fighter_combat_try_again.1|어이, 좋은 스파링이었소. 당신이 날 이겼군, 하지만 다음부턴 좀 조심하시오. 다시 한번 하길 원하시오?
 dlga_start:fighter_talk.2|아주 좋소. 당신은 당신이 원하는 방향으로 공격하는 법을 배웠을 것이오. 이것을 다시 할 수도 있고 다른 것을 연습할 수도 있소.
-dlga_start:archer_challenge_2|나쁘지 않군. 나쁘지 않소! 당신은 궁술의 기본을 익혔을 것이오. 이제, 같은 것을 쇠뇌로 연습해보시오. 저기있는 쇠뇌와 쇠뇌화살을 들고 저 3개의 타겟을 맞춰보시오. 쇠뇌는 활에 비하면 훨씬 쏘기 쉽지만, 재장전 시간이 좀 필요할 것이오.
-dlga_start:archer_challenge_2.1|좋소. 쇠뇌를 그리 어렵지 않게 사용하는군. 다음으로 투척 무기를 배울 것이오. 투창을 들고 저기 있는 3개의 목표물을 맞춰보시오.
-dlga_start:ranged_end|좋소, 이 연습으로 모든 3가지 원거리 무기의 기본을 습득하였소. 훈련은 휴식과 병행해야 하오. 매일 훈련을 쉬지 마시오, 열심히 가르쳐 준대로 한다면 당신은 칼라디아 최고의 궁술 수준에 도달할 것이오.
-dlga_ranged_end:close_window|자, 아직 그 과정을 거치지 않았다면, 근접전 교관이나 마술 교관에게 이야길 해보시오. 그들도 중요한 기술을 가르쳐 줄 것이오.
-dlga_start:archer_talk|좋은 하루되시길, 젊은 친구. 나는 사격 훈련을 원하는 이들에게 내 시간을 할애하고 있다오. 만약 훈련을 원한다면, 나에게 말하시오. 그럼 내가 활과 쇠뇌, 투창에 대해 지도해주겠소.
-dlga_archer_talk:archer_challenge|좋소, 원거리 무기를 어떻게 쓰는지 보여주시오.
-dlga_archer_talk:close_window|아니오, 아직 괜찮소.
-dlga_archer_challenge:archer_challenge_2|좋소, 첫번째 훈련은 궁술 훈련소에서 이루어질 것이오. 활은 익히기에 어려운 무기지만 충분히 익힌다면, 빠르고 강하게 목표를 맞출 수 있소. 활과 화살을 잡고 저기 있는 목표물을 맞추시오.
-dlga_archer_challenge_2:close_window|좋소, 준비되었소.
-dlga_archer_challenge_2:close_window.1|잠깐, 다른 걸 해보고 싶소.
+dlga_start:archer_challenge_2|나쁘지 않군. 나쁘지 않소! 당신은 궁술의 기본을 익혔을 것이오. 이제, 같은 것을 쇠뇌로 연습해보시오. 저기있는 쇠뇌와 쇠뇌화살을 들고 저 3개의 타겟을 맞춰보시오. 쇠뇌는 활에 비하면 훨씬 쏘기 쉽지만, 조금 재장전 시간이 필요할 것이오.
+dlga_start:archer_challenge_2.1|좋소. 쇠뇌를 그리 어렵지 않게 사용하는군. 다음으로 당신은 투척 무기를 배울 것이오. 투창을 들고 저기 있는 3개의 목표물을 맞춰보시오.
+dlga_start:ranged_end|좋소, 이 연습으로 당신은 모든 3가지 원거리 무기의 기본을 습득하였소. 훈련은 휴식과 병행해야 하오. 매일 훈련을 쉬지 마시오, 열심히 가르쳐 준대로 한다면 당신은 칼라디아 최고의 궁술 수준에 도달할 것이오.
+dlga_ranged_end:close_window|이제, 이미 그 과정을 거치지 않았다면, 당신은 근접전 교관이나 마술 교관에게 이야길 해보시오. 그들도 당신에게 중요한 스킬을 가르쳐 줄 것이오.
+dlga_start:archer_talk|좋은 하루되시길, 젊은 친구. 나는 궁술 훈련을 원하는 이들에게 내 시간을 할애하고 있다오. 만약 당신이 지도를 원한다면, 나에게 알려주세요. 그럼 내가 활과 쇠뇌, 투창에 대해 지도해드리리다.
+dlga_archer_talk:archer_challenge|예, 원거리 무기를 어떻게 쓰는지 보여주십시오.
+dlga_archer_talk:close_window|아니요, 아직 아닙니다.
+dlga_archer_challenge:archer_challenge_2|좋소, 첫번째 훈련은 궁술 훈련소에서 이루어질 것이오. 활은 익히기에 어려운 무기지만 충분히 익힌다면, 당신은 빠르고 강하게 목표를 맞출 수 있소. 활과 화살을 잡고 저기 있는 목표물을 맞추시오.
+dlga_archer_challenge_2:close_window|좋아요, 준비되었습니다!
+dlga_archer_challenge_2:close_window.1|잠깐만요, 다른 걸 해보고 싶습니다.
 dlga_start:horseman_melee_challenge_2|말 타기를 즐기길 바라오. 이제 우린 좀 더 어려운 것을 배울 것이오. 저기 보이는 창을 잡고 목표물 주변을 돌면서 적어도 한 번 이상 목표물을 공격해보시오.
 dlga_start:horseman_melee_challenge_2.1|멋지군! 당신은 말 위에서 적을 공격하는 법을 배웠소. 그건 초보자들에게 쉬운 일이 아니오. 당신은 이제 활과 화살로 목표를 공격하는 법을 배우게 될 것이오. 당신의 성공을 고려해서 각 목표물을 화살로 맞춰보시오.
 dlga_start:horsemanship_end|아주 잘했소. 당신은 이제 말 위에서 적을 활로 쏠 수 있을 것이오. 매일 연습한다면 당신은 말타기의 전문가가 될 것이오.
 dlga_horsemanship_end:close_window|이제, 만약 하지 않았다면 근접전 교관이나 궁술 교관에게 가보시오. 당신은 자신을 지키기 위해 배울 수 있는 것을 모두 배워야 할 것이오.
-dlga_start:horseman_talk|좋은 날이군! 난 여기에 승마 연습을 하러 왔는데, 관절이 심하게 쑤셔서 오늘은 그냥 쉬기로 했소. 만약 승마를 배우고 싶다면, 여기서 내 말을 타시오. 당신의 연습은 아마 그 말에게도 좋을 것 같소.
-dlga_horseman_talk:horseman_challenge|좋소, 승마 연습을 하고 싶소.
-dlga_horseman_talk:close_window|음. 아무래도 나중에 해야겠소.
+dlga_start:horseman_talk|좋은 날이군! 난 여기에 승마 연습을 하러 왔는데, 내 늙어빠진 뼈가 심하게 쑤셔서 오늘은 그냥 쉬기로 했소. 만약 승마를 배우고 싶다면, 여기서 내 말을 타시오. 당신의 연습은 아마 그 말에게도 좋을 것 같소.
+dlga_horseman_talk:horseman_challenge|네, 승마 연습을 하고 싶습니다.
+dlga_horseman_talk:close_window|음. 아무래도 나중에 해야겠습니다.
 dlga_horseman_challenge:horseman_melee_challenge_2|좋소. 이제, 당신에게 승마와 말 위에서 무기 쓰는 법을 알려드리겠소. 첫 번째는 간단하오. 그냥 말을 타고 코스를 돌기만 하면 되오. 빠르게든 느리게든 당신이 원하는 데로 달리시오. 충분하다고 생각하시면 나에게 와서 좀 더 어려운 연습을 할 수 있소.
-dlga_horseman_melee_challenge_2:close_window|알겠소. 난 준비되었소.
-dlga_horseman_melee_challenge_2:close_window.1|잠깐. 다른 걸 먼저 하고 싶소.
+dlga_horseman_melee_challenge_2:close_window|알겠습니다. 전 준비되었습니다.
+dlga_horseman_melee_challenge_2:close_window.1|잠시만요. 다른 걸 먼저 하고 싶습니다.
 dlga_tutorial_troop_default:close_window|이보시오, 난 여기서 연습 중이잖소. 원거리 무기를 지도받고 싶다면 궁술 교관에게 가서 말을 걸어보시오.
-dlga_start:lord_prison_break_confirm_3|계획에 변화가 있소?
+dlga_start:lord_prison_break_confirm_3|계획에 변화가 있나요?
 dlga_start:lord_prison_break|무슨 일이오?
 dlga_start:drunk_response|뭘 쳐다 보는거요?
 dlga_start:drunk_response.1|당신, 왜 날 쳐다보는거요?
-dlga_player_duel_response:close_window|이런 쓰레기 같은...
+dlga_player_duel_response:close_window|이런 쓰레기 같은 놈.
 dlga_player_duel_response:close_window.1|내가 죽는 것보다 그가 죽는게 낫지.
 dlga_drunk_response:drunk_fight_start|잘은 모르겠지만... 확실히, 어떤 종류의 짐승이긴 한데...
 dlga_drunk_response:drunk_fight_start.1|미안하오. 내가 사과하리다.
-dlga_dplmc_drunk_attempt_placate:close_window|I'll let it slide... this time.  Now buzz off.
-dlga_dplmc_drunk_attempt_placate:close_window.1|I'll wipe that smirk right off your face!
 dlga_drunk_fight_start:close_window|그 추접스러운 얼굴에서 웃음을 사라지게 해주지!
 dlga_drunk_response:drunk_player_high_renown|당신 내가 누군지는 아시오?
 dlga_drunk_player_high_renown:drunk_fight_start|내가 무슨 상관인데?
@@ -268,8 +266,8 @@ dlga_merchant_quest_persuasion:merchant_quest_4b8|설득력 있는 설명을 해
 dlga_merchant_quest_persuasion:close_window|말했다시피, 나는 좀 더 중요한 일이 있소.
 dlga_merchant_quest_2:merchant_quest_2a|자 -- 가서 도적들을 찾아서 무찌르시오.
 dlga_merchant_quest_3:merchant_quest_3a|자 -- 가서 도적들의 은거지를 공격해서 내 형제를 되찾아주고 도적들에게 내 가족을 건드리면 어떤 일이 일어나는지 보여주시오.
-dlga_start:close_window.7|오 -- 하늘이시여 감사합니다... 하늘이시여 감사합니다... 내가 안전한 겁니까?
-dlga_start:merchant_closing_statement_2|아... {playername}. 일이 기대했던 것만큼 잘되진 않았네. {s5}께선 내가 찾아낸 평화을 균열을 가볍게 본 나머지 별로 신경쓰지 않으셨네. 오, 그는 내가 그의 타락한 경비대장을 제거한 것에 대해선 충분히 기뻐했네. -- 도적들을 활보하게 해 준 경비병들은 전쟁터에서 적의 군대 앞에서 활보해야 할거네. 만약 그 죄값으로 적당하다면 말이지 -- 그러나 그는 이 주변을 돌아다니며 그가 통치하는 것들에게 그가 한 실수를 계속 떠오르게 하는 내가 이곳에 떠나길 바랬네.
+dlga_start:close_screen|오 -- 하늘이시여 감사합니다... 하늘이시여 감사합니다... 내가 안전한 겁니까?
+dlga_start:merchant_closing_statement_2|아... {playername}. 일이 기대했던 것만큼 잘되진 않았네. {s5}께선 내가 찾아낸 평화을 균열을 가볍게 본 나머지 별로 신경쓰지 않으셨네. 오, 그는 내가 그의 타락한 경비대장을 제거한 것에 대해선 충분히 기뻐했네. -- 도적들을 활보하게 해 준 경비병들은 전쟁터에서 적의 군대 앞에서 활보해야 할거네. 만약 그 죄값으로 적당하다면 말이지 -- 그러나 그는 이 주변을 돌아다니며 그가 통치하는 것들에게 그가 한 실수를 계속는 떠오르게 하는 내가 이곳에 떠나길 바랬네.
 dlga_merchant_closing_statement_2:merchant_closing_statement_3|그건 공평하다고 보기 어려운데...
 dlga_merchant_closing_statement_3:merchant_closing_statement_4|공평? {여보게/아가씨}, 여기는 칼라디아네! 왕은 자기가 마음먹은 대로 할수 있고, 우리는 그들이 원한대로 해야하네. 그는 나를 목매달지 않고, 대신에 나에게 내 상품을 팔 시간을 주었지. -- 심지어 다른 상인들로 하여금 나에게 가장 좋은 방법으로 공정한 가격을 지불하도록 지시까지 해주셨으니 왕으로써 할 수 있는한, 충분히 인자하셨네. -- 그러니 그는 이곳의 모두가 그렇듯이 약한 왕이네. 그리고 약한 왕은 자신들의 위엄을 지키는 것을 먼저 신경쓰지. 정의는 그 다음의 문제야. 나는 내가 그의 위치에 있다면 똑같이 했을거라고 보네.
 dlga_merchant_closing_statement_4:close_window|어쨌든 나는 {s5}의 앞에서 이 사건에서 자네에 대한 부분을 들이밀지는 않았네. -- 그러나 그는 자네를 언급했고, 자네를 교수형에 처할 가치는 없다고 결정했네. 그리고 그게 내가 계속 신경쓰던 일이야. 그는 자네의 미래에 길을 놓아줄 일을 가지고 있을지도 모르지. 혹은 자네가 그의 경쟁자 중 한 명에게 자네의 무력을 팔수도 있어. 어쨌든, 나는 자네가 이 혼란스러운 땅에서 어떻게 살아남을 수 있는지에 대한 작은 교훈이 되었으면 하네. 그리고 자네가 이번에 얻은 돈을 함부러 낭비하진 않을 거라고 생각해. 행운을 비네.
@@ -330,7 +328,6 @@ dlga_minister_issues:minister_talk.2|나의 {주군/레이디}이시여. 제가 
 dlga_minister_issues:minister_talk.3|이 시점에는, 당신의 주의를 요하는 특별히 긴급한 문제는 없습니다. 당신이 하고 싶은 게 있나요?
 dlga_minister_pretalk:minister_talk|무엇을 하고 싶으신가요?
 dlga_minister_talk:combined_political_quests|우리 왕국의 결속을 강화할 좋은 생각이 있소?
-dlga_minister_talk:offer_gift_quest_complete|나는 {s4} 에게 줄 선물 재료를 가지고 있소.
 dlga_minister_talk:minister_cancel_political_quest|{s10}에 대한 우리의 계획을 포기 합시다.
 dlga_minister_cancel_political_quest:minister_cancel_political_quest_confirm|당신은 그 계획을 정말 버리시길 원하십니까?
 dlga_minister_cancel_political_quest_confirm:minister_pretalk|그렇소, 물론이오. 그 계획을 포기 합시다.
@@ -436,8 +433,8 @@ dlga_companion_home_description:close_window.1|난 하찮은 것으로 날 괴�
 dlga_companion_home_description_2:companion_home_description_3|{s5}
 dlga_companion_home_description_3:close_window|{s5}
 dlga_event_triggered:rebel_thanks_answer|{s6}
-dlga_rebel_thanks_answer:rebel_thanks_answer_2|당신의 원인을 위해 명예를 걸고 싸울 것입니다, {reg65?부인:주군}.
-dlga_rebel_thanks_answer:rebel_thanks_answer_2.1|당신은 항상 나의 충성하는 지원이 있을 것입니다, {reg65?나의 레이드:경}.
+dlga_rebel_thanks_answer:rebel_thanks_answer_2|당신의 원인을 위해 명예를 걸고 싸울 것입니다, {reg65?부인:주군}.{***}
+dlga_rebel_thanks_answer:rebel_thanks_answer_2.1|당신은 항상 나의 충성하는 지원이 있을 것입니다, {reg65?나의 레이드:경}.{***}
 dlga_rebel_thanks_answer_2:close_window|난 당신의 모험에 길을 놓을 것입니다. 하지만 나에게도 의무가 기다리고 있습니다. 따라서... 작별 인사를 드립니다, {playername}. 나는 다른 모험을 희망한다. 다른 모험은 당신에게 빨리올 것이다.
 dlga_event_triggered:companion_political_grievance_response|{s21}
 dlga_companion_political_grievance_response:close_window|당신의 의견을 알겠어요.
@@ -1086,7 +1083,7 @@ dlga_liege_defends_claim_1:liege_defends_claim_2|그래? 모두가 이름을 꺼
 dlga_liege_defends_claim_2:liege_defends_claim_3|좋아. 궁금해서 그랬었다니 용서해주겠소. 하지만 이 얘기를 다신 입밖으로 내지마시오.
 dlga_liege_defends_claim_3:liege_defends_claim_4|{s48}
 dlga_liege_defends_claim_4:lord_talk|{s48}
-dlga_lord_join_rebellion_suggest_cheat:close_window|치트: 알았네.
+dlga_lord_join_rebellion_suggest_cheat:lord_join_rebellion_ask_for_order|치트: 알았네.
 dlga_lord_talk:lord_prison_break_chains|나는 당신을 여기서 탈출 시키기 위해서 왔오.
 dlga_lord_prison_break_chains:close_window|당신을 보내 준걸 하늘에 감사하오! 그러나H, 나는 내발에 족쇄가 있는 채로는 어디에도 갈 수 없오. 당신은 어떻게 해서든지 간수로 부터 열쇠를 구해 오시오.
 dlga_lord_tell_objective:lord_pretalk|여기서 뭘 하고있냐고? 내가 뭘 하고 있는지 않보여?! 난 여기 잡혀있잖아!
@@ -1397,7 +1394,6 @@ dlga_member_chat:lady_journey_1|즐거운 여행하고 계십니까, {s65}?
 dlga_lady_journey_1:close_window|그래요, {playername}. 관심 가져줘서 고마워요.
 dlga_start:spouse_talk|네. 당신?
 dlga_spouse_talk:minister_issues|당신이 내 수석 장관이니, 국사에 대해서 말하고 싶군요.
-dlga_spouse_talk:offer_gift_quest_complete|나는 {s4} 에게 줄 선물용 물품을 가지고 있소.{***}
 dlga_spouse_talk:spouse_cancel_political_quest|{s10} 우리 계획을 그만 둡시다.
 dlga_spouse_cancel_political_quest:spouse_cancel_political_quest_confirm|이 계획을 정말 그만 두길 원하시오?
 dlga_spouse_cancel_political_quest_confirm:spouse_pretalk|그렇소, 물론이오. 그 계획을 그만 둡시다.
@@ -1470,7 +1466,7 @@ dlga_rescue_prisoner_succeed_1:lady_pretalk|언제나 말씀하십시오, {s65}.
 dlga_start:lady_meet_end|당신은 {playername}이(가) 맞죠. 우리는 최근 열린 토너먼트에서 당신 스스로 당신을 돋보이게한 경기를 볼수 있어서 영광이었어요{s8}.
 dlga_start:lady_meet_end.1|당신은 {playername}이(가) 맞죠. 제 {s15}인 {s16}이(가) 당신을 칭송했답니다. 당신을 만나게 되서 기쁘군요.
 dlga_start:lady_premeet|처음 뵙는분 같군요...
-dlga_start:close_window.22|아, {playername}. 당신을 다시 볼수 있어 얼마나 좋으지 몰라요. 그러나 전 다른 곳으로 가야되요.
+dlga_start:close_window.19|아, {playername}. 당신을 다시 볼수 있어 얼마나 좋으지 몰라요. 그러나 전 다른 곳으로 가야되요.
 dlga_start:lady_start.3|{playername} -- 당신을 만나서 기쁘군요. (속삭임:) 저는 아직 당신의 애정어린 방문을 기억해요.
 dlga_start:lady_meet_end.2|아, {playername}. 최근 토너먼트에서 돋보이는 당신이 얼마나 훌륭한지 몰라요.
 dlga_start:lady_start.4|{s12}
@@ -1657,7 +1653,7 @@ dlga_seneschal_ask_location:seneschal_ask_location_2|글쎄요, 저 같은 위�
 dlga_seneschal_ask_location_2:seneschal_ask_location_3|{s1}
 dlga_seneschal_ask_location_2:seneschal_pretalk|생각 없소.
 dlga_seneschal_ask_location_3:seneschal_pretalk|{s1}
-dlga_start:close_window.23|거기! 멀리 {s3} 의 성벽이 보인다. 해냈군. 여기 약속한 {reg3} 디나르요. 언젠가 또 함께 여행하면 좋겠군요.
+dlga_start:close_window.20|거기! 멀리 {s3} 의 성벽이 보인다. 해냈군. 여기 약속한 {reg3} 디나르요. 언젠가 또 함께 여행하면 좋겠군요.
 dlga_start:talk_caravan_escort|먼 길을 왔습니다... 앞은 아무 것도 없나요?
 dlga_talk_caravan_escort:talk_caravan_escort_2a|근처에 도적이 있을 겁니다. 근처에 계십시오.
 dlga_talk_caravan_escort_2a:close_window|걱정마세요, {playername}, 우리는 당신에게 이미 충분히 붙어있습니다. 앞장서세요.
@@ -1734,7 +1730,7 @@ dlga_start:castle_guard_players|명령을 내리십시오, {영주님/부인}?
 dlga_castle_guard_players:close_window|내가 들어갈테니 문을 열어.
 dlga_castle_guard_players:close_window.1|신경쓰지 마시오.
 dlga_start:castle_guard_sneaked_intro_1|거지녀석! 내 눈앞에서 꺼져, 냄새나게
-dlga_start:close_window.24|거지 녀석아 당장 사라져! 내가 화를 내기 전에 말이야!
+dlga_start:close_window.21|거지 녀석아 당장 사라져! 내가 화를 내기 전에 말이야!
 dlga_castle_guard_sneaked_intro_1:castle_guard_sneaked_intro_2|저택에 들어가 당신의 주군과 이야기 하고 싶소.
 dlga_castle_guard_sneaked_intro_1:close_window|[나가다]
 dlga_castle_guard_sneaked_intro_2:close_window|너 지금 제정신이야?, {이놈아/이년아}? 거지 녀석은 저택에 들어갈 수 없다. 그래도 안가면 피투성이로 만들어줄테다.
@@ -2066,7 +2062,7 @@ dlga_farmer_from_bandit_village_5:farmer_from_bandit_village_barter|왜 내가 �
 dlga_farmer_from_bandit_village_accepted:close_window|신이 함께하시길 빕니다, {나으리/부인}. 저희 마을은 {s7}입니다. 여기서 가까운 곳에 있죠.
 dlga_farmer_from_bandit_village_denied:close_window|알겠습니다. {나으리/부인}. 귀찮게 해서 미안해요.
 dlga_farmer_from_bandit_village_barter:farmer_from_bandit_village_5|우린 겨우 불쌍한 농민들이에요.{나으리/부인}, 그리고 벌써 도적들이 저희가 가진 거의 모든 것들을 가져갔어요. 당신이 우리 말을 들어주셔서 기쁩니다. 당신이 도와준다면 우린 항상 감사할 거에요.
-dlga_start:close_window.37|도와주셔서 감사합니다, {나으리/부인}. 도적들을 박살 내주십시오!
+dlga_start:close_window.34|도와주셔서 감사합니다, {나으리/부인}. 도적들을 박살 내주십시오!
 dlga_start:mercenary_tavern_talk|용병들이 필요하십니까, {나으리/부인}? 저와 {reg4?{reg3}명의 제 동료들이:제 동료가} 주인을 구하고 있습니다. 당신이 {reg5} 디나르를 준다면 당신과 합류하겠습니다.
 dlga_start:mercenary_after_recruited|무슨 분부라도 있으신가요? {나으리/부인}
 dlga_mercenary_after_recruited:mercenary_after_recruited_2|준비하라, 우린 곧 움직일 것이다.
@@ -2479,7 +2475,7 @@ dlga_trade_info_request_2:goods_merchant_pretalk|이딴 짓할 시간 없습니�
 dlga_start:arena_intro_1.1|좋은 날이군, 친구여. 만약 토너먼트를 보러 왔다면 괜한 걸음을 했구만. 아무때나 토너먼트가 열리는 것이 아니라네.
 dlga_arena_intro_1:arena_intro_2|토너먼트? 이곳에서 토너먼트가 열리나요?
 dlga_arena_intro_2:arena_intro_3|그래, 토너먼트는 시합이 있을 때 꼭 봐야하지. 도시와 주변 마을 사람들 모두가 이곳으로 오지. 관중들은 흥분으로 미쳐가게 돼. 그건 그렇고, 아까 말했듯이 아무 때나 토너먼트가 열리지 않는다네, 그래서 평소에는 볼 게 별로 없어. 가끔식 치뤄지는 공식 대결과, 거의 매일 열리는 난투전을 빼고 말일세.
-dlga_arena_intro_3:arena_training_melee_intro|난투전에 대해 말해 주시오.
+dlga_arena_intro_3:arena_training_melee_intro|난투전에 대해 말해 주시오.{***}
 dlga_arena_training_melee_intro:arena_training_melee_intro_2|전사와 기사가 다음 토너먼트를 기다리느라 지루해하지, 그래서 그들은 훈련용 난투전을 만들어냈지. 참으로 기발한 생각이야. 전사는 무기를 들고 경기장으로 뛰어내리지. 거기엔 규칙도 없고 팀도 없어. 마직막 한 명이 남을때까지 모두를 물리쳐야 하네. 재미있을 거 같지않나?
 dlga_arena_training_melee_intro_2:arena_training_melee_intro_reward|상금은 있나요?
 dlga_arena_training_melee_intro_reward:arena_training_melee_intro_2|당연히 있지. 몇몇의 도시에 사는 부자들이 훌륭한 기술을 보여준 전사에게 상금을 주지. 만약 자네가 쓰러지기 전에 {reg1}명의 적을 쓰러뜨리면 {reg11} 디나르를 받게 되지. 적어도 {reg2}명의 적들을 쓰러뜨리게 되면 {reg12} 디나르를 받게 되고, {reg3}명을 쓰러뜨리면 {reg13} 디나르를 받지, 그리고 {reg4}명의 상대를 쓰러뜨릴 동안 살아남으면 {reg14} 디나르를 받는다네. 만약 자네가 마지막까지 남는 다면, 최고의 상금인 {reg15} 디나르를 얻을거야. 괜찮지?
