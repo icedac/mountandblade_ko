@@ -1,0 +1,2017 @@
+﻿
+qstr_You_have_equipped_an|이 종족으로는 사용할 수 없는 아이템을 장비하고 있습니다. 세계 지도로 이동할 때마다 가방으로 돌아가지만, 빈 공간이 없으면 사라집니다.
+qstr_Restricted_Item|사용할 수 없는 아이템
+qstr_{reg1}.0|{reg1}.0
+qstr_{reg1}.00{reg2}|{reg1}.00{reg2}
+qstr_{reg1}.0{reg2}|{reg1}.0{reg2}
+qstr_{reg1}.{reg2}|{reg1}.{reg2}
+qstr_Perisno_v{s1}_|페리스노 v{s1} 
+qstr_Next_Page|다음 장으로
+qstr_Game_Rules:^|게임 규칙:^
+qstr_0|0
+qstr_Show_game_rules|게임 규칙 보기
+qstr_Continue...|계속...
+qstr_Candidate_#1:_{s1}|후보자 #1: {s1}
+qstr_Candidate_#2:_{s1}|후보자 #2: {s1}
+qstr_{s3}_of_{s4}_wishes_|{s4}의 {s3}은(는) 새로운 사령관을 선택하고자 그의 조언자를 초대합니다. {s1} 그리고 {s2}이(가) 후보자 입니다.
+qstr_Who_do_you_wish_to_s|누구를 지지하고 싶습니까?
+qstr_{s1}_gives_his_suppo|{s1}은(는) {s2}을(를) 지지했습니다.
+qstr_Number_of_Supporters|지지자 수: {reg0}
+qstr_{s2}_has_heard_his_v|{s2}는(은) 그의 조언자의 조언을 들었습니다. 그는 {s1}을(를) {s3}의 사령관으로 선택했습니다.
+qstr_Action|행동
+qstr_Mount|승마
+qstr_Attack_Type|공격 형태
+qstr_Stand_Ground|정지
+qstr_Charge|돌격
+qstr_Follow_Me|나를 따르라
+qstr_Hold_This_Position|대기
+qstr_Spread_Out|산개
+qstr_Stand_Closer|밀집
+qstr_Fall_Back|물러나라
+qstr_Advance|진군하라
+qstr_Dismount|하마명령
+qstr_Fire_At_Will|자유롭게 쏴라
+qstr_Hold_Your_Fire|사격 중지
+qstr_Use_Blunt_Weapons|둔기를 사용하라
+qstr_Use_Any_Weapon|모든 무기를 사용하라
+qstr_Ready|대기
+qstr_Wounded|부상
+qstr_Dead|사망
+qstr_Number_of_men_knocke|쓰러진 병사 수: {reg1}
+qstr_Number_of_men_left:_|살아남은 병사 수: {reg1}
+qstr_Opponents_Beaten:_{r|쓰러진 상대방 수: {reg1}
+qstr_Opponents_Remaining:|남은 상대방 수: {reg1}
+qstr_Remain_in_retirement|모험에서 은퇴한다.
+qstr_Go_back_to_the_adven|모험을 계속한다.
+qstr_You_have_retired_at_|당신은 {reg5}일 동안 모험을 하였고 레벨 {reg4}에 은퇴하였습니다.
+qstr_Effect_on_Score|점수에 미치는 영향
+qstr_Settlements_owned_by|소유한 정착지: {reg0}
+qstr_Friendly_Settlements|친한 정착지: {reg0}
+qstr_Hostile_Settlements:|적대적인 정착지: {reg0}
+qstr_Friendly_Lords:_{reg|우호적인 군주들: {reg0}
+qstr_Enemy_Lords:_{reg0}|적대적인 군주들: {reg0}
+qstr_Victories:_{reg0}|승리: {reg0}
+qstr_Defeats:_{reg0}|패배: {reg0}
+qstr_Quests_Completed:_{r|완료한 임무: {reg0}
+qstr_Companions_Found:_{r|발견한 동료: {reg0}
+qstr_Companions_Lost/Depa|상실/떠나간 동료: {reg0}
+qstr_Wealth:_{reg0}_aurum|재산: {reg0} 오럼
+qstr_Inventory:_{reg0}_au|가방: {reg0} 오럼
+qstr_Renown:_{reg0}|명성: {reg0}
+qstr_Experience:_{reg0}|경험치: {reg0}
+qstr_Days_Passed:_{reg0}|경과 일수: {reg0}
+qstr_Difficulty:_{reg0}%|난이도: {reg0}%
+qstr_TOTAL_SCORE:_{reg0}|총 점수: {reg0}
+qstr_unknown_yet|아직도 불명임
+qstr_tomorrow|내일
+qstr_Next_Payday:_{s22}|다음 지불일: {s22}
+qstr_{s0}__{s50}_|{s0} ({s50})
+qstr_None|없음
+qstr_Wages_for_{s0}__you_|{s0}의 임금 (당신은 {reg7} 오럼을 지불해야함):
+qstr_Staff:|직원:
+qstr_Earlier_cash:|이전의 재산:
+qstr_New_cash:|새로운 재산:
+qstr_Done|완료
+qstr_Name:_{s1}^Level:_{r|이름: {s1}^레벨: {reg1}
+qstr_{s1}^HP:_{reg1}/{reg|{s1}^HP: {reg1}/{reg2}
+qstr_{s1}|{s1}
+qstr_Weapon_upgrade_setti|무기 업그레이드 설정:
+qstr_Apply_to_everyone|모두에게 적용하기
+qstr_Upgrade_armor_|갑옷 업그레이드
+qstr_Upgrade_horse_|말을 업그레이드
+qstr_Select_your_domestic|국내 정책을 선택해 주십시오.
+qstr_Centralization:|중앙 집권화:
+qstr_Aristocracy:|귀족제:
+qstr_Serfdom:|농노제:
+qstr_Mercantilism:|중상주의:
+qstr_High_centralization_|중앙 집권화는 세금 징수의 비효율을 감소시킵니다. 이것은 지배자와 가신 사이의 관계를 저해시킵니다.
+qstr_High_aristocracy_wil|귀족제는 왕과 가신 사이의 관계를 개선시키며, 가신이 보다 큰 부대를 소유하지만, 교역은 쇠퇴합니다.
+qstr_High_serfdom_reduces|농노제는 세금 징수의 비효율을 감소시키며, 가신은 보다 큰 부대를 유지하지만, 사기가 감소하기 쉬워집니다.
+qstr_Mercantilistic_polic|중상주의 정책은 수출을 최대화함과 동시에 수입을 최소화시켜서 산업의 정부규제를 강화합니다.
+qstr_Cancel|취소하기
+qstr_Dictate_the_peace_te|평화 조건을 지시
+qstr_Select_the_castle_an|성 및 금액을 선택하고 상자를 체크하여 요구를 활성화 하십시오. 두 상자가 모두 체크되면 요구 사항은 합의를 보게 됩니다.
+qstr_1000_aurums|1000 오럼
+qstr__Faction_Relations_R| 세력 관계 보고서
+qstr__Return_to_menu_| 메뉴로 돌아가기
+qstr_Your_kingdom|당신의 왕국
+qstr_Player^Relation|플레이어와의^관계
+qstr_War|전쟁
+qstr_Casus_Belli|개전 이유
+qstr_Peace|평화
+qstr_Truce|휴전
+qstr_Alliance|동맹
+qstr_Defense|방위
+qstr_Trade|교역
+qstr_{reg59?{reg59}_days:|{reg59?{reg59} 일:}
+qstr_{reg61}|{reg61}
+qstr_{s9}|{s9}
+qstr_Loyal|충실함
+qstr_Devoted|헌신적임
+qstr_Fond|좋아함
+qstr_Gracious|자애로움
+qstr_Friendly|다정함
+qstr_Supportive|지지함
+qstr_Favorable|호의적임
+qstr_Cooperative|협조적임
+qstr_Accepting|받아들임
+qstr_Indifferent|무관심함
+qstr_Suspicious|수상쩍어함
+qstr_Grumbling|불평스러움
+qstr_Hostile|적대적임
+qstr_Resentful|분개함
+qstr_Angry|성남
+qstr_Hateful|혐오함
+qstr_Revengeful|복수심을 품음
+qstr_Vengeful|복수심에 불탐
+qstr_{reg1}|{reg1}
+qstr_{s3}|{s3}
+qstr_{reg61}_{reg58?_{reg|{reg61} {reg58?({reg58} U) :}의 영토
+qstr_{reg62}_Caravans|{reg62} 대상
+qstr_{reg60}_{reg59?_{reg|{reg60} {reg59?({reg59} P) :} 영주들
+qstr_How_will_your_male_v|당신의 남성 가신을 뭐라고 부릅니까?
+qstr_How_will_your_female|당신의 여성 가신을 뭐라고 부릅니까?
+qstr_Use_the_Titles_Enter|위에 입력한 칭호를 사용한다.
+qstr_Use_Default_Titles__|기본 칭호를 사용함. (영주/아가씨)
+qstr_Sell_items_automatic|떠나갈 때 자동으로 아이템을 판매한다:
+qstr_Price_limit_for_auto|자동 판매를 위한 가격 한도:
+qstr_Item_types_for_auto_|자동 판매를 위한 아이템 유형:
+qstr_Select_all|모두 선택
+qstr_Select_invert|모두 반전
+qstr_Buy_food_automatical|떠나갈 때 자동으로 음식을 구매한다:
+qstr_*|*
+qstr__Courtships_in_progr| 진행중인 구애 
+qstr__Known_Lords_by_Rela| 알려진 영주와의 관계 
+qstr__Character_&_Compani| 캐릭터 & 동료 
+qstr__Done_| 완료 
+qstr_Your_supporters|당신의 지지자들
+qstr_Tolrania|톨라니아
+qstr_Reich_Des_Drachen|용의 제국
+qstr_Drahara|드라하라
+qstr_Maccavia|믹카비아
+qstr_Elintor|엘린터
+qstr_Hakkon_Empire|하콘 제국
+qstr_The_Valahir_Clan|발라히르 부족
+qstr_All_Factions|모든 세력
+qstr_What_will_your_party|당신의 부대는 어떻게 알려졌습니까?
+qstr_By_the_name_entered_|위에 입력 한 이름으로.
+qstr_Simply_by_my_name:_{|단순히 내 이름으로: {s5}.
+qstr_Weapons|무기
+qstr_Armors|갑옷
+qstr_Others|그 밖에
+qstr_This_area_of_{s1}_ca|{s1}의 이 지역은 그야말로 도시의 핵심이라고 할 수 있습니다.^^ 당신은 이곳저곳에서 줄어들고 늘어나는 숫자들을 볼 수 있으며 한계가 없다는 듯이 돈이 오고 가는 모습을 봅니다.  이곳에서 당신은 도시의 문 밖에서 농사를 지으면서 열심히 일하는 사람들로부터 이익을 얻는 땅을 구입할 수 있습니다. 당연히 당신은 그러기 위한 오럼이 없을지도 모르지만, 대금업자가 약간의 대출을 해준다고 알려져 있습니다.
+qstr_{reg1}_people_live_i|{s1}에는 {reg1}명의 사람들이 살고 있다. 음식과 기타 제품들을 제공하기 위해 개척된 토지는 현재 {reg2} 에이커가 있습니다. 당신은 이 도시에서 {reg3} 에이커의 토지를 소유하고 있습니다. 현재 {s1}의 대금업자에게는 {reg4} 오럼을 빚지고 있습니다. 이자율은 20%이며 계약 기간은 2주입니다. 기한까지 빚을 갚지 않으면 이자가 40%로 상승합니다. 기존의 에이커를 구입하려면 {reg9} 오럼이 필요하지만, 되팔때는 {reg10} 오럼에 판매됩니다. 새로 개척하려면 {reg11} 오럼이 필요합니다. 토지 소유자에게 지불되는 집세는 현재 매주 {reg13} 오럼이며 모인 돈을 회수하려면 도시를 방문해야 합니다. 도시가 잘 공급되고 있다면 토지는 임대되지 않을 것입니다.
+qstr_Choose_how_many_acre|판매하려는 에이커 수를 선택:
+qstr_Choose_how_many_acres|구매하려는 에이커 수를 선택:
+qstr_{s2}|{s2}
+qstr_Buy_Land|토지 매수
+qstr_Choose_how_much_mone|빌릴 돈을 선택 :
+qstr_Borrow|빌리기
+qstr_Buy_and_prepare_uncu|구입하고 개간할 미개척지 :
+qstr_Prepare_Land|개간하기
+qstr_Pay_off_your_debt_:|빚을 갚기 :
+qstr_Make_Payment|지불하기
+qstr_{reg5}|{reg5}
+qstr_You_cant_sell_0_acre|0 에이커의 토지를 팔 수는 없습니다.
+qstr_You_cant_buy_0_acres|0 에이커의 토지를 살 수는 없습니다.
+qstr_{reg6}|{reg6}
+qstr_You_cant_borrow_0_au|0 오럼을 빌릴 수 없습니다.
+qstr_{reg7}|{reg7}
+qstr_{reg8}|{reg8}
+qstr_You_cant_pay_back_0_|0 오럼을 갚을 수는 없습니다.
+qstr_Town|도시
+qstr_Acres|에이커
+qstr_Owned|소유함
+qstr_Balance|균형
+qstr_Assets|자산
+qstr_Debt|빚
+qstr_Deadline|반환 기한
+qstr_{reg2}|{reg2}
+qstr_{reg3}|{reg3}
+qstr_{reg4}|{reg4}
+qstr_This_is_the_gambling|이것은 도박 화면입니다. 컨트롤 키를 누른 상태로 아이템을 클릭하면 아이템을 구매 또는 판매합니다.
+qstr_Money:_{s1}|돈: {s1}
+qstr_You_don_t_have_enoug|당신은 소지금이 충분하지 않습니다.
+qstr_He_don_t_have_enough|당신은 소지금이 충분하지 않습니다.
+qstr_Merchant_Ledger|가맹점
+qstr_____Assessed_Profit_|    부제 별 이익 평가
+qstr_{s0}_products_from_{|{s0},{s1}의 생산품:
+qstr_^{s1}_sold_in_{s2}_w|^{s1} 을(를) {s2} 에서 판매하면 {reg0} 오럼의 이득을 얻으리라.{s3}
+qstr___Assessed_Profit_by|  로그 입력 날짜별로 이익 평가
+qstr_^{s1}_sold_in_{s2}_wo|^{s1} 을(를) {s2} 에서 판매하면 {reg0} 오럼의 이득을 볼 수 있으리라. ({s0} 현재){s3}
+qstr_Production_in_{s1}|{s1}의 생산품
+qstr_Assessed_Profit_by_T|도시 생산품으로 이익 평가
+qstr_^{s1}_purchased_in_{|^{s1} 을(를) {s2} 으로 구매한다면 {reg0} 오럼의 이득을 볼 수 있으리라. ({s0}현재){s3}
+qstr_Demand_in_{s1}|{s1}의 수요
+qstr_Assessed_Profit_by_To|도시 수요로 이익 평가
+qstr_^Buy_in:_{s1}___sell|^구매: {s1} - 판매: {s2}의 {reg0} 오럼 이익. ({s0}현재){s3}
+qstr_Supply_and_Demand_of|{s1}의 수요와 공급
+qstr_____Assessed_Profit_b|    무역 상품으로 이익 평가
+qstr_Trim_ledger_entries_|Trim ledger entries older than:              days:
+qstr_Remove_entries.|항목을 제거한다.
+qstr_Trim_ledger_entries_c|Trim ledger entries covering the following trade good:
+qstr_Use_slider_to_choose|슬라이더를 사용하여 아이템 선택
+qstr_Trim_ledger_entries_f|Trim ledger entries for goods tied to this town:
+qstr_Use_slider_to_choose_|슬라이더를 사용하여 도시 선택
+qstr_Remove_entries__Prod|항목 제거 (생산품)
+qstr_Remove_entries__Dema|항목 제거 (수요)
+qstr_Trim_ledger_entries_w|Trim ledger entries with less than:              aurums profit:
+qstr_Ask_about_the_potent|Ask about the potential profit of the following items^    every time you assess prices in a marketplace:
+qstr____________Log_Entry|           기록 항목 설정
+qstr_Add_Note|메모를 추가
+qstr_Clear_Notes|메모 지우기
+qstr_Use_a_/\__caret__for|Use a /\ (caret) for a line break.
+qstr_Chronological_Log|연대순 기록
+qstr_Production_Towns|도시 생산품
+qstr_Purchasing_Towns|도시 수입품
+qstr_Trade_Goods|무역 상품
+qstr_Manage_Ledger|원장 관리
+qstr_{s1}^+{s0}|{s1}^+{s0}
+qstr_{reg0}_entries_remov|원장에서 {reg0} 개의 항목이 삭제되었습니다.
+qstr_Faction_color_of_{s0|{s0} 진영의 색:
+qstr_Red:|적:
+qstr_Green:|녹:
+qstr_Blue:|청:
+qstr__| 
+qstr_HTML_code:_{s0}|HTML code: {s0}
+qstr_Default|기본
+qstr_Randomize|무작위
+qstr_Factions|세력
+qstr_Show_towns|도시 보기
+qstr_Show_castles|성 보기
+qstr_Show_villages|마을 보기
+qstr_Tip:_move_the_mouse_|도움말: 마우스를 검은 색 블록으로 이동하여 이름을 표시하십시오.
+qstr_The_World_Map|세계 지도
+qstr_Keys_Configuration|키 구성
+qstr_Press_Esc_to^^Disabl|키를 사용하지 않으려면^^Esc 키를 누르십시오
+qstr_OK|확인
+qstr_Reset|되돌리기
+qstr_Disable_all|모두 사용 중지
+qstr_Press_a_key|원하시는 키를 누르십시오
+qstr_What_will_your_settl|당신의 정착지는 어떻게 알려져 있습니까?
+qstr_Settlement|정착지
+qstr_Simply_by_the_name_o|단순히 {s5} 라는 이름으로.
+qstr_Plan_Deployment|배치 계획
+qstr_You_will_have_{reg1}|전투가 시작될 때 최대 {reg1} 명의 병력을 확보할 수 있음
+qstr_Troop|병사
+qstr_#_at_start__/_#_in_p|# 출진  / #부대에서
+qstr_/_{reg0}|/ {reg0}
+qstr_{reg0}|{reg0}
+qstr_of_{reg0}_troops|의 {reg0} 명의 병사들
+qstr_Ready_Troops|부대 준비
+qstr_Reassess|재평가
+qstr_Scrap_All|전부 처분
+qstr_Too_many_troops^Chec|병사가 너무 많습니다.^유효한 숫자를 확인하십시오.
+qstr_Initial|초기
+qstr_Movement_1|움직임 1
+qstr_Movement_2|움직임 2
+qstr_Formation|대형
+qstr_Attack|공격
+qstr_Weapon_Type|무기 종류
+qstr_Shield|방패
+qstr_Skirmish|척후
+qstr_Hold_Position|위치 사수
+qstr_Back_10|뒤로 10
+qstr_Forward_10|앞으로 10
+qstr_Repeat_x|반복 x
+qstr_Square|정사각형
+qstr_Wedge|쐐기형
+qstr_Shieldwall|방패벽
+qstr_Ranks|향오
+qstr_Ranged|원거리
+qstr_Polearms|장창류
+qstr_Two_Handed|양손
+qstr_One_Handed|한손
+qstr_No_Shields|방패 없음
+qstr_Use_Shields|방패 사용
+qstr_Avoid_Melee|근접 회피
+qstr_Turn_to_weapon_order|무기 명령으로...
+qstr_Prepare_Orders|명령 준비
+qstr_Dispatch_Orders|명령 급파
+qstr_...Turn_to_positioni|...대형 명령으로
+qstr_Record_Battle_Size_a|옵션에서 설정 한 전투 크기 기록
+qstr_Record_Battle_Size_as|옵션에서 설정 한 전투 크기 기록:
+qstr_The__Weapon_Use_Fixe|'무기 사용 수정'은 NPC의 무기사용을 다음처럼 변경합니다.^^멋대로 행동하는게 싫은 사람은 선택을 취소하십시오.
+qstr_Use_NPC_Lancer_Fix:|NPC의 기마창 수정을 사용:
+qstr_Use_NPC_Horse_Archer|NPC의 기마 궁수 수정을 사용:
+qstr_Use_NPC_Spear/Polear|NPC의 창/장병기 수정을 사용:
+qstr_Use_Pike/Horse_Damag|장창/말 피해 조정을 사용:
+qstr_Reassign_De_horsed_C|하마 기병의 재편성 부대:
+qstr_Reassign_No_Ammo_Arc|화살이 떨어진 궁병의 재편성 부대:
+qstr_Enable_Battle_Contin|기절후에도 전투 속행을 사용:
+qstr_Batt._Cont._Charge_a|기절후의 명령:
+qstr_Formations_Battle_AI|진형 전투 AI:
+qstr_Enable_AI_to_use_Spe|AI의 특수 명령 사용:
+qstr_Enable_Bodyguards_in|도시/마을에서의 호위병 사용:
+qstr_Enable_ranged_penalt|날씨에 따른 원거리 무기의 불이익 사용:
+qstr_Disable_Companions__|동료들의 불만을 비활성화:
+qstr_Enable_the_cheat_men|치트 메뉴 활성:
+qstr_Charge_All|전원 돌격
+qstr_Formations_AI|진형 AI
+qstr_Native_AI_w/Formatio|네이티브 AI, w/진형
+qstr_PBOD_Mod^Options|PBOD 모드^설정
+qstr_Mouse_over_options_f|자세한 내용은 마우스-오버 옵션을 참조하십시오.
+qstr_Restore_Defaults|기본값으로 복원
+qstr_Key_Settings|키 구성
+qstr_Weapon_Use_Fix_for_L|NPC의 기마창 수정을 사용하면 기병은 포위당하지 않는 한 창을 사용하게 됩니다.
+qstr_Weapon_Use_Fix_for_H|NPC의 기마 궁병 수정을 사용하면 궁기병은 화살이 떨어질 때까지 활을 사용하게 됩니다.
+qstr_Weapon_Use_Fix_for_S|NPC의 창/장병기 수정을 사용하면 보병은 포위당하지 않는 이상 창이나 장병기를 사용하게 됩니다.
+qstr_Damage_tweaks_will_g|장창/기병의 피해 조정을 사용하면 장병기는 기병에게, 기병의 돌격은 보병에게 저마다 추가 피해량이 가해지게 됩니다. 빈약한 AI에 의한 장병기와 돌격의 운용을 보조하는 것입니다.
+qstr_Mounted_bots_once_th|말이 죽은 기병이 선택한 부대에 재편성되게 됩니다. 적용되는 동안 AI는 보병으로 재설정하게 됩니다.
+qstr_Foot_archer_bots_onc|화살이 떨어진 궁병이 선택한 부대에 재편성되게 됩니다. 적용되는 동안  AI는 보병으로 재설정하게 됩니다.
+qstr_Battle_Continuation_|당신이 전투에서 기절한 뒤에도 남은 병사들은 전투를 속행합니다.
+qstr_If_Battle_Continuati|If Battle Continuation is active, you can select what your troops will do after you get knocked out: Disabled has them continue their previous orders; Charge all will give everyone a charge order; Formations AI (if active for the AI) will allow the new AI to take over for you.
+qstr_Select_your_prefered|Select your prefered Battle AI: Disabled is Native AI; Formations AI both allows the AI to use formations and changes their battle decision-making; Native AI w/Formations is Native AI but carries out the Native AI with basic formations.
+qstr_Enabling_AI_Special_|사용하면 AI가 일제사격(크로스보우병), 산개 태세(궁병), 창의 벽(장창병)등의 특수 명령을 사용하게 됩니다.
+qstr_Bodyguards_allows_yo|도시나 마을에 들어갈 때 동료가 호위로 따라오게 됩니다. 호위의 수는 당신의 지도력과 명성에 따라 달라집니다.
+qstr_The_Weather_Proficie|날씨에 따른 불이익을 사용하면 안개, 비, 눈, 혹은 야간같은 악천후에는 투사 병기의 명중율에 불이익을 주게 됩니다.
+qstr_Disabling_NPC_Compla|사용하게 되면 NPC 동료들은 플레이어의 행동이나 서로에 대한 불만을 표현하지 않게 됩니다. 무효로 되어있는 동안은 당신의 지휘를 어떻게 생각하는가에 관계없이 부대를 떠나려고 하지 않게 됩니다.
+qstr_The_cheat/debug_mode|치트 메뉴를 사용하면 야영지와 보고에 치트 메뉴가 표시되며, 디버그 메시지를 표시하게 됩니다.
+qstr_DeathCam_Mouse_Sensi|사망후 카메라 마우스 감도
+qstr_Mod_Options|모드 설정
+qstr_{s10}___Formation_ty|{s10} - 대형 명령
+qstr_{s11}___Weapon_order|{s11} - 무기 명령
+qstr_{s12}___Shield_order|{s12} - 방패 명령
+qstr_{s13}___Attack_order|{s13} - 공격 명령
+qstr_{s10}___Ranks|{s10} - 횡렬 대형
+qstr_{s11}___Shieldwall|{s11} - 방패의 벽
+qstr_{s12}___Wedge|{s12} - 쐐기형
+qstr_{s13}___Square|{s13} - 방진형
+qstr_{s14}___No_Formation|{s14} - 진형 없음
+qstr_{s15}___Escape_Menu|{s15} - 메뉴 닫기
+qstr_{s11}___One_Handers|{s11} - 한손
+qstr_{s12}___Two_Handers|{s12} - 양손
+qstr_{s13}___Polearms|{s13} - 장창류
+qstr_{s14}___Ranged|{s14} - 원거리
+qstr_{s11}___Use_Shields|{s11} - 방패 사용
+qstr_{s12}___No_Shields|{s12} - 방패 없음
+qstr_{s13}___Free|{s13} - 자유롭게
+qstr_{s10}___End_Order|{s10} - 명령 종료
+qstr_{s11}___Skirmish|{s11} - 척후
+qstr_{s12}___Volley_Fire|{s12} - 일제 사격
+qstr_{s13}___Brace_Polear|{s13} - 장창병 임전 태세
+qstr_DeathCam|사망 카메라
+qstr_Camera|카메라
+qstr_Follow|따르기
+qstr_Free|자유
+qstr_Troop_Assignments|부대 지정
+qstr_Split_Troops_into_Se|병사들을 다른 분대로 분할할 수 있습니다.
+qstr_Troops_by^_Primary_D|주요 부대의 병사
+qstr_#_in^Main_Division|# 중추 분대
+qstr_Show/^Hide|표시/^숨기기
+qstr_#_in^Secondary_Divis|# 분할 분대
+qstr_Secondary^Division|분할^분대
+qstr_Disabled|사용 안함
+qstr_Split_Active|분대 활성
+qstr_Clear_All|모두 지우기
+qstr_Discard_Changes|변경 사항을 취소
+qstr_Save|저장
+qstr_General_Options|일반적인 옵션
+qstr_Sort_Parties:|부대 정렬:
+qstr_Sort_Player_Fiefs:|플레이어 영토 정렬:
+qstr_Companion_Options|동료 옵션
+qstr_Battle_Options|전투 옵션
+qstr_Charge_On_Death:|죽으면 돌격:
+qstr_CHAAAAAAAAARGE!|돌겨어어어어억!
+qstr_Do_Not_Force_Cavalry|기병이 강제로 승마하지 않게 한다:
+qstr_Disable_Realistic_Ra|현실적인 원거리 무기 피해량 사용하지 않음
+qstr_Battle_Overview_Map:|전투 개요 지도:
+qstr_Reinforcement_Waves:|증원군 출격 최대수:
+qstr_Reinforcement_Thresh|증원되는 횟수:
+qstr_Reinforcement_Amount|증원 참가 부대수:
+qstr_Over_world_Options|전 세계 옵션
+qstr_Wait_Time_Multiplier|대기 시간의 배율:
+qstr_Center_Waiting_Time:|도시의 대기 시간:
+qstr_Zann_Invasion_Date:|잔 침략 일자:
+qstr_Diplomacy_Options|외교 옵션
+qstr_Horse_speed_limitati|말 속도 제한:
+qstr_Terrain_advantage_in|자동 전투에서의 지형 이점:
+qstr_Lords_returning_from|망명에서 돌아오는 영주들:
+qstr___Disabled__|- 무효 -
+qstr_Enabled|유효
+qstr_Frequent|빈번함
+qstr_Diplomacy_AI_changes|외교 AI 변경:
+qstr_Low|낮음
+qstr_Medium|중간
+qstr_High/Experimental|높음 / 실험적
+qstr_Diplomacy_economic_c|외교와 경제 변경:
+qstr_Anti_woman_prejudice|여성에 대한 편견 수준:
+qstr_High|높음
+qstr_Formations_Options|진형 옵션
+qstr_Disable_Mod_Formatio|모드 진형을 사용하지 않음:
+qstr_Allow_Formation_Rota|진형을 회전 시킨다:
+qstr_Scale_AI_vs._Battle_|전투 크기가 클 때 AI 저하:
+qstr_AI_Defense_Stance_Bl|AI의 방어 태세를 방지하기:
+qstr_Put_Player_in_Divisi|플레이어가 배치되는 부대:
+qstr_Silverstag_Mod_Toggl|Silverstag 모드 전환 설정
+qstr_Enable_Combat_Sprint|전투 질주를 사용하기:
+qstr_Stamina_Bar_Color:|체력 막대 색상:
+qstr_Gold|금색
+qstr_Blue|청색
+qstr_Green|녹색
+qstr_Riders_Damaged_When_|낙마시 피해를 입음:
+qstr_Enable_Encumbrance_P|중량 불이익을 사용함:
+qstr_Disable_village_alli|마을 사람들의 참전을 무효화:
+qstr_Enable_Combat_Enhanc|전투 향상을 사용함:
+qstr_Perisno^Options|페리스노^설정
+qstr_Faction_Colors|세력 색상
+qstr_You_must_enable_NPC_|플레이어 영토 정렬을 적용하려면 NPC 부대의 정렬 기능도 사용 가능하게 설정해야 합니다.
+qstr_If_Enabled_party_sor|If Enabled, party sorting will be turned on.^^This will sort all NPC parties (including garrisons), as well as allow the possibility of sorting player party and player fiefs^^Default = Enabled
+qstr_If_Enabled_all_garri|If Enabled, all garrisons in player fiefs will be sorted automatically (Must enable party sorting)^^Default = Disabled
+qstr_Disabling_NPC_Complai|Disabling NPC Complaints will mute your companion's complaints about each other or your decisions.  While disabled, companions will not leave the party regardless of how they feel about your leadership.
+qstr_If_Enabled_your_unit|If Enabled, your units will break formation and charge when you die.^^Default = Enabled
+qstr_If_Enabled_lords__pa|If Enabled, lords' parties will always charge in battle instead of dancing in circles.^^Default = Disabled
+qstr_If_Disabled_cavalry_|If Disabled, cavalry will not dismount in crowds (drawback - when dehorsed, riders will rather passively look for a new horse).^^Default = Disabled
+qstr_When_Enabled_bows_ge|When Enabled, bows get damage penalty against heavy armor while crossbows get armor penetration.^^Default = Enabled
+qstr_When_enabled_a_small|When enabled a small transparent map of the current battle will appear in the upper right corner of the combat screen.^^If unchecked, this will not appear.
+qstr_This_sets_the_maximu|이것은 전투시 증원 병력의 출격 횟수의 최대치를 설정합니다.^^기본 = 3
+qstr_This_sets_the_thresh|이것은 증원 병력이 생성되기 전에 군대에 대한 임계 값을 설정합니다.^^실제 임계 값은 전투 이점 및 전투 크기 옵션에 따라 다릅니다.^^기본 = 2
+qstr_This_sets_the_number|This sets the number of troops that appear in each reinforcement wave.^^The actual amount depends on battle advantage and battle size options^^Is not limited by battle size options^^Default = 2
+qstr_This_sets_the_time_m|이것은 대기 혹은 휴식하고 있는 동안의 시간 배율을 설정합니다.^^기본 = 8
+qstr_This_sets_how_many_h|이것은 도시나 마을에서 대기를 선택했을 때의 대기 시간을 설정합니다.^^기본 = 24
+qstr_After_this_date_the_|After this date, the Zann will invade (DO NOT SET IT TO AN EARLIER DATE THAN 35 DAYS FROM CURRENT DAY)^^Default = 156
+qstr_When_enabled_this_ca|이 기능을 활성화하면 말의 체력이 감소하면 속도역시 떨어지게 됩니다.
+qstr_Ticked_autocalculate|Ticked, autocalculated battles give advantage to factions on their home terrain. Unticked, as in Native and auto-battles are only based on party size and troop levels.
+qstr_Allows_exiled_lords_|Allows exiled lords to be pardoned after a time and rejoin a faction to prevent 'lord-drain' in the late game.
+qstr_Low:^^___Center_poin|Low:^^ - Center points for fief allocation are calculated (villages 1 / castles 2 / towns 3) instead of (villages 1 / castles 1 / towns 2).^^ - For qst rescue prisoner and qst offer gift, the relatives that can be a target of the quest have been extended to include uncles and aunts and in-laws.^^ - Alterations to script calculate troop score for center (these changes currently are only relevant during claimant quests).^^ - When picking a new faction, lords are more likely to return to their original faction (except when that's the faction they're being exiled from), if the ordinary conditions for rejoining are met.  A lord's decision may also be influenced by his relations with other lords in the various factions, instead of just his relations with the faction leaders.^^Medium:^^ - Some changes for lord relation gains/losses when fiefs are allocated.^^ - Kings overrule lords slightly less frequently on faction issues.^^ - In deciding who to support for a fief, minor parameter changes for certain personalities. Some lords will still give priority to fiefless lords or to the lord who conquered the center if they have a slightly negative relation (normally the cutoff is 0 for all personalities).^^ - When a lord can't find any good candidates for a fief under the normal rules, instead of automatically supporting himself he uses a weighted scoring scheme.^^ - In various places where 'average renown * 3/2' appears, an alternate calculation is sometimes used.^^High:^^ - The 'renown factor' when an NPC lord or the player courts and NPC lady is adjusted by the prestige of the lady's guardian.^^ - When a faction has fiefless lords and no free fiefs left, under some circumstances the king will redistribute a village he owns.^^
+qstr_Low:^^___Caravan_tra|Low:^^ - Caravan trade benefits both the source and the destination^^ - When the player surrenders, there is a chance his personal equipment will not be looted, based on who accepted the surrender and the difficulty setting. (This is meant to address a gameplay issue. In the first 700 days or so, there is no possible benefit to surrendering rather than fighting to the last man.) Also, a bug that made it possible for books etc. to be looted was corrected.^^ - AI caravans take into consideration distance when choosing their next destination and will be slightly more like to visit their own faction. This strategy is mixed with the Native one, so the trade pattern will differ but not wildly.^^ - Scale town merchant gold by prosperity (up to a maximum 40% change).^^ - Food prices increase in towns that have been under siege for at least 48 hours.^^ - In towns the trade penalty script has been tweaked to make it more efficient to sell goods to merchants specializing in them.^^Medium:^^ - Food consumption increases in towns as prosperity increases.^^   Consumption also increases with garrison sizes.^^ - Lords' looting skill affects how much gold they take from the player when they defeat him.^^ - Lords' leadership skill modifies their troop wage costs the same way it does for the player.^^ - The player can lose gold when his fiefs are looted, like lords.^^ - The same way that lord party sizes increase as the player progresses, mercenary party sizes also increase to maintain their relevance. (The rate is the same as for lords: a 1.25% increase per level.)^^ - If the player has a kingdom of his own, his spouse will receive part of the bonus that ordinarily would be due a liege.  The extent of this bonus depends on the number of fiefs the players holds. This bonus is non-cumulative with the marshall bonus.^^ - Attrition is inflicted on NPC-owned centers if they can't pay wages, but only above a certain threshold.^^ - Strangers cannot acquire enterprises (enforced at 1 instead of at 0, so you have to do something).^^High: - The total amount of weekly bonus gold awarded to kings in Calradia   remains constant: as kings go into exile, their bonuses are divided among the remaining kings.^^ - If lord's run a personal gold surplus after party wages, the extra is divided among the lord and his garrisons budgets (each castle and town has its own pool of funds to pay for soldiers) on the basis of whether the lord is low on gold or any of his fortresses are. (If none are low   on gold, the lord takes everything, like before.)^^ - The honor loss from an offense depends in part on the player's honor   at the time.  The purer the reputation, the greater the effect of a single disagrace.^^ - Raiding change: village gold lost is removed from uncollected taxes before the balance (if any) is removed from the lord.^^ - Cash for prisoners
+qstr_Disabled_levels_the_|Disabled levels the playing-field for female player characters. Default as in Native. High increases the sexism/anti-woman prejudice of the medieval setting for female player characters.
+qstr_If_checked_this_disa|유효로 설정하면 진형 모드가 작동하지 않게 됩니다.^^기본 = 무효
+qstr_If_enabled_this_allo|If enabled, this allows your formations to pivot to face the center of the enemy's party.^^Default = Enabled
+qstr_If_enabled_reduces_t|이 기능을 활성화하면 대규모 전투에서 AI의 지능을 감소시켜서 성능 향상에 도움을 줍니다.^^기본 = 활성화
+qstr_If_enabled_prevents_|이 기능을 활성화하면 AI가 장기간 방어 대기 태세를 취하는 것을 방지하여 전투가 길어지는 것을 막습니다.^^기본 = 활성화
+qstr_This_sets_which_divi|이것은 플레이어가 어느 분대에 편성되는지를 설정합니다.^^기본 = 9
+qstr_When_enabled_soldier|When enabled, soldiers (player and AI) on foot may attempt to close the gap with their enemy at a sprinting speed based upon their agility, strength & athletics.^^Note: Turning this off will help CPU performance.
+qstr_This_sets_the_color_|활력 막대의 색을 설정합니다.
+qstr_When_checked_this_wi|When checked, this will cause any mounted rider (player or AI) to receive damage when their mount is taken out from under them.  Damage is increased based upon the speed the mount was moving and the total weight of the rider and reduced by the rider's riding skill.^^Note: Turning this off will help CPU performance.
+qstr_When_checked_the_pla|유효로 하면 플레이어와 동료들은 장비 중량의 합계에 따라서 육상, 방패, 강력한 일격, 승마, 기마 궁술에 불이익을 받습니다.^^기록: 무효로 설정하면 CPU 성능이 크게 상승됩니다.
+qstr_When_enabled_this_pr|유효로 하면 마을의 방어시에 마을 사람들이 전투에 참가하는 것을 방지합니다.
+qstr_When_enabled_this_al|유효로 하면 Silverstag 모드의 전투향상 기능이 사용되게 됩니다. (상기 설정과 방패 강타)
+qstr_CURRENT_COMMANDER_S_|현재 사령관의 보고서!
+qstr_Your_Commander:_{s19|당신의 지휘관: {s19}
+qstr_Commander_Relation:_|지휘관 관계: {reg0}
+qstr_Enlisted_Faction:_{s|입대한 세력: {s20}
+qstr_Current_Rank:_{s21}|현재 계급: {s21}
+qstr_N/A|N/A
+qstr_Experience_to_next_p|다음 진급까지 남은 경험치: {s1}
+qstr_Days_in_service:_{re|복무중인 기간: {reg20}
+qstr_Current_Wage:_{reg23|현재 임금: {reg23} 오럼
+qstr_Next_Pay/Promotion_d|다음 임금/진급 날짜: {s25}
+qstr_Army_size:_{reg26}|부대 규모: {reg26}
+qstr_Commander_s_Army|지휘관의 군대
+qstr_Infantry_Unit|보병 부대
+qstr_Ranged_Unit|사격 부대
+qstr_Cavalry_Unit|기병 부대
+qstr_Undefined_Class_#{re|확정되지 않은 클래스 #{reg31}
+qstr_Encumbrance_Effects:|중량에 따른 부담 효과:
+qstr_Athletics:|육상:
+qstr_{reg21}|{reg21}
+qstr_Shield:|방패:
+qstr_Riding:|승마:
+qstr_Horse_Archery:|기마 궁술:
+qstr_Power_Draw:|전력 당기기:
+qstr_Abilities:|속성:
+qstr_General_Information:|일반 정보:
+qstr_Weight:|무게:
+qstr_Armor_Rating:|방어 등급:
+qstr_Level:|레벨:
+qstr_Melee_Rating:|근접 공격 등급:
+qstr_Health:|생명력:
+qstr_Ranged_Rating:|원거리 공격 등급:
+qstr_Ranged:|원거리:
+qstr_Yes|네
+qstr_No|아니오
+qstr_Mounted:|승마함:
+qstr_Attributes:|속성:
+qstr_Strength:|근력:
+qstr_Intelligence:|지능:
+qstr_Agility:|민첩:
+qstr_Charisma:|매력:
+qstr_Skills:|기술:
+qstr_Power_Strike:|강력한 일격:
+qstr_Ironflesh:|강철같은 피부:
+qstr_Power_Throw:|전력 던지기:
+qstr_Tactics:|전술:
+qstr_Weapon_Master:|무기의 달인:
+qstr_Weapon_Proficiencies|무기 숙련도:
+qstr_One_Handed:|한손:
+qstr_Archery:|활:
+qstr_Two_Handed:|양손:
+qstr_Crossbows:|크로스보우:
+qstr_Polearms:|장병기:
+qstr_Throwing:|투척:
+qstr_Equipment:|장비:
+qstr_Player_Faction|플레이어 세력
+qstr_{s21}|{s21}
+qstr_Faction_Design^by_Pe|세력 디자인^by 페리스노
+qstr_TIER_{reg21}|등급 {reg21}
+qstr_Female_Perisno_Troop|페리스노 여성 병사
+qstr_Perisno_Pilgrims|페리스노 순례자
+qstr_Female_Perisno_Pilgr|페리스노 여성 순례자
+qstr_Male_Mercenaries|남성 용병
+qstr_Female_Mercenaries|여성 용병
+qstr_Female_Troops|여성 병사
+qstr_Glory_Seeking_Men|영광을 추구하는 사람
+qstr_Freelancer_Guild_Tro|자유용병 조합 병사
+qstr_Bandits|도적들
+qstr_Player_s_Mercenaries|플레이어의 용병단
+qstr_{s1}^HP:_{reg0}|{s1}^HP: {reg0}
+qstr_{s3}^STR:_{reg1}^INT|{s3}^근력: {reg1}^지능: {reg2}^^기술:
+qstr_{s3}^Power_Strike:_{|{s3}^강력한 일격: {reg1}^전력 당기기: {reg2}^전력 던지기: {reg3}^기마 궁술: {reg4}^^무기 숙련도:
+qstr_{s3}^1_Hand_Wpns:_{r|{s3}^한손 무기: {reg1}^양손 무기: {reg2}^장병기: {reg3}
+qstr_{s4}^AGI:_{reg1}^CHA|{s4}^민첩: {reg1}^매력: {reg2}^^
+qstr_{s4}^Ironflesh:_{reg|{s4}^강철같은 피부: {reg1}^육상: {reg2}^방패: {reg3}^승마: {reg4}^^
+qstr_{s4}^Archery:_{reg1}|{s4}^궁술: {reg1}^크로스보우: {reg2}^투척: {reg3}
+qstr_{s4}|{s4}
+qstr_Equipments:_|장비: 
+qstr_Back|뒤로
+qstr_Character_Creation|캐릭터 생성
+qstr_Background:|배경:
+qstr_I_am_a...|나는...
+qstr_Man|남성
+qstr_Woman|여성
+qstr_My_race_is...|내 종족은...
+qstr_human|인간
+qstr_elf|엘프
+qstr_dwarf|드워프
+qstr_giant__men_only!_|거인 (오직 남성!)
+qstr_My_father_was...|내 아버지는...
+qstr_an_impoverished_nobl|가난한 귀족
+qstr_a_travelling_merchan|행상인
+qstr_a_veteran_warrior|노련한 전사
+qstr_a_hunter|사냥꾼
+qstr_a_simple_messanger|단순한 전령
+qstr_a_thief|도둑
+qstr_a_religious_zealot|독실한 광전사
+qstr_Growing_up_I_liked..|어릴적 좋아한 것은...
+qstr_swimming|수영
+qstr_shooting|사격
+qstr_riding|승마
+qstr_scouting|정탐
+qstr_reading|독서
+qstr_crafting|공예
+qstr_stealing|절도
+qstr_As_an_adult_I_became|어른이 된 나는...
+qstr_an_army_recruit|군대 신병
+qstr_a_bounty_hunter|현상금 사냥꾼
+qstr_a_bandit|도적
+qstr_a_smith|대장장이
+qstr_a_physician|내과 의사
+qstr_a_spy|첩자
+qstr_a_squire|준기사
+qstr_a_lady_in_waiting|시녀
+qstr_I_am_adventuring...|내가 모험을 시작한 이유는...
+qstr_for_personal_revenge|개인적인 복수를 위해
+qstr_because_I_lost_a_lov|내가 사랑하는 사람을 잃은 상실감으로
+qstr_because_of_wanderlus|방랑벽 때문에
+qstr_because_I_was_forced|내가 집에서 쫓겨나다싶이 했기 때문에
+qstr_for_money_and_power|돈과 권력을 위해
+qstr_to_learn_more_about_|옛 왕국 페리스노에 대해 더 많은 것을 배우기 위해
+qstr_because_of_a_strange|우연한 사고로 인해
+qstr_Biography:|전기:
+qstr_Stat_Changes:|능력치 변경:
+qstr_Str|근력
+qstr_Agi|민첩
+qstr_Int|지능
+qstr_Cha|매력
+qstr_Renown|명성
+qstr_Bows|활
+qstr_Crossbows|크로스보우
+qstr_Throwing|투척
+qstr_Start_of_game|게임 시작
+qstr_I_m_alive!_End_of_Ga|나는 살아 있다! 게임 시작의 끝.
+qstr__near_{s10}|{s10}의 인접한
+qstr_Your_recruiter_who_w|{s13}에 {reg10}명의 신병을 모집하도록 명령받은 당신의 신병 모집관이 {s10}에게 격파되었습니다!
+qstr_Your_caravan_sending|{s12}을(를) {s13}(으)로 운반하도록 명령한 당신의 대상이 {s10}에게 격파되었습니다!
+qstr_Your_messenger_on_th|{s13}(으)로 명령을 전달하러 가던 당신의 전령이 {s10}에게 격파되었습니다!
+qstr_Your_soldiers_patrol|{s13} 부근에서 당신의 순찰대가 {s10}에게 격파되었습니다!
+qstr_A_scout_trying_to_ga|{s13}의 정보를 알아보러 간 첩자가 {s10}에게 살해당했습니다!
+qstr_{s1}_of_{s3}_was_def|{s3}의 {s1}은(는) 전투에서 패배했으나 탈출에 성공했습니다.
+qstr_{s1}_is_now_a_prison|{s1}은(는) 현재 {s2}에게 붙잡혀 있습니다.
+qstr_^Age:_{reg1}|^나이: {reg1}
+qstr_{s54}_is_a_claimant_|{s54}은(는) {s56}의 왕위를 주장하는 자입니다.
+qstr_nowhere|어디에도 없음
+qstr_{s57}_and_{s58}|{s57} 그리고 {s58}
+qstr_{reg3?She:He}|{reg3?그녀:그}
+qstr_unknown|불명
+qstr_{reg26}|{reg26}
+qstr_The_town_of_{s50}|{s50}의 도시
+qstr_The_village_of_{s50}|{s52} 부근의 {s50} 마을
+qstr_{s51}_belongs_to_{s1|{s51}은(는) {s2}의 {s1}에 속해 있습니다.^
+qstr_{s51}_belongs_to_{s1}|{s51} 은(는) {s2}의 {s1} 이(가) 소유하며, {reg0?그녀:그}의 궁정이 위치하고 있다.^
+qstr_{s51}_belongs_to_{s1}_|{s51} 은(는) {s2}의 {s1} 이(가) 소유하며, {reg0?그녀:그}의 저택이 위치하고 있다.^
+qstr_{s51}_belongs_to_{s1}_o|{s51} 은(는) {s2}의 {s1} 이(가) 소유하고 있다.^
+qstr_{s51}_belongs_to_{s2|{s51} 은(는) {s2} 이(가) 소유하고 있지만 아직 영주가 정해지지 않았다.^
+qstr_{s51}_belongs_to_{s2}|{s51} 은(는) {s2} 이(가) 소유하고 있다.^
+qstr_{s2}Its_market_town_|{s2} 그 도시 시장은 {s8}입니다.^
+qstr_{s7}_and_{s8}|{s7} 그리고 {s8}
+qstr_{s2}It_has_no_villag|{s2}은(는) 어떤 마을도 없습니다.^
+qstr_{s2}{reg0?Its_villag|{s2}{reg0?이 마을들은:이 마을은} {s8} 입니다.^
+qstr_{s2}Its_prosperity_i|{s2}의 번영도: {s50}
+qstr_noone|없음
+qstr_{s9}_and_{s10}|{s9} 그리고 {s10}
+qstr_{s5}_has_been_defeat|{s5}이(가) 패했습니다!
+qstr_{s7}_opened_the_gate|{s7}의 문을 열었습니다.
+qstr_{s7}_closed_the_gate|{s7}의 문을 닫았습니다.
+qstr_{s0}|{s0}
+qstr_+{reg1}_to_party_mor|부대 사기 +{reg1}
+qstr_Requires_{reg1}_inte|읽으려면 {reg1}의 지력이 필요합니다.
+qstr_Reading_Progress:_{r|읽기 진행률: {reg1}%
+qstr_wound_treament|상처 치료
+qstr_trainer|훈련 교관
+qstr_surgery|수술
+qstr_trade|교역
+qstr_+1_to_{s1}_while_in_|가방에 있는 동안 +1 {s1} 효과
+qstr_Forged_by_Master_Bla|최고의 대장장이 에인스바스가 벼림. 불의 원소가 깃들어 있다.
+qstr_Fell_from_the_sky_as|운석처럼 하늘에서 떨어졌다. 불의 산에서 하늘의 왕이 단조하다.
+qstr_The_long_lost_treasu|니사이니아 사람들이 오래 전에 잃어버린 보물. 시간이 흐를수록 날카로워지는 유물 검.
+qstr_There_was_no_context|이 검이 무엇인지에 대한 기록이 없었다.
+qstr_Its_blade_brings_fla|그것의 칼날은 전쟁터에서 화염을 불러온다. '뜨거운' 주머니칼로 버터를 자르듯이 상대를 벤다.
+qstr_This_is_the_sword_of|이것은 선택받은 자의 칼이다.
+qstr_It_holds_the_symbol_|이것은 진정한 통치자의 상징을 보유하고 있다. 일찍이 니사이니아의 초대 통치자가 사용했다고 한다.
+qstr_It_gives_off_a_fears|그것은 무시무시한 분위기를 자아낸다. 그 외형에도 불구하고 매우 무거우며 확실히 괴물같은 무기다.
+qstr_Move_here|여기로 이동
+qstr_View_notes|보고서 보기
+qstr_CHEAT:_Get_Ideal_Par|CHEAT: Get Ideal Party Size
+qstr_CHEAT:_Get_Daily_Wag|CHEAT: Get Daily Wage
+qstr_CHEAT:_Get_Autocalc_|CHEAT: Get Autocalc STR
+qstr_CHEAT:_Get_Normal_Pa|CHEAT: Get Normal Party's Weekly Wage
+qstr_CHEAT:_Give_10000_XP|CHEAT: Give 10000 XP
+qstr_DANGEROUS_CHEAT:_Rev|DANGEROUS CHEAT: Revome This Party
+qstr_Accompany|동행
+qstr_Ideal_Party_Size_is_|이상적인 부대원 크기는 {reg0}명 입니다.
+qstr_Daily_payment_is_{re|일일 지불액은 {reg0}오럼 입니다.
+qstr_Cashed_daily_net_inc|일일 순소득은 {reg0}오럼 입니다.
+qstr_STR_in_Terrain_=_{re|STR in Terrain = {reg0}
+qstr_STR_=_{reg0}|STR = {reg0}
+qstr_Weekly_wage_=_{reg0}|주간 임금 = {reg0}
+qstr_killed|사망
+qstr_wounded|부상
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^합계: {reg3} ({s2})
+qstr_^None|^없음
+qstr_nothing|아무것도
+qstr_{reg0}_village{reg1?|{reg0} 마을{reg1?들:}
+qstr_{reg0}_castle{reg1?s|{reg0} 성{reg1?들:}
+qstr_{reg0}_castle{reg1?s:|{reg0} 성{reg1?들:} 그리고 {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0} 도시{reg1?들:}
+qstr_{reg0}_town{reg1?s:}_|{reg0} 도시{reg1?들:} 그리고 {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0} 도시{reg1?들:}, {s0}
+qstr_Your_opponents_are_r|상대방은 싸울 준비가 되어 있습니다.
+qstr_Try_to_destroy_as_ma|2분 30초 동안 가능한 많은 대상을 물리치십시오.
+qstr_Stay_behind_the_line|바닥의 선 뒤에서 목표를 노리세요. 한발 한발을 함부로 낭비해서는 안 됩니다.
+qstr_Battle_Advantage_=_{|전투 이점 = {reg0}.
+qstr_{s9}_wants_you_to_re|{s9}은(는) 다음 통지가 있을 때까지 다시 그의 군대를 따라오기를 원합니다.
+qstr_{s5}_of_the_{s7}_has|{s7}의 {s5}이(가) {s4}의 소유권을 얻었습니다.
+qstr_{s4}_has_been_awarde|{s7}의 {s5}은(는) {s4}을(를) 받았습니다.
+qstr__Being_Raided_|(습격이 시작됨)
+qstr__Looted_|(약탈당함)
+qstr__Under_Siege_|(공성 중)
+qstr_The_village_of_{s1}_|{s1}마을은 {s2}에게 약탈당했습니다.
+qstr_{s3}_is_no_longer_un|{s3}은(는) 더 이상 포위 공격을 받지 않습니다.
+qstr_Small_bands_of_enemi|{s1} 부근에서 소규모 적들이 발견되었습니다.
+qstr_Enemy_patrols_spotte|{s1} 근처에서 적의 순찰대가 발견되었습니다.
+qstr_Medium_sized_group_o|{s1} 부근에서 중간 규모의 적이 발견되었습니다.
+qstr_Significant_group_of|{s1} 부근에서 큰 규모의 적군이 있습니다.
+qstr_Army_of_enemies_spot|{s1} 부근에서 적의 보다 큰 군대가 발견되었습니다.
+qstr_Large_army_of_enemie|{s1} 부근에서 적의 대규모 부대가 발견되었습니다.
+qstr_Great_host_of_enemie|{s1} 부근에서 적들의 엄청난 부대가 발견되었습니다.
+qstr__{s10}_of_{s13}_recr| {s13}의 {s10}은(는) {s11} {s12}을(를) {s14}에서 고용했습니다.
+qstr_{s1}_has_been_besieg|{s1}은(는) {s3}의 {s2}에게 포위되었습니다.
+qstr__{s1}__{s11}:_{s14}|({s1}) {s11}: {s14}
+qstr_{s14}__{s21}_|{s14} ({s21})
+qstr_{s5}_has_the_greates|{s5}은(는) {s4}의 영주들로부터 차기 사령관으로 가장 큰 지지를 받았습니다.  {s0}은(는) 난색을 표했으나 이 결과를 뒤집을 수 없었습니다.
+qstr_{s5}_has_the_greatest|{s5}은(는) {s4}의 영주들 중에서 {s1}을(를) 받을 수 있는 가장 큰 지지를 받았습니다.  {s0}은(는) 불만을 나타냈으나 선택의 여지가 없습니다.
+qstr_{s5}_has_the_greatest_|{s5}은(는) {s4}의 영주들로부터 차기 사령관으로 가장 큰 지지를 받았습니다. 그러나 {s0}이(가) 자신의 선택을 우선했습니다.
+qstr_{s5}_has_the_greatest_s|{s5}은(는) {s4}의 영주들 중에서 {s1}을(를) 받을 수 있는 가장 큰 지지를 받았습니다. 그러나 {s0}이(가) 자신의 선택을 우선했습니다.
+qstr_{s1}_is_the_new_mars|{s1}은(는) {s2}의 새로운 사령관입니다.
+qstr_You_gained_{reg12}_r|당신은 {reg12} 의 명성을 얻었습니다.
+qstr_You_lose_{reg12}_ren|당신은 {reg12} 의 명성을 잃었습니다.
+qstr_Your_relation_with_{|당신과 {s1}의 관계가 향상 되었습니다.
+qstr_Your_relation_with_{s|당신과 {s1}의 관계가 악화 되었습니다.
+qstr_You_gain_honour.|당신은 명예를 얻었습니다.
+qstr_You_lose_honour.|당신은 명예를 잃었습니다.
+qstr_People_of_the_Realm_|팔콘 렐름의 사람들은 당신의 결정에 소름이 끼치며 당신의 왕국으로부터 떠나고 있습니다.
+qstr_{s1}_has_declared_wa|{s1}이 {s2}에게 전쟁을 선포했습니다.
+qstr_{s0}_is_laying_siege|{s0}은(는) {s1}을(를) 포위하고 있습니다.
+qstr_{s0}_is_patrolling_a|{s0}은(는) {s1}에서 순찰을 돌고 있습니다.
+qstr_{s0}_is_raiding_arou|{s0}은(는) {s1} 주변에서 약탈하고 있습니다.
+qstr_{s0}_is_engaging_{s1|{s0}은(는) {s1}하고 교전중입니다.
+qstr_{s0}_is_accompanying|{s0}은(는) {s1}을(를) 따라가고 있습니다.
+qstr_{s0}_is_screening_th|{s0}은(는) {s1}의 진출을 저지하고 있습니다.
+qstr_{s0}_is_trading_with|{s0}은(는) {s1}하고 교역을 하고 있습니다.
+qstr_{s0}_is_retreating_t|{s0}은(는) {s1}(으)로 후퇴하고 있습니다.
+qstr_{s0}_is_visiting_{s1|{s0}은(는) {s1}을(를) 방문하고 있습니다.
+qstr_{s1}_and_{s2}_have_m|{s1} 그리고 {s2}이(가) 평화 협정을 맺었습니다.
+qstr_{s2}_{reg3?was:is_cu|{s2}은(는) {s3}에 {reg3?있었습니다:있습니다}.
+qstr_{s2}_{reg3?was:is}_t|{s2}은(는) {s3}(으)로 향하는 도중이며 {reg4?그녀:그}는{reg3?: 지금 현재} {s4} 근처에 {reg3?있었습니다:있을겁니다}.
+qstr_{s2}_{reg3?was:is}_tr|{s2}은(는) {s3}(으)로 향하는 도중이며 {reg4?그녀:그}는 {reg3?: 지금 현재} {s4} 그리고 {s1} 사이에 {reg3?있었습니다:있을겁니다}.
+qstr_{s2}_{reg3?was:is}_i|{s2}은(는) 야외를 이동중이며 {reg4?그녀:그}는 {reg3?: 지금 현재} {s3} 근처에 {reg3?있었습니다:있을겁니다}.
+qstr_{s2}_{reg3?was:is}_in|{s2}은(는) 야외를 이동중이며 {reg4?그녀:그}는 {reg3?: 지금 현재} {s3} 그리고 {s1} 사이에 {reg3?있었습니다:있을겁니다}. {s2}は野外を進行中で^{reg4?彼女:彼}は{reg3?: 今現在}{s3}と{s1}の間にい{reg3?ました:るはずです}。
+qstr_{s2}_{reg3?was:is}_b|{s2}은(는) {s3}에서 포로가 되어 {reg3?있었:있}습니다.
+qstr_{s2}_{reg3?was:has_b|{s2}은(는) 적의 포로가 되어 {reg3?있었:있}습니다.
+qstr_{reg3?{s2}_s_locatio|{reg3?{s2}의 장소는 알 수 없습니다:저는 {s2}의 장소는 모릅니다}.
+qstr_{s6}_has_joined_your|{s6}이(가) 당신의 부대에 합류하였습니다.
+qstr_Press_NUM1_to_store_|NUM1을 눌러 10000 오럼을 이 영토의 재무부에 저장하거나 NUM2를 눌러 10000 오럼을 회수하십시오. NUM3을 눌러 이 영토의 임대료/관세/사업에서 돈을 모으는 대신 당신에게 바로 들어오도록 끄거나 켤 수 있습니다.
+qstr_You_now_owe_{reg2}_a|당신은 이제 {reg2} 오럼을 {s1}에게 갚아야 합니다.
+qstr_Total_friends_STR_=_|Total friends STR = {reg3}, main party STR = {reg5}, total enemy STR = {reg4}
+qstr_BS_bonus_=_{reg3}.|BS bonus = {reg3}.
+qstr_Renown_value_for_thi|이 전투에서 얻는 명성은 {reg8}입니다.
+qstr_You_have_run_into_a_|당신은 함정에 빠졌습니다!
+qstr_You_are_attacked_by_|당신은 도적떼에 의해 공격을 당했습니다!
+qstr_Your_party_consumed_|당신의 부대는 식량을{reg4? {reg4} 만큼 조달하고, : } {reg1} 만큼 소비했습니다. (남은 식량은 {reg2} 일분)
+qstr_{s2}_managed_to_fora|{s2}은(는) 식량을 보충하기 위해 {reg4} 만큼의 식량을 사들였습니다.
+qstr_Holding|위치 사수
+qstr_Following|나를 따르라
+qstr_Charging|돌격
+qstr_Advancing|진군
+qstr_Falling_Back|뒤로 물러나라
+qstr_Standing_Closer|밀집 대형
+qstr_Spreading_Out|산개 대형
+qstr_Standing|정지
+qstr_Any_Weapon|아무 무기나
+qstr_Blunt_Weapons|둔기를 사용해라
+qstr_Your_soldiers_patroll|당신이 세력을 떠났기 때문에 {s6} 순찰대 병사들이 해산했습니다!
+qstr_{s1}_Rebels|{s1} 반란군
+qstr_Given_by:_{s62}|받다: {s62}
+qstr_Given_on:_{s60}|주다: {s60}
+qstr_You_have_{reg0}_days|당신은 {reg0}일 이내에 임무를 완료해야 합니다.
+qstr_This_quest_has_been_|이 임무는 종료되었습니다. 완료를 위해 {s59}와 대화하십시오.
+qstr_The_quest_is_complet|임무가 완료되었습니다. 고객이 만족합니다. 포춘 미카엘 수수께끼의 슈발리에 또는 행운의 기사 알릭 그리즐드 또는 여성 모험가 멜라니 코멜리 혹은 미드브루어와 대화하십시오.
+qstr_The_quest_is_complete|임무가 완료되었습니다. 고객이 만족합니다. 포춘 미카엘 수수께끼의 슈발리에 또는 행운의 기사 알릭 그리즐드 또는 여성 모험가 멜라니 코멜리와 대화하십시오.
+qstr_This_quest_has_been_s|이 임무는 성공적으로 완료되었습니다. 사례금을 받기 위해 {s59}와 대화하십시오.
+qstr_This_quest_has_faile|임무에 실패했습니다. 포춘 미카엘 수수께끼의 슈발리에 또는 행운의 기사 알릭 그리즐드 또는 여성 모험가 멜라니 코멜리 혹은 미드브루어에게 상황을 설명하십시오.
+qstr_This_quest_has_failed|임무에 실패했습니다. 포춘 미카엘 수수께끼의 슈발리에 또는 행운의 기사 알릭 그리즐드 또는 여성 모험가 멜라니 코멜리에게 상황을 설명하십시오.
+qstr_This_quest_has_failed.|임무에 실패했습니다. 상황을 설명하기 위해 {s59}와(과) 대화하십시오.
+qstr_At_the_time_quest_wa|이 임무를 받았을 때:^{s1}
+qstr_{s5}_has_a_strength_|{s5}은(는) 총 {reg1}명의 부하를 데리고 있습니다.
+qstr_The_last_time_you_sa|마지막으로 {reg1?그녀:그}를 본 것으로는 아마도, {s1}
+qstr_The_last_time_you_he|마지막으로 {reg1?그녀:그}에 관해 접한 소식으로는, {s1}
+qstr_Current_garrison_con|현재 수비대는{reg5}명으로 구성되어 있습니다.^{reg6}일 동안 버틸 수 있는 식량 재고가 있습니다.
+qstr_Very_Poor|매우 가난함
+qstr_Poor|가난함
+qstr_Average|평범함
+qstr_Rich|부유함
+qstr_Very_Rich|매우 부유함
+qstr_Scouts_report_that_t|정찰대가 케르지아의 군단이 {s3}(으)로 향하고 있다고 보고합니다.
+qstr_Scouts_report_that_th|정찰대가 시네의 군단이 {s3}(으)로 향하고 있다고 보고합니다.
+qstr_Scouts_report_that_the|정찰대가 샨 하의 군단이 {s3}(으)로 향하고 있다고 보고합니다.
+qstr_Scouts_report_that_the_|정찰대가 진의 군단이 {s3}(으)로 향하고 있다고 보고합니다.
+qstr_Manor|장원
+qstr_A_manor_lets_you_res|장원은 휴식을 취하는 동안 마을에 머무를 수 있으며 병력에게 절반의 임금을 지급합니다.
+qstr_Mill|방앗간
+qstr_A_mill_increases_vil|방앗간은 마을의 번영율을 5% 향상 시킵니다.
+qstr_Watch_Tower|감시탑
+qstr_A_watch_tower_lets_t|감시탑은 주민들이 일찍 경보를 울리게 합니다. 적이 마을을 약탈하는 걸리는 시간이 50% 증가합니다.
+qstr_School|학교
+qstr_A_shool_increases_th|학교는 한 달에 한 번씩 마을 주민의 충성도를 +1 올립니다.
+qstr_Messenger_Post|우체국
+qstr_A_messenger_post_let|우체국은 당신이 멀리 떨어져 있더라도 적이 마을에 접근하면 당신에게 메시지를 보내줍니다.
+qstr_Prison_Tower|감옥탑
+qstr_A_prison_tower_reduc|감옥탑은 수감된 포로들의 탈옥 성공 확률을 감소시킵니다.
+qstr_Palisade|말뚝 울타리
+qstr_A_palisade_is_a_simp|말뚝 울타리는 적들로부터 마을을 보호하기 위해 주변을 둘러싸는 단순한 나무 벽입니다. 적들이 마을을 약탈하는데 걸리는 시간이 25% 증가합니다.
+qstr_Caltrops|마름쇠
+qstr_Caltrops_are_set_aro|적들이 발견되면 마을 주변에 마름쇠를 뿌립니다. 그것은 말들이 공격에 사용되는 것을 방지하지만, 그것은 또한 방어측도 말을 사용하지 못하게 됩니다.
+qstr_Merchant_Guild_Hall|상인 조합 회관
+qstr_Build_it_to_please_t|상인들을 기쁘게하고 무역 사업이 활발해지도록 만듭니다. 매주 마을의 번영도를 높입니다.
+qstr_University|대학
+qstr_Build_it_to_increase|당신의 이름으로 지식을 넓히고 확산시키기 위해 대학을 건설하십시오. 매주 당신의 명성과 도시와의 관계를 높여줍니다.
+qstr_Blacksmith|대장간
+qstr_A_blacksmith_refills|대장간은 공성전에서 방어하는 동안 매 순간 당신과 당신의 군대에게 탄약통을 채워줍니다.
+qstr_Caravan_Escort_Outpo|대상 호위 전초 기지
+qstr_A_caravan_escort_out|대상 호위 전초 기지는 도시에서 출발하는 대상에게 30명의 용병을 추가로 붙여줍니다. 방랑하는 용병 전쟁 부대들로부터 방어하기에는 충분하지요.
+qstr_Bookstore|서점
+qstr_A_bookstore_adds_a_r|서점에서는 상품 행상인에게 매주 무작위로 책을 추가합니다.
+qstr_Festival_Square|축제 광장
+qstr_A_festival_square_al|축제 광장을 통해 도시에서는 정기적인 바자회와 월례제가 열립니다. 도시의 충성도는 매월마다 증가하며 부대가 도시에서 시간을 보내면 사기가 증가됩니다.
+qstr_Prosperity_of_{s2}_h|{s2}의 번영도가 {s3}에서 {s4}(으)로 변경되었습니다.
+qstr_{s4}_looks_upset.|{s4}은(는) 안색이 안좋아졌습니다.
+qstr_your_party|당신의 부대
+qstr_{reg0?One_of_your_pr|{reg0?당신의 포로, :}{s3}의 {s1}이(가) 도망쳤습니다!
+qstr_You_brought_{reg3}_h|당신은 {reg3}마리의 가축을 {s1}에게 가져왔습니다.
+qstr_I_heard_that_there_w|조만간 {s62} 에서 토너먼트가 있을 것이라고 들었습니다.
+qstr_I_heard_some_people_|{s6}이(가) 사실은 죽지 않았다는 소문을 들었습니다.
+qstr_I_heard_a_traveller_|이국을 여행하던 사람들이 {s6}하고 만났다고 이야기를 나누는 것을 들었습니다.
+qstr_I_heard_that_{s6}_in|{s6}이(가) 군대를 일으켜서 {s61}(으)로부터 권력을 빼앗을 작정이라는 소식을 들었습니다.
+qstr_I_heard_that_one_can|{s63}에서 {s62}을(를) 아주 싸게 살 수 있다고 들었습니다.
+qstr_I_heard_that_they_pa|{s63}에서 {s62}에 매우 높은 가격을 지불한다고 들었습니다.
+qstr_Relation_with_factio|세력 지도자와의 관계: {reg0}
+qstr_Relation_with_faction|세력과의 관계: {reg0}
+qstr_two_days_ago|이틀 전
+qstr_You_gain_right_to_ru|당신은 정통성을 얻었습니다.
+qstr_You_lose_right_to_ru|당신은 정통성을 잃었습니다.
+qstr_{s0}^{s1}|{s0}^{s1}
+qstr_{reg0}_aurums_added_|{reg0} 오럼이 재무부에 추가되었습니다.
+qstr_{reg0}_aurums_remove|{reg0} 오럼이 {s26}의 금고에서 제거되었습니다.
+qstr_{s1}_and_{s2}_have_e|{s1}과(와) {s2}은(는) 동맹을 맺었습니다.
+qstr_{s1}_and_{s2}_have_c|{s1}과(와) {s2}은(는) 방위 협정을 맺었습니다.
+qstr_{s1}_and_{s2}_have_co|{s1}과(와) {s2}은(는) 무역 협정을 맺었습니다.
+qstr_{s1}_and_{s2}_have_con|{s1}과(와) {s2}은(는) 불가침 조약을 맺었습니다.
+qstr_{s5}_patrol|{s5} 순찰대
+qstr_Transfer_to_{s5}|{s5}(으)로 옮긴다.
+qstr_{s5}_scout|{s5} 정찰대
+qstr_{s4}_has_returned_fr|{s4}은(는) {s5}의 {s6}에게 피난처를 요구하며 망명 생활로부터 돌아왔습니다.
+qstr_{s4}_has_been_grante|{s4}은(는) {s5}의 {s6}에게 사면을 받았으며 망명 생활로부터 돌아왔습니다.
+qstr_Given_the_way_things|{playername}, 지금 시점에서 우리의 입장을 생각해보면, 나는 그러한 제안이 현명하다고는 생각되지 않는군.
+qstr_{playername}_I_am_gr|{playername}, 그대의 마음은 기쁘게 생각하네. 그러나 그대와의 연계는 사람들의 눈에 올바르게 보이지 않겠지. 그대의 정당성으로는 국가의 통치자로서 너무나 어울리지 않는다네. 지금의 그대와 조약을 맺는 것은 짐의 정당성에 대한 불이익이 되겠지. 그대의 제안은 미안하지만 받아들일 수 없군. 미안하네.
+qstr_{playername}_I_know_|{playername}, 나는 그대가 아니었다면 이 왕좌에 앉아 있지 못했겠지. 그러나 자네 이름은 페리스노에서 별로 유명하지 않다네.  그대와의 결혼은 올바르지 못하다고 인식될 것이며, 나의 왕좌에 대한 주장에 사람들이 의문을 품게 될거야.
+qstr_{playername}_I_am_gra|{playername}, 나의 정당한 왕좌를 되찾는 것을 도와준 것에 감사하네. 그러나 자네는 나를 위한 정당한 배우자가 되기에는 충분한 개인적인 재산이 없어. 이것은 평등하지 못한 계약이 될 것이야.
+qstr_{playername}_I_am_grat|{playername}, 나는 그대에게 감사하네. 그러나 지금 그것을 받아들이면 그대와 동등하거나 어쩌면 그 이상의 명예를 지닌 {s15} 같은 강력한 영주로부터 공격을 받을 수 있어.
+qstr_{playername}_I_am_grate|{playername}, 자네에게 감사고 있네. 그러나 혹시나 지금 내가 그 제안을 받아들인다면 {s15}같은 강력한 영주들의 기분을 상하게 만들 가능성이 있다네. 누군가는 그대와 동등하거나 더 큰 명예를 얻어야 한다고 생각할 수가 있어.
+qstr_{playername}_while_I|{playername}, 그대에게는 감사하고 있네. 하지만 내가 {s15}을(를) 좋아한다는 것을 고백해야겠군.
+qstr_Our_realm_has_too_fe|우리의 왕국에는 가신이 너무 적다네.  현재의 불안정한 상황에서 나는 새로운 가신을 끌어들이기 위해 잠재적인 정치 동맹적인 결혼을 이용해야 한다네. 그렇기에 아직은 한 명의 {reg65?구혼자:후보자}에게 헌신할 수는 없군.
+qstr_Because_I_have_insuf|왜냐하면 내가 {s15}에 비해서 부족한 개인 재산을 가지고 있기 때문이야. 혹시나 그런 합의를 받아들인다면 나는 꼭두각시처럼 보일 것이고, 국가의 안정을 헤치고 위험에 빠뜨릴 위기가 있어.
+qstr_Because_my_personal_|왜냐하면 내가 {s14}의 다른 영주들과 비교하면 개인 재산이 부족하기 때문이야. 혹시나 그런 합의를 받아들인다면 나는 꼭두각시처럼 보일 것이고, 국가의 안정을 헤치고 위험에 빠뜨릴 위기가 있어.
+qstr_I_am_grateful_to_you|그대에게 감사하네, {playername}. 하지만 자네의 제안을 받아들이기에는 자네가 정치적으로 {s14}의 영주들 사이에서 너무 많은 적을 만들었네. 내가 이 제안을 받아들이면 반란군이 생길 수 있어.
+qstr_You_have_engendered_|자네는 최근에 너무 많은 논란을 일으켰네, {playername}. 혹시 지금 내가 이 제안을 받아들인다면 {s14}의 영주들 사이에 반란군이 생겨날 수 있어.  그대의 제안은 나중에 이 논란들이 잦아들었을 때 다시 대화를 나누어보세나.
+qstr_If_you_desire_to_lea|혹시 그대가 나와 함께 {s14}을(를) 이끌고 싶다면 내 가신들의 지지를 얻어 사령관이 되시게. 전쟁 지도자로서 자네의 능력을 보여주는 것이야.
+qstr_Our_realm_has_lost_t|우리는 너무 많은 영토를 상실해버렸어.  우리는 {s1}만큼의 땅을 소유하고 있었지만 지금은 {s0}을(를) 소유하고 있을 뿐이지.  현재와 같은 불안정한 상황에서 나는 다른 군주들과의 협상 카드로 사용할 정치적 동맹의 가능성을 유지해야 하네. 그래서 나는 어떤 {reg65?구혼자:후보자}와도 결혼할 수 없다네.  {s14}을(를) 과거의 영광으로 회복 시키게. 그리고 자네가 나의 {남편/아내}가 되어준다면 기쁠 것이야.
+qstr_{s0}_{reg0?have:has}|{s0}은(는) 타국의 손에 떨어{reg0?졌네:져있네}. {s14}을(를) 정당한 모습으로 돌려놓아야 해. 그렇게 하면 기쁘게 나의 {남편으/아내}로서 함께 통치할 수 있겠지.
+qstr_You_have_only_been_m|그대가 사령관이 되고 단지 {reg0} {reg1?일:일}밖에 지나지 않았네.  적어도 2주간 해당 지위를 유지한 후에 이에 대해서 이야기를 나누어보세.
+qstr_If_not_for_you_I_wou|그대가 아니었다면 나는 이 왕위에 앉지 않았겠지, {playername}.  우리가 기나긴 길을 걷기 시작했을 때, 나를 지지해줄 용기를 가진 사람은 거의 없었어.  그리고 아직도 나같은 인생의 위기에 처해있는 사람은 드물겠지.  그러나 그대는 내 적을 향해 자기 자신의 몸을 내던지기를 주저하지 않았어. 우리는 함께 참으로 많은 일들을 함께해왔지. 그리고 신의 도움으로 우리가 승리했네.  나는 그대를 기꺼이 나의 {남편/아내}이자 {s14}의 공동 통치자로서 받아들이겠네.
+qstr_You_sold_{reg1}_{reg|당신은 {reg1} {reg3?아이템들:아이템}을(를) {s0}에게 판매하고 {reg0} {reg3?오럼:오럼}을 얻었습니다.
+qstr_You_sold_{reg1}_{reg3|당신은 {reg1} {reg3?아이템들:아이템}을(를) {s0}에게 판매하고 {reg0} {reg3?오럼:오럼}을 얻었습니다.
+qstr_You_have_bought_{reg|당신은 {reg2} {reg4?종류:종류}의 음식을 구입했으며 {reg1} {reg3?오럼:오럼}을 지불했습니다.
+qstr_You_sold_{reg2}_{reg|당신은 {reg2} {reg4?종류:종류}의 상한 음식을 팔아서 {reg1} {reg3?오럼:오럼}을 얻었습니다.
+qstr_axe|도끼
+qstr_spear|창
+qstr_bow|활
+qstr_sword|칼
+qstr_axes|도끼들
+qstr_spears|창들
+qstr_bows|활들
+qstr_swords|칼들
+qstr_swing_my_axe|내 도끼를 휘둘러
+qstr_lift_my_spear|내 창을 찔러
+qstr_loose_my_arrows|내 화살을 쏴서
+qstr_swing_my_sword|내 칼을 휘둘러
+qstr_sultan|술탄
+qstr_khans|칸들
+qstr_sultans|술탄들
+qstr_kings|왕들
+qstr_lord|영주
+qstr_lords|영주들
+qstr_goatherd|염소지기
+qstr_swineherd|돼지 돌봄이
+qstr_stable_{reg33?girl:b|마구간지기 {reg33?소녀:소년}
+qstr_shepherd_{reg33?girl|양치기 {reg33?소녀:소년}
+qstr_kvass|크바스
+qstr_kumis|쿠미스
+qstr_mead|벌꿀 술
+qstr_wine|포도주
+qstr_{reg6?M:m}y_poppet|{reg6?M:m}y poppet
+qstr_{reg0?Y:y}ou|{reg0?Y:y}ou
+qstr_{reg0?M:m}yself|{reg0?M:m}yself
+qstr_{reg0?O:o}ur_{s1}_{s|{reg0?O:o}ur {s1} {s0}
+qstr_{reg0?M:m}y_{s1}_{s0|{reg0?M:m}y {s1} {s0}
+qstr_{reg0?Y:y}our_{s1}_{|{reg0?Y:y}our {s1} {s0}
+qstr_{s2}:_{reg3}_{reg4}_|{s2}: {reg3}, {reg4} 일
+qstr_{s4}:_{reg4}|{s4}: {reg4}
+qstr_{s1}_gathering_suppo|{s1}(지지를 모으고 있음)
+qstr_{s1}__intelligence_|{s1} (방첩 활동)
+qstr_{s1}__ambassy_|{s1} (외교 대사)
+qstr_{s1}__minister|{s1} (장관)
+qstr_{s1}__under_arms_|{s1} (지휘 아래)
+qstr_{s1}__attempting_to_|{s1} (합류 하려고 시도 중)
+qstr_{s1}__separated_afte|{s1} (전투 후 행방불명)
+qstr__knows_of_you.| 당신을 알고 있다.
+qstr__has_no_opinion_abou| 당신에 대한 의견은 없다.
+qstr_{s57}_and_{s50}|{s57} 그리고 {s50}
+qstr_Calradia.|페리스노.
+qstr_sworn_man|맹세한 자
+qstr_ruler|통치자
+qstr_free_man|자유민
+qstr_{s1}_Renown:_{reg40}|{s1} 명성: {reg40}, 논란: {reg41}^명예: {reg42}, 정당성: {reg43}^당신은 {s45}의 {s44}입니다.^{reg45?{reg46?당신의 군주, {s46},{s47}:당신은 {s45}의 통치자입니다.}:}^^친구들: ^적들: ^^영지:^  {reg50?{s50}:영지는 없습니다.}
+qstr_{s1}{s2}_{reg46?Repu|{s1}{s2} {reg46?{s42}(으)로 유명하다.:}^명성: {reg40}, 논란: {reg41} {reg46?성급함: {reg43}:}^{s44} {s45}의 귀족^{reg46?군주: {s46}, 관계: {reg47}:{s45}의 통치자}^^{reg48?현재 {s48}의 포로:}^마지막으로 만난 후 지나갈 일수: {reg49}^^영지 {reg51?(영지를 약속 받았다):}:^  {reg50?{s50}:영지는 없습니다.}
+qstr_conventional|평범한
+qstr_adventurous|모험적인
+qstr_otherwordly|달리 말하자면
+qstr_ambitious|야심 있는
+qstr_moralist|도덕주의자
+qstr_just_met|그냥 만난
+qstr_admirer|숭배자
+qstr_promised|약속의
+qstr_breakup|해체
+qstr_Heroic_{s50}|영웅적인 {s50}
+qstr_Allegoric_{s50}|우화적인 {s50}
+qstr_Comic_{s50}|웃기는 {s50}
+qstr_Mystic_{s50}|신비한 {s50}
+qstr_Tragic_{s50}|비극적인 {s50}
+qstr_{s1}{s2}_Controversy|{s1}{s2} 논란: {reg41}^평판: {s42}, 구애 상태: {s43}^{s45} 소속^{reg46?그녀의 아버지, {s46}:그녀의 수호자, {s46}}{s47}^방문의 허용: {reg45?네:아니오} {reg48?{s48}의 약혼자:}^^마지막으로 만난 이후 경과 일수: {reg49}^^들려준 시:^  {reg50?{s50}:아무것도 들려주지 않음.}
+qstr_Gathering_support|지지를 모음
+qstr_Gathering_intelligen|{s66}에서 정보 수집
+qstr_Ambassy_to_{s66}|{s66}(으)로 외교 사절
+qstr_Minister|장관
+qstr_none|없음
+qstr_{s1}_{s2}^Reputation|{s1}, {s2}^평판: {s42}^{s43}에서 태어남^{s45}의 {s44}에서 만났다.^^{reg48?현재 {s48}의 포로임.:}^마지막으로 만난 후 경과 일수: {reg49}^^현재 임무:^  {s50}{reg50?, {reg50}일 후에 돌아옵니다.:}
+qstr_{s1}^|{s1}^
+qstr_{s0}_Trade_Ledger_Ar|{s0} 교역 원장 정렬
+qstr_Hard_Mode:_Setting_d|어려움 모드: 플레이어가 최대 피해를 입도록 설정
+qstr_Hard_Mode:_Setting_da|어려움 모드: 아군이 최대 피해를 입도록 설정
+qstr_Hard_Mode:_Setting_c|어려움 모드: 전투 속도를 최대로 설정
+qstr_Hard_Mode:_Setting_ca|어려움 모드: 전략 AI를 최대로 설정
+qstr_Hard_Mode:_Setting_co|어려움 모드: 전투 AI를 최대로 설정
+qstr_#|#
+qstr_{s0}{s1}|{s0}{s1}
+qstr_Best_threat_of_{s4}_|{s4}의 가장 큰 위엽은 {reg1}의 수치가 있음.
+qstr_No_center_found_to_d|방어 할 중앙 부대가 없습니다.
+qstr_DEBUG_:_attack_of_{s|DEBUG : attack of {s8} is {reg0}({reg11}), prs:{reg7}, pow:{reg8}, dis:{reg9}, lst:{reg10}
+qstr_You_spent_{reg1}_exp|당신은 경험치를 {reg1} 사용했습니다.
+qstr_You_don_t_understand|당신은 왜 실패했는지 이해하지 못했습니다.
+qstr_You_understand_why_y|당신은 왜 실패했는지 이해하였으며 실패로부터 {reg6}의 추가 경험치를 얻을 수 있었습니다.
+qstr_{s2}{s1}_|{s2}{s1}, 
+qstr__The_following_food_| 다음 음식물이 파괴되거나 약탈되었습니다: {s2}. 
+qstr__A_pack_horse_has_ra| 짐마차가 도망갔다!!
+qstr__Some_tools_have_bee| 일부 도구가 손상되거나 잃어버렸습니다.
+qstr__{reg3}| {reg3}
+qstr_Undefined!|확실하지 않음!
+qstr_Your_troops_are_at_{|당신 병사들의 결속력은 {reg1}% 이며(+{reg3}% 추가치), 적은 {reg2}% 입니다!
+qstr_Morale_of_your_troop|우리 부대의 사기가 흔들립니다!
+qstr_Morale_of_your_enemi|적들 부대의 사기가 흔들립니다!
+qstr_You_lost_{reg1}_expe|당신은 {reg1} 경험치를 잃었습니다.
+qstr_The_coeff._is_{reg1}|The coeff. is {reg1}. Armor was processed.
+qstr_The_coeff._is_{reg1}.|The coeff. is {reg1}. Horses were processed.
+qstr_The_coeff._is_{reg1}._|The coeff. is {reg1}. Shields were processed.
+qstr_The_coeff._is_{reg1}._B|The coeff. is {reg1}. Bows were processed.
+qstr_The_coeff._is_{reg1}._X|The coeff. is {reg1}. Xbows were processed.
+qstr_The_coeff._is_{reg1}._T|The coeff. is {reg1}. Throwing weapons were processed.
+qstr_The_coeff._is_{reg1}._A|The coeff. is {reg1}. All items were processed.
+qstr_DEBUG__GPU_:_Label__|DEBUG (GPU): Label '{s31}' stored in slot {reg32}, value {reg31}.
+qstr___{reg1}_{reg2}__|( {reg1}, {reg2} )
+qstr_array[{reg0}]_create|array[{reg0}] created
+qstr_array[{reg0}]_destro|array[{reg0}] destroyed
+qstr_array_p_shift_range_|array p shift range array={reg21}, start index={reg22}, end index={reg23}, shift offset={reg24}, default value={reg25}
+qstr_While_equipped:_Nurs|장비중: 간호사의 도움
+qstr_+_1_Wound_Treatment_|+ 1 상처 치료, + 1 수술
+qstr_While_equipped:_Flee|장비중: Fleetsole
+qstr_+_2_Athletics|+ 2 육상
+qstr_While_equipped:_Nobl|장비중: 고귀한 마법 부여
+qstr_+_3_Ironflesh|+ 3 강철같은 피부
+qstr_While_equipped:_Eagl|장비중: 독수리의 눈
+qstr_+_2_Spotting_+_1_Pat|+ 2 정찰, + 1 길 찾기
+qstr_While_equipped:_Houn|장비중: 사냥개
+qstr_+_2_Tracking_+_2_For|+ 2 추적, + 2 수렵 채집, + 1 길찾기
+qstr_While_equipped:_Cat|장비중: 고양이
+qstr_+_2_Tracking_+_2_Fora|+ 2 추적, + 2 수렵 채집, + 2 길찾기
+qstr_While_equipped:_Roya|장비중: 왕가의 마법 부여
+qstr_+_4_Ironflesh|+ 4 강철같은 피부
+qstr_While_equipped:_Adva|장비중: 고급 마법 부여
+qstr_+_2_Ironflesh|+ 2 강철같은 피부
+qstr_While_equipped:_Goat|장비중: 염소
+qstr_+_2_Foraging_+_1_Pat|+ 2 수렵 채집, + 1 길찾기
+qstr_While_in_possession:|소유중: 상인
+qstr_+_2_Trade_+_2_Invent|+ 2 교역, + 2 재고 관리
+qstr_While_equipped:_Simp|장비중: 간단한 마법 부여
+qstr_+_1_Ironflesh|+ 1 강철같은 피부
+qstr_While_equipped:_Pedd|장비중: 행상인
+qstr_+_1_Trade_+_1_Invent|+ 1 교역, + 1 재고 관리
+qstr_Hold|정지
+qstr_{s1}_x{reg0}|{s1} x{reg0}
+qstr_Hold_Fire|사격 중지
+qstr_Fire_at_Will|멋대로 쏴라
+qstr_Use_Shield|방패 사용
+qstr_Back_10_Paces|뒤로 10 걸음
+qstr_One_Handed_Weapons|한손 무기
+qstr_Two_Handed_Weapons|양손 무기
+qstr_Ranged_Weapons|원거리 무기
+qstr_{s2}^{s1}|{s2}^{s1}
+qstr_No_Position_Orders|위치 명령 없음
+qstr_No_Weapons_Orders|무기 명령 없음
+qstr_ready_bows_and_missi|활과 화살 준비
+qstr_ready_side_arms|휴대 무기 준비
+qstr_ready_two_handers|양손 무기 준비
+qstr_ready_polearms|장병기 준비
+qstr_brandish_shields|방패 휘두르기
+qstr_doff_your_shields|방패 버리기
+qstr_shields_at_will|방패의 벽
+qstr_avoid_melee|근접 회피
+qstr_stand_and_fight|서서 싸워라
+qstr_prepare_to_volley|일제 사격 준비
+qstr_end_volley|일제 사격 종료
+qstr_brace_for_charge|돌격용 버팀대
+qstr_remove_brace_and_fig|버팀대를 제거하고 싸운다.
+qstr_Everyone|누구든지
+qstr_No_Troops_Left.|좌측에 병사 없음.
+qstr_DEBUG_:_Weather_pena|DEBUG : Weather penalty {reg2}% - {s0}: {reg0} to {reg1}
+qstr_DEBUG_:_{s0}_profici|DEBUG : {s0} proficiency restored to: {reg1}
+qstr_ranks|향오
+qstr_shield_wall|방패의 벽
+qstr_wedge|쐐기형
+qstr_square|방진
+qstr_up|정렬
+qstr_Not_enough_troops_in|{s1}을(를) 형성하기에는 {s2}의 병력이 부족하기에, 대기하고 있습니다.
+qstr_infantry|보병
+qstr_archer|궁수
+qstr_cavalry|기병
+qstr_polearm|장창병
+qstr_skirmisher|척후병
+qstr_mounted_archer|기마 궁수
+qstr_support|지원병
+qstr_bodyguard|친위대
+qstr_undetermined_type_of|미정의 종류
+qstr_{s1}:_infantry_forma|{s1}: 보병 진형이 해체되었습니다.
+qstr_{s1}:_archer_formati|{s1}: 궁수 진형이 해체되었습니다.
+qstr_{s1}:_skirmisher_for|{s1}: 척후 진형이 해체되었습니다.
+qstr_{s1}:_cavalry_format|{s1}: 기병 진형이 해체되었습니다.
+qstr_{s1}:_formation_disa|{s1}: 진형이 해체되었습니다.
+qstr_Cavalry_formation_di|기병 대형이 해체되었습니다.
+qstr_You_have_been_enlist|당신은 입대했습니다!
+qstr_Current_rank:_{s5}|현재 계급: {s5}
+qstr_You_have_left_your_c|당신은 지휘관을 떠났습니다!
+qstr_You_have_been_grante|당신은 휴가를 허가받았습니다!
+qstr_You_have_rejoined_yo|당신은 지휘관과 합류했습니다!
+qstr_{s3}_{s2}|{s3}, {s2}
+qstr_The_equipment_of_a_{|{s1}의 장비: {s2}이(가) 할당되었습니다.
+qstr_The_equipment_of_a_{s|{s1}의 장비: {s2}이(가) 몰수되었습니다.
+qstr_#{reg21}:|#{reg21}:
+qstr_{s31}|{s31}
+qstr_{s21}___{s22}_|{s21}  ({s22})
+qstr_{s21}___Requires_Cha|{s21}  (챕터하우스 필요함)
+qstr_{s21}___Negative_Pla|{s21}  (부정적인 플레이어의 명예)
+qstr_{s21}___{reg21}+_Cen|{s21}  ({reg21}+ 중앙과의 관계)
+qstr_{s21}___+{reg1}_Heal|{s21}  (+{reg1} 체력)
+qstr_{s21}___+{reg21}%_Da|{s21}  (+{reg21}% 피해량 - 근접 무기)
+qstr_{s21}___+{reg21}%_Dam|{s21}  (+{reg21}% 피해량 - 활)
+qstr_{s21}___+{reg21}%_Ac|{s21}  (+{reg21}% 정확도)
+qstr_{s21}___+{reg21}%_He|{s21}  (+{reg21}% 체력 회복)
+qstr_{s21}___+2_to_Party_|{s21}  (+2 부대 사기)
+qstr_{s21}____4%_Tax_Inef|{s21}  (-4% 세금 비효율)
+qstr_{s21}____50%_Troop_W|{s21}  (-50% 병사 임금)
+qstr_{s21}___+20_to_Troop|{s21}  (+20 부대 사기)
+qstr_{s21}___Improves_Loo|{s21}  (더 좋은 전리품)
+qstr_{s21}___+{reg21}%_Ne|{s21}  (+{reg21}% 주변 병사에게 피해)
+qstr_DEBUG__Abilities_:_{|DEBUG (Abilities): {s32} found to have the '{s31}' ability.
+qstr_DEBUG__Abilities_:_{s|DEBUG (Abilities): {s32} already had '{s31}'.
+qstr_DEBUG__Abilities_:_{s3|DEBUG (Abilities): {s32} removed ability '{s31}' from slot {reg31}.
+qstr_DEBUG__Abilities_:_{s32|DEBUG (Abilities): {s32} assigned the '{s31}' ability in slot #{reg31}.
+qstr_ERROR___Failed_to_as|ERROR - Failed to assign ability '{s31}' to troop {s32}.  No available slots.
+qstr_DEBUG__Abilities_:_{s32}|DEBUG (Abilities): {s32} found to have the '{s31}' prerequisite.
+qstr_DEBUG__Abilities_:_{s32}_|DEBUG (Abilities): {s32} removed prereq '{s31}' from slot {reg31}.
+qstr_DEBUG__Abilities_:_{s32}_a|DEBUG (Abilities): {s32} assigned the '{s31}' prerequisite in slot #{reg31}.
+qstr_ERROR___Failed_to_ass|ERROR - Failed to assign prerequisite '{s31}' to troop {s32}.  No available slots.
+qstr_UNIQUE_LOCATION|고유한 장소
+qstr_ELITE_MERCENARY|정예 용병
+qstr_OWNER_ONLY|소유자만
+qstr_FRIEND|친구
+qstr_ALLY|동맹
+qstr_DISHONORABLE|불명예스러움
+qstr_AFFILIATED|소속됨
+qstr_CHARTERED|공인됨
+qstr_UNDEFINED|확실하지 않음
+qstr_companion|동료
+qstr_troop|병사
+qstr_{reg1?her:his}|{reg1?그녀의:그의}
+qstr_{reg1?she:he}|{reg1?그녀:그}
+qstr_SHIELD_BASHER|방패 강타
+qstr_This_{s2}_knows_how_|이 {s2}은(는) 방패를 공격 무기로 바꿔서 적 {s3}을(를) 공격하는 법을 알고 있습니다.
+qstr_Undefined|확실하지 않음
+qstr_ENDURANCE|인내력
+qstr_This_{s2}_is_conditi|이 {s2}은(는) 조건부로 더 빨리 달리지만, 동료 {s3} 만큼 빨리 달릴 수는 없습니다.
+qstr_Type:_Personal_Comba|종류: 개인 전투         ^^효과 #1:         ^당신은 최대 활역에 +40 이득을 얻습니다.         ^^효과 #2:         ^당신의 최대 질주 속도가 줄어듭니다.          ^20% 만큼.         ^^효과 #3:         ^활력 회복을 시작하기 전에 재사용 대기 시간이         ^3 초 단축됩니다.         ^^효과 #4:         ^불편함 계산에 사용되는 무게는          ^자신이 소유 한 근력의 3점마다          ^1씩 감소합니다.
+qstr_INSPIRING|고무
+qstr_This_{s2}_inspires_m|이 {s2}은(는) 부대원들에게 영감을 주며 지도력 기술을 기반으로 사기를 높여줍니다.
+qstr_TAX_COLLECTOR|세금 징수원
+qstr_This_{s2}_is_especia|이 {s2}은(는) 주둔하는 도시 {s4}에서의 세금 비효율성을 줄이는데 특히 효과적입니다.
+qstr_COMMANDING_PRESENCE|멋들어진 풍채
+qstr_This_{s2}_s_calm_cha|이 {s2}의 차분한 매력은 인근 병사들의 전투 정신을 격려합니다.
+qstr_Type:_Party_Benefit_|Type: Party Benefit         ^^Effect #1:         ^This ability allows you to improve the health         ^regeneration of all nearby allies by 2% + 1%         ^for every 2 points of Leadership.  This health         ^regeneration effect is received when the nearby         ^troop kills or wounds an opponent.         ^^Note: ^The originator of this effect does not         ^benefit from it.
+qstr_HARDY|강인함
+qstr_This_{s2}_is_more_re|이 {s2}은(는) 더 회복력이 많으며 전투에서 적을 물리치기 위해 보다 빨리 체력을 회복합니다.
+qstr_Type:_Personal_Combat|Type: Personal Combat         ^^Effect #1:         ^This benefit improves your health regeneration         ^by 0.5% per point of Ironflesh.  The health         ^regeneration effect is received when you kill or         ^wound an opponent.
+qstr_AGILE_RIDER|민첩한 기수
+qstr_This_{s2}_is_a_bette|이 {s2}은(는) 뛰어난 기수이며 낙마할 때 더 이상 피해를 받지 않습니다.
+qstr_Type:_Personal_Combat_|Type: Personal Combat         ^^Effect #1:         ^With this ability you will receive no falling         ^damage when you are unhorsed in combat.         ^^Effect #2:         ^You ignore any encumbrance penalties to the         ^Riding skill.
+qstr_SPRINTER|단거리 주자
+qstr_This_{s2}_is_much_qu|이 {s2}은(는) 전장에서 더 빠르게 달릴 수 있지만 그만큼 빠르게 지칩니다.
+qstr_Type:_Personal_Combat__|Type: Personal Combat         ^^Effect #1:         ^You can sprint 50% faster.         ^^Effect #2:         ^The maximum sprinting speed is increased by         ^30%.         ^^Effect #3:         ^Your maximum stamina is reduced by 20.
+qstr_DEDICATED|헌신적인
+qstr_This_{s2}_is_more_co|이 {s2}은(는) 당신의 대의에 보다 헌신적이며 다른 병사들과 더 쉽게 어울립니다.
+qstr_DEVOTED|열정적인
+qstr_This_{s2}_is_deeply_|이 {s2}은(는) 당신의 대의에 보다 헌신적이며 기본 임금의 절반만 받습니다.
+qstr_LOYAL|충실한
+qstr_This_{s2}_is_especial|이 {s2}은(는) 특히 충성심이 깊으며 다른 사람들이 당신을 버릴지라도 끝까지 남을 것입니다.
+qstr_HUNTER|사냥꾼
+qstr_This_{s2}_is_capable|이 {s2}은(는) 여행 중에 부대에게 음식을 제공하기 위해 사냥을 할 수 있습니다.
+qstr_Type:_Party_Benefit__|Type: Party Benefit         ^^Effect #1:         ^You reduce the need to consume food stores by         ^hunting in the local area.  Success of this         ^effect is influenced by geographical location.         ^Adding ranks of Tracking will further increase         ^your chance of a successful hunt.
+qstr_SUPPLY_RUNNER|보급품 밀수업자
+qstr_This_{s2}_manages_to|이 {s2}은(는) 용맹하여 전장을 돌아다니며 원거리 공격자들을 위해 화살통을 다시 채워줍니다.
+qstr_BERSERKER|광전사
+qstr_This_{s2}_flies_into|이 {s2}은(는) 강철같은 피부 기술을 기반으로 전투 중에 추가적인 체력을 얻는 광란 상태에 빠지게 됩니다.
+qstr_Type:_Personal_Combat___|Type: Personal Combat         ^^Effect #1:         ^You gain an +X% health for each rank of         ^Ironflesh upon entering combat due to your         ^frenzied state.  While under the effects of         ^this ability you cannot receive any benefits         ^from the Volley Commander, Tactician or         ^Sharpshooter effects from nearby allies.         ^^X% is based upon your mod difficulty setting:         ^ * +7% / rank in Easy         ^ * +5% / rank in Normal         ^ * +4% / rank in Hard         ^ * +3% / rank in Very Hard
+qstr_BOUNDLESS_ENDURANCE|무한한 지구력
+qstr_This_{s2}_is_able_to|이 {s2}은(는) 전장에서 더  빨리 그리고 더 오래 달릴 수 있습니다.
+qstr_Type:_Personal_Combat____|Type: Personal Combat         ^^Effect #1:         ^Your sprinting speed is improved by 25%.         ^^Effect #2:         ^Your maximum stamina is improved by +20.         ^^Effect #3:         ^You become twice as resistant to movement         ^speed reducing effects due to the combat         ^hampering system.
+qstr_TACTICIAN|책략가
+qstr_This_{s2}_now_applie|이 {s2}은(는) 전술 기술을 기반으로 주변 아군들의 공격력에 보너스를 적용시켜 줍니다.
+qstr_Type:_Party_Benefit___|Type: Party Benefit         ^^Effect #1:         ^Your grasp of strategy improves the damage         ^of nearby allies by 3% for each rank in         ^Tactics.         ^^Note: ^The originator of this effect does not         ^benefit from it.
+qstr_TRAILBLAZER|개척자
+qstr_This_{s2}_knows_how_q|이 {s2}은(는) 가장 편안한 여행 경로를 찾아 부대의 이동 속도를 매우 빠르게 만드는 법을 압니다.
+qstr_Type:_Party_Benefit____|Type: Party Benefit         ^^Effect #1:         ^Your path-finding skill is enhanced by 2.         ^^Effect #2:         ^The number of party members you can conceal         ^using the Stealthy ability is doubled.
+qstr_BLOODLUST|살인 충동
+qstr_This_{s2}_is_a_terro|이 {s2}은(는) 전장의 공포입니다. 격렬하게 싸우며 강화된 피해를 입힙니다.
+qstr_Type:_Personal_Combat_____|Type: Personal Combat         ^^Effect #1:         ^You gain 20% damage at the cost of 10%          ^accuracy.  For each 1% of health lost you         ^will gain an additional 1% damage and will         ^lose 0.5% accuracy.         ^^Notes:          ^ * Damage improvement is limited to +45%.         ^ * Accuracy penalty is limited to -30%.
+qstr_FORTITUDE|불굴의 용기
+qstr_This_{s2}_is_tougher|This {s2} is tougher than most and now able to resist the effects of health loss.
+qstr_Type:_Personal_Combat______|Type: Personal Combat         ^^Effect #1:         ^You are more adept at resisting the effects         ^of damage due to the combat hampering system.         ^When calculating penalties your health is         ^considered as 40% higher than it actually is.         ^^Synergy Bonus: (Disciplined)         ^Effectiveness is increased by +20% health.
+qstr_VOLLEY_COMMANDER|일제 사격 지휘관
+qstr_This_{s2}_now_applies|This {s2} now applies a bonus to the accuracy of nearby allies based on the Tactics skill.
+qstr_Type:_Party_Benefit_____|Type: Party Benefit         ^^Effect #1:         ^Your knowledge of strategy improves the accuracy         ^rating of nearby allies by 8 for each rank of         ^Tactics.         ^^Note: ^The originator of this effect does not         ^benefit from it.
+qstr_SHARPSHOOTER|명사수
+qstr_This_{s2}_has_a_dead|This {s2} has a deadly aim that improves ranged attacks based upon the Weapon Master skill.
+qstr_Type:_Personal_Combat_______|Type: Personal Combat         ^^Effect #1:         ^Your accuracy rating with ranged weapons is         ^improved by 20 with an additional +8 per rank         ^of Weapon Master.         ^^Synergy Bonus: (Master Archer)         ^If you also have the Master Archer ability then         ^the effectiveness of this talent is increased by         ^+30%.
+qstr_SCAVENGER|폐품업자
+qstr_This_{s2}_is_valuabl|This {s2} is valuable for finding extra battlefield loot and loot of higher quality.
+qstr_Type:_Party_Benefit______|Type: Party Benefit         ^^Effect #1:         ^Adept at sifting through the remains of a battle         ^to find equipment worth salvaging, you improve         ^the amount of loot found by the party for each         ^rank of Looting.
+qstr_QUICK_STUDY|빠른 학습
+qstr_This_{s2}_is_faster_|This {s2} is faster at reading books and gains extra experience from party role assignments.
+qstr_WATCHFUL_EYE|주시자의 눈
+qstr_This_{s2}_s_vigilian|This {s2}'s vigiliance allows your party to handle a greater number of prisoners.
+qstr_Type:_Party_Benefit_______|Type: Party Benefit         ^^Effect #1:         ^You increase the number of prisoners the party         ^can manage by 3 per rank of Prisoner Management.
+qstr_ESCAPE_ARTIST|탈옥의 명수
+qstr_This_{s2}_is_talente|This {s2} is talented at escaping captivity and may help others escape as well.
+qstr_Type:_Personal_Benef|Type: Personal Benefit         ^^Effect #1:         ^Few rope bonds or even dungeons can hold you for         ^long.  Your chance of increasing from captivity         ^is dramatically increased.         ^^Synergy Bonus: (Stealthy)         ^If you have the Stealthy ability then you will         ^also break out any allies captive in the same         ^location when you escape.
+qstr_ADMINISTRATOR|행정가
+qstr_This_{s2}_is_talented|This {s2} is talented as either a Castle Steward or Captain of the Guard.
+qstr_ENGINEER|공학자
+qstr_This_{s2}_is_now_a_c|This {s2} is now a capable overseer of construction as Castle Steward.
+qstr_SIEGE_GENERAL|공성 장군
+qstr_This_{s2}_is_now_cap|This {s2} is now capable of leading a legendary defense as Captain of the Guard.
+qstr_MASTER_ARCHER|궁술의 달인
+qstr_This_{s2}_s_ability_|This {s2}'s ability to deliver punishing shots with a bow are now improved by the Weapon Master skill.
+qstr_Type:_Personal_Combat________|Type: Personal Combat         ^^Effect #1:         ^You gain an 8% bonus to damage when wielding         ^a bow.  This effect is increased by an additional         ^+2% bonus to damage for each rank of         ^Weapon Master.         ^^Synergy Bonus: (Sharpshooter)         ^If you also have the Sharpshooter ability then         ^the effectiveness of this talent is increased by         ^+30%.
+qstr_EFFICIENT|능률적인
+qstr_This_{s2}_now_makes_|This {s2} now makes for an exceptional Castle Steward.
+qstr_CHEF|요리사
+qstr_This_{s2}_can_now_ma|This {s2} can now maintain stores longer and gain more party morale as storekeeper.
+qstr_USEFUL_CONTACTS|유용한 연락책
+qstr_This_{s2}_is_now_con|This {s2} is now considerably more adept at the storekeeper, quartermaster or gaoler roles.
+qstr_BLADEMASTER|검술의 달인
+qstr_This_{s2}_s_ferocity|This {s2}'s ferocity with melee cutting weapons is now improved by the Weapon Master skill.
+qstr_Type:_Personal_Combat_________|Type: Personal Combat         ^^Effect #1:         ^You gain a +2% bonus to damage for each rank of         ^Weapon Master when wielding a melee cutting         ^weapon.         ^^Synergy Bonus: (Savant)         ^You gain an additional +1% damage for every 2         ^points of intelligence you have above 10 if         ^you also possess the Savant ability.
+qstr_CARGOMASTER|화물 운반의 달인
+qstr_This_{s2}_is_a_capab|This {s2} is a capable quartermaster knowing how to work the best deals from battlefield loot being sold.
+qstr_GRACEFUL_RIDER|우아한 기수
+qstr_This_{s2}_is_adept_a|This {s2} is adept at avoiding the dangers of pikemen during a charge.
+qstr_Type:_Personal_Combat_________^|Type: Personal Combat         ^^Effect #1:         ^You have a chance to avoid any extra damage         ^dealt by pikes equal to your horse's maneuverability         ^+ 3% per rank of the Riding skill.         ^^Effect #2:         ^You ignore any encumbrance penalties to the         ^Horse Archery skill.
+qstr_INDOMITABLE|불굴의
+qstr_This_{s2}_can_more_e|This {s2} can more easily ignore encumbrance penalties based upon strength.
+qstr_Type:_Personal_Combat_________^^|Type: Personal Combat         ^^Effect #1:         ^Your strength is considered to be three times         ^as much when used for calculations related to         ^encumbrance penalties.
+qstr_NIMBLE|날렵한
+qstr_This_{s2}_can_more_ea|This {s2} can more easily ignore encumbrance penalties based upon agility.
+qstr_Type:_Personal_Combat_________^^E|Type: Personal Combat         ^^Effect #1:         ^Your agility is considered to be three times         ^as much when used for calculations related to         ^encumbrance penalties.
+qstr_STEALTHY|은밀한
+qstr_This_{s2}_can_hide_s|This {s2} can hide smaller parties from being spotted during travel.
+qstr_Type:_Party_Benefit________|Type: Party Benefit         ^^The base chance of evading detection of a hostile         ^party is 100% - 4% for each troop in your party.         ^^Effect #1:         ^^ * Each troop with this ability reduces your chance of         ^   your party being detected by 3%.         ^^ * A companion or player with this ability reduces          ^   the chance of your party being detected by 2%          ^   per rank of Spotting and Tracking. (Minimum +3%)         ^^Effect #2:         ^When escaping captivity through use of the Escape         ^Artist talent, this ability allows you to free any         ^other allies held at the same location.         ^^Synergy Bonus: (Trailblazer)         ^The number of troops concealed by this talent is         ^doubled if you also possess the Trailblazing ability.
+qstr_STORYTELLER|이야기꾼
+qstr_This_{s2}_is_adept_at|This {s2} is adept at boosting your renown with retelling the tales of your exploits.
+qstr_Type:_Boost_________|Type: Boost         ^^Effect #1:         ^The renown you gain from combat is increased by 2         ^per rank of Persuasion.  This effect may not exceed         ^a total of +15 renown per battle.
+qstr_SILVER_TONGUED|달변가
+qstr_This_{s2}_is_now_mor|This {s2} is now more convincing when making attempts at persuasion.
+qstr_Type:_Boost_________^|Type: Boost         ^^Effect #1:         ^Options to persuade individuals during dialog          ^encountersalways appear regardless of other          ^prerequisites.         ^^Effect #2:         ^The chances of successfully persuading a target is          ^increased by 25%.  This effects stacks with benefits          ^gained from the Persuasion skill.  This effect is          ^reduced to +15% when convincing lords to join your          ^faction.
+qstr_SAVAGE_BASH|맹렬한 비난꾼
+qstr_This_{s2}_can_now_de|This {s2} can now deliver shield bashes with devasting power.
+qstr_Type:_Personal_Combat_________^^Ef|Type: Personal Combat         ^^Effect #1:         ^Your shield bash attempts now apply +2 damage per         ^point of Strength and per rank of Shield.  This         ^damage is mitigated normally by armor reducing         ^its effectiveness.
+qstr_THRIFTY|절약가
+qstr_This_{s2}_sees_how_f|This {s2} sees how far above or below the average price a good is.
+qstr_Type:_Boost_________^^|Type: Boost         ^^Effect #1:         ^Tooltips for trade goods will now display how         ^far above or below the base price those items         ^are.         ^^Effect #2:         ^A notification will be added to the message log         ^whenever the inventories of trade good merchants         ^are reset.         ^^Effect #3:         ^Trade goods that are used in an enterprise that         ^you currently own will now display this.
+qstr_SAVANT|서번트
+qstr_This_{s2}_has_become|This {s2} has become an incredibly quick learner.
+qstr_Type:_Boost_________^^E|Type: Boost         ^^Effect #1:         ^Extra experience gained from having a high         ^Intelligence is increased by 50%.
+qstr_RALLYING_FIGURE|조롱꾼
+qstr_This_{s2}_can_gather|This {s2} can gather a greater host of men then most peers.
+qstr_Type:_Boost_________^^Ef|Type: Boost         ^^Effect #1:         ^Each rank of Leadership that you possess         ^contributes an extra +3 troops to your         ^maximum party limit.         ^^Effect #2:         ^Your morale bonus due to Leadership is         ^improved by +2 per rank.
+qstr_WHOLESALER|도매업자
+qstr_This_{s2}_can_trade_|This {s2} can trade more of a single good without penalty.
+qstr_Type:_Boost_________^^Eff|Type: Boost         ^^Effect #1:         ^This talent reduces the change in purchase          ^or sale price of an item due to selling          ^multiple copies of it in the same location          ^15% per rank of your Trade skill.
+qstr_SECOND_WIND|두 번째 바람
+qstr_This_{s2}_can_quickl|This {s2} can quickly move from one enemy to the next.
+qstr_Type:_Boost_________^^Effe|Type: Boost         ^^Effect #1:         ^Whenever you defeat an enemy in combat your         ^current stamina is increased by 15.         ^^Effect #2:         ^Whenever you defeat an enemy in combat your         ^cooldown for recovering stamina will be         ^immediately reset.
+qstr_DISCIPLINED|훈련받은
+qstr_This_{s2}_has_learne|This {s2} has learned to ignore minor wounds through mental discipline.
+qstr_Type:_Boost_________^^Effec|Type: Boost         ^^Effect #1:         ^Combat health is increased by 1 for every         ^2 points of intelligence you have above 8.         ^This effect cannot combine with the health         ^granted by the Berserker ability.         ^^Effect #2:         ^You are more adept at resisting the effects         ^of damage due to the combat hampering system.         ^When calculating penalties your health is         ^considered as 20% higher than it actually is.         ^^Synergy Bonus: (Fortitude)         ^The minimum requirement of 8 intelligence is         ^removed.
+qstr_STEADY_AIM|안정된 조준
+qstr_This_{s2}_has_learned|This {s2} has learned to pick shots carefully for maximum damage.
+qstr_Type:_Personal_Combat_________^^Eff|Type: Personal Combat         ^^Effect #1:         ^Increases the damage of the next bow or crossbow         ^attack you make by +2 per second up to a maximum          ^of half your Strength value.  25 STR = +12 damage          ^after a 6 second pause.         ^^Synergy (Sharpshooter):         ^Rate of damage increase is improved to +3 damage         ^per second.         ^^Synergy (Master Archer):         ^Upper limit of damage is improved to 65% of your         ^Strength value.
+qstr_CHARGING_STRIKE|돌격 강타
+qstr_This_{s2}_has_learned_|This {s2} has learned to gain the most advantage from their momentum.
+qstr_Type:_Personal_Combat_________^^Effe|Type: Personal Combat         ^^Effect #1:         ^Increases the speed damage bonus of attacks made          ^while sprinting.  You gain a bonus of 1 damage for         ^every 4% speed you have above normal.  This effect          ^is limited to a maximum of 50% of your strength          ^attribute.          ^^Synergy (Second Wind):         ^Your damage bonus is now limited by either your         ^strength or agility attribute based on whichever         ^is higher.         ^^Synergy (Blademaster):         ^Upper limit of damage is improved to 65% of your         ^Strength value.
+qstr_POISONED_WEAPONS|독바른 무기
+qstr_This_{s2}_has_master|This {s2} has mastered the art of crippling enemies with poisoned weapons.
+qstr_Type:_Personal_Combat_________^^Effec|Type: Personal Combat         ^^Effect #1:         ^Increases the speed damage bonus of attacks made          ^Whenever you damage another troop they become          ^poisoned causing their effective health to be          ^lowered by 50% (combat hampering).         ^^Effect #2:         ^A poisoned enemy loses one health every four          ^seconds for a total of 20 ticks (80 sec duration).         ^^Special Note:         ^Use of this ability will lower your honor by 1         ^for each battle it is used in to a minimum of -15.         ^^Special Note:         ^This ability is disabled in tournaments, arena         ^matches and while training peasants.
+qstr_STEADY_FOOTING|꾸준한 발걸음
+qstr_This_{s2}_is_resista|This {s2} is resistant to shield bashing attempts.
+qstr_Type:_Personal_Combat_________^^Effect|Type: Personal Combat         ^^Effect #1:         ^You are able to resist the attempts of other          ^troops trying to shield bash you.  Your chance         ^to resist is equal to 40% + 3% for each point          ^you have in the Strength attribute.
+qstr_CHEAP|싸구려
+qstr_Undedescribed|설명되지 않음
+qstr_TIGHT_FORMATION|단단한 진형
+qstr_Undescribed.|설명되지 않음.
+qstr_You_have|당신이 소유한
+qstr_your|당신의
+qstr_{s2}_has|{s2}에 있음
+qstr_{s1}_reset_all_of_{s|{s1} reset all of {s3} abilities reset.
+qstr__Unlocked_at_Level_{|(Unlocked at Level {reg31})
+qstr_No_Ability_Designate|지정된 능력 없음
+qstr_DEBUG__Storyteller_:|DEBUG (Storyteller): {reg33} {s31} add +{reg31}% to renown.  {reg39?Heroes:Troops} = +{reg32}%
+qstr_DEBUG__Storyteller_:_|DEBUG (Storyteller): Total renown bonus is {reg32}.  Bonus = +{reg33}%
+qstr_DEBUG__Stealth_:_{s3|DEBUG (Stealth): {s31} adds +{reg31}% concealment chance.  Heroes = +{reg32}%
+qstr_DEBUG__Stealthy_:_{r|DEBUG (Stealthy): {reg33} {s31} adds +{reg31}% concealment chance.  Troops = +{reg32}%
+qstr_DEBUG__Stealthy_:_To|DEBUG (Stealthy): Total concealment bonus is +{reg32}%.
+qstr_DEBUG__Stealthy_:_{re|DEBUG (Stealthy): {reg31}% DC = 100 - {reg32}% Party Size + {reg33}% Concealment + {reg34}% Encumbrance + {reg35}% Distance.
+qstr_Shield___{reg31}_|방패 (-{reg31})
+qstr_Power_Draw___{reg31}|전력 당기기 (-{reg31})
+qstr_Riding___{reg31}_|승마 (-{reg31})
+qstr_Horse_Archery___{reg|기마 궁술 (-{reg31})
+qstr_Athletics___{reg31}_|육상 (-{reg31})
+qstr_Speed_Penalty___{reg|속도 불이익 (-{reg31})
+qstr_No_Skill_Penalty_Ass|할당된 기술 불이익 없음
+qstr_DEBUG__Stamina_:_Sta|DEBUG (Stamina): Stamina bar has been {reg31?BLOCKED:unblocked} @ draw stamina bar.  Object #{reg32}
+qstr_DEBUG__Stamina_:_Stam|DEBUG (Stamina): Stamina bar has been {reg31?BLOCKED:unblocked} @ update script filter (combat)
+qstr_+{reg2}|+{reg2}
+qstr_You_came_into_the_wo|당신은 집만 소유하고 몰락한 귀족의 {reg3?딸:아들}로 이 세상에 태어났다. 그러나 가정 형편의 어려움에도 불구하고 부모님들은 귀중한 교육을 제공했고 귀족 사회의 엄격함과 궁정 생활에서의 규칙을 어린 시절부터 당신에게 훈련 시켰다.
+qstr_You_came_into_the_wor|당신은 위대한 여신에 의해 축복받은 엘바리에 귀족의 {reg3?딸:아들}로 이 세상에 태어났다. 당신을 위한 축복의 의식은 참으로 볼만한 광경이었고, 당신에게 엘린토란 귀족의 칭호를 내렸습니다. 당신은 모든 엘린토란의 젊은 귀족들처럼 궁술, 군사 전술 및 관측 기술에 숙달되었습니다.
+qstr_You_came_into_the_worl|당신은 강력한 카이코스 철권병의 {reg3?딸:아들}로 이 세상에 태어났다. 아버지의 힘은 그의 동료들로부터 타의 추종을 불허할 정도라고 인정받을 정도였다. 그의 영광스러운 시절은 이미 오래 전에 사라졌지만, 그는 당신이 자신을 포함하여 최고의 카이코스 전사들에 의해 잘 훈련받는지를 매일같이 확인했다.
+qstr_You_came_into_the_world|당신은 두려움 받는 바칼 전쟁 군주의 아들로 이 세상에 태어났다. 당신이 12살이던 때, 전투에서 죽기 전까지 그는 당신에게 전투에 대해 많은 것을 가르쳐주었다.
+qstr_You_were_born_the_{r|당신은 행상인의 {reg3?딸:아들}로 태어났으며 항상 이익을 찾아 온갖 장소를 돌아다니며 자랐다. 비록 당신의 부모님이 대부분의 사람들보다 더 부유하고 그만한  교육을 받을 수 있었지만 항상 길 위를 이동하면서는 친구를 사귈 수 있는 기회가 거의 없었다. 대신 당신은 누군가에게 물건을 팔 수 있는 순간을 위해 살았다.
+qstr_As_a_child_your_fami|어린 시절, 당신의 가족은 지방 영주의 경비원인 아버지의 임금으로 빈곤한 삶을 영위했다. 그것은 쉬운 삶이 아니었으며 당신은 너무나도 가난하여 많은 교육을 받지 못했다. 대신에 당신의 손에 무기가 있건 없건 거리에서 자신을 방어하는 법을 주로 배웠다.
+qstr_You_were_the_{reg3?d|당신은 숲에서 사는 가족의 {reg3?딸:아들}이었으며 가족은 생계를 꾸려가는데 필요한 일이라면 무엇이든 했다. 사냥, 벌목, 화살 제작, 심지어 상황이 안좋을 때마다는 밀렵까지. 추운 날씨는 동물과 사람을 모두 죽이기 때문에 겨울은 가족에게 결코 좋은 시간이 아니었지만, 당신의 형제 자매들은 그다지 운이 없었을지라도 당신은 항상 새벽을 볼 수 있었다.
+qstr_a_messanger|전령
+qstr_He_was_neither_rich_|그는 부자도, 위대한 전사도 아니었으며 간신히 글을 읽고 쓸 수 있는 정도였으며 당신은 빈곤한 교육밖에 받지 못했다. 그럼에도 가족은 언제나 사이가 좋았으며, 검소하지만 행복한 생활을 보냈다. 어린 시절에 배운 것은 이것저것 많이 있었지만, 딱히 특출나게 잘하는 일은 없었다.
+qstr_As_the_{reg3?daughte|도적의 {reg3?딸:아들}로서 당신은 '공식'적인 교육은 거의 받지 않았다. 대신에 거리에서 구걸을 하면서 지갑을 소매치기 하거나 칼로 찢어 돈을 훔치는 법을 익혔으며 그렇게하여 당신의 어린 시절은 흘러갔다. 그러나 앞으로 성년으로서의 인생을 위해 당신은 도시의 비밀과 어두운 뒷골목을 누비는 법을 알게되면서 세상이 돌아가는 방식에 대해서 이해하였다.
+qstr_When_you_were_young_|당신이 어렸을 때, 당신은 수백 가지의 설교에 귀를 기울였고 설득에 관해 많은 것을 배웠으며, 말을 퍼뜨려 군중을 통제하는 방법을 이해했다. 반항적인 {reg3?소녀였:소년이었}던 당신은 결코 아버지의 신앙을 받아들일 수 없었다.
+qstr__You_were_born_years|당신은 멀리 떨어진 땅에서 수 년 전에 태어났다. 당신의 아버지는 {s2}이었다. {s3}
+qstr_There_was_a_lake_nea|There was a lake near a settlement where you spent your childhood. You used almost all of your free time to practice swimming which you really enjoyed. It paid off - your health and physical condition greatly benefited from this hobby.
+qstr_Your_could_spend_hou|Your could spend hours shooting at targets and trying to hit the bull's eye. Eventually you became so good at it, that even professional archers would regularly come and watch you practice, from time to time giving you helpful advice.
+qstr_There_was_nothing_yo|There was nothing you loved as much as speed and wind blowing around you. And even that wasn't enough - despite multiple traumas you got, you kept teaching your horse new tricks and later showed them to astonished public.
+qstr_Examining_outskirts_|Examining outskirts, finding new places, pathways, hidden stashes - what can possibly be more interesting? Whenever you had some free time, you would go into wilderness and wander there for hours.
+qstr_Initially_your_peers|Initially your peers would make jokes about your hobby, but your vast knowledge of all sorts of stories you'd read as well your great story-telling skill eventually made you rather popular. Other kids as well as adults loved listening to all these tales you could tell.
+qstr_Initially_you_only_m|Initially you only made wooden toys for your own entertainment, but soon you were noticed by a local craftsman who was quite surprised by your skill and took you on as an apprentice. He taught you almost everything he knew about crafting and repairing furniture, constructions and even weapons.
+qstr_You_would_pickpocket|You would pickpocket people on the streets, steal fruits and vegetables from their gardens, even broke into houses on several occasions. No-one ever caught you.
+qstr_{s1}^^_You_started_t|{s1}^^ You started to learn about the world almost as soon as you could walk and talk.  As a {reg3?girl:boy} you particularly enjoyed {s2}. {s3}
+qstr_a_recruit|신병
+qstr_You_couldn_t_just_st|You couldn't just stay aside when a nearby kingdom attacked your faction, so you were among the first to join the army. You were lucky to end up under command of the marshal. A great warrior and a brilliant tactician, he was likely the very reason why your troop managed to survive through the entire war.
+qstr_It_became_both_your_|It became both your work and hobby. First of all, you just liked capturing criminals and locking them up in prisons. At the same time, your good tracking skill got you a lot of money for a couple of difficult bounties.
+qstr_Working_for_entire_d|Working for entire days like ordinary people was never for you. Robbing a merchant caravan and taking plenty of goods in just a couple of hours is a completely different thing!
+qstr_Though_the_distincti|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You pursued a career as a smith, crafting items of function and beauty out of simple metal. As time wore on you became a master of your trade, and fine work started to fetch fine prices. With food in your belly and logs on your fire, you could take pride in your work and your growing reputation.
+qstr_It_all_started_unexp|It all started unexpectedly: one day you caught a strange desease no doctor in your area could heal. Fighting for your life, you travelled a long way to Galwe and spent several weeks consulting with renowned doctors, but mostly, due to lack of their time and your money, studying coursebooks in the library. Eventually you found the exact description of your desease in an old book, followed by a detailed recipe of the cure, which you managed to prepare without anyone else's help. And although this short period of self-education didn't make an actual doctor, you still learned a lot about deseases, treatments and medicine in general.
+qstr_You_spent_several_ye|You spent several years living in another kingdom, making connections and gathering information. Your charisma and wit helped you with that.
+qstr_Though_the_distinctio|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you.  When you were named squire to a noble at court, you practiced long hours with weapons, learning how to deal out hard knocks and how to take them, too.  You were instructed in your obligations to your lord, and of your duties to those who might one day be your vassals.  But in addition to learning the chivalric ideal, you also learned about the less uplifting side -- old warriors' stories of ruthless power politics, of betrayals and usurpations, of men who used guile as well as valor to achieve their aims.
+qstr_Though_the_distinction|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you.  You joined the tightly-knit circle of women at court, ladies who all did proper ladylike things, the wives and mistresses of noble men as well as maidens who had yet to find a husband.  However, even here you found politics at work as the ladies schemed for prominence and fought each other bitterly to catch the eye of whatever unmarried man was in fashion at court.  You soon learned ways of turning these situations and goings-on to your advantage. With it came the realisation that you yourself could wield great influence in the world, if only you applied yourself with a little bit of subtlety.
+qstr_{s1}^^_Then_as_a_you|{s1}^^ Then, as a young adult, you became {s2}. {s3}
+qstr_personal_revenge|개인적인 복수
+qstr_Only_you_know_exactl|Only you know exactly what caused you to give up your old life and become an adventurer.  Still, it was not a difficult choice to leave, with the rage burning brightly in your heart.  You want vengeance. You want justice. What was done to you cannot be undone, and these debts can only be paid in blood...
+qstr_the_loss_of_a_loved_|사랑하는 사람의 상실
+qstr_Only_you_know_exactly|Only you know exactly what caused you to give up your old life and become an adventurer.  All you can say is that you couldn't bear to stay, not with the memories of those you loved so close and so painful. Perhaps your new life will let you forget, or honour the name that you can no longer bear to speak...
+qstr_wanderlust|방랑벽
+qstr_Only_you_know_exactly_|Only you know exactly what caused you to give up your old life and become an adventurer.  You're not even sure when your home became a prison, when the familiar became mundane, but your dreams of wandering have taken over your life. Whether you yearn for some faraway place or merely for the open road and the freedom to travel, you could no longer bear to stay in the same place. You simply went and never looked back...
+qstr_being_forced_out_of_|집에서의 추방
+qstr_Only_you_know_exactly_w|Only you know exactly what caused you to give up your old life and become an adventurer.  However, you know you cannot go back. There's nothing to go back to. Whatever home you may have had is gone now, and you must face the fact that you're out in the world, alone to fend for yourself...
+qstr_lust_for_money_and_p|돈과 권력에 대한 욕망
+qstr_Only_you_know_exactly_wh|Only you know exactly what caused you to give up your old life and become an adventurer.  To everyone else, it's clear that you're now motivated solely by personal gain.  You want to be rich, powerful, respected, feared.  You want to be the one whom others hurry to obey.  You want people to know your name, and tremble whenever it is spoken.  You want everything, and you won't let anyone stop you from having it...
+qstr_your_interest_in_old|오래된 전설에 대한 관심
+qstr_Several_times_in_you|Several times in your life you stumbled upon stories about the old kingdom of Perisno that existed in these lands long ago. They were usually incomplete, fragmentary. Rumors, that were retold hundreds of times and, without a doubt, changed a lot in the process. Yet they sparked your interest, and eventually you decided to travel around the world to learn more.
+qstr_an_accident|돌발 사고
+qstr_One_day_you_woke_up_|One day you woke up naked in the middle of a rye field. You didn't have any of your equipment with you, nor memories of the past few days. Completely puzzled, you felt like you couldn't go on with your usual life and just had to try and find out anything about what happened with you. So, you set out on a journey.
+qstr_{s1}^^_But_soon_ever|{s1}^^ 그러나 곧 모든 것이 바뀌었고 당신은 모험가로서 홀로 나아가기로 결정했다.  이러한 결정을 내린 이유는 {s2} 때문이었다. {s3}
+qstr_^{s1}^^_As_a_{s3}_{s|^{s1}^^{s3}의 {s2}인 당신은 {s4} ^{s1}^^{s3}の{s2}であるあなたは {s4}
+qstr_You_got_keys_of_dung|지하 감옥 열쇠를 얻었습니다.
+qstr_You_successfully_sto|당신은 성공적으로 10000 오럼을 저금했습니다. 현재 이 영지의 국고에는 {reg3} 오럼이 있습니다.
+qstr_You_successfully_wit|당신은 성공적으로 10000 오럼을 인출했습니다. 현재 이 영지의 국고에는 {reg3} 오럼이 있습니다.
+qstr_This_fief_will_accum|이 영토는 모든 이익을 국고에 축적합니다.
+qstr_This_fief_will_no_lo|이 영토는 더 이상 모든 이익을 국고에 축적하지 않습니다.
+qstr_Combat_abilities_^^V|전투 능력 ^^V : 장비중인 파비스 방패를 전개한다. ^^T : 휘파람, 당신의 말을 부른다. 매력이 높을수록 효과적이다. 필요 한 매력은 8 ^^O : 화살 빌리기, 당신의 궁수 아까이에서 O를 눌러서 화살을 빌린다. 가방 안에 적어도 하나의 화살이 있어야 한다. ^^Y : 응급 처치, 즉시 상처를 치료하여 회복시킨다. (응급 처치 x4)+(지능/3) 회복되는 생명력 ^^U : 전투의 함성, 부상 입은 병사를 고무하여 회복 시킨다. (3x지도력+매력) 병사들의 체력 총량 ^^B : 전쟁의 함성, 무시무시한 외침으로 주변의 약한 적들이 두려움에 떨게 만든다. ^^I : 도발, 당신의 매력이 높을수록 많은 적들의 관심을 끌 수 있다. ^^모든 전투 능력은 전투에서 60초마다 사용할 수 있다. ^^다른 중요한 변경 사항을 보려면 M을 누르시오. ^^도움말을 닫으려면 H를 누르시오.
+qstr__blank.| 공백.
+qstr_You_whistle_for_a_ho|당신은 휘파람으로 말을 불렀다!
+qstr_You_fail_your_attrib|당신은 속성 검사에 실패했다.
+qstr_You_taunt_your_enemi|당신은 적을 도발했다!
+qstr_You_unleash_a_fearso|당신은 무시무시한 함성을 질렀다!
+qstr_You_treat_your_wound|당신이 입은 부상을 응급 처치했다! (체력이 {reg1} 회복됨)
+qstr_You_failed_your_attr|당신은 속성 검사에 실패했다.
+qstr_You_rally_your_men!_|당신은 부하들을 고무했다! (부상입은 병사들의 체력이 {reg1} % 회복됨) 그리고 다른 사람들은 용기를 얻었다.
+qstr_Press_N_for_help|N 키로 도움말 표시
+qstr_You_have_killed_{reg|이 전투에서 당신은 {reg1} 명의 적을 죽였습니다!
+qstr_Your_bravery_inspire|당신의 용맹함이 당신의 병사들을 고무시킵니다!
+qstr_You_rally_your_men!|당신은 부하들을 고무했다!
+qstr_You_call_for_reinfor|당신은 증원을 불렀다!
+qstr_Reinforcements_arriv|증원군이 도착했다!
+qstr_Press_TAB_to_end_the|TAB 키를 눌러 전투를 종료하십시오.
+qstr_You_were_defeated.|당신은 패배했다.
+qstr_Rotate_with_the_mous|마우스로 회전하고, 표준키로 이동하십시오.
+qstr_Shift/Control_for_Up|Shift/Control 키로 상/하 이동. 스페이스 바로 속도 상승.
+qstr_Numpad_Plus/Minus_to|키패드의 + / - 키로 마우스 감도 변경. Numpad로 회전.
+qstr_Home_to_reset_positi|Home 키로 죽은 장소를 본다. End 키로 Y축 회전.
+qstr_Y_Rotation_Inverted|Y-회전 반전
+qstr_Y_Rotation_Normal|Y-회전 일반
+qstr_Sensitivity___25%__{|마우스 감도 - 25% ({reg8}, {reg9})
+qstr_Sensitivity_+_25%__{|마우스 감도 + 25% ({reg8}, {reg9})
+qstr_leadership|지도력
+qstr_prisoner_management|포로 관리
+qstr_persuasion|설득
+qstr_engineer|공학
+qstr_first_aid|응급 처치
+qstr_wound_treatment|상처 치료
+qstr_inventory_management|재고 관리
+qstr_spotting|정찰
+qstr_path_finding|길찾기
+qstr_tactics|전술
+qstr_tracking|추적
+qstr_looting|전리품
+qstr_horse_archery|기마 사격
+qstr_athletics|육상
+qstr_shield|방패
+qstr_weapon_master|무기의 달인
+qstr_power_draw|궁술
+qstr_power_throw|투척
+qstr_power_strike|강력한 일격
+qstr_iron_flesh|강철같은 피부
+qstr_{reg10}|{reg10}
+qstr_You_have_lost_a_skil|당신은 기술 점수를 {s10} 잃었습니다.
+qstr_Cheating_is_bad_ya_k|부정 행위는 나쁩니다. 알잖아요.
+qstr_Everyone_you_know_wh|전원, 어떻게 해야 할지 알고 있을 것이다. 위치로!
+qstr_{reg2?You:Your_mount|{reg2?당신:당신의 탈것}은 {reg1}의 추가 피해를 입었습니다!
+qstr_You_whistle_for_your|당신의 말을 부르기 위해 휘파람을 불었습니다.
+qstr_Your_horse_received_|당신의 말은 창진에 {reg1} 피해를 입었습니다!
+qstr_Braced_{s1}_dealt_{r|창진으로 {s1} 에게 {reg1} 피해를 주었습니다!
+qstr_Bracing_{s1}_for_cha|기마 돌격에 대비해 {s1} (으)로 창진을 형성.
+qstr_Releasing_from_brace|창진을 해제합니다.
+qstr_...and_attack_enemy_|...그리고 적 {s1}을(를) 공격하라!
+qstr_{s2}:_returning_afte|{s2}:적의 {s1}을(를) 파괴하고 돌아옴.
+qstr_Battle_won!_The_rema|전투 승리! 나머지 적들은 항복합니다...
+qstr_You_must_stay_behind|선 안에 머물러야 합니다! 점수는 계산되지 않습니다.
+qstr_Do_you_wish_to_give_|결투를 포기합니까?
+qstr_Tutorial|튜토리얼
+qstr_You_have_been_knocke|당신은 적에게 기절당했습니다. 당신의 부하들이 당신없이 싸우는걸 지켜보거나 탭을 눌러 후퇴하십시오.
+qstr_To_watch_the_fight_y|To watch the fight you can use 'w, a, s, d, numpad +/numpad -' to move and 'numpad 1,2,3,4,6,8' to rotate the cam.
+qstr_This_giant_must_have|이 거인은 혼란을 틈타 광산으로 들어온게 틀림없다. 그러나 이상한 일은 아니다... 약탈자들은 항상 이곳에 들어왔으며, 이자는 특히 컸으니까. 나는 그 악마 숭배자들을 조사 할 필요가 있다...
+qstr_health_regen_active|체력 회복 활성화
+qstr_ammo_refill_every_15|15초 마다 탄약 보급 활성화
+qstr_sprinting_active_pre|질주 활성화. 왼쪽 Ctrl 키를 눌러서 질주
+qstr_Cannot_leave_now.|지금은 떠날 수 없습니다.
+qstr__You_have_been_defea| 당신은 도적들에게 쓰러졌다. 그러나 그들은 당신이 죽었다고 생각해서 그대로 방치해두기로 했다. 이곳을 방문하는 자들에게 경고의 의미로 보여주기 위해.
+qstr__You_ve_killed_one_o| 당신은 이곳에서 세 명의 지도자 중 한 명을 죽였습니다.
+qstr__You_ve_killed_all_t| 당신은 이 곳의 모든 지도자들을 죽였습니다. 전리품은 당신 것입니다.
+qstr__Once_a_great_battle| 한 때, 여기 엘카루의 전장에서는 큰 싸움이 있었다. 도적들은 패배하였고 도망쳐야 했다.
+qstr__Refugees_and_desert| 난민들과 탈영병들이 이곳을 그들의 집으로 삼았다. 그러나, 도적들이 너무 많았다. 수백 년 후, 그들은 모든 부패와 타락과 함께 인구를 늘려갔다. 어떤 일이 일어날지 당신도 알 수가 없다...('K' 키를 눌러 닫기)
+qstr_Do_you_wish_to_give_u|싸움을 포기하시겠습니까?
+qstr_You_ve_lost_a_total_|당신은 결투에서 총 {reg2} 번 패배했습니다.
+qstr_You_ve_won_a_total_n|당신은 결투에서 총 {reg2} 번 승리했습니다.
+qstr_Where_will_you_go_wi|당신의 배를 타고 어디로 가시겠습니까?
+qstr__Next_pay_day:_{s1}| 다음 급료일: {s1}
+qstr_{s1}^^Affiliated_to_|{s1}^^{s5}에 소속되었다.
+qstr_Enabled_due_to_Hard_|어려움 모드를 활성화함
+qstr_Standard|표준
+qstr_Upon_returning_to_yo|당신은 고향으로 돌아와 무수한 경의를 받았지만, 토르손을 데려오지 않았기 때문에 모두 잃어버렸다.
+qstr_This_beach_was_forei|이 해변은 당신에게 있어 이국의 땅이다...
+qstr_You_decide_to_invest|당신은 조사하기로 했다...
+qstr_Back_to_the_beginnin|처음으로 돌아가기...
+qstr_View_next_segment...|다음 부분 보기...
+qstr_^No_food:___{reg7}|^식량 없음:  -{reg7}
+qstr_^Wage_debt:___{reg6}|^임금 부채:  -{reg6}
+qstr_On_loan|대출,
+qstr_Appoint_next_marshal|다음 사령관 선임
+qstr_Award_{s12}_as_fief|{s12} 봉토 수여
+qstr_No_one|아무도 없음
+qstr_Selected_faction_is:|선택 된 세력: {s10}^^{s9}
+qstr_You_are_currently_re|당신은 {s8}을(를) 읽고 있습니다.
+qstr_You_are_not_reading_|당신은 책을 읽고 있지 않습니다.
+qstr_{s5}_and_{s6}|{s5} 그리고 {s6}
+qstr_Your_estates_are:_{s|당신의  영지는: {s8}.^{s9}
+qstr_Current_party_size_l|현재 부대 크기 제한은 {reg5}.^현재 부대 크기 수정치는:^^기본 크기:  +30^지도력: {s2}{reg1}^매력: {s3}{reg2}^명성: {s4}{reg3}^총합:  {reg5}
+qstr_Your_relation_with_t|당신의 세력과의 관계는 다음과 같습니다:^{s2}
+qstr_Player_renown_is_inc|플레이어의 명성이 200 증가합니다.
+qstr_Player_honor_is_incr|플레이어의 명예가 10 증가하였고 이제 {reg7}이 되었습니다.
+qstr_Current_position_is_|Current position is {reg1}, {reg2}, {reg3}.
+qstr_Timer_is_off|타이머 꺼짐
+qstr_Timer_is_on|타이머 켜짐
+qstr_{s6}_wanted_to_switc|{s6} wanted to switch to {s5}.
+qstr__The_Dreaded_One_has| 공포스러운 자가 출현했다!
+qstr__Siegfried_has_spawn| 지크프리드가 출현했다!
+qstr__Nox_of_Zephilli_has| 제필리의 녹스가 출현했다!
+qstr__Lord_Ceylius_has_sp| 군주 셀리우스가 출현했다!
+qstr__Queen_Aegea_has_spa| 여왕 아이게아가 출현했다!
+qstr__General_Ialoch_has_| 장군 이얼록이 출현했다!
+qstr_{reg1}_{s1}_{reg2?ac|{reg1}명의 {s1}{reg2?이(가):이(가)} 당신의 제안을 받아들였다.
+qstr_No_one_accepts_the_o|아무도 그 제안을 받아들이지 않습니다.
+qstr_{s15}_was_lost...|{s15}은(는) 잃어버렸다...
+qstr_You_start_reading_{s|당신은 {s2}을(를) 읽기 시작했습니다. 몇 페이지를 넘긴 후, 당신은 이 책에서 많은 것을 배울 수 있다고 느꼈습니다. 당신은 언제든지 읽을 수 있게 그것을 곁에 두었습니다.
+qstr_You_flip_through_the|당신이 {s2}을(를) 읽기 시작했지만 내용이 너무 난해하고 따라가기에 어렵다는 걸 알았습니다. 좀 더 읽어 보려고 노력했지만 머리만 아파왔고 결국은 읽는 것을 포기할 수밖에 없었습니다.
+qstr_You_lost_your_duel_a|당신은 {s3}^^와(과)의 결투에서 패배했다.
+qstr_You_won_your_duel_ag|당신은 {s3}^^와(과)의 결투에서 승리했다.
+qstr_You_prepare_to_duel_|당신은 {s3}^^와(과)의 결투를 준비하고 있습니다.
+qstr_^^^^You_have_fought_|^^^^당신은 {s3}하고 {reg5}번 싸웠다. ^^{reg6} 승 ^^{reg7} 패
+qstr_^^^^Dueling_with_you|^^^^당신의 부대원과의 결투는 통계에 포함되지 않습니다.
+qstr_Villagers|마을 주민
+qstr_You_have_encountered|당신은 {s1}와(과) 만났습니다.
+qstr_You_have_engaged_{s1|당신은 {s1}이(가) {s3}을(를) 습격하는 전투에 가세했습니다.
+qstr_You_were_caught_by_{|당신의 부대가 {s3}을(를) 공격하는 동안 {s1}이(가) 참전했습니다.
+qstr_{s4}^^The_troops_you|{s4}^^당신이 선택한 병사들이 전투에서 당신과 합류할 준비가 되었습니다.
+qstr_{s4}^^Your_captains_|{s4}^^당신의 대장은 병력 할당을 처리할 것입니다.
+qstr_{s4}^^Your_orders_ha|{s4}^^당신의 명령이 당신의 대장에게 보내졌습니다.
+qstr_{s4}^^There_is_no_ta|{s4}^^전술적인 계획은 없습니다.
+qstr_Total_ally_STR_=_{re|Total ally STR = {reg3}, main party STR = {reg5}, total enemy STR = {reg4}
+qstr_You_were_victorious!|당신은 승리했습니다!
+qstr_Battle_was_lost._You|전투에서 패했습니다. 당신의 부대는 완전히 와해되었습니다.
+qstr_Your_companions_carr|당신의 동료들이 당신을 전투에서 안전한 지역으로 이송했습니다.
+qstr_You_have_defeated_th|당신은 적을 물리쳤습니다.
+qstr_You_have_retreated_f|당신은 전투에서 퇴각했습니다.
+qstr_^^Ally_Casualties:{s|^^동맹군 사상자:{s0}
+qstr_{s1}_of_{s3}_managed|{s3}의 {s1}은(는) 탈출했습니다.
+qstr_Pinned_ratio_=_{reg2|Pinned ratio = {reg2}, initial allies STR = {reg3}
+qstr_Some_of_your_tendons|당신은 전투 중에 힘줄을 다쳐 1만큼의 힘을 잃게 되었습니다.
+qstr_You_took_a_nasty_wou|당신은 치료를 하였음에도 작은 후유증으로 절룩거리게 되었습니다. 당신은 1의 만첩을 잃었습니다.
+qstr_You_have_trouble_thi|당신은 전투후유증에 시달립니다. 당신의 머리에 어떤 강한 충격이 가해져 두통을 유발하여 기억이 오락가락하기 시작한 것 같습니다. 당신의 지능이 1 하락하였습니다.
+qstr_Perhaps_I_m_getting_|아마도 나는 운이 없나 보군...
+qstr_Retirement_is_starti|은퇴라는 단어가 갈수록 좋아지기 시작하는데.
+qstr_No_matter!_I_will_pe|아무 문제없어! 나는 참아낼거야!
+qstr_What_did_I_do_to_des|어떡해야 내가 이걸 받을 자격이 있을까?
+qstr_I_suppose_it_ll_make|내가 생각하기에는 적어도 그건 좋은 이야기가 될 거 같아...
+qstr_{reg0}__num_enemy_re|{reg0} -num enemy regulars remaining
+qstr_{reg0}___g_enemy_fit|{reg0} - g enemy fit for battle
+qstr_Player_s_party_STR_=|Player's party STR = {reg0}
+qstr_Ally_s_party_STR_=_{|Ally's party STR = {reg0}
+qstr_Enemy_s_party_STR_=_|Enemy's party STR = {reg0}
+qstr_{s9}_wants_you_to_fo|{s9}은(는) 추후 통보가 있을 때까지 {reg0?그녀:그}의 군대를 따라오기를 원합니다.
+qstr_{s8}_of_{s9}|{s9}의 {s8} 
+qstr_liege|주군
+qstr_former_liege|이전 구준
+qstr_affiliate|동족
+qstr_former_companion|이전 동료
+qstr_marshall|사령관
+qstr_vassal|가신
+qstr__Your_own_banner_fli| 당신의 깃발이 성문 위에서 펄럭인다.
+qstr__You_see_the_banner_| 당신은 성문 너머로 {s11} {s7}의 깃발이 보인다.
+qstr__You_see_the_banner_o| 당신은 성문 위로 {s7}의 깃발이 보인다.
+qstr__Your_own_banner_flie| 당신 자신의 깃발이 도시의 문 위에서 펄럭인다.
+qstr__You_see_the_banner_of| 당신은 도시의 문 너머로 {s11} {s7}의 깃발이 보인다.
+qstr__You_see_the_banner_of_| 당신은 도시의 문 위에서 {s7}의 깃발이 보인다.
+qstr_The_{reg6?town_s:cas|이 {reg6?도시의:성의} 비축 식량은 {reg3} 일 분이 비축되어 있을겁니다.
+qstr_The_{reg6?town_s:cast|이 {reg6?도시의:성의} 비축 식량이 바닥났고 수비대는 굶주리고 있습니다.
+qstr_You_re_preparing_to_|당신은 성벽을 공격할 준비를 하고 있으며 작업은 {reg9} 시간 내에 완료될 것입니다.
+qstr_Your_forces_are_buil|당신의 군대가 공성탑을 건설하는 중입니다. 그들이 건설을 완료할때까지 걸리는 시간은 {reg9} 시간으로 예상됩니다.
+qstr_You_are_ready_to_att|당신은 언제든지 성벽을 공격할 준비가 되었습니다.
+qstr_The_siege_tower_is_b|공성탑의 건설은 완료되었고 공격을 준비하고 있습니다.
+qstr_As_a_last_defensive_|당신은 최후의 방어 수단으로 성채의 본당으로 퇴각합니다. 당신과 남은 병사들은 절망적인 싸움을 펼치게 될 것입니다. 혹시 이곳에서 패배한다면 퇴각할 장소는 더 이상 없습니다.
+qstr_You_ve_been_driven_a|당신은 성벽에서 퇴각했습니다. 이제 공격자들이 거리로 쏟아져 들어옵니다. 당신이 그들을 물리칠 수 있다면, 당신은 한 숨 돌리고 이 날은 무사히 넘어갈 수 있을겁니다.
+qstr_You_ve_breached_the_|당신은 도시의 벽을 뚫었습니다. 그러나 완고한 수비대는 거리에서 당신에게 계속해서 저항합니다! 당신은 도시의 중심 성채를 공격하기 전에 그들을 돌파해야 합니다.
+qstr_The_town_centre_is_y|도시의 중심지는 당신의 것입니다. 그러나 나머지 수비대는 성채로 후퇴했습니다. 완전한 승리를 위해 반드시 격파해야 합니다.
+qstr_The_remaining_defend|나머지 수비대는 최후의 수비를 위해 성으로 후퇴했습니다. 들어가서 남아있는 저항 세력을 박살내야 합니다.
+qstr_However_since_you_ar|그러나 당신은 {s9}에게 충성을 맹세한 {사람이/추종자가} 아니므로 {reg0?그녀:그}가 당신을 이 {reg8?도시:성}의 {영주/아가씨}로 임명할 기회는 없습니다.
+qstr_The_enemy_has_been_f|적들은 후퇴합니다. 첫 공격은 끝났지만 공성전은 계속되고 있습니다.
+qstr_As_you_approach_you_|당신이 접근하자성의 경비병이 당신을 발견하고 자신들의 {s10}을(를) 환영하며 문을 열어주었다.
+qstr_As_you_approach_you_a|당신이 접근하자성의 경비병이 당신을 발견하고 자신들의 {왕/여왕}을 환영하며 문을 열어주었다.
+qstr_As_you_approach_you_ar|당신이 접근하자성의 경비병이 당신을 발견하고 자신들의 {영주/아가씨}를 환영하며 문을 열어주었다.
+qstr_This_village_has_a_m|이 마을은 민병대가 지키고 있습니다.
+qstr_This_village_does_no|이 마을에는 민병대가 없습니다.
+qstr__This_village_and_th| 이 마을과 그 주변 토지는 당신의 소유입니다.
+qstr__You_remember_that_t| 당신은 이 마을과 그 주변 토지가 {s11}의 {s7}이(가) 통치한다는 것을 기억합니다.
+qstr__You_remember_that_th| 당신은 이 마을과 그 주변 토지가 {s7}에 속해있다는 것을 기억합니다.
+qstr__These_lands_belong_| 이 땅은 누구에게도 속해있지 않습니다.
+qstr__The_village_is_infe| 이 마을은 {reg8}명의 {s35}에게 점령되어 있습니다.
+qstr__The_peasants_hired_| 농부들은 용병을 고용해서 당신에게 반역을 일으키고 있다.
+qstr__The_village_has_bee| 이 마을은 약탈을 당했다. 당신이 불에 탄 집을 통과 할 때마다 재가 떠올라 흩어져간다.
+qstr__The_village_is_bein| 이 마을은 습격당하고 있다.
+qstr_No_one_here_seems_to|당신의 부대에 합류하려는 사람이 아무도 없는 것 같습니다.
+qstr_One_{s3}_volunteers_|한 명의 {s3}이(가) 당신을 따르기 위해 나섰습니다.
+qstr_{reg5}_{s3}_voluntee|{reg5}명의 {s3}이(가) 당신을 따르기 위해 나섰습니다.
+qstr_Try_as_you_might_you|당신이 시도해 보았으나 도적들을 물리칠 수는 없었다. 분노한 도적들은 농부들을 처벌하기 위해 마을을 파괴하고, 불타는 황무지를 뒤에두고 새로운 약탈지를 찾아 떠나갔다.
+qstr_village|마을
+qstr_town|도시
+qstr_castle|성
+qstr_The_{s17}_has_no_imp|{s17}에는 건설된 것이 없습니다.
+qstr_The_{s17}_has_the_fo|{s17}에 건설된 것은 다음과 같습니다:{s18}.
+qstr_The_assasins_beat_yo|암살자가 당신을 쓰러뜨렸고 당신을 죽게 버려두고 떠났습니다.
+qstr_You_have_fallen._The|당신은 쓰러졌습니다. 도적이 빠르게 당신의 몸을 뒤져 찾은 모든 돈을 가지고 어둠 속으로 사라졌습니다. 그들은 간신히 살아있는 당신을 남겨두고 떠났습니다.
+qstr_Luckily_some_of_your|운 좋게도 몇몇 당신의 동료들이 늦어도 돌아오지 않는 당신을 찾았 나섰고 길가에 누워있는 당신을 발견하였습니다. 그들은 서둘러 안전하게 당신의 상처를 치료해 주었습니다
+qstr_Luckily_some_passing|운 좋게도 지나가는 시민이 길가에 쓰러진 당신을 발견하였고 단순한 거지가 아니라는 걸 알아차렸습니다. 그들은 당신을 가까운 여관으로 옮겨 상처를 치료했습니다.
+qstr_You_fail_to_steal_an|당신은 어떤 가축을 훔치는 것도 실패했습니다.
+qstr_You_drive_away_{reg1|당신은 {reg17} {reg12?마리의:마리의}소떼를 마을에서 빼내는 것에 성공했다.
+qstr_You_are_at_{s2}.|당신은 {s2}에 있습니다.
+qstr__This_castle_has_no_| 이 성에는 수비병이 없습니다.
+qstr__The_banner_of_your_| 당신의 {s11}인 {s7}의 깃발이 도시의 문 위에서 펄럭인다.
+qstr__This_town_has_no_ga| 이 도시에는 수비병이 없습니다.
+qstr__You_have_successful| 당신은 성공적으로 잠입했습니다
+qstr_{s13}_A_tournament_w|{s13} 조만간 이 곳에서 토너먼트가 열립니다.
+qstr_Mystic_Merchant|신비한 상인
+qstr___{reg1}_aurums_per_| (하루밤에 {reg1} 오럼)
+qstr_You_don_t_have_enough|당신은 충분한 돈이 없습니다.
+qstr_Moreover_you_earn_{r|게다가, 당신은 영리하게 자신에 돈을 걸어 {reg8} 오럼을 대가로 받았습니다...
+qstr_Victory_is_yours!_Yo|승리는 당신의 것입니다! 당신은 이 시합에서 이겼습니다. 하지만 당신은 곧 다음 시합을 준비해야 합니다.
+qstr_You_have_been_bested|당신은 이 경기에서 최고였고 행사의 주최자가 당신의 실력과 용기를 인정하여 다음 단계로 진행할 수 있도록 허락해주었습니다. 
+qstr_You_were_beaten._The|당신은 쓰러졌습니다. 농부는 공격이 성공한 것에 용기를 얻었지만 아마도 당신이 가르치고자 했던 내용은 소용이 없었을 것입니다...
+qstr_After_beating_your_l|마지막 상대를 쓰러뜨린 후,당신은 농부들에게 어떻게 자기 스스로를 적의 공격으로부터 좀 더 잘 보호할수 있는지 가르쳐 주었습니다. 희망적이게도 그들은 잘 새겨들었고 다음에는 준비가 될 것입니다.
+qstr_The_bandits_are_brok|도적들이 와해되었습니다! 그들은 몇 몇만 살아남았고 공포스러운 농부들과 그들의 새로운 챔피언으로 부터 혼비백산하여 꽁지가 빠지도록 줄행랑을 쳤습니다.
+qstr_{s1}_s_Ship|{s1}의 배
+qstr_However_{reg3?You_ar|그러나, {reg3?당신은:{s1}는(은)} 이익을 가져올 그 어떤 무역 상품도 찾아낼 수 없었습니다.
+qstr_^Buying_{s4}_here_an|^{s4}를 여기서 사다가 {s5}에서 판다면 개당 {reg6} 오럼만큼의 이익을 얻을 수 있을겁니다.{s3}
+qstr_{reg3?You_find:{s1}_|{reg3?당신은:{s1}은(는)} 다음과 같은 것을 알아내었습니다:^{s3}
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{s1} {reg1}명은 {reg0} 만큼의 경험치를 얻었습니다.
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1}은(는) 추가적으로 {reg0} 만큼의 경험치를 얻었습니다.
+qstr_^You_earned_{reg0}_e|^당신은 {reg0} 만큼의 경험치를 얻었습니다.{s2}
+qstr_The_training_didn_t_|훈련이 좀처럼 진행되지 않았습니다.
+qstr_The_training_didn_t_g|훈련이 제대로 되지 않았습니다.
+qstr_The_training_went_qu|훈련이 그럭저럭 되었습니다.
+qstr_The_training_went_ve|훈련이 아주 잘 진행되었습니다.
+qstr_The_training_went_pe|훈련이 완벽하게 진행되었습니다.
+qstr_{s13}_asked_you_to_r|{s13}은(는) 당신에게 최소한 {reg13}명의 병사들을 이끌고 {reg4?그녀:그}와 합류하라고 했습니다.
+qstr_{s13}_ordered_you_to|{s13}은(는) {s14}에 대한 공격에 참전하라고 명령했습니다.
+qstr_Find_and_speak_with_|{s4}의 {s3}을(를) 찾아서 {reg4?그녀:그}에게 당신의 경의를 표하십시오.
+qstr_There_has_been_an_al|국경에서 사건이 발생했습니다: {s9}
+qstr_You_defeated_Nibor_s|당신은 니보르의 부하들을 물리쳤습니다. 살아남은 이들은 도망쳤습니다.
+qstr_You_were_defeated._S|당신은 패배했습니다. 일부 사람들이 의식이 없는 당신을 마을 바깥으로 끌고가서 방치했습니다.
+qstr_You_won_the_battle._|당신은 전투에서 승리했습니다. 악당 귀족들은 죽거나 도망쳤습니다. 마을은 다시 한 번 그들로부터 자유를 되찾았습니다.
+qstr_You_lost._Rogue_nobl|당신은 패배했습니다. 악당 귀족들이 당신의 부대를 격파한 것입니다.
+qstr_You_managed_to_defea|당신은 니보르 후드의 충신을 물리치고 도시에 대한 통제권을 되찾을 수 있었습니다.
+qstr_You_lost._Nibor_Hood|당신은 패배했습니다. 니보르 후드의 부하와 그 동맹들이 도시를 장악했습니다! 당신은 부상을 입었지만 나머지 생존자들과 함께 {s8}을(를) 탈출했습니다. {s9}은(는) 중상으로 사망했으며 공격에서 살아 남은 그의 사람들은 당신과 합류하기로 결정했습니다.
+qstr__You_defeated_the_re| 당신은 반란군을 격파했습니다. 아타만 오멜리안 카사프에게 이야기하십시오.
+qstr__You_couldn_t_defeat| 당신은 반란군을 물리칠 수 없었습니다. 당신은 조합으로부터 받은 과제에 실패했습니다. 모험가 조합원에게 말하십시오.
+qstr_You_ve_failed_to_pro|당신은 늑대를 지키지 못했습니다.
+qstr_You_ve_protected_the|당신은 늑대를 지켜냈습니다.
+qstr_You_have_taken_over_|당신은 도적 소굴을 점령했으며 유물을 발견했습니다. 갈웨의 학자에게 돌아가서 보고하십시오.
+qstr_^^Note_that_so_long_|^^당신이 사령관직을 유지하는 한, 세력의 영주들은 당신이 그들을 원정으로 이끌기를 기대할 것입니다. 결혼식이나 다른 목적을 위해 계획이 있다면, 당신은 국왕과 이야기하여 사령관직을 사임할 수 있습니다.
+qstr_Try_as_you_might_you_|시도해 보라. 그대는 반란을 일으킨 마을을 이길 수 없으리라.
+qstr_positive|긍정적
+qstr_negative|부정적
+qstr_{s11}^^_The_current_|{s11}^^ 현재 수비대는 {reg5} 명으로 구성되어 있습니다.^비축 식량은 {reg6} 일 분이다.
+qstr_^^Additional_the_fol|^^더해서 이하의 부대가 현재 내부에 있습니다:^
+qstr_{s12}_{s3}_with_{reg|{reg1}명의 병사들을 이끄는 {s12} {s3}.^
+qstr_{playername}_^^I_alw|{playername}, ^^I always knew you were a bad egg, since the day you have pledged allegiance to my clan. ^Did you really think you could set my family against me? You've dropped your mask, you snake! You are an infliction, and I will not bear it anymore. ^Hereby, I disown and ban you from my house. I have urged my family to fight you, and I will warn Perisno lords about your infamy. ^Tremble with fear, you have a deadly enemy! ^^{s9}.
+qstr_{playername}^^_I_ve_|{playername},^^ I've received a letter from {s9}, telling me about your disgraceful jiggery-pokery. In the present circumstances, {s9} could not provide evidence. But unlike you, {reg1?she:he} is a distinguished member of my family; and since all these years, I never had any reason to distrust {reg1?her:him}. I take {reg1?her:him} charges for granted. ^Hopefully, you failed to breakup my family unit. Hereby I reject your pledge : you are no longer related to my house. Each membership will retaliate against you in all conscience... ^I would be ashamed to confess how you maliciously fooled me, so I will not challenge you, to not be accountable for your death to my {s11}. However I'm not used to telling {reg0?her:him} about every rat I crush in the wilderness, and someday I may find you there ! ^^{s10}
+qstr_{playername}|{playername}
+qstr_Troops:_{reg1}|병사들: {reg1}
+qstr_Prosperity_Report^|번영 보고서^
+qstr_Total|합계
+qstr_{s0}^{s1}_Average_To|{s0}^{s1} 평균적인 도시의 번영도: {reg0}
+qstr_{s0}^{s1}_towns_with|{s0}^{s1} 도시의 번영도 400-500: {reg0}
+qstr_{s0}^{s1}_towns_with_|{s0}^{s1} 도시의 번영도 300-399: {reg0}
+qstr_{s0}^{s1}_towns_with_p|{s0}^{s1} 도시의 번영도 200-299: {reg0}
+qstr_{s0}^{s1}_towns_with_pr|{s0}^{s1} 도시의 번영도 100-199: {reg0}
+qstr_{s0}^{s1}_towns_with_pro|{s0}^{s1} 도시의 번영도 0-99: {reg0}
+qstr_{s0}^{s1}_Average_Vi|{s0}^{s1} 평균적인 마을의 번영도: {reg0}
+qstr_{s0}^{s1}_villages_w|{s0}^{s1} 마을의 번영도 400-500: {reg0}
+qstr_{s0}^{s1}_villages_wi|{s0}^{s1} 마을의 번영도 300-399: {reg0}
+qstr_{s0}^{s1}_villages_wit|{s0}^{s1} 마을의 번영도 200-299: {reg0}
+qstr_{s0}^{s1}_villages_with|{s0}^{s1} 마을의 번영도 100-199: {reg0}
+qstr_{s0}^{s1}_villages_with_|{s0}^{s1} 마을의 번영도 0-99: {reg0}
+qstr_my_lady|나의 아가씨
+qstr_my_lord|나의 주군
+qstr_You_don_t_have_enough_|당신은 충분한 돈이 없었다. 아 부끄러워라!
+qstr_You_don_t_have_enough_g|당신은 충분한 돈이 없었다. 당신이야말로 구걸을 해야하리라!
+qstr_The_coward_preferred|겁쟁이는 당신과 결투하기보다는 도망가기를 선택했습니다!
+qstr_You_don_t_have_enough_go|당신은 충분한 돈이 없습니다. 암살자는 이 만남을 혐오하며 떠났습니다.
+qstr_The_mushrooms_tasted|버섯은 정말 맛있었다!
+qstr_Your_men_eat_the_mus|당신의 부하들은 버섯을 먹었다. 그들은 정말 좋아하는 것 같다!
+qstr_The_mushrooms_tasted_|버섯은 끔찍한 맛이 났다. 결과적으로 당신은 아플 것이다. 당신은 체력을 잃었다.
+qstr_Your_men_eat_the_mush|당신의 부하들은 버섯을 먹었다. 그리고 배가 아프다며 복통을 호소했다. 그들은 이제 화가났다.
+qstr_The_merchants_are_gr|상인들은 감사하며 당신에게 돈을 주었다.
+qstr__You_have_converted_|당신은 새로운 신들의 숭배자로 개종했습니다.
+qstr__He_joins_you.|그는 당신과 합류했다.
+qstr__You_leave_his_body_|그의 시체를 까마귀에게 주고 당신은 떠났다.
+qstr__You_have_converted_t|당신은 오래된 신들의 숭배자로 개종했습니다.
+qstr_You_don_t_have_enough_gol|당신은 충분한 돈이 없습니다.
+qstr_The_man_thanks_you_a|그 남자는 당신에게 감사하고 떠나가며 당신의 고귀한 행동을 멀리 퍼뜨릴 것이라고 약속했습니다.
+qstr_You_ignore_the_pleas|당신은 그 남자의 탄원을 무시하고 갈 길을 갑니다.
+qstr_The_man_thanks_you_an|그 남자는 당신에게 감사하고 당신의 부대에 가입하기를 요청합니다. 당신은 그를 받아들였습니다.
+qstr_Your_man_managed_to_|당신의 부하는 언덕 위를 달려가는 암살자를 발견하고 그를 쓰러뜨린 뒤 붙잡았습니다. 그 암살자의 머리에는 작은 현상금이 걸려 있다는 것이 밝혀졌습니다.
+qstr_Your_man_managed_to_s|당신의 부하는 언덕 위를 달려가는 암살자를 발견하고 그를 쓰러뜨린 뒤 붙잡았습니다.
+qstr_The_assassin_managed|암살자는 언덕 위로 달아나 당신의 부하는 그를 놓쳤습니다.
+qstr_Your_man_managed_to_sp|당신의 부하는 언덕 위로 달아나는 암살자를 발견했다. 그를 쓰러뜨린 뒤, 부하는 암살자를 죽이고 시체로부터 전리품을 약탈했다.
+qstr_You_dig_your_hands_t|당신이 흙바닥으로 손을 짚었을 때 날카로운 통증을 느꼈다. 당신은 고통 속에서 반짝임이 바닥에 흩어져 있는 산산조각난 칼에서 나오는 것이었다는 것을 깨달았다.
+qstr_You_take_a_closer_lo|당신은 반짝임의 근원에 대해 자세히 살펴 보았다. 반짝반짝 빛나는 것은 매끈한 돌맹이가 햇빛을 반사하는 것일 뿐이었다.
+qstr_As_you_walk_closer_y|당신이 가까이 다가가자 바닥에 흩어져있는 약간의 오럼이 보였다. 분명 누군가가 여기를 서둘러 지나간게 틀림없다.
+qstr_You_walk_over_to_the|당신은 반짝이는 물체로 걸어 가서 집어 들었다. 당신의 눈을 사로잡은 광채는 오래된 칼의 자루에서 나오는 것이었다.
+qstr_As_you_walk_closer_yo|당신이 더 가까이 다가가자, 그 반짝임이 바닥에 박혀있는 덩어리 물체에서 나온다는 것을 깨달았다. 당신은 주위를 파서 약간의 마모되었지만 상태가 좋은 철괴를 발견했다. 참 이상한 일이다 ...
+qstr_The_pup_wary_at_firs|처음에는 조심스럽게 먹던 새끼는 고기의 맛을 보고는 곧 게걸스럽게 먹기 시작합니다. 그것을 다 먹어버린 후에는 발목을 핥고 있습니다.
+qstr_You_don_t_have_any_m|당신은 어떤 고기도 없다.
+qstr_This_is_an_example_o|이것은 갈색의 견본입니다.
+qstr_This_is_an_example_of|이것은 보라색의 견본입니다.
+qstr_This_is_an_example_of_|이것은 짙은 녹색의 견본입니다.
+qstr_This_is_an_example_of_t|이것은 빨간색의 견본입니다.
+qstr_This_is_an_example_of_th|이것은 하얀색의 견본입니다.
+qstr_The_game_won_t_displ|게임에서는 검게 표시되지 않습니다. 그러나 검은 색은 검은 색입니다.
+qstr_A_{s11}_has_been_hir|{s11}은(는) 고용되었으며 당신의 궁정에서 만날 수 있습니다.
+qstr_You_do_not_have_enou|당신은 {s11}을(를) 고용할 만큼 충분한 돈이 없습니다.
+qstr_himself|그 자신
+qstr_Success|성공
+qstr_You_have_deserted_an|당신은 탈영했고, 이제 수배되었습니다!
+qstr_No_inventory_space!_|가방에 빈 공간이 없습니다! 사용할 수 없는 갑옷이 파괴되었습니다.
+qstr_No_inventory_space!_R|가방에 빈 공간이 없습니다! 사용할 수 없는 투구가 파괴되었습니다.
+qstr_No_inventory_space!_Re|가방에 빈 공간이 없습니다! 사용할 수 없는 장갑이 파괴되었습니다.
+qstr_No_inventory_space!_Res|가방에 빈 공간이 없습니다! 사용할 수 없는 신발이 파괴되었습니다.
+qstr_An_equipped_racially|인종 제한으로 착용할 수 없는 아이템이 가방으로 이동되었습니다.
+qstr_You_missed_the_deadl|당신은 {s1}에서 채무를 갚을 기한을 놓쳤습니다. 그들은 이제 이자를 50%로 높였습니다.
+qstr_Your_debt_in_{s1}_is|당신이 {s1}에서 진 부채가 너무 높아서 왕이 알아 차렸습니다. 그는 당신의 빚을 동결 시켰습니다만, 이 상황에 불쾌감을 느낍니다.
+qstr_Breaking_camp...|야영을 중지합니다...
+qstr_You_have_broken_off_|당신은 {s1}의 공성진을 무너뜨렸습니다.
+qstr_You_cannot_maintain_|이 거리에서는 {s1}의 공성진을 유지할 수 없습니다. 당신의 포위망이 풀릴 위험에 처해 있습니다.
+qstr_There_s_been_a_massi|{s4}(으)로부터 포로들의 대탈출이 일어났습니다!
+qstr__Lord_Paramonos_got_|영주 파라모노스는 당신이 행한 최근의 행동에 분노하며 왕국을 떠났습니다.
+qstr_Filikos|필리코스
+qstr__Lord_Filikos_got_an|영주 필리코스는 당신이 행한 최근의 행동에 분노하며 왕국을 떠났습니다.
+qstr_A_livestock_epidemic|{s4}에서 가축들 사이에 전염병이 돌아 {reg4} 마리의 가축이 사망했습니다.
+qstr_Your_friends__{reg6}|당신의 친구인 ({reg6} 마을 장로, {reg7} 조합장들 그리고 {reg8} 영주들)은 {reg9} 오럼의 가치가 있는 선물을 당신에게 보냈습니다. 당신이 그들을 위해 한 일들과 당신과의 우정에 대한 감사의 표시로 말이지요.
+qstr_Riot_in_{s6}!|{s6}에서 폭동을 일으켰습니다!
+qstr_Your_party_is_spotte|당신의 부대는 {s1} 에서 감지되었습니다.
+qstr_Party_has_nothing_to|부대에 먹을 것이 없습니다!
+qstr_{reg1}_{s1}_{reg2?ha|{reg1}명의 {s1}{reg2?이(가):이(가)} 밤을 틈타 당신의 부대에서 탈출했습니다.
+qstr_{s1}_of_{s3}_has_bee|{s3}의 {s1}이(가) 포로 상태에서 풀려났습니다.
+qstr_Building_of_{s0}_in_|{s4}에서 {s0} 건설이 완료되었습니다.
+qstr_{s1}_has_won_the_tou|{s1}이(가) {s2}의 토너먼트에서 우승했습니다.
+qstr_{s1}_is_no_longer_in|{s1}은(는) 더이상 도적들이 우글대지 않습니다 (밤에).
+qstr_You_are_within_the_w|당신은 가입한 가문 구성원의 영토에 있으며 숙박비를 지불 할 필요가 없습니다.
+qstr_You_pay_for_accommod|숙박비를 지불합니다.
+qstr_Betrothal_to_{s5}_ex|{s5}와의 약혼이 만료되었습니다.
+qstr__Your_tactics_skill_| 당신의 전술이 1 증가하였습니다.
+qstr__Your_persuasion_ski| 당신의 설득이 1 증가하였습니다.
+qstr__Your_leadership_ski| 당신의 지도력이 1 증가하였습니다.
+qstr__Your_intelligence_h| 당신의 지능이 1 증가하였습니다.
+qstr__Your_trade_skill_ha| 당신의 교역 기술이 1 증가하였습니다.
+qstr__Your_weapon_master_| 당신의 무기의 달인 기술이 1 증가하였습니다.
+qstr__Your_engineer_skill| 당신의 공학 기술이 1 증가하였습니다.
+qstr__Your_trainer_skill_| 당신의 훈련 교관 기술이 2 증가하였습니다.
+qstr__You_have_learned_a_| 당신은 세상에 대해 많은 것을 배웠고 당신의 정통성은 6 증가했습니다.
+qstr_You_have_finished_re|당신은 {s1}을(를) 다 읽었습니다.{s2}
+qstr_Book_Read|책 읽기
+qstr_{s1}_is_scouted.|{s1}을(를) 정찰했습니다.
+qstr_{s1}_has_switched_fr|{s1}은(는) {s2}에서 {s3}(으)로 바꾸었습니다.
+qstr_{reg0}.{reg1}|{reg0}.{reg1}
+qstr_PBOD_Updated_to_vers|PBOD Updated to version 0.{s1}
+qstr_Your_recruiter_who_wa|{reg10}명의 신병을 모집해서 {s13}(으)로 향하던 당신의 신병 모집관이 격파당했습니다!
+qstr_{s13}_has_been_taken|{s13}은(는) 적에 의해 빼앗겨서 {reg10}명의 신병을 모집하고 있던 신병 모집관은 흔적도 남기지 못하고 행방불명이 되었습니다!
+qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!
+qstr_A_recruiter_has_brou|신병 모집관이 {reg10}명의 신병들을 {s13}(으)로 데려왔습니다.
+qstr_Distance_between_{s1|{s14} 그리고 {s15} 사이의 거리: {reg0}
+qstr_Your_caravan_has_bro|당신의 대상은 {s12}을(를) {s13}(으)로 가지고 왔습니다.
+qstr_{s13}_is_unimpressed|{s13}은(는) 당신의 바보같은 선물에 어떤 감흥도 들지 않았다.
+qstr_The_people_of_{s13}_|{s13}의 주민들은 당신의 헛된 선물에 딱히 감탄하지 않았다.
+qstr_Your_caravan_has_los|당신의 대상은 길을 잃어 버렸으며 임무를 포기했습니다!
+qstr_Transfer_to_{s6}|{s6}(으)로 이동
+qstr_{s6}_patrol|{s6} 순찰대
+qstr_Your_messenger_reach|당신의 전령이 {s13}에 도착했습니다.
+qstr_{s14}|{s14}
+qstr_Your_messenger_has_l|당신의 전령은 길을 잃어 버렸고 당신이 내린 임무를 포기했습니다!
+qstr_Not_enough_money_in_|병사들을 강화하기에는 돈이 부족합니다.
+qstr_Your_constable_upgra|당신의 치안관은 {s8}에서 {reg5} {s6}을(를) {s7}(으)로 진급시켰습니다.
+qstr_It_is_rumoured_that_|{s11}에서 첩자가 잡혔다는 소문이 돌았습니다.
+qstr_{s0}_is_grumbling_ag|{s0}이(가) 당신에 대해 불평하고 있습니다.  이대로 두면 당신과의 관계가 위험해질 수 있습니다.
+qstr_{s0}_is_grumbling_aga|{s0}이(가) 당신에 대해 불평하고 있지만, {s1}의 도움으로 당분간은 지금의 상태가 유지될 것입니다.
+qstr_Your_last_fief_was_c|당신의 마지막 영토가 점령되었습니다!
+qstr_A_messenger_informs_|전령이 {s5}에서 불이 났다는 것을 보고했습니다. 지금은 불을 잡았지만 피해가 복구될 때까지 어느 정도 시간이 걸릴 수 있습니다.
+qstr_Fire_in_one_of_your_|불이 난 당신의 영토:
+qstr_The_village_of_{s5}_|{s5} 마을은 최근에 엄청난 풍작이었고 주민들은 잘 매매하였습니다. 그들의 번영도가 향상됩니다!
+qstr_Good_Harvest:|풍작:
+qstr_The_merchant_caravan|{s5}의 상인 대상은 최근에 매우 수익이 좋은 거래를 했습니다. {s5}은(는) 이로부터 큰 이득을 얻어 부를 쌓았습니다!
+qstr_Good_Trading:|좋은 거래:
+qstr_A_famous_piece_of_ar|오랫동안 행방이 묘연했던 유명한 예술 작품이 {s5} 근처에서 발견되었습니다! 현재 {s5}에 전시되어 있으며 사람들은 페리스노 전역에서 그것을 보러 오고 있습니다. 방문객들의 급증으로 인해 상인들은 큰 이익을 얻고 있습니다..
+qstr_Lost_art_found:|잃어버린 미술품 발견:
+qstr_A_messenger_informs_y|전령이 {s5}에서 고통스러운 질병이 만연하다고 보고합니다. 의사를 파견했지만 치료법을 찾지 못했습니다. 그가 할 수 있는 일은 모든 병든 자들로부터 건강한 사람들을 분리하여 전염병을 봉쇄하는 것이었습니다. 검역은 성공적이었지만 {s5}과(와)의 신뢰를 잃었습니다.
+qstr_Disease_contained:|질병 억제:
+qstr_A_messenger_informs_yo|전령이 {s5}에서 고통스러운 질병이 발생했다고 보고합니다. 그러나 의사를 파견하여 전염병을 치료할 수 있었습니다. {s5}의 사람들은 이 사악한 질병을 다스려준 것에 감사하며 그들과의 신뢰가 향상되었습니다!
+qstr_Disease_averted:|질병 퇴치:
+qstr_{s5}_was_accidently_|{s5}은(는) 오늘의 훈련 중 우발적인 부상을 입었습니다. 부상은 심하지 않지만 {s5}이(가) 다시 만전의 상태가 될 때까지 약간의 시간이 걸릴 수 있습니다.
+qstr_Training_accident:|훈련 사고:
+qstr_During_today_s_train|당신은 오늘의 훈련 중 우발적인 부상을 입었습니다. 부상은 심각하지 않으나 치유하는데 약간의 시간이 걸릴 수 있습니다.
+qstr_The_Zann_Empire_has_|잔 제국이 페리스노에 상륙했습니다. 이제 누구도 안전하지 않습니다!
+qstr_Emperor_Zann_The_Man|잔 황제의 포고령
+qstr_Merchants_guild_add_|상인 조합이 당신의 도시를 번영시킵니다.
+qstr_University_has_impro|대학은 당신의 명성과 도시와의 관계를 향상 시켰습니다.
+qstr_Your_men_have_enjoye|당신의 부하들은 도시에서 하루 휴가를 받아 축제를 즐겼습니다.
+qstr_Current_hours_is_{re|현재 시간은 {reg1}시 입니다.
+qstr_{s1}_left_your_kingd|{s1}이(가) 당신의 왕국을 떠났다!
+qstr_{s1}_was_spotted_nea|{s1}은(는) {s4}근처에서 발견되었습니다.
+qstr_array_GC|array GC
+qstr_array_GC:_owner_acti|array GC: owner active, an array or is 0
+qstr_array_GC:_removing_{|array GC: removing {reg21}
+qstr_You_are_not_strong_e|당신은 승진을 위한 무기를 들기에 힘이 충분하지 않습니다!
+qstr_You_are_not_strong_en|당신은 승진에 필요한 모든 장비를 감당할만큼의 힘이 없습니다!
+qstr_Your_arms_are_to_wea|당신의 팔힘이 너무 약해서 포를 다루지 못합니다.
+qstr_You_require_more_hor|당신의 다음 보직에 맞는 승마 기술이 더 필요합니다!
+qstr_Checking_rejoin_of_{|Checking rejoin of {s10} days on mission: {reg0}
+qstr_The_Horde_of_Shun_Ha|슌-하의 대군은 패배했습니다. 지휘관의 천막에서 당신은 문서와 편지를 찾을 수 있었습니다. 그것들을 시 진에게 보여주십시오.
+qstr_The_Horde_of_Sine_wa|시네의 대군은 패배했습니다. 지휘관의 천막에서 당신은 문서와 편지를 찾을 수 있었습니다. 그것들을 시 진에게 보여주십시오.
+qstr_The_Horde_of_Khergia|케르지아의 대군은 패배했습니다. 지휘관의 천막에서 당신은 문서와 편지를 찾을 수 있었습니다. 그것들을 시 진에게 보여주십시오.
+qstr_The_Horde_of_Jin_was|진의 대군은 패배했습니다. 지휘관의 천막에서 당신은 문서와 편지를 찾을 수 있었습니다. 그것들을 시 진에게 보여주십시오.
+qstr_You_loot_the_corpse_|당신은 세크르의 시체를 약탈하고 그의 리라를 챙겨갑니다. 이제 타기스에게 돌아가서 보고하십시오.
+qstr__You_have_defeated_t|당신은 붉은 불멸자들을 물리쳤다. 당신은 그들 지도자의 방패를 전리품으로 얻었다. 그런드에 있는 남자에게 돌아가 보고하자.
+qstr_Rdahcim_s_party_was_|르다침의 부대는 다른 사람에 의해 패배했다. 당신은 실패했다. 그런드에 있는 남자에게 돌아가 보고하자.
+qstr_You_have_defeated_the|당신은 도적 르다침을 물리쳤다. 그러나 그는 도망쳤다. 당신은 그의 부하들을 심문하고 그의 은신처가 있는 위치를 알아냈다.
+qstr_Reinforcements_from_|{s14}의 증원군
+qstr__You_now_have_the_mo|당신은 이제 돈이 있다! 모험가 조합원에게 돌아가자.
+qstr__You_now_defeated_Na|당신은 나드리렐라를 격파했다! 모험가 조합원에게 돌아가자.
+qstr_Working!|Working!
+qstr_The_released_prisone|석방 된 포로들은 당신을 신뢰하지 않으며 당신을 공격을 준비를 하고 있습니다!
+qstr_Warning!|경고!
+qstr_The_released_prisoner|풀려난 포로들은 전투가 끝나자마자 흩어졌습니다. 당신은 그들을 두 번 다시는 보지 못할 것입니다.
+qstr_Notice!|주의!
+qstr_The_released_prisoners|풀려난 포로들은 여전히 충성스러운 상태로 남아 있으며 당신의 부대에 참여할 것입니다.
+qstr_You_have_{reg0}_days_|당신은 탈영병으로 선포 될 때까지 {reg0}일 남았습니다!
+qstr_You_have_now_been_de|당신은 이제 탈영병으로 선포되었습니다!
+qstr_{reg65?my_Lady:my_Lo|{reg65?아가씨:주군}
+qstr_{reg65?My_Lady:My_Lo|{reg65?아가씨:주군}
+qstr_{reg65?madame:sir}|{reg65?부인:경}
+qstr_{reg65?Madame:Sir}|{reg65?부인:경}
+qstr_Damn_you!_You_will_r|망할 놈! 너는 어리석은 행동을 후회할 것이다!
+qstr_Damn_you!_For_the_Re|망할 놈! 제국과 카이저를 위해!
+qstr_You_will_have_to_get|너는 먼저 우리의 화살비를 지나가야 할 것이다!
+qstr_At_them_men!|그들이다, 제군!
+qstr_Damn_you!_Charge_Elv|망할 놈! 엘프들이여, 돌격하라!
+qstr_You_shoudn_t_have_wa|너는 이곳을 돌아다니지 말아야 했다!
+qstr_Damn_you!_At_{reg33?|망할 놈! {reg33?저년:저놈}의 목을 쳐라, 제군!
+qstr__no_fiefs_|(영지 없음)
+qstr__fiefs:_{s0}_|(영지: {s0})
+qstr_Knowing_the_identity|토르손을 살해한 자의 신원을 알아냈다. 팔만은 토르손의 죽음을 복수하기 위해 아슬링 스바파르를 죽이라는 부탁을 했다. 스바파르와 대결하기 위해 그가 포로인 상태에서 말을 걸자.
+qstr_Capture_15_prisoners|15명의 포로를 잡아서 {s4}에게 데려다 주자. 그는 당신에게 보상할 것이다.
+qstr_{s4}^{s11}_of_the_{s|{s4}^{s12}의 {s11}
+qstr_^There_are_currently|^당신의 토지를 제공하는 대가로 당신을 따르고 싶어하는 영주는 없습니다.
+qstr_{s4}^^And_there_is_m|{s4}^^그 밖에는...
+qstr_{s4}_of_the_{s5}_has|{s5}의 {s4}은(는) 완전히 패배했습니다.
+qstr_I_have_been_informed|{s5}의 {s4}이(가) 현재 방어가 취약하다는 소식을 들었습니다.
+qstr_I_m_sorry_but_I_do_n|죄송합니다. 현재 조언을 드리기에는 충분한 정보가 없습니다.
+qstr_You_ll_fetch_a_fair_|공정한 가격을 쳐주도록 하지, {reg33?소녀:소년}!
+qstr_{reg33?Your_pretty_f|{reg33?너의 예쁜 얼굴:너와 너의 병사들}은 노예 시장에서 좋은 값을 받겠어. 어쩌면 3000오럼 정도?
+qstr_At_the_slave_market_|데소크의 노예 시장에서 너는 최고의 가격으로 팔려갈거야. 횡재했군!
+qstr_We_are_the_Lymbard_K|우리는 림버드 기사단. 이 구역의 보호자이다. 그대는 지금 불법 침입하고 있다.
+qstr_For_Lymbard!|림버드를 위하여!
+qstr_You_dare_trespass_th|감히 우리 조상들의 땅을 공격하려고? 네놈은 죄값을 치루게 될 것이다!
+qstr_We_shall_make_this_s|우리는 이 일을 신속하게 끝마칠 것이다.
+qstr_If_you_have_any_last|남길 말이 있다면 지금 말해라. 죽어가는 사람의 마지막 말은 우리의 율법에 따라 가장 신성하며 존경받을 것이니.
+qstr_By_the_end_of_the_da|오늘 하루가 끝날 무렵, 피는 강물처럼 흐를 것이다.
+qstr_My_brethren_it_has_b|형제들이여, 우리가 마지막 사냥을 하고부터 너무 긴 시간이 흘렀군. 너는 훌륭한 사냥감이 되어줘야 할것이다.
+qstr_Can_you_hear_it?_The|들리나? 늑대들의 울음 소리가. 사냥하기 좋은 날이지.
+qstr_We_are_the_Wolf_Knig|우리는 늑대 기사단. 외지인들은 우리를 조롱하고 모욕하지. 그러나 우리는 사냥의 즐거움과 살인의 만족스러움을 안다. 우리는 곧 그것을 다시 느낄 것이다.
+qstr_Why_have_you_come_to|우리의 집까지 무슨 일로 왔지? 우리를 방문한 대가는 죽음이다!
+qstr_This_is_no_place_for|이곳은 네놈을 위한 장소가 아니다. 이제 여기에 온 대가를 지불해야겠군.
+qstr_This_is_not_your_day|오늘은 너에게 운이 없는 날이로군. 그러나 오늘이 너의 마지막 날이 될 것이다!
+qstr_Why_have_you_come_to_|어째서 우리의 집을 찾아왔는가? 그대의 말을 신중하게 선택하라...
+qstr_This_is_no_place_for_|이곳은 그대가 있을 곳이 아니다. 그대는 다른 곳으로 가서 그대의 볼일을 보거나 아니면 이 부근을 헤매고 있었다는 좋은 변명거리가 있겠지.
+qstr_Have_we_met_before?_|우리가 전에 만났던가?  --아니, 당연히 그럴리가 없지.  네가 여전히 살아 있으니까 말이야.
+qstr_It_s_your_money_or_y|네 인생과 돈 중에서 선택하라고, {reg33?아가씨:형씨}. 수상쩍게 움직이거나 우리를 피해 지나가려고 하지는 말고.
+qstr_Lucky_for_you_you_ca|너는 운이 좋군. 지금은 내 기분이 참 좋거든. 네가 가진 모든 돈을 내놓으면 너를 살려주도록 하지.
+qstr_This_a_robbery_eh?_I|우리는 강도야, 알겠어? 내가 너에게 두 가지 기회를 주지. 하나는 나에게 네가 가진 모든것을 넘겨주는 것이고, 또 하나는 나와 내 동료들에게 죽는거야. 무슨 말인지 알겠어?
+qstr_we_have_made_very_li|우리는 거의 진전을 이루지 못했다.
+qstr_we_have_suceeded_in_|우리는 일부 영토를 얻는데 성공했지만 아직도 갈 길이 멀다.
+qstr_we_have_become_a_sig|우리는 강대해졌고, 우리에게는 승리의 기회가 있다.
+qstr_we_are_winning_the_w|우리는 전쟁에서 승리하고 있지만, 우리의 적들은 여전히 존재하고 있다.
+qstr_we_are_on_the_verge_|승리는 우리의 눈 앞까지 와있다. 나머지 적들은 위협적이지 않으나, 우리는 여전히 그들을 사냥해야 한다.
+qstr_Talk_to_Shi_Jin_abou|잔 침략자에 대해 시 진과 대화를 나누어보자.
+qstr_Stop_the_invasion_of|진 대군의 침공을 막아내자.
+qstr_Stop_the_invasion_of_|케르지아 대군의 침공을 막아내자.
+qstr_Stop_the_invasion_of_T|시네 대군의 침공을 막아내자.
+qstr_Stop_the_invasion_of_Th|슌 하 대군의 침공을 막아내자.
+qstr_Talk_to_the_person_w|{s8}의 주점에서 이상한 검은 갑옷을 입은 사람과 대화를 나누어보자.
+qstr_Talk_to_Zann_Fort_Ca|잔 요새 대장과 대화를 나누어보자.
+qstr_Talk_to_the_elderly_|{s8}의 선술집에서 나이든 아마존과 대화를 나누어보자.
+qstr_Talk_to_Captain_Berk|{s8}의 선술집에서 대장 베르쿠트와 대화를 나누어보자.
+qstr_Report_to_amazon_Oks|{s8}의 선술집에서 아마존 옥사나문에게 보고하자.
+qstr_Talk_to_Meadbrewer_a|{s8}에 있는 미드브루어와 대화를 나누어보자.
+qstr_Talk_to_Silberfalke_|{s8}에 있는 은빛 매와 대화를 나누어보자.
+qstr_Adventurer_Meadbrewe|모험가 미드브루어는 {s8} 거주자들이 도움의 손길을 필요로 하다고 언급했다. 이 사람을 방문하면 금전이 생길지도 모른다.
+qstr__You_have_been_taske|당신은 나드리엘라 츠바이벨이라는 사람을 물리치라는 임무를 받았다. 어쨌든 톨라니안 첩보 대장은 구체적으로 그녀가 선수를 치지 못하도록 해야 한다고 했다.
+qstr_Escort_wyvern_riders|와이번 기수를 {s8} 도시까지 호위하십시오.
+qstr_You_do_not_have_enoug|당신은 충분한 돈이 없습니다!
+qstr_A_man_named_Nodah_ha|노다흐라는 남자가 볼데부르크로 여행하는 제국 대상을 습격 하라고 당신에게 의뢰했습니다. 용의 제국에게는 반드시 큰 타격이 될 것입니다! 당신은 일리카의 영광을 위해 그것을 해내야만 합니다.
+qstr_Nodah_has_asked_you_|노다흐는 당신에게 제국 영주를 물리쳐달라고 의뢰했습니다. 그는 볼데부르크 근처에 있습니다.
+qstr_Nodah_has_asked_you_t|노다흐가 당신에게 용의 사제를 물리치라고 부탁했습니다.
+qstr_Nodah_has_asked_you_to|노다흐는 위험한 발라히르 용병인 군나르를 물리쳐 달라고 요청했습니다. 영광을 위해!
+qstr_Nodah_has_asked_you_to_|노다흐가 볼데부르크를 정복하라고 요청했습니다.
+qstr_{s9}_asked_to_bring_|{s9}에서 늑대를 {s10}까지 데려가달라고 의뢰받았다.
+qstr_Your_kingdom_culture|당신 왕국의 문화: 페리스노
+qstr_Your_kingdom_has_no_|당신의 왕국에는 특정한 문화가 없습니다.
+qstr_Your_kingdom_culture_|당신 왕국의 문화: {s11}
+qstr_You_cannot_afford_to|당신은 이 문화로 변경할 수 없습니다.
+qstr_Kingdom_culture:_Non|왕국 문화: 없음
+qstr_Kingdom_culture:_{s1|왕국 문화: {s11}
+qstr_{s11}|{s11}
+qstr_Kingdom_culture:_Fal|왕국 문화: 팔콘
+qstr_Kingdom_culture:_Per|왕국 문화: 페리스노
+qstr_The_goverment_of_the|{s10}의 정부는 {s4}입니다.
+qstr_The_upper_class_soci|상류 사회는 {s5}입니다.
+qstr_The_people_are_{s6}.|인민들은 {s6}입니다.
+qstr_The_government_s_app|정부의 무역 접근법은 {s0}입니다.
+qstr_Our_goverment_is_{s4|우리 정부는 {s4}입니다.
+qstr_Our_people_are_{s6}.|우리 인민들은 {s6}입니다.
+qstr_Our_approach_to_trad|무역에 대한 우리의 접근 방식은 {s0}입니다.
+qstr_According__to_the_re|우리 첩자들의 보고에 따르면
+qstr_{s10}_{reg3}_lords_s|{s10} {reg3} 영주는 {s9}을(를) 지지함.
+qstr_Sorry_currently_I_ca|죄송합니다. 현재는 영주들의 분위기에 대한 정보를 제공할 수 없습니다. 우리의 첩자들이 아직 보고하지 않았기 때문입니다.
+qstr_{s11}_and_{s12}|{s11} 그리고 {s12}
+qstr_We_are_not_at_war_wi|우리는 어디와도 전쟁을 하지 않고 있다.
+qstr_We_are_at_war_with_{|우리는 {s12}과(와) 전쟁 중이다.
+qstr_Our_kingdom_currentl|우리 왕국에는 현재 {reg2}명의 병사들이 있습니다.
+qstr_{s6}_garrisoned_in_{|{s6}이(가) {reg2} 도시들을 수비
+qstr_{s6}_and_{reg2}_cast|{s6} 그리고 {reg2} 성들.
+qstr_{s6}_In_addition_we_|{s6} 게다가 우리는 현장에 {reg2} 명의 병사가 있습니다.
+qstr_We_currently_have_{r|우리는 현재 {reg2} 명의 병사들이 있습니다.
+qstr_{s6}_In_addition_you|{s6} 또한 호송대가 {reg2} 명의 병사들이 있으며 {reg3} 명의 순찰대가 있습니다.
+qstr_He_fields_{reg2}_sol|그는 {reg2} 명의 병사들을 지휘하고 있습니다.
+qstr_We_currently_have_{re|우리의 {s60}은(는) 현재 {reg2} 명의 병사들이 수비하고 있습니다.
+qstr_You_are_preferring_m|당신은 근접전 병사를 선호합니다.
+qstr_You_are_preferring_r|당신은 원거리 병사를 선호합니다.
+qstr__and_the_additional_| 그리고 추가 훈련 교관
+qstr_We_currently_have_an|우리는 현재 {reg0} 오럼의 소득이 있으며 {reg1} 오럼을 영지와 수비대에게 지불하고 있습니다.
+qstr_{s6}_We_are_losing_{|{s6} 우리는 현재 세금 비효율로 인해 {reg0} 오럼을 잃고 있습니다. 그건 전체의 {reg1} 퍼센트에 해당합니다.
+qstr_{s6}_Overall_this_su|{s6} 종합하자면 {reg0} 오럼이 되겠습니다.
+qstr_{reg0}_aurums|{reg0} 오럼
+qstr_no|아니오
+qstr_{s60}_is_currently_o|{s60}은(는) 현재 무법자들에게 점거되어 있습니다. 가능한 빨리 되찾아야 합니다.
+qstr__We_are_expecting_{r| 우리는 임대료로 {reg0} 오럼의 소득을 기대하며
+qstr__The_troop_wages_for| {reg0} 명의 병사들은 우리에게 임금으로 {reg1} 오럼을 요구합니다.
+qstr_{s61}_and_{reg0}_aur|{s61} 그리고 관세로는 {reg0} 오럼
+qstr_Well_{s60}.|네, {s60}로군요.
+qstr_{s4}_{s3}._The_tax_r|{s4} {s3}. 세율은 {s50}.{s59}{s61}. 종합하자면 이것은 {s62} 오럼으로 요약됩니다.
+qstr_Tax_rate_for_{s6}:_{|{s6}의 세율: {s11}
+qstr_The_{s17}_has_the_fol|{s17}에서 완성된 개량시설: {s18}.
+qstr_You_have_shown_great|그대는 전장에서 대단한 힘을 보여주었지. 하지만 왜 우리와 함께하려는 건가?
+qstr_All_of_life_is_about|삶의 모든 일에는 장단점이 있어. 왜 우리가 당신을 동료로 받아들여야 하지?
+qstr_I_know_people_do_fea|나는 사람들이 당신의 가혹함을 두려워한다는 것을 알고 있소. 그럼에도 우리가 그래야 할까?
+qstr_Indeed_I_have_heard_|사실, 나는 그대의 충성심과 용맹함에 대해서 들었네. 하지만 그것만으로 우리와 함께하기에 충분할까?
+qstr_I_m_glad_you_want_to|그대가 우리를 지지한다니 기쁘군. 하지만 우리 가문에 합류하는게 현명한 일이겠는가?
+qstr_Beside_your_wealth_h|그대의 재산과 비교해서, 어떻게 나와 우리 가문을 위해 봉사할 수 있다는 건가?
+qstr_My_friend_I_see_your|나의 친구여, 그대의 추론은 알겠네. 하지만 우리가 공식적으로 협력함으로써 우리의 우정을 위험속으로 드러내겠는가?
+qstr_Agreed!_Your_words_c|찬성하네! 그대의 말은 그대의 칼날만큼이나 날카롭군.
+qstr_I_trust_you_my_famil|그대를 믿도록 하지. 우리 가문은 그대의 지략을 이용할 수 있겠지. 우리는 함께 페리스노 전역에 영향력을 떨칠 것이야.
+qstr_May_God_have_mercy_o|신이시여 우리의 적들에게 자비를 내려주시기 바랍니다. 왜냐하면 우리는 그럴 수 없으니까!
+qstr_So_be_it._We_are_hon|그렇게 하지. 우리는 그대를 우리 가문의 일원으로 받아들이게 되어 영광일세.
+qstr__I_will_appreciate_y|나는 그대를 아들처럼 여기겠네.
+qstr_I_accept_your_reques|그대의 요청을 수락하지. 그대가 우리 가문을 돕는다면 우리가 그대를 도울 것이야.
+qstr_Since_you_have_turne|그대가 가치있는 동지라는 것이 명확해졌으므로, 우리 가문 모두에게 그만한 도움이 되겠지.
+qstr_Your_leader_is_not_e|그대의 지도자는 왕도 아니거늘, 그대와 합류하라고?
+qstr_{s40}_I_would_never_|{s40} 나는 도시나 성을 소유하지 않은 자와는 결코 합류하지 않을 것이다.
+qstr_{s40}_I_know_too_lit|{s40} 그대의 지도자에 대해 아는게 너무 적으므로.
+qstr_{s40}_I_found_your_m|{s40} 그대가 전달하고자 하는 바가 확실하지 않군.
+qstr_{s40}_Next_time_I_wo|{s40} 다음에는 바보처럼 행동하지 않는 사람과 대화하고 싶군.
+qstr_{s40}_Next_time_I_wou|{s40} 다음에는 궁정의 예의 범절에 더 정통한 사람과 대화하고 싶군.
+qstr_{s40}_I_rather_stay_|{s40} 차라리 지금의 왕과 함께 있는게 낫지.
+qstr_{s31}_{s32}_{s34}|{s31} {s32} {s34}
+qstr_{playername}_when_we|{playername}, 우리가 긴 여정을 시작했을 때, 소수만이 우리에게 용기를 주었네. 그리고 그보다 소수만이 나의 뜻을 위해 기꺼이 목숨을 맡기고 있지. 하지만, 자네는 나의 적들에게 몸을 던지는걸 망설이지 않았지. 우리는 오랜 시간 함께해왔지만, 나는 모든 희망을 잃기 직전이라네. 하지만, 신이 우리를 도와 승리로 이끌 것이야. 이제 자네는 자네의 부대를 떠나, 나 스스로 옳은 것을 할 것이네. 이제부터, 나는 {s3}을(를) 내 모든 책임감을 가지고서 통치하겠네. 앞으로도 많은 시련들이 놓여있고, 그것을 극복할 때 자네의 도움을 믿을걸세. 그리고 역시나, 자네는 내가 가장 아끼는 영주로서 남을 것이야.
+qstr_Find_and_speak_with_{|{s4}의 {s3}을(를) 찾아가서 그에게 충성을 맹세하십시오.
+qstr__We_will_of_course_n| 우리는 물론 우리 나라의 군사 행동이 정해질 때까지 기다릴 필요가 있네.
+qstr__{s1}_has_been_accep| {s1}은(는) {s2}의 가신으로 받아 들여졌습니다.
+qstr_I_am_{s4}_the_ruler_|나는 {s4}, {s6}의 통치자다.
+qstr_I_am_{s4}_{s8}_of_{s|나는 {s4}, {s9}의 {s8}이다.
+qstr_I_am_{s4}_a_vassal_o|나는 {s4}, {s6}의 가신이다.
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? 그리고 {s8}의 영주다.:.
+qstr_{s13}_asked_you_to_g|{s13}은(는) {reg3}마리의 가축을 모아서 그에게 데려올 것을 요청했습니다.
+qstr_{s9}_wants_you_to_fol|{s9}은(는) 추가적인 통보가 있을 때까지 그의 군대를 따라오기를 원합니다.
+qstr_{s9}_asked_you_to_sc|{s9}은(는) 당신에게 {s13}, {s14} 그리고 {s15}을(를) 정찰한 후 보고해달라고 요청했습니다.
+qstr_pupil|학생
+qstr_you|당신
+qstr_You_are_challenging_|나에게 결투를 신청하는 건가? 참으로 재미있군! 원하는 대로 해주지, {playername}. 그대 머리를 날려버리는 것은 좋은 운동이 될 것이야.
+qstr_Well_well_well!_A_Lo|이런 이런 이런! 연애 편지라니! 그리고 이건 {s9}(으)로부터 온 것이 아닌가. 실로 무지개 끝의 황금 냄비처럼 빛나는 구나! 나는 항상 좋은 여자를 갈망하는 비밀이 있었지! 참으로 좋은 소식이야, {playername}. 부탁이니 서둘러 내 축사를 가지고 돌아가 주게.
+qstr_Well_well_well!_A_Lov|이런 이런 이런! 연애 편지로군! 참으로 흥분되는걸. 잠깐, 이게 뭐야? {s9}? 자네 날 놀리는 건가, {playername}? 오직 그 아버지만이 그 암말을 사랑할 수 있을 것이야. 으아아아아! 가버려!
+qstr_{s16}_and_{s17}|{s16} 그리고 {s17}
+qstr_Very_well_I_will_acc|매우 좋네, 자네가 장엄한 서약을 한 번 더 나에게 맹세한다면 나는 자네가 나의 가신이 되는걸 받아들일 것이네.
+qstr_A_pardon_will_only_b|자네가 {s17} 을(를) 나에게 양도 할 때에만 용서가 가능할 것이네. 자네 나의 의견에 동의 하는가?
+qstr_No._There_is_no_chan|아니. 우리들에게 평화가 오지 않을거야. 난 관심이 없네.
+qstr_Destroy_the_Sectaria|종파 용의 사제 일단을 격파하십시오.
+qstr_You_have_been_asked_|당신은 반역자인 드라하라 부족을 물리치라는 요청을 받았다. 그들은 어딘가에 숨어 있을 것이다.
+qstr_You_have_been_asked_t|당신은 믹카비아의 왕 아가서로부터 새로운 신들의 숭배자들의 거대한 부대를 패배시켜 달라는 요청을 받았다. 그들은 어딘가에 있을 것이다.
+qstr_You_have_been_asked_to|당신은 제 3 군단으로 도망가는 하콘 탈영병들을 격파하고 오라는 요청을 받았다.
+qstr_You_have_been_asked_to_|당신은 허스칼 반란군을 물리쳐달라는 요청을 받았다.
+qstr_{s1}_exchanged_{s2}_|{s1} exchanged {s2} to {s3} for {s4}.
+qstr_Our_marshal_{s1}|우리의 사령관, {s1}
+qstr_Our_liege_{s1}|우리의 주군, {s1}
+qstr_go_on_the_offensive_|바로 지금 공격을 행한다.
+qstr_act_to_defend_our_la|우리의 영토를 지킨다.
+qstr_take_more_time_to_ga|군대를 모으기 위해 더 많은 시간을 들인다.
+qstr_You_promised_to_help|당신은 {s13}이(가) {s14}의 왕좌를 손에 넣는 것을 도와주겠다고 약속했다.
+qstr_{s5}___{reg1}_{s6}__|{s5} - {reg1}, {s6} - {reg2}, {s7} - {reg3}, {s8} - {reg4}, {s9} - {reg5}.
+qstr_What_do_you_say_to_e|용병 대장으로 {s9}을(를) 위해 싸우는 것을 어떻게 생각하나? 그대라면 그 일을 해낼 수 있으리라고 믿어 의심치 않네.
+qstr_{s9}_asked_you_to_ta|{s9}이(가) {s13}에게 서한을 가져다달라고 요청했다. {s13}은(는) 당신이 이 임무를 받았을 때 {s4}에 있었을 것이다.
+qstr_{s9}_asked_you_to_tak|{s9}은(는) 당신에게 {s13}에게 연애 편지를 가져다달라고 요청했다.
+qstr_{s9}_asked_you_to_take|{s9}은(는) 당신에게 {s15}의 {s13}에게 서한을 전해달라고 의뢰했다. {s13}은(는) 당신이 이 임무를 받았을 때 {s4}에 있었을 것이다.
+qstr_{s11}_asked_you_to_e|{s11}이(가) 당신에게 {reg65?그녀의:그의} {s17} {s13}을(를) {s14}(으)로 호위해줄 것을 의뢰했다.
+qstr_{s13}_asked_you_to_d|{s13}은(는) 당신에게 {s15} 마을을 점령하고 있는 도적들을 퇴치하고 {reg65?그녀:그}에게 보고해달라고 의뢰했다.
+qstr_{s9}_asked_you_to_ra|{s9}이(가) 당신에게 {reg1}명의 {s14}을(를) 육성해서 {reg65?그녀:그}에게 데려와 달라고 의뢰했다.
+qstr_{s9}_asked_you_to_co|{s9}이(가) {s3}에서 세금을 징수해달라고 부탁했다. {reg65?그녀:그}는 당신이 그곳에서 모은 돈의 5분의 1을 나누어 주겠다고 제안했다.
+qstr_{s9}_asked_you_to_hu|{s9}은(는) {s4}(이)라는 이름의 도망자를 찾아달라고 의뢰했다. 그는 현재 {s3}에 있을것이라 한다.
+qstr_{s9}_asked_you_to_as|{s9}은(는) {s3}에 있는 지역 상인을 암살해 달라고 요청했다.
+qstr_{s9}_has_asked_you_t|{s9}은(는) {s13}의 첩자와 접선할 것을 요청했다.
+qstr_{s11}_asked_you_to_f|{s11}은(는) {s12}을(를) 떠날 첩자를 미행해 달라고 부탁했다. 도중에 첩자가 당신을 인식하지 못하도록 주의하라. 그렇지 않으면 의심을 받고 그가 돌아가버릴지도 모른다. 첩자가 공범을 만난 후 둘 다 붙잡아서 {s11}에게 데려와야 한다.
+qstr_{s11}_asked_you_to_c|{s11}은(는) 당신에게 {s13}의 아무 영주나 붙잡아서 {s11}에게 데려와 달라고 의뢰했다.
+qstr_{s9}_asked_you_to_le|{s9}은(는) 당신의 동료 {s3}을(를) 한 주 동안 빌려달라고 요청했다.
+qstr_{s9}_asked_you_to_col|{s9}은(는) {reg4} 오럼의 빚을 {s3}(으)로부터 회수해 달라고 부탁했다. {s3}은(는) 당신이 이 의뢰를 받았을 때 {s4}에 있었을 것이다.
+qstr_{s11}_gave_you_a_fak|{s11}은(는) {s13}을(를) 속여서 그의 가신 {s16}을(를) 추방하도록 만들기 위해 거짓 편지를 건네주었다. 당신은 {s14} 근처에 가서 당신의 {s15} 중 한 명에게 편지를 넘겨줘서 명령이 사실이라고 믿게 만든 다음에 도시에 밀사로서 보내야 한다.
+qstr_{s9}_has_requested_y|{s9}은(는) {reg1}명의 {s3} 포로들을 데려와 달라고 했습니다.
+qstr_Lend_your_experience|경험이 많은 외과 의사인 {s3}을(를) {s1}에게 빌려달라는 부탁을 받았다.
+qstr_Then_take_it_with_my|저의 영원한 감사와 함께 이것을 가져가 주세요. 당신은 고귀한 {reg33?여성:남자}입니다. 당신의 은혜는 결코 잊지 않겠어요.
+qstr_Forgive_me_{playerna|용서해 주세요, {playername}. 하지만 저는 당신이 꼭 그것을 받아 들이기를 바래요. 그 돈은 더이상 저에게 의미가 없으며, 당신에게는 너무 많은 빚을 지고 있으니까요. 여기, 그걸 받으시고 더 이상 아무런 말씀도 마세요.
+qstr_{playername}_what_a_|{playername}, 당신은 훌륭한 {reg33?여성:남자}입니다. 그러나 나는 당신이 이것을 거절하는걸 허락하지 않겠습니다. 제가 말로 표현할 수 있는 것보다 더 많은 빚을 당신에게 지고 있어요. 당신이라면 이 돈을 나보다 훨씬 잘 사용할 수 있으리라고 확신합니다.
+qstr_{s11}_asked_you_to_r|{s11}은(는) 당신이 {reg65?그녀의:그의} {s17}, {s13}하고 옷을 바꾸어 입어 대신 감옥에 들어가는 걸로 {s14}에서 구해달라고 부탁했다.
+qstr_{s11}_asked_you_to_re|{s11}은(는) {reg65?그녀의:그의} {s17}, {s13}을(를) {s14}에서 구해달라고 부탁했다.
+qstr_{s11}_asked_you_to_d|{s11}은(는) {s14}에 투옥되어 있는 {s13}에게 편지를 전해달라고 부탁했다.
+qstr_You_agreed_to_challe|당신은 {s13}의 명예를 지키기 위해 {s11}에게 도전하기로 동의했다.
+qstr_{s9}_asked_you_to_take_|{s9}은(는) {s13}에게 편지를 전해달라고 부탁했다. {s13}은(는) 당신이 이 임무를 받았을 때 {s4}에 있었을 것이다.
+qstr_{s5}__Persuasion_str|{s5} (설득력: {reg5})
+qstr_Persuasion_Attempt|설득을 시도한다.
+qstr_Talk_to_Remus_in_{s8|{s8}의 레무스와 대화하십시오.
+qstr_Defeat_a_group_of_Su|늑대 기사단과 합류하기를 원하는 수트 거인들을 물리쳐야 한다.
+qstr_Remus_has_asked_you_|레무스는 대공 메테노르에게 편지를 전해달라고 부탁했다.
+qstr_Stupid_outlander._I_|어리석은 이방인이여. 나는 라프칼잔이다. 항복하거나 죽어라!
+qstr_I_am_King_Rafklazan_|나는 왕 라프칼잔. 라프칼 부족의 지도자이다. 이방인이여, 이제 죽을 때로다!
+qstr_Once_I_defeat_you_yo|일단 내가 그대를 쓰러뜨리고, 그대는 내가 나의 고향으로 돌아가는 방법을 찾는 것을 돕게될 것이다. 그렇지 않으면... 그대는 영원한 고문을 당할 것이다!
+qstr_I_am_Nibor_Hood_the_|나는 니보르 후드, 이 땅의 자유와 정의의 상징이지! 너는 귀족놈처럼 보이는걸.
+qstr_I_am_Nibor_Hood_the_l|나는 니보르 후드, 톨라니아 태생의 자유로운 지도자! 너는 잘난 귀족님처럼 보이는데!
+qstr_I_am_Nibor_Hood_and_|나는 니보르 후드. 그리고 나는 이제부터 가난한 이들에게 너의 돈을 가져갈거야!
+qstr_I_am_Onishi_the_lead|나는 오니시이다. 잔 용사들의 지도자이지. 우리의 목표는 황제께서 도착하지기 전에 모든 사람들의 길을 끊어놓는 것이다.
+qstr_You_are_in_our_way._|그대는 우리의 길 앞에 있구나. 우리는 신풍 용사들. 그대가 죽을 시간이다!
+qstr_I_have_been_ordered_|나는 천국의 권한에 따라 명령을 받았으니... 슌-하, 케르지아와 시네하고 연합하여 이 불쌍한 대륙의 모든 것들을 파괴하노라. 슬프게도, 그대 또한 그 파괴의 대상 중 하나처럼 보이는군.
+qstr_I_am_Yachamoci_the_l|나는 야차모치. 이 저주받은 대륙의 잔 지도자. 우리의 목표는 황제께서 도착하시기 전에 모든 이들의 길을 끊어놓는 것이니.
+qstr_You_are_in_our_way._T|그대는 우리의 길을 막는군. 죽어라!
+qstr_I_am_Zeladeck_the_Ch|나는 선택받은 자, 젤라덱. 나에 대해서 알고 있는가?
+qstr_I_will_lead_the_Falk|나는 저주받을 제국의 억압자들로부터 팔키를 자유의 길로 인도할 것이다.
+qstr_I_am_Zeladeck_the_Cho|나는 선택받은 자, 젤라덱. 죽음을 각오하라.
+qstr_My_name_is_Octiem._I|나의 이름은 옥티엠. 제 3 군단의 지도자다. 우리의 유산을 위협하는 이들은 모두 적이다.
+qstr_The_Third_Legion_wil|제 3 군단은 베네터 제국의 깃발 아래 세계를 정복 할 것이다. 나는 그들을 인도하도록 선택되었지.
+qstr_Fool._Do_you_know_wh|어리석은놈. 나를 모르느냐? 나는 옥티엠. 제 3 군단의 선택받은 아타노스이니.
+qstr_I_am_General_Ialoch.|나는 장군 이얼록. 나는 악마 숭배자들의 군대를 이끌고 있다. 우리가 가는 길에 서있는 자는 누구든지 파멸할 것이다.
+qstr_The_power_of_the_Dem|악마 숭배자들의 힘은 밤이 되면 더욱 강해지니. 곧, 이 세상은 공포스러운 자의 깃발 아래에 들어갈 것이다!
+qstr_The_Demon_Worshipper|악마 숭배자들은 곧 세계를 정복할 것이다. 그리고 나는 군대를 이끌도록 선택받았지. 네가 첫 번째로 우리 군대의 힘을 경험할 것이다!
+qstr_I_am_Lord_Ceylius_th|나는 군주 셀리우스, 마스네리안 기사단의 단장이다! 그대가 나와 대적할 수 있을 만큼 용감한지 보도록 하겠다!
+qstr_We_fight_for_money_a|우리는 돈, 오직 돈을 위해서 싸운다. 그대의 눈으로 우리의 힘을 확인하라!
+qstr_I_am_Nox_of_Zephilli|나는 제필리의 녹스. 이 땅을 구원하기위해 선택받은 자이다. 그대는 전투 준비를 하라!
+qstr_I_am_Nox_of_Zephilli.|나는 제필리의 녹스. 그리고 너는 내 시간을 낭비하는 자일 뿐이다. 죽음을 각오하라!
+qstr_I_am_Nox_of_Zephilli_|나는 제필리의 녹스. 이 땅의 구세주지. 나는 다시 한 번 페리스노를 하나의 제국으로 통합하여 황제가 될 것이다! 너는 나에게 제거되기를 기다리는 나약한 경쟁자일 뿐이야.
+qstr_I_am_Aegea_the_Queen|나는 아이게아, 앙카스의 여왕이다. 그대는 좋은 연습용 목표가 되겠군.
+qstr_My_sisters_are_weary|내 자매들은 여행으로 지쳐있다. 우리에게 약간의 오락이 필요할 것 같군. 너는 훌륭한 여흥거리가 되겠구나!
+qstr_I_am_Aegea_Queen_of_|나는 아이게아, 앙카스의 여왕. 그리고 너는 연습용 허수아비에 지나지 않지.
+qstr_You_have_defeated_the_|당신은 공포스러운 존재를 격파했다. 당신은 그의 검과 금화들을 전리품으로 챙겼다.
+qstr_I_am_the_Dreaded_One|나는 악마 숭배자들의 지도자 공포스러운 자. 너의 세계는 끝이 가까울지니... 정당한 나의 것을 되찾기 위해 돌아왔다!
+qstr_Ah_..._sweet_flesh!_|아... 달콤한 살점! 이토록 훌륭한 사냥감을 찾는데 참으로 오랜 시간이 걸렸군.
+qstr_I_am_the_Dreaded_One_|나는 공포스러운 자, 악마 숭배자들의 지도자. 이 시대의 끝이 도래했다... 그리고 공포스러운 자의 시대가 시작되리라!
+qstr_You_have_been_asked_to_d|당신은 불신자들의 부대를 격파하라는 요청을 받았습니다. 신들의 왕 말'키지를 위하여!
+qstr_You_have_been_asked_to_de|당신은 불신자들의 부대를 격파하라는 요청을 받았습니다. 신들의 왕 말'키아지를 위하여!
+qstr_head|머리
+qstr_tail|꼬리
+qstr_Recently_a_local_nob|최근에 지방 귀족이 그의 영지 부근에 위험한 탈옥수들이 나타났다고 불평하더군. 놈들이 자신의 땅을 위협하며 농노들이 두려워하게 만든다고 말이야.
+qstr_There_has_been_a_gro|지역 인근에서 약탈을 일삼는 도적들이 있어. 그들은 이 땅에 두려움을 뿌리고 있지.
+qstr_A_group_of_Eagle_Kni|독수리 기사단이 나를 찾아와서는 강하고 유능한 용병을 찾는다고 하더군. 그들은 가까운 곳에 악마 숭배자들이 있으며, 그 땅을 정화할 필요가 있다고 했어.
+qstr_A_party_of_suspiciou|의심스러운 부대가 근처를 방황하고 있어. 몇몇 도시 주민들은 이미 사라졌지.     같은 일이 여러 상인 대상들에게도 일어났고, 상인들은 이제 도시에서 멀리 떨어져 머무는 것을 선호하지. 우리를 도와주게!
+qstr_Defeat_a_group_of_da|위험한 탈옥수들을 처치하라.
+qstr_Defeat_a_group_of_dan|위험한 도적들을 처치하라.
+qstr_Defeat_a_group_of_De|독수리 기사단을 위해 악마 숭배자들의 집단을 물리쳐라.
+qstr_{s9}_asked_you_to_hun|{s9}은(는) {s4}라는 이름의 도망자를 찾아달라고 요청했다. 그는 현재 {s3}에 있다는 소식이 있다.
+qstr_{s12}_and_{s11}|{s12} 그리고 {s11}
+qstr_You_can_find_book_me|책 상인은 {s11}에서 찾을 수 있을거요.
+qstr_{s12}_{s11}|{s12}, {s11}
+qstr_You_can_find_ransom_|몸값 중개인은 {s11}에서 찾을 수 있을거요.
+qstr__Your_party_s_morale| 당신 부대의 사기가 20 만큼 증가했습니다.
+qstr_A_villager_from_{s7}|{s7} 마을 주민이 당신에게 도적떼가 들이닥친 마을을 구해달라고 간청했다.
+qstr_{s4}_asked_you_to_de|{s4}이(가) {s3}에서 니보르 후드의 부대를 물리쳐 달라고 요청했다.
+qstr_{s4}_asked_you_to_pu|{s4}은(는) {s3}에서 날뛰는 귀족들을 멈추어 달라고 요청했다.
+qstr_You_chose_well_{s0}.|잘 선택하셨습니다, {s0}. 저의 {reg65?동료들:친구들}은 그들의 말을 지키며 임금을 받는 방법을 알지요.
+qstr_Well_done_{s0}._Keep|좋은 선택입니다, {s0}. 우리가 가는 길에는 돈과 포도주가 기다릴 뿐입니다. 우리가 두려워할 적은 페리스노에 없으니까요.
+qstr_We_are_at_your_servi|당신을 모시겠습니다, {s0}. 우리의 적을 알려만 주십시오. 그 뒤는 저희가 처리하겠습니다.
+qstr_The_Guildmaster_of_{|{s13}의 조합장이 인근 시골에서 약탈자을 처리하도록 요청했습니다.
+qstr_{s9}_of_{s3}_asked_y|{s3}의 {s9}(으)로부터 {reg5}개의 {s6}을(를) {s4}의 주점까지 7일 이내에 배달하라는 의뢰를 받았다.
+qstr_Escort_the_merchant_|상인 대상을 {s8} 도시까지 호위하라.
+qstr_Merchant_{s9}_of_{s4|상인 {s4} {s9}(으)로부터 도시 주변을 떠도는 골치거리 도적들을 사냥해달라는 의뢰를 받았다.
+qstr_Guildmaster_of_{s4}_|{s4}의 조합장은 도적들에게 납치당한 소녀의 몸값을 지불하기 위해 당신에게 {reg12} 오럼을 주었다. {s3} 근처의 도적들을 만나 그들에게 몸값을 주어야 한다. 그 후에 소녀를 {s4}(으)로 데려가자.
+qstr_Guildmaster_of_{s4}_p|{s4}의 조합장은 만약 당신이 {s15}과(와) {s14} 사이의 평화교섭을 방해 하는 {s12}와(과) {s13}을(를) 어떻게든 해준다면 {reg12} 오럼을 주리라고 약속했다 . 그러기 위해서는 두 사람이 평화 교섭을 받아들이도록 설득하거나 두 사람 모두를 포로로 잡아야 할것이다.
+qstr_The_Guildmaster_of_{s|{s14}의 조합장이 {s14}의 거리를 위협하는 한 무리의 도적들을 처리해달라고 의뢰했다. 놈들은 밤에만 나오며 홀로 다니는 외로운 여행자만을 노린다.
+qstr_Guildmaster_of_{s10}|{s10}의 조합장이 소떼를 {s13}까지 운반해 달라고 의뢰했다. 당신은 대가로 {reg8}오럼을 받을 것이다.
+qstr_He_is_not_commanding|그는 현재 어떤 병사들도 지휘하고 있지 않다.
+qstr_He_currently_command|그는 현재 {reg0}명의 병사들을 지휘하고 있습니다{reg1?. 그 중에 {reg1}명이 부상을 입고 있습니다:}.
+qstr_The_elder_of_the_vil|{s3} 마을의 장로가 곡물을 {reg5} 포대 가져와 달라고 부탁했다.
+qstr_The_elder_of_the_vill|{s13} 마을의 장로가 {reg5}명의 농부들이 지역 도적들과 맞서 싸울 수 있도록 훈련 시켜달라고 의뢰했다.
+qstr_The_elder_of_the_villa|{s3} 마을의 장로가 가축 {reg5} 마리를 데려와 달라고 부탁했다.
+qstr_Escort_the_scholars_|학자들을 {s8} 도시까지 호위하라.
+qstr_{s16}_and_{s15}|{s16} 그리고 {s15}
+qstr_We_do_not_have_any_n|우리는 현재 이곳에서 채굴되는 새로운 주괴가 없습니다.
+qstr_We_have_1_in_stock_a|우리는 현재 재고가 1 개 있습니다.
+qstr_We_have_2_in_stock_a|우리는 현재 재고가 2 개 있습니다.
+qstr_We_have_3_in_stock_a|우리는 현재 재고가 3 개 있습니다.
+qstr_We_have_4_in_stock_a|우리는 현재 재고가 4 개 있습니다.
+qstr_We_have_5_in_stock_a|우리는 현재 재고가 5 개 있습니다.
+qstr_We_have_1_ingots_in_|우리는 현재 재고에 1 개의 주괴가 있습니다.
+qstr_We_have_2_ingots_in_|우리는 현재 재고에 2 개의 주괴가 있습니다.
+qstr_We_have_3_ingots_in_|우리는 현재 재고에 3 개의 주괴가 있습니다.
+qstr_We_have_4_ingots_in_|우리는 현재 재고에 4 개의 주괴가 있습니다.
+qstr_We_have_5_ingots_in_|우리는 현재 재고에 5 개의 주괴가 있습니다.
+qstr_I_can_smell_a_fat_pu|나는 몇 마일이고 떨어진 곳에서도 두툼한 지갑 냄새를 맡을 수 있지. 내가 그 지갑좀 가볍게 해줄까? 응?
+qstr_Why_it_be_another_tr|이런, 또 다른 여행자를 길에서 만나는군! 내가 경고하지 친구. 이 주변은 너같은 {reg33?여자:친구}에게는 위험한 장소야. 하지만 작은 기부금만 내준다면 나랑 친구들이 너희가 목적지까지 안전하게 갈 수 있도록 해주지. 어때?
+qstr_Well_well_look_at_th|이런 이런, 이것 좀 보게! 냉큼 돈을 내놓는게 좋을거야, 친구. 안그러면 나랑 내 부하들이 널 박살내 버릴거거든.
+qstr_There_s_a_toll_for_p|이곳을 지나가는 사람들은 모두 우리에게 지불해야 하는 통행료가 있지. 그래서 너만 괜찮다면 우리는 너의 지갑에서 통행료를 받아가고 싶은데...
+qstr_Another_fool_come_to|또 다른 멍청이가 내 무기 앞으로 기어오는군. 응? 좋아, 싸워 보자고!
+qstr_We_re_not_afraid_of_|우리는 네가 무섭지 않아, {reg33?쌍년아:개자식아}! 덤벼!
+qstr_That_was_a_mistake._|그건 실수라고. 이제 너는 길고 고통스럽게 죽어갈거야.
+qstr_Brave_words._Let_s_s|말은 용감하게 하는걸. 너의 행동이 그 말을 따라가는지 한 번 보자고.
+qstr_{s1}_is_the_new_King|{s1}은(는) {s2}의 새로운 왕이다!!!
+qstr_your_lordship|당신의 지도력
+qstr_A_cloakpin?_Well..._|망토 핀? 음... 네, 그런 것 같군요. 이상한 질문이지만 말입니다.
+qstr_This_is_the_{reg4?to|이곳은 {s5}의 {reg4?도시:마을}입니다. {s0}.
+qstr_{s6}_Our_{reg4?town:|{s6} 저희 {reg4?도시와:마을과} 그 주변 땅은 물론 당신께서 다스리십니다, {reg33?아가씨:주군}.
+qstr_{s6}_Our_{reg4?town:v|{s6} 우리 {reg4?도시는:마을은} {s8}의 {s7}께서 통치하시지.
+qstr_{s3}_and_{s5}|{s3} 그리고 {s5}
+qstr_{reg20?We_mostly_pro|{reg20?우리는 주로 {s5}을(를) 생산합니다:최근에는 딱히 생산품이 없습니다}. 혹시 더 자세하게 알아보고 싶으시면 우리 {reg4?조합장:마을 장로}에게 물어 보십시오. 그는 이 근처에 있습니다.
+qstr_A_duel_that_sounds_l|결투라, 그거 재미있겠군. 우리가 점수를 기록하면서 결투를 하면 누가 더 나은 전사인지 알 수 있겠어!
+qstr_Ah_so_you_wish_to_be|아, 또 나에게 쓰러지고 싶은 건가? 응? 내가 그대에게 결투술에 대한 또 다른 교훈을 가르쳐주지.
+qstr_You_may_have_won_mor|우리의 결투에서 네가 나보다 더 많이 이겼을지도 모르지. 하지만 그것도 오늘부터 변할 거야!
+qstr_We_seem_to_be_evenly|우리는 대등한 것같군. 다음 결투가 기대되는걸.
+qstr_You_should_not_be_se|You should not be seeing this text.
+qstr_I_accept_your_challe|당신의 도전을 받아들이지.^말을 타고 싸우는 것과 땅에서 싸우는 것, 어느 쪽을 원하지?
+qstr_I_accept_your_challen|당신의 도전을 받아들이지. ^무기를 골라보자고.
+qstr_horseback|승마
+qstr_foot|보행
+qstr_our_own_weapons|한손 무기
+qstr_sword_and_shield|칼과 방패
+qstr_two_handed_weapons|양손 무기
+qstr_light_armor_and_rang|경갑과 원거리 무기

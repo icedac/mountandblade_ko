@@ -21,6 +21,9 @@
 * [펜도르 v3.8.4] 펜도르 중립영웅 위치 보이기 : http://cafe.naver.com/warband/214933
 * 주점의 기사단 대화 한글패치입니다. : http://cafe.naver.com/warband/224634
  
+페리스노
+
+* 페리스노 (Perisno) 한글화 v12 by 물에빠진달 - http://cafe.naver.com/warband/224889
  
 기타
 

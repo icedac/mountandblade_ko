@@ -1,0 +1,312 @@
+﻿
+p_zendar|안개 낀 호수의 도시
+p_town_1|믹칸
+p_town_2|포르데
+p_town_3|릴
+p_town_4|루벤
+p_town_5|포르니른
+p_town_6|레즈베레
+p_town_7|비니카
+p_town_8|머든홀
+p_town_9|볼데부르크
+p_town_10|훌 바라
+p_town_11|프라이징
+p_town_12|아렌달
+p_town_13|라익베르크
+p_town_14|크라인
+p_town_15|엘시노어
+p_town_16|갈웨
+p_town_17|울리아수타이
+p_town_18|볼강
+p_town_19|아마르나
+p_town_20|벨리나즈
+p_town_21|수트
+p_town_22|아리시
+p_town_23|그런드
+p_town_24|그로즈니
+p_town_25|분수 회관
+p_town_26|카르노스
+p_town_27|드왈노르
+p_town_28|칼레타카
+p_town_29|투마타흐룬
+p_castle_1|에샤힐 성
+p_castle_2|나마우크 성
+p_castle_3|하펜 성
+p_castle_4|아클로 성
+p_castle_5|요리드 성
+p_castle_6|페드로 성
+p_castle_7|데마기 성
+p_castle_8|리힌스탈 성
+p_castle_9|아주레 요새
+p_castle_10|줄레 성
+p_castle_11|베레크 성
+p_castle_12|레이디르 성
+p_castle_13|헤다우 성
+p_castle_14|메일론드 성
+p_castle_15|린델 성
+p_castle_16|세린 성
+p_castle_17|셀란시르 성
+p_castle_18|그랄 성
+p_castle_19|얼음 성
+p_castle_20|딜락 성
+p_castle_21|이안타스 성
+p_castle_22|오미간 성
+p_castle_23|판만돗 성
+p_castle_24|코르닌 성
+p_castle_25|발레론 성
+p_castle_26|리아 성
+p_castle_27|킬나르 요새
+p_castle_28|발 성
+p_castle_29|노르베르크 성
+p_castle_30|울라바이 성
+p_castle_31|웨스트리 성
+p_castle_32|앤룩스 성
+p_castle_33|에페나스 성
+p_castle_34|헤어레스 성
+p_castle_35|엔두인 성
+p_castle_36|파레지 성
+p_castle_37|다셀로트 성
+p_castle_38|테메신 성
+p_castle_39|슈타인터름 성
+p_castle_40|제자트 성
+p_castle_41|아오라스 성
+p_castle_42|사스페가 성
+p_castle_43|알레프 성
+p_castle_44|다이린 성
+p_castle_45|하사카 성
+p_castle_46|사막 전초 기지
+p_castle_47|사마라 성
+p_castle_48|바닥 성
+p_castle_49|알나르 성
+p_castle_50|아마르휴스 성
+p_castle_51|핌불 성
+p_castle_52|우틴 성
+p_castle_53|팔콘의 긍지
+p_castle_54|팔콘의 발톱
+p_castle_55|팔콘의 머리
+p_castle_56|팔콘의 감시
+p_castle_57|팔콘의 물
+p_castle_58|샤드 요새
+p_castle_59|긴 수염 요새
+p_castle_60|카하디르 요새
+p_castle_61|호르노고스 요새
+p_castle_62|타브란파단 성
+p_castle_63|스테오락 성
+p_castle_64|휴라단 성
+p_castle_90|잔 요새
+p_village_1|갈바르
+p_village_2|아크로스
+p_village_3|야스콘
+p_village_4|안데르
+p_village_5|브레번
+p_village_6|소베일
+p_village_7|엘코르
+p_village_8|스튜인
+p_village_9|템피
+p_village_10|콜린스
+p_village_11|리프웬
+p_village_12|에사리
+p_village_13|로그부르
+p_village_14|미스틸홀츠-콜란
+p_village_15|발레론
+p_village_16|베반부르크
+p_village_17|위팅하우젠
+p_village_18|앙게른
+p_village_19|호리츠도르프
+p_village_20|크루마우
+p_village_21|보겔텐
+p_village_22|로센베르크
+p_village_23|테마르
+p_village_24|아케디
+p_village_25|유비 다하에
+p_village_26|플루비안
+p_village_27|쿠에틀루
+p_village_28|말라르코나
+p_village_29|잔 이주민 야영지
+p_village_30|포멜라흐
+p_village_31|나스 나본
+p_village_32|니어리
+p_village_33|벨세우드
+p_village_34|혹시벤
+p_village_35|투린
+p_village_36|레윈
+p_village_37|엠디퍼
+p_village_38|발로테
+p_village_39|갈멜
+p_village_40|슬레노르
+p_village_41|가네구이바
+p_village_42|섹텀
+p_village_43|첼리네이
+p_village_44|쿠스바
+p_village_45|제베커
+p_village_46|솔루네
+p_village_47|파세라
+p_village_48|크라이튼
+p_village_49|룩켄도르프
+p_village_50|호들왈드
+p_village_51|아쉴드
+p_village_52|페드로데스
+p_village_53|스타레이드
+p_village_54|네라나
+p_village_55|두베할
+p_village_56|제프실
+p_village_57|리브르
+p_village_58|언터헤이드
+p_village_59|델런
+p_village_60|텐넬테드
+p_village_61|어스
+p_village_62|라이헤나우
+p_village_63|휴림
+p_village_64|이슬
+p_village_65|서번트
+p_village_66|라겐부르크
+p_village_67|리베스도르프
+p_village_68|이안테스
+p_village_69|빈드
+p_village_70|심벨리스
+p_village_71|리스갈
+p_village_72|케네트
+p_village_73|우마그로스
+p_village_74|콜그루벤
+p_village_75|오작
+p_village_76|키르
+p_village_77|간타히르
+p_village_78|오엔스
+p_village_79|웨이브쇼어
+p_village_80|로콜
+p_village_81|테판
+p_village_82|카르
+p_village_83|올스웨이
+p_village_84|네틀미스트
+p_village_85|테우펠슈타인
+p_village_86|브라이텐슈라크
+p_village_87|지어링
+p_village_88|즈도우칸
+p_village_89|도에트
+p_village_90|리오르
+p_village_91|온메스프
+p_village_92|와란
+p_village_93|카사리
+p_village_94|노트록
+p_village_95|페라고
+p_village_96|카이벨
+p_village_97|아펜돌
+p_village_98|모폰
+p_village_99|레네스
+p_village_100|톨루아
+p_village_101|페일리그
+p_village_102|두마니예
+p_village_103|소크리트
+p_village_104|허스타지
+p_village_105|다이달
+p_village_106|이노퀴텍
+p_village_107|에스카
+p_village_108|노우브라
+p_village_109|헤시 댄리스
+p_village_110|잘레아
+p_village_111|모르
+p_village_112|보레
+p_village_113|지크로아
+p_village_114|엥가
+p_village_115|스캡타
+p_village_116|레이요르펠
+p_village_117|그렌마르
+p_village_118|요르룬다르펠
+p_village_119|칼드러스
+p_village_120|모베르크
+p_village_121|클리어워터
+p_village_122|스킬브리긴스
+p_village_123|성스러운 숲
+p_village_124|마운틴 스프링스
+p_village_125|홀스의 끝
+p_village_126|레더컷
+p_village_127|마일즈의 티핀
+p_village_128|브레넌의 업적
+p_village_129|트로아
+p_village_130|록티치
+p_village_131|해머힐
+p_village_132|록스 파이크
+p_village_133|드월헤이븐
+p_village_134|노렐록
+p_village_135|암볼리안
+p_village_136|톨하울
+p_village_137|도살자 구덩이
+p_village_138|락킬
+p_village_139|레인즈 그리브
+p_village_140|아텍스
+p_village_141|볼린크
+p_village_142|바누크
+p_village_190|투란
+p_village_191|아닷
+p_village_192|케서
+p_salt_mine|양봉장
+p_four_ways_inn|사거리 여관
+p_test_scene|테스트 장면
+p_battlefields|전장
+p_dhorak_keep|도락 요새
+p_training_ground|훈련장
+p_training_ground_1|연습장
+p_training_ground_2|연습장
+p_training_ground_3|연습장
+p_training_ground_4|연습장
+p_training_ground_5|연습장
+p_steppe_bandit_spawn_point|대초원
+p_steppe_bandit_spawn_point_1|대초원
+p_taiga_bandit_spawn_point|동토
+p_taiga_bandit_spawn_point_1|동토
+p_taiga_bandit_spawn_point_2|동토
+p_forest_bandit_spawn_point|숲
+p_forest_bandit_spawn_point_1|숲
+p_mountain_bandit_spawn_point|고지대
+p_sea_raider_spawn_point_1|해안
+p_sea_raider_spawn_point_2|해안
+p_desert_bandit_spawn_point|사막
+p_rafklazan_sp|라프클라잔의 침략자들
+p_nibor_sp|니보르의 도적들
+p_foreigners_sp|외국인 sp
+p_assassin_sp|암살자 sp
+p_falki_sp|팔키 sp
+p_amazons_sp|아마존의 숲
+p_eagle_sp|독수리 sp
+p_eagle1_sp|독수리1 sp
+p_eagle2_sp|독수리2 sp
+p_demon_sp|악마 sp
+p_demon1_sp|악마1 sp
+p_demon2_sp|악마2 sp
+p_demonarmy_sp|악마 군대 sp
+p_eaglearmy_sp|독수리 군대 sp
+p_onishi_sp|신풍 전사들
+p_yachamoci_sp|신풍 전사들
+p_imperial_scout_sp|제국 정찰병 sp
+p_lymbard_sp|림버드
+p_desouk_sp|데소크 노예들
+p_wolf_sp|늑대 기사단
+p_wolfarmy_sp|늑대 기사단 전쟁 부대
+p_geldar_sp|겔다린 엘프들
+p_torlan_sp|톨라니아
+p_amara_sp|제국
+p_zengi_sp|드라하라
+p_culgrah_sp|믹카비아
+p_faradon_sp|엘린터
+p_baibars_sp|하콘
+p_zolona_sp|졸로나의 도적들
+p_ulfheonar_sp|볼헤르 광전사들
+p_rivermen_sp|호수
+p_legionscout_sp|군단 정찰대
+p_zeladeck_sp|젤라덱
+p_pioneer_sp|개척자
+p_pioneer_sp_1|개척자
+p_aruolo_sp|아로울리안
+p_aruolo_sp_1|아로울리안
+p_mosoru_sp_1|사막
+p_aruolo_backtory_sp|중간 아무곳
+p_outpost_1|전초 기지
+p_outpost_2|전초 기지
+p_fort|요새
+p_zann_outpost|잔 전초 기지
+p_castle_merc_guild|용병 조합
+p_freelancer_outpost|자유용병 전초 기지
+p_volheere_sp|볼헤르 sp
+p_third_legion_fort|제 3 군단 전초 기지
+p_grazir_shrine|그라지르의 성소
+p_parties_end|parties end

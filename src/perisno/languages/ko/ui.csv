@@ -1,0 +1,772 @@
+﻿
+ui_order_form_1_row|일렬 형성
+ui_form_1_row_e_|%s, 일렬 형성
+ui_order_form_2_row|이열 형성
+ui_form_2_row_e_|%s, 이열 형성
+ui_order_form_3_row|삼열 형성
+ui_form_3_row_e_|%s, 삼열 형성
+ui_order_form_4_row|사열 형성
+ui_form_4_row_e_|%s, 사열 형성
+ui_order_form_5_row|오열 형성
+ui_form_5_row_e_|%s, 오열 형성
+ui_order_button_fire_at_my_command|내 명령에 따라 발사하라
+ui_fire_at_my_command_e_|%s, 내 명령에 따라 발사하라
+ui_order_button_all_fire_now|모두, 발사하라
+ui_all_fire_now_e_|%s, 발사하라
+ui_order_button_left_fire_now|좌측열, 발사하라
+ui_left_fire_now_e_|%s, 좌측열, 발사하라
+ui_order_button_middle_fire_now|중간열, 발사하라
+ui_middle_fire_now_e_|%s, 중간열, 발사하라
+ui_order_button_right_fire_now|우측열, 발사하라
+ui_right_fire_now_e_|%s, 우측열, 발사하라
+ui_order_button_weapon_usage_orders|장비 명령
+ui_order_button_use_melee_weapons|근접 무기를 사용하라
+ui_use_melee_weapons_e_|%s, 근접 무기를 사용하라
+ui_order_button_use_ranged_weapons|원거리 무기를 사용하라
+ui_use_ranged_weapons_e_|%s, 원거리 무기를 사용하라
+ui_music_volume|음악 볼륨:
+ui_sound_volume|효과음 볼륨:
+ui_mouse_sensitivity|마우스 감도:
+ui_invert_mouse_y_axis|마우스 Y축 반전
+ui_enabled|확인
+ui_disabled|취소
+ui_damage_to_player|플레이어가 받는 데미지:
+ui_reduced_to_1_over_4_easiest|1/4 축소(가장 쉬움)
+ui_reduced_to_1_over_2_easy|1/2 축소(쉬움)
+ui_damage_to_friends|아군이 받는 데미지:
+ui_reduced_to_1_over_2_easiest|1/2 축소(가장 쉬움)
+ui_reduced_to_3_over_4_easy|3/4 축소(쉬움)
+ui_normal|중간
+ui_combat_ai|전투 인공지능:
+ui_combat_speed|전투 속도:
+ui_good|높음
+ui_average_caps|보통
+ui_poor|낮음
+ui_faster|빠름
+ui_slower|느림
+ui_control_block_direction|방어 방향 설정:
+ui_automatic_recommended|자동
+ui_manual_easy|수동 (쉬움)
+ui_manual_hard|수동 (어려움)
+ui_by_mouse_movement|마우스 움직임
+ui_control_attack_direction|공격 목표 설정:
+ui_lance_control|랜스 컨트롤:
+ui_by_relative_enemy_position|적의 위치에 따라
+ui_by_inverse_mouse_movement|마우스 움직임의 반대방향
+ui_battle_size|전투 규모:
+ui_show_attack_direction|공격 방향 보이기
+ui_show_targeting_reticule|목표 방향 보이기
+ui_show_names_of_friendly_troops|동행 부대 깃발 보이기
+ui_report_damage|피해 알림
+ui_report_shot_difficulty|원거리 명중 난이도 알림
+ui_difficulty_rating_percentage|난이도 = %d%%
+ui_controls|컨트롤
+ui_video_options|비디오 옵션
+ui_done|완료
+ui_factions|세력
+ui_item_itemname|아이템 - %s
+ui_prop_propname|소품 - %s
+ui_unknown_unknownname|불명 - %s
+ui_entry_point_entrypointname|참가 인원 %d
+ui_passage_menu_item_passagename|통과 (메뉴 아이템 %d)
+ui_plant_plantname|나무 - %s
+ui_export_file_for_character_playername_already_exists_overwrite_it|캐릭터 %s의 정보가 이미 존재합니다.
+ui_yes|네
+ui_no|아니오
+ui_set_save_file_name|저장 게임 제목 입력:
+ui_enter_new_name|새로운 이름 입력:
+ui_export_character|캐릭터 저장하기
+ui_import_character|캐릭터 불러오기
+ui_character_playername_exported_successfully|캐릭터 %s을(를) 저장했습니다.
+ui_character_playername_imported_successfully|캐릭터 %s을(를) 불러왔습니다.
+ui_unable_to_open_import_file|불러올 수 없습니다.
+ui_are_you_sure_you_want_to_import_the_character|캐릭터를 불러오시겠습니까?
+ui_unable_to_find_character_import_file|불러올 캐릭터 파일을 찾을 수 없습니다.
+ui_mount_and_blade_is_running_in_trial_mode_please_buy_the_game_for_importing_a_character|마운트앤블레이드가 체험판입니다. 캐릭터를 불러오기 위해 게임을 구매해 주십시오.
+ui_change_skin|피부
+ui_change_hair|머리
+ui_change_hair_color|머리 색상
+ui_change_beard|수염
+ui_tutorial|튜토리얼
+ui_tutorial_face_generator|버튼과 슬라이드를 이용해서 캐릭터의 얼굴을 조정하십시오.
+ui_restore|불러오기
+ui_cancel|취소
+ui_delete|삭제
+ui_confirm_delete_game|정말 이 게임을 삭제 하시겠습니까?
+ui_error_removing_file|파일 삭제 오류...
+ui_day_datedisplay|%d (%d:%d%d) 일
+ui_reset_changes|변경 초기화
+ui_weapon_proficiencies|숙련도
+ui_skills|기술
+ui_attributes|특성
+ui_enter_name_here|*여기에 이름을 입력하십시오.*
+ui_edit_face|얼굴을 바꾸려면 누르십시오.
+ui_statistics|통계
+ui_next|다음
+ui_prev|이전
+ui_learn|훈련
+ui_question_saving_policy|게임 저장 형식을 어떻게 하시겠습니까?
+ui_saving_policy_realistic|현실감 있게! 저장 없이는 종료할 수 없음!
+ui_saving_policy_nonrealistic|저장 없이도 종료할 수 있게 해주십시오.
+ui_tutorial_character_generation|이름을 입력하고, 점수를 분배하십시오.
+ui_str|근력
+ui_agi|민첩
+ui_int|지력
+ui_cha|매력
+ui_at_learning_limit|(분배 제한)
+ui_not_enough_skill_points_to_learn|(기술 점수가 부족합니다)
+ui_strength|근력
+ui_agility|민첩
+ui_intelligence|지력
+ui_charisma|매력
+ui_not_enough_attributetype_to_learn_this_skill|(이 기술을 배우기에는 %s 기술이 부족합니다.)
+ui_explanation_one_handed_weapon|한손검, 도끼, 둔기에 적용됩니다.
+ui_explanation_two_handed_weapon|양손검, 양손 도끼, 양손 둔기에 적용됩니다.
+ui_explanation_polearm|창, 기병창, 목봉 등에 적용됩니다.
+ui_explanation_archery|활에 적용됩니다.
+ui_explanation_crossbow|쇠뇌에 적용됩니다.
+ui_explanation_throwing|투창, 투척화살, 돌맹이 등에 적용됩니다.
+ui_explanation_firearms|피스톨과 머스켓에 적용됩니다.
+ui_explanation_strength|근력: 체력이 1씩 추가됩니다. 다음 기술은 근력의 1/2이상 올릴 수 없습니다.  [강철같은 몸, 강력한 일격, 던지는 힘, 당기는 힘, 그리고 재고 관리]  5 레벨마다 이와 같은 특성에 추가 할 수 있는 추가 점수가 생깁니다.
+ui_explanation_agility|민첩: 점수를 투자할 때마다 5의 무기 점수를 제공하고 이동 속도를 약간 증가시킵니다. 다음 기술은 민첩의 1/2이상 올릴 수 없습니다. [무기의 달인, 정탐, 육상, 승마, 길 찾기와 전리품 얻기] 5 레벨마다 이와 같은 특성에 추가 할 수 있는 추가 점수가 생깁니다.
+ui_explanation_intelligence|지능: 점수를 투자할 때마다 즉시 하나의 기술 점수를 제공합니다. 다음 기술은 지능의 1/2이상 올릴 수 없습니다. [훈련 교관, 추적, 전술, 상처 치료, 수술, 응급 처치, 공학, 항해술, 무기 보수] 5 레벨마다 이와 같은 특성에 추가 할 수 있는 추가 점수가 생깁니다.
+ui_explanation_charisma|매력: 대화, 유혹 및 다른 사람들이 당신을 어떻게 보는 지에 영향을 미칩니다. 매 점수마다 부대원 한도를 +1 올려줍니다. 다음 기술은 매력의 1/2이상 올릴 수 없습니다. [바다의 왕, 지도력, 포로 관리, 교역] 5 레벨마다 이와 같은 특성에 추가 할 수 있는 추가 점수가 생깁니다.
+ui_level|레벨: %d
+ui_xp|경험치: %d
+ui_next_level_at|다음 레벨에 필요한 경험치: %d
+ui_health_player|체력: %d/%d
+ui_health|체력: %d
+ui_attribute_points|특성 점수: %d
+ui_skill_points|기술 점수: %d
+ui_weapon_points|무기 점수: %d
+ui_mission_losses_none| 없음.
+ui_mission_losses_wounded|부상 :
+ui_mission_losses_killed|죽음 :
+ui_party_losses|%s  : %d 부상 --- %d이(가) %d에게 죽었습니다.
+ui_casualties_sustained|부상자:
+ui_advantage_change|유리함 변동치 = %c%d 
+ui_overall_battle_casualties|전반적인 전투 사상자:
+ui_advantage_outnumbered| 당신은 수적으로 떨어집니다.
+ui_advantage_major_disadvantage| 당신은 심각하게 불리합니다.
+ui_advantage_slight_disadvantage| 당신은 약간 불리합니다.
+ui_advantage_balanced| 막상막하의 상황 입니다.
+ui_advantage_fair_advantage| 당신은 약간 유리합니다.
+ui_advantage_greatly_favored| 완승을 할 것이라고 기대합니다.
+ui_tactical_advantage|전략적 유리함: %d (%s)
+ui_order_group|지휘 그룹:
+ui_question_save_changes|목적을 바꾸었습니다. 유지하시겠습니까?
+ui_yes_save|네, 유지합니다.
+ui_no_discard_changes|아니오, 바꾸지 않습니다.
+ui_everyone_control|전원!
+ui_everyone_around_control|근처의 병사들!
+ui_others_control|나머지!
+ui_question_give_up_fight|전투를 포기하시겠습니까?
+ui_give_up|포기
+ui_keep_fighting|전투 진행
+ui_question_leave_area|지역 떠나기
+ui_cant_retreat_there_are_enemies_nearby|후퇴할 수 없습니다. 적이 근처에 있습니다!
+ui_question_retreat_battle|후퇴하시겠습니까?
+ui_retreated_battle|%s이(가) 대패하였습니다.
+ui_retreated_battle|%s이(가) 전장에서 달아났습니다.
+ui_retreat|후퇴
+ui_talk|대화
+ui_duel|결투
+ui_mount|타기
+ui_riding_skill_not_adequate_to_mount|(승마 기술이 부족합니다)
+ui_dismount|내리기
+ui_exit|나가기
+ui_door_to|문열기
+ui_open|열기
+ui_equip|장비하기
+ui_baggage|가방
+ui_access_inventory|가방 열기
+ui_chest|상자
+ui_passage|통과
+ui_go|가기
+ui_retreat_battle|전투 후퇴
+ui_leave_area|지역 떠나기
+ui_reports|알림판
+ui_camp|야영지
+ui_terrain|지형
+ui_quests|기록
+ui_inventory|가방
+ui_character|인물
+ui_party|부대
+ui_paused|일시정지
+ui_click_left_button_to_cancel_wait|대기중... (마우스 왼쪽 클릭시 돌아옴)
+ui_midnight|심야
+ui_late_night|늦은 밤
+ui_dawn|새벽
+ui_early_morning|이른 아침
+ui_morning|아침
+ui_noon|정오
+ui_afternoon|오후
+ui_late_afternoon|늦은 오후
+ui_dusk|황혼
+ui_evening|저녁
+ui_midnight|심야
+ui_level_limit_reached|레벨 제한 도달!
+ui_explanation_level_limit|고객님, Mount&Blade가 아직 활성화 되지 않은 체험판 모드입니다. 이 모드에선 레벨8까지 밖에 할 수 없습니다. 계속 하고 싶으시다면, 16자의 시리얼 키를 입력하여 활성화 시켜주시길 바랍니다. 활성화 후, 게임을 다시 하실 수 있습니다. 이제, 마운트앤블레이드가 저장되고 종료됩니다.
+ui_time_limit_reached|시간 제한 도달!
+ui_explanation_time_limit|고객님, Mount&Blade가 아직 활성화 되지 않은 체험판 모드입니다. 이 모드는 게임을 30일동안만 할 수 있습니다. 계속 하고 싶으시다면, 16자의 시리얼 키를 입력하여 활성화 시켜주시길 바랍니다. 활성화 후, 게임을 다시 하실 수 있습니다. 이제, 마운트앤블레이드가 저장되고 종료됩니다.
+ui_target_lost|목표 놓침
+ui_waiting|정지
+ui_travelling_to|이동 중 
+ui_following|따라가는 중 
+ui_accompanying|동행 중 
+ui_running_from|회피 중 
+ui_patrolling|순찰 중
+ui_patrolling_around|주변 순찰 중 
+ui_holding|대기 중
+ui_travelling|이동 중
+ui_fighting_against|대응 중 
+ui_speed_equals|속도 = %2.1f
+ui_defenders|수비대:
+ui_prisoners|포로:
+ui_1_hour|1 시간
+ui_n_hours|%d 시간
+ui_between_hours|%d - %d 시간
+ui_combatants|전투부대: %d
+ui_party_size|부대 규모: %d
+ui_party_size_between|부대 규모: %d - %d
+ui_merchant|상인
+ui_return|되돌아감
+ui_no_cost|거래 없음
+ui_rename|이름 바꾸기
+ui_use|사용
+ui_destroy|파괴
+ui_destructible_target|파괴 가능한 목표
+ui_tutorial_inventory|이것은 거래 화면입니다. 컨트롤 키를 누른 채로 클릭하면 빠르게 사고 팔 수 있습니다.
+ui_head_armor|투구: %d
+ui_body_armor|흉갑: %d
+ui_leg_armor|족갑: %d
+ui_encumbrance|불편함: %2.1f
+ui_you_dont_have_value|%s을(를) 가지고 있지 않습니다.
+ui_merchant_cant_afford_value|%s: %s만큼이나 지불 할 수 없습니다. %s 뿐입니다.
+ui_merchant_pay_whatever|좋아요, 지불할 수 있는 만큼만 주십시오.
+ui_merchant_think_of_something_else|흠, 다른 방법을 생각해 봅시다.
+ui_dumping_value_items|%d 아이템이 영구히 사라지게 됩니다. 계속하시겠습니까?
+ui_dumping_value_item|하나의 아이템이 영구적으로 사라지게 됩니다. 계속하시겠습니까?
+ui_question_slaughter_food_and_eat|이 %s을(를) 도축하고 식량으로 만들겠습니까?
+ui_money_value|소지금: %s
+ui_dump|버리기
+ui_outfit|옷
+ui_arms|무기
+ui_horse|말
+ui_food|음식
+ui_reclaim_your_sold_goods|사기 전에 이미 매각한 상품을 찾아가시오!
+ui_return_your_bought_goods|팔기 전에 이미 구입한 상품을 돌려주시오!
+ui_polearm_no_shield|장병기 (방패착용 불가)
+ui_polearm|장병기
+ui_two_handed|양손
+ui_two_handed_one_handed|양손/한손
+ui_one_handed|한손
+ui_return_price|되팔기 가격: %d
+ui_sell_price|판매가: %d
+ui_reclaim_price|환불 금액: %d
+ui_buying_price|구매가: %d
+ui_default_item|기본 아이템
+ui_buying_price_free|구매가: 공짜
+ui_weight|무게: %2.1f
+ui_plus_value_to_head_armor|+%d 머리 방어력
+ui_plus_value_to_body_armor|+%d 몸통 방어력
+ui_plus_value_to_leg_armor|+%d 다리 방어력
+ui_swing|휘두르기: %d%s
+ui_damage|피해량: %d%s
+ui_thrust|찌르기: %d%s
+ui_accuracy|정확도: %d
+ui_speed_rating|공격 속도: %d 
+ui_value_to_damage|%c%d 의 피해
+ui_value_to_morale|+%1.1f 의 사기 증가
+ui_resistance|저항률: %d
+ui_size|크기: %d
+ui_weapon_reach|무기 길이: %d
+ui_armor|방어: %d
+ui_speed|속도: %d
+ui_maneuver|기동: %d
+ui_charge|돌격: %d
+ui_hit_points|체력: %d/%d
+ui_requires_value_difficulty|필요수치 %s: %d
+ui_bonus_against_shields|방패에 대한 보너스
+ui_cant_be_used_to_block|방어할 수 없음
+ui_troop_cant_use_item|%s: 이 아이템을 사용할 수 없습니다! 
+ui_notification_riding_skill_not_enough|이 말을 타기에는 기술이 부족합니다.
+ui_notification_requirements_not_met|이 무기를 사용하기 위한 필수 기술이 부족합니다.
+ui_notification_payment_value|당신은 %s을 지불해야 합니다.
+ui_notification_payment_receive_value|당신은 %s을 받습니다. 
+ui_one_handed_weapons|한손무기
+ui_two_handed_weapons|양손무기
+ui_polearms|장병기
+ui_archery|활
+ui_crossbows|쇠뇌
+ui_throwing|투척
+ui_firearms|화기
+ui_reset|초기화
+ui_release_one|풀어주기
+ui_move_up|올리기
+ui_move_down|내리기
+ui_upgrade_one|승급
+ui_party_skills|부대 기술
+ui_morale|사기: %s
+ui_terrible|끔찍함
+ui_very_low|매우 낮음
+ui_low|낮음
+ui_below_average|평균 이하
+ui_average|보통
+ui_above_average|평균 이상
+ui_high|높음
+ui_very_high|매우 높음
+ui_excellent|훌륭함
+ui_starving|굶고있음! %d%%
+ui_weekly_cost_value|주간 유지비: %s
+ui_company|부대: %d / %d
+ui_prisoners_equal_value|포로: %d / %d
+ui_choose_prisoners|포로 선택
+ui_choose_companions|동료 선택
+ui_rescued_prisoners|구출된 포로 
+ui_captured_enemies|포획한 적군
+ui_disband|해산
+ui_take_prisoner|포로 포획 
+ui_take_back|되찾음
+ui_give|주기
+ui_take|받기
+ui_sell|팔기
+ui_hire|고용
+ui_notification_cant_hire|(돈이 부족하여 고용할 수 없습니다.)
+ui_uncapture|석방
+ui_capture|포획
+ui_party_capcity_reached|(수용 인원이 한계에 이르렀습니다.)
+ui_all| 모두
+ui_joining_cost_weekly_wage|합류 비용: %d, 주간 유지비: %d
+ui_weekly_wage|주간 유지비: %d 오럼
+ui_price|가격: %d
+ui_number_ready_to_upgrade|%d명의 승급이 준비되었습니다.
+ui_upgrade_to_value|%s (으)로 승급 (%d 페닝가)
+ui_notification_no_slot_for_upgrade|%s을(를) 승급할 자리가 없습니다! 
+ui_shield_broken|방패가 부서짐.
+ui_shield_cracked|방패에 금이감.
+ui_shield_deformed|방패가 망가짐.
+ui_you_hit_a_friendly_troop|아군을 공격하고 있습니다!
+ui_hit_shield_on_back|등에 맨 방패가 적의 공격을 방어했습니다!
+ui_delivered_couched_lance_damage|기병창 돌격 피해!
+ui_received_couched_lance_damage|당신은 기병창에 타격 당했습니다!
+ui_speed_bonus_plus|가속도 보너스: +%d%%
+ui_speed_bonus|가속도 보너스: %d%%
+ui_cant_reload_this_weapon_on_horseback|이 무기는 말 위에서 장전 할 수 없습니다.
+ui_no_more_bolts|쇠뇌 화살이 없습니다.
+ui_you_are_not_carrying_any_bolts|더 이상 쇠뇌 화살이 없습니다.
+ui_no_more_arrows|화살이 없습니다.
+ui_you_are_not_carrying_any_arrows|더 이상 화살이 없습니다.
+ui_head_shot|헤드샷!
+ui_delivered_number_damage|%d의 피해를 입혔습니다.
+ui_delivered_number_damage_to_horse|말에게 %d의 피해를 입혔습니다.
+ui_horse_charged_for_number_damage|말이 돌격하여 %d의 피해를 입혔습니다.
+ui_received_number_damage|%d의 피해를 입었습니다.
+ui_horse_received_number_damage|말이 %d의 피해를 입었습니다.
+ui_value_killed_teammate|%s이(가) 아군을 죽였습니다!
+ui_horse_fell_dead|말이 죽었습니다.
+ui_horse_crippled|말이 쓰러졌습니다.
+ui_shot_difficulty|적중 난이도: %2.1f
+ui_you_have_improved_your_proficiency_in_value_to_number|%s의 숙련도가 %d로 증가했습니다.
+ui_your_proficiency_in_value_has_improved_by_number_to_number|%s의 숙련도가 +%d에서 %d만큼 증가했습니다.
+ui_value_killed_by_value|%s이(가) %s에 의해 죽었습니다.
+ui_value_fell_dead|%s은(는) 낙사하였습니다.
+ui_value_knocked_unconscious_by_value|%s은(는) %s에 의해 의식을 잃었습니다.
+ui_value_fell_unconscious|%s은(는) 떨어져 의식을 잃었습니다.
+ui_troop_routed|%s은(는) 완패 당했습니다.
+ui_troop_panicked|%s은(는) 공황에 빠졌습니다.
+ui_troop_fled|%s은(는) 전장에서 도망갔습니다.
+ui_you_got_number_experience|당신은 %d의 경험치를 얻었습니다.
+ui_you_have_advanced_to_level_number|당신의 레벨이 %d로 올랐습니다.
+ui_value_has_advanced_to_level_number|%s의 레벨이 %d로 올랐습니다.
+ui_you_got_value|당신은 %s를 얻었습니다.
+ui_new_quest_taken|새로운 임무를 받았습니다: %s.
+ui_quest_completed_value|임무 달성: %s.
+ui_quest_succeeded_value|임무 완료!: %s.
+ui_quest_failed_value|임무 실패: %s.
+ui_quest_concluded_value|임무 종료: %s.
+ui_quest_cancelled_value|임무 취소: %s.
+ui_lost_value| (손실: %s) 
+ui_items_lost| (아이템을 잃음:
+ui_party_has_nothing_to_eat|부대가 아무것도 먹지 못하고 있습니다!
+ui_days_training_is_complete|하루의 훈련이 끝났습니다...
+ui_total_experience_gained_through_training_number|훈련으로 얻어진 경험치: %d
+ui_some_soldiers_are_ready_to_upgrade|몇 명의 병사가 승급 준비를 끝냈습니다.
+ui_number_of_companions_exceeds_leadership_limit| 부대의 수가 제한 수치를 넘었습니다.
+ui_number_of_prisoners_exceeds_prisoner_management_limit| 포로의 수가 포로 관리 제한을 넘었습니다.
+ui_party_morale_is_low| 부대의 사기가 낮습니다! 
+ui_and_one_space| 그리고
+ui_has_deserted_the_party| 이(가) 부대를 떠났습니다.
+ui_have_deserted_the_party| 이(가) 부대를 떠났습니다.
+ui_weekly_report|주간 보고
+ui_shared_number_experience_within_party|부대와 %d만큼의 경험치를 얻었습니다.
+ui_got_item_value|아이템 획득: %s.
+ui_game_saved_successfully|게임 저장 완료.
+ui_autosaving|자동 저장 중...
+ui_quick_saving|빠른 저장 중...
+ui_cant_quick_save|전투 중에는 빠른 저장이 불가합니다...
+ui_screenshot_taken_to_value|스크린샷 %s에 저장.
+ui_screenshot_failed|스크린샷을 저장할 수 없습니다.
+ui_value_joined_your_party|%s이(가) 부대에 합류했습니다.
+ui_value_joined_party_as_prisoner|%s이(가) 포로로 부대에 합류했습니다.
+ui_value_has_joined_party|%s이(가) 부대에 합류했습니다.
+ui_value_has_been_taken_prisoner|%s이(가) 포로로 잡혔습니다.
+ui_value_left_the_party|%s이(가) 부대를 떠났습니다.
+ui_number_values_left_the_party|%d %s명이 부대를 떠났습니다.
+ui_number_value_left_the_party|%d %s명이 부대를 떠났습니다.
+ui_your_relations_with_value_has_improved_from_number_to_number|%s의 관계가 %d에서 %d(으)로 호전되었습니다.
+ui_your_relations_with_value_has_deteriorated_from_number_to_number|%s의 관계가 %d에서 %d(으)로 악화되었습니다.
+ui_you_lost_value|%s을(를) 잃었습니다.
+ui_lost_item_value|아이템 손실: %s
+ui_got_number_value|%d개의 %s을(를) 얻었습니다.
+ui_lost_number_value|%d개의 %s을(를) 잃었습니다.
+ui_set_default_keys|기본 키 설정
+ui_undo_changes|이전으로 바꿈
+ui_press_a_key|키를 누르세요
+ui_return_to_game|게임으로 돌아가기
+ui_options|옵션
+ui_save_and_exit|저장 후 종료
+ui_save|저장
+ui_save_as|다른 이름으로 저장
+ui_quit_without_saving|저장하지 않고 종료
+ui_empty_slot|빈 슬롯
+ui_game_saved|게임이 저장되었습니다.
+ui_confirm_overwrite|게임이 %s에 덮어 씌워질 것입니다. 계속 하시겠습니까?
+ui_dynamic_lighting|동적 광원 효과
+ui_character_shadows|캐릭터 그림자
+ui_grass_density|풀의 밀도:
+ui_environment_shadows|주변 그림자
+ui_realistic_shadows_on_plants|나무 그림자:
+ui_particle_systems|먼지 효과
+ui_gamma|모니터 감마:
+ui_character_detail|캐릭터 디테일:
+ui_character_shadow_detail|캐릭터 그림자 디테일:
+ui_blood_stains|피 효과:
+ui_on|켜기
+ui_off|끄기
+ui_near_player_only|주변 플레이어만
+ui_default|기본
+ui_3d_grass|3D 잔디효과:
+ui_number_of_ragdolls|래그돌 수:
+ui_number_of_corpses|시체 수:
+ui_unlimited|무제한
+ui_anisotropic_filtering|이방성 필터링
+ui_fast_water_reflection|빠른 물 반사 효과
+ui_maximum_framerate|최대 프레임 수:
+ui_show_framerate|프레임 보이기:
+ui_estimated_performance|성능: %d%%
+ui_change_graphics_settings_explanation|새로운 지역에 들어갈 때 변화들이 효과를 낼 것입니다.
+ui_start_tutorial|튜토리얼 시작
+ui_start_a_new_game|페리스노 시작
+ui_restore_a_saved_game|게임 불러오기
+ui_exit_to_windows|나가기
+ui_credits|제작진
+ui_version_value|버전: %s
+ui_active_quests|임무 활성화
+ui_finished_quests|임무 종료
+ui_given_on_date|받은 날짜: %s
+ui_days_since_given|받은 후 경과일: %d
+ui_quest_progression_number|임무 진행: %d%%
+ui_too_many_quests|임무가 너무 많습니다.
+ui_ok|확인
+ui_move_forward|앞으로 이동
+ui_move_backward|뒤로 이동
+ui_move_left|왼쪽으로 이동
+ui_move_right|오른쪽으로 이동
+ui_action|동작
+ui_jump|점프
+ui_attack|공격
+ui_parry_then_attack|카운터 어택
+ui_defend|방어
+ui_kick|발차기
+ui_equip_weapon_1|장착 아이템 1
+ui_equip_weapon_2|장착 아이템 2
+ui_equip_weapon_3|장착 아이템 3
+ui_equip_weapon_4|장착 아이템 4
+ui_equip_next_weapon|다음 무기 장착
+ui_equip_next_shield|다음 방패 장착
+ui_sheath_weapon|무기 넣기
+ui_character_window|인물 화면
+ui_inventory_window|가방 화면
+ui_party_window|부대 화면
+ui_quests_window|임무 화면
+ui_game_log_window|게임 기록 화면
+ui_leave_location_retreat|떠나기/후퇴
+ui_zoom|확대
+ui_view_outfit|장비 보기
+ui_toggle_first_person_view|1인칭 시점 전환
+ui_view_orders|명령 보기
+ui_quick_save|빠른 저장
+ui_no_key_assigned|키가 지정되지 않음
+ui_new_enemies_have_arrived|새로운 적이 나타났습니다.
+ui_reinforcements_have_arrived|우리의 지원군이 도착했습니다.
+ui_report_casualties|사상자 보고
+ui_report_experience|경험치 보고
+ui_current_level_value|현재 레벨: %d
+ui_base_attribute_value|기본 특성: %s
+ui_battle_controls|전투 설정
+ui_map_controls|맵 설정
+ui_general_controls|공통 설정
+ui_zoom_in|줌 인
+ui_zoom_out|줌 아웃
+ui_wait|대기
+ui_take_screenshot|스크린샷
+ui_randomize|임의로
+ui_hint|힌트
+ui_press_left_mouse_button_to_continue|계속하려면 왼쪽 마우스 버튼을 누르십시오...
+ui_loot|전리품
+ui_chest|상자
+ui_cut_short| 베기
+ui_pierce_short| 관통
+ui_blunt_short| 충격
+ui_battle|전투
+ui_siege|공성
+ui_troops|병사:
+ui_loading_module_info_file|모듈 정보 파일 불러오는 중...
+ui_processing_ini_file|INI 파일 처리 중...
+ui_loading_music|음악 불러오는 중...
+ui_loading_data|데이터 불러오는 중...
+ui_loading_setting_data|설정 데이터 불러오는 중...
+ui_loading_textures|텍스쳐 불러오는 중...
+ui_finished|마침
+ui_creating_game|게임 만드는 중...
+ui_loading_savegame_file|저장된 게임 불러오는 중...
+ui_loading_map_file|페리스노 맵 불러오는 중...
+ui_initializing_map|페리스노 맵 설정 중...
+ui_launching_game|페리스노 시작 중...
+ui_capital_battle|전투:
+ui_capital_versus|--대--
+ui_tracks|흔적
+ui_battleground|전투 지역
+ui_order_1|명령1 선택
+ui_order_2|명령2 선택
+ui_order_3|명령3 선택
+ui_order_4|명령4 선택
+ui_order_5|명령5 선택
+ui_order_6|명령6 선택
+ui_order_button_hold_this_position|대형 유지
+ui_order_button_follow_me|뒤따르기
+ui_order_button_charge|돌격
+ui_order_button_stand_ground|땅에 서기
+ui_order_button_retreat|후퇴
+ui_order_button_advance|10보 전진
+ui_order_button_fall_back|10보 뒤로
+ui_order_button_spread_out|산개 대형
+ui_order_button_stand_closer|밀집 대형
+ui_order_button_mount_horses|말 타기
+ui_order_button_dismount|말 내리기
+ui_order_button_hold_fire|사격 중지
+ui_order_button_fire_at_will|자유롭게 사격
+ui_order_button_use_blunt_weapons|둔기 장착
+ui_order_button_use_any_weapon|모든 무기 허가
+ui_order_button_movement_orders|이동 명령
+ui_order_button_formation_orders|대형 명령
+ui_order_button_fire_orders|사격 명령
+ui_follow_me_e_|%s, 따라와!
+ui_charge_e_|%s, 돌격!!!
+ui_stand_ground_e_|%s, 땅 위에 서!
+ui_retreat_e_|%s, 퇴각하라!
+ui_mount_horses_e_|%s, 말에 타라!
+ui_dismount_e_|%s, 말에서 내려!
+ui_advance_e_|%s, 10보 전진!
+ui_fall_back_e_|%s, 10보 뒤로!
+ui_stand_closer_e_|%s, 간격을 좁혀라!
+ui_spread_out_e_|%s, 간격을 넓혀라!
+ui_use_blunt_weapons_e_|%s, 오직 둔기만 써라!
+ui_use_any_weapon_e_|%s, 모든 무기를 써도 좋다!
+ui_hold_fire_e_|%s, 사격 중지!
+ui_fire_at_will_e_|%s, 자유롭게 사격!
+ui_hold_this_position_e_|%s, 대형 유지!
+ui_infantry|보병
+ui_archers|궁병
+ui_cavalry|기병
+ui_companions|동료
+ui_everyone_hear_me|모두 주목!
+ui_everyone|모두
+ui_everyone_around_me|근처의 병사들
+ui_str_hear_me|%s, 주목!
+ui_str_and_str|%s 와 %s
+ui_str_comma_str|%s, %s
+ui_need_to_learn_prisoner_management|더 많은 포로를 데리고 다니려면 포로 관리 기술을 올리십시오.
+ui_game_log|게임 기록
+ui_recent_messages|최근 소식
+ui_custom_battle|커스텀 전투
+ui_player|플레이어
+ui_value_denars|%d 오럼
+ui_back|뒤로
+ui_forward|앞으로
+ui_display_on_map|맵 보기
+ui_info_pages|페리스노 개념
+ui_troops2|인물
+ui_locations|장소
+ui_click_button_to_view_note|기록을 보시려면 링크를 클릭하십시오.
+ui_this_page_contains_no_information|이 페이지는 정보가 없습니다.
+ui_other_pages_that_link_here|다른 페이지의 링크: 
+ui_report_is_value_days_old| (%d일 된 보고입니다)
+ui_report_is_current| (최근의 보고입니다)
+ui_button_party_member_healthy_total|%s (%d/%d)
+ui_button_party_member_total|%s (%d)
+ui_button_party_member_hero_percentage_wounded|%s (%d%% - 부상)
+ui_button_party_member_hero_percentage|%s (%d%%)
+ui_percentage_value|%d%%
+ui_full|꽉 참
+ui_quick|빠르게
+ui_none|없음
+ui_change|바꿈
+ui_how_to_change|어떻게 바꾸시겠습니까?
+ui_change_directx_explanation|게임을 시작했을 때 런치 화면과 옵션 상의 슬라이드를 이용해 Direct x9와 Direct x7을 변경할 수 있습니다.
+ui_dropping_picking_up|%s을(를) 버리고 %s을(를) 주웠습니다.
+ui_dropping|%s을(를) 버렸습니다.
+ui_picking_up|%s을(를) 주웠습니다.
+ui_unable_to_take|가질 수 없습니다.
+ui_age|나이
+ui_cannot_be_used_on_horseback|말 위에서 사용불가
+ui_enable_vertex_shaders2|표현 방법:
+ui_screen_size2|화면 설정:
+ui_use_desktop_resolution2|바탕화면 설정 사용
+ui_shadow_quality2|그림자 퀄리티:
+ui_m_low2|낮음
+ui_m_high2|높음
+ui_m_ultra_high2|매우 높음
+ui_off2|끄기
+ui_group_header|부대 그룹 지정
+ui_group_rename|그룹 이름 바꾸기
+ui_group_1|보병
+ui_group_2|궁병
+ui_group_3|기병
+ui_group_4|기마 궁병
+ui_group_5|동료들
+ui_group_6|방어대
+ui_group_7|무명 1
+ui_group_8|무명 2
+ui_group_9|무명 3
+ui_group_rename|집단 이름 바꾸기
+ui_group_close|닫기
+ui_party_b_group_information|%s은(는) %s에 속해있습니다.
+ui_thrown_or_s|투척력/%s
+ui_ranged_damage|사거리: %d%s
+ui_overall_quality|전체적 퀄리티
+ui_shader_quality|쉐이더 퀄리티:
+ui_flora_lod_detail|나무 디테일:
+ui_flora_degrade_distance|나무 흐리게:
+ui_antialiasing|안티얼라이싱:
+ui_use_depth_effects|깊이 효과 사용
+ui_hdr_mode|HDR 모드:
+ui_autoexpore|자동 노출
+ui_choose_profile|프로필 선택
+ui_create|만들기
+ui_edit|설정
+ui_join_game|게임 참여
+ui_host_game|방 만들기
+ui_custom|임의의
+ui_medium|중간
+ui_male|남성
+ui_female|여성
+ui_gender|성별 선택:
+ui_edit_profile|프로필 설정
+ui_new_profile|새 프로필
+ui_enter_username|사용자 이름:
+ui_invalid_username|사용자 이름은 오직 문자와 숫자 또는 _ - * [ ] ~ 만이 가능합니다.
+ui_confirmation|계속 하시겠습니까?
+ui_multiplayer|여럿이 하기
+ui_server_name|서버
+ui_module_name|모듈
+ui_game_type|게임 타입
+ui_map_name|맵
+ui_ping|핑
+ui_dedicated|전용
+ui_number_of_players|사용자
+ui_password_protected|비밀번호
+ui_connect|연결
+ui_local_area_network|LAN 게임
+ui_internet|인터넷
+ui_favorites|즐겨 찾기
+ui_source|소스:
+ui_server_password|서버 비밀번호:
+ui_refresh|새로고침
+ui_start_search|탐색 시작
+ui_add_to_favorites|즐겨찾기 추가
+ui_remove_from_favorites|즐겨찾기 삭제
+ui_use_speedtree|스피드트리 엔진 사용
+ui_use_instancing|인스턴싱 효과 사용
+ui_error|오류
+ui_error_server_full|서버가 꽉 찼습니다.
+ui_error_server_full_for_non_private|서버가 전용 플레이어가 아닌 플레이어로 가득 찼습니다.
+ui_error_server_password_incorrect|비밀번호가 틀렸습니다.
+ui_error_incorrect_serial|시리얼키가 틀렸습니다.
+ui_error_incorrect_authorization_key|허가 키가 틀렸습니다.
+ui_error_banned_from_server|당신은 이 서버에서 영구퇴장 당하셨습니다.
+ui_error_username_taken|당신의 프로필 이름이 이미 쓰이고 있습니다.
+ui_error_authentication_failed|인증 실패.
+ui_unable_to_connect_to_server|서버와 연결 종료.
+ui_connection_to_server_is_lost|서버와의 연결이 끊어졌습니다.
+ui_kicked_from_server|서버에서 강제퇴장 당하셨습니다.
+ui_switch_to_module_question|이 서버는 당신이 현재 실행중인 모듈과 다른 모듈로 실행되고 있습니다. 당신은 마운트앤블레이드를 이 모듈로 바꾸시길 원하십니까?
+ui_download_module_question|이 서버는 당신의 컴퓨터에 설치되지 않은 모듈로 실행되고 있습니다. 당신은 지금 이 모듈을 다운받을 수 있는 사이트를 방문 하시겠습니까?
+ui_download_mb_new_version_question|이 서버는 %d.%d%d%d 버전으로 구동되고 있습니다. 사용자의 버전은 %d.%d%d%d으로 하위 버전입니다. 지금 TaleWorlds에 방문하여 다운로드 하시겠습니까?
+ui_download_mb_old_version_question|이 서버는 %d.%d%d%d 버전으로 구동되고 있습니다. 사용자의 버전은 %d.%d%d%d으로 상위 버전입니다.
+ui_download_module_new_version_question|이 서버는 당신이 구동중인 %d.%d%d%d 버전보다 새로운 %d.%d%d%d 버전으로 구동되고 있습니다. 이 모듈을 받기 위해 다운로드 사이트에 지금 방문하시겠습니까?
+ui_download_module_old_version_question|이 서버는 당신이 구동중인 %d.%d%d%d 버전보다 오래된 %d.%d%d%d 버전으로 구동되고 있습니다.
+ui_authenticating_with_steam|스팀 인증 중...
+ui_validating_serial_number|시디키 인증 중...
+ui_scanning_lan|LAN 서버 찾는 중...
+ui_retrieving_servers|서버 리스트 재탐색 중...
+ui_shield_size2|크기: %dx%d
+ui_click_to_view_notes|노트를 보려면 클릭하십시오.
+ui_retrieving_server_infos|서버 정보 재탐색 중 (%d)...
+ui_connecting_to_server|서버에 연결 중...
+ui_requesting_to_join_the_game|재접속 중...
+ui_loading|불러오는 중...
+ui_group_value_control|그룹 %d!
+ui_drop_weapon|무기 버리기
+ui_multiplayer_message_all|모두에게 말하기
+ui_multiplayer_message_team|팀에게 말하기
+ui_command_line|명령 행
+ui_use_ranged_weapon_as_melee|무기 모드 전환
+ui_send_message_all|모두에게 말하기
+ui_send_message_team|팀에게 말하기
+ui_select|선택
+ui_context_menu|상황 메뉴
+ui_round_starts_in_value_seconds|%d초 안에 시작합니다...
+ui_watching_value|%s의 화면
+ui_capital_spec|관중
+ui_capital_dead|사망
+ui_instancing_error1|Could not lock Instance Buffer (size: %d), Disabled mesh-instancing (Error Code: %d)
+ui_instancing_error2|Could not fit instanced objects, Disabled mesh-instancing
+ui_by_keyboard|이동키로 조작
+ui_combat_speed_slowest|가장 느림
+ui_combat_speed_slower|느림
+ui_combat_speed_normal|보통
+ui_combat_speed_faster|빠름
+ui_combat_speed_fastest|가장 빠름
+ui_module_newer_than_application|당신이 선택한 모듈은 새 버전이 필요합니다.
+ui_module_older_than_application|당신이 선택한 모듈은 지난 버전이 필요합니다.
+ui_unbalanced|불균형함
+ui_can_crush_through_blocks|방어를 부수고 공격
+ui_turn_camera_with_horse|1인칭 시점으로 승마시 카메라 회전 설정
+ui_widescreen_mode_on|멀티 스크린 모드 가능
+ui_widescreen_mode_off|멀티 스크린 모드 불가능
+ui_notification_cant_upgrade|(승급 불가: 돈이 부족함)
+ui_turn_never|사용 안함
+ui_turn_ranged_only|원거리 전용
+ui_turn_melee_only|근접 전용
+ui_turn_always|항상 사용
+ui_general_options|기본 설정
+ui_vac_enabled|밸브 안티 치트 허용
+ui_campaign_ai|군사작전 인공지능:
+ui_downloading_map|맵 다운로드 중 (%d KB)
+ui_download_completed|다운로드 완료.
+ui_server_filter|서버 필터
+ui_has_players|플레이어 있음
+ui_is_not_full|꽉차지 않은 서버
+ui_is_password_free|비밀번호 없음
+ui_native_only|Native만
+ui_ping_limit|핑 한계
+ui_filter_info|%d개의 서버와 %d명의 플레이어들이 필터되었습니다.
+ui_is_version_compatible|버전과 호환되는 서버
+ui_ttnet_account|TTnet 계정
+ui_username|사용자 이름
+ui_password|비밀번호
+ui_error_incorrect_username_or_password|사용자 이름이나 비밀번호가 일치하지 않습니다.
+ui_validating_account|계정 인증 중...
+ui_plase_enter_your_serial_key|시리얼 키를 입력해 주십시오.

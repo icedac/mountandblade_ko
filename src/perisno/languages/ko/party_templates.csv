@@ -1,0 +1,309 @@
+﻿pt_none|none
+pt_rescued_prisoners|구조된 포로
+pt_enemy|적
+pt_hero_party|영웅 부대
+pt_village_defenders|마을 수비대
+pt_cattle_herd|가축 무리
+pt_looters|무법자들
+pt_perisno_pilgrims|페리스노 순례자들
+pt_scholars|학자들
+pt_manhunters|영광을 추구하는 사람들
+pt_steppe_bandits|삭카 약탈자들
+pt_taiga_bandits|설적단
+pt_desert_bandits|사적단
+pt_forest_bandits|불법을 저지른 범죄자들
+pt_mountain_bandits|도망친 포로들
+pt_sea_raiders|볼헤르 침략자들
+pt_imperial_scout|제국 정찰대
+pt_crusader_knights|거룩한 십자군
+pt_aethling_lords|신성한 아슬링들
+pt_rafklazan|왕 라프클라잔
+pt_nibor|니보르 후드
+pt_nibor_bandits|니보르의 도적단
+pt_foreigners|외국의 침략자들
+pt_cult_assassins|랄'다이운 암살단
+pt_hakkon_inquisitors|하콘 종교 재판관들
+pt_falki|일리카 팔키
+pt_amazons|앙카스 유혹자들
+pt_eagle_brotherhood|독수리 기사단
+pt_eagle_brotherhood1|독수리 기사단
+pt_eagle_brotherhood2|독수리 기사단
+pt_demon_worshippers|악마 숭배자들
+pt_demon_worshippers1|악마 숭배자들
+pt_demon_worshippers2|악마 숭배자들
+pt_demonarmy|악마 군대
+pt_eaglearmy|독수리 전쟁 부대
+pt_zolona|졸로나
+pt_ulfheonar|우르프헤오나르
+pt_zeladeck|선택받은 자 젤라덱
+pt_lymbard|림바르디안 기사단
+pt_desouk|데소크 노예들
+pt_rivermen|강의 주민
+pt_femmercenaries|무법 여성 용병단
+pt_mercenaries|무법 용병단
+pt_wolf_knights|늑대 기사단
+pt_wolfarmy|늑대 기사단 전쟁 부대
+pt_firstlegion|제 3 군단
+pt_legionscout|제 3 군단 정찰대
+pt_legionpatrol|제 3 군단 순찰대
+pt_geldar_scouts|겔다린 정찰대
+pt_geldar_infantry|겔다린 보병 연대
+pt_geldar_warparty|겔다린 전쟁 부대
+pt_geldar_rangers|겔다린 정예 순찰대
+pt_geldar_army|겔다린 군대
+pt_valahir_people|발라히르 사람들
+pt_onishi|오니시
+pt_yachamoci|장군 야차모치
+pt_torlan|톨란 킹스맨 정예부대
+pt_amara|고위 용의 사제들
+pt_zengi|드라하라 코끼리 용병단
+pt_culgrah|신성한 아슬링 정예부대
+pt_eli_elite|엘린토란 정예부대
+pt_baibars|하콘 고위 종교 재판관
+pt_voldeburg_caravan|볼데부르크 대상
+pt_local_lord|지방 제국 영주
+pt_gunnarr|군나르
+pt_dpriests|용의 사제들
+pt_mercs_pary_1|용병단
+pt_mercs_pary_2|진 용병단
+pt_mercs_pary_3|수도 전사단
+pt_mercs_pary_4|수녀 전사단
+pt_mercs_pary_5|노다흐 용병단
+pt_mercs_pary_6|시드햇혼 용병단
+pt_mercs_pary_7|레무스 경비단
+pt_mercs_pary_8|하콘 동방 회사
+pt_mercs_pary_9|아슬링 필리버스터 수행단
+pt_mercs_pary_10|십자군 용병단
+pt_mercs_pary_11|약탈단
+pt_mercs_pary_12|자유용병 기병대
+pt_deserters|탈영병
+pt_merchant_caravan|상인 대상
+pt_troublesome_bandits|귀찮은 도적들
+pt_bandits_awaiting_ransom|몸값을 기다리는 도적들
+pt_kidnapped_girl|납치된 소녀
+pt_village_farmers|마을 농부들
+pt_spy_partners|평범한 여행자
+pt_unrem_travellers|평범한 여행자
+pt_runaway_serfs|도망친 농노들
+pt_spy|평범한 도시민
+pt_sacrificed_messenger|희생된 전령
+pt_forager_party|수렵 채집 부대
+pt_scout_party|정찰대
+pt_patrol_party|순찰대
+pt_mercenary_patrol|용병 순찰대
+pt_minor_nobles|하급 귀족들
+pt_messenger_party|전령
+pt_raider_party|침략자들
+pt_raider_captives|침략자의 포로들
+pt_kingdom_caravan_party|대상
+pt_prisoner_train_party|포로 운송대
+pt_default_prisoners|Default Prisoners
+pt_routed_warriors|패주병들
+pt_deer_herd|사슴 무리
+pt_boar_herd|멧돼지 무리
+pt_wolf_herd|늑대 무리
+pt_coat_herd|염소 무리
+pt_coatb_herd|염소 무리
+pt_wilddonkey_herd|야생 당나귀 무리
+pt_center_reinforcements|지원군
+pt_kingdom_hero_party|전쟁 부대
+pt_steppe_bandit_lair|사카르 야영지
+pt_taiga_bandit_lair|설원 동굴
+pt_desert_bandit_lair|모래를 걷는 자들의 굴
+pt_forest_bandit_lair|불법 야영지
+pt_mountain_bandit_lair|노예들의 거주지
+pt_sea_raider_lair|볼헤르 상륙지
+pt_looter_lair|납치범의 은신처
+pt_leaded_looters|강도단
+pt_dplmc_spouse|당신의 배우자
+pt_dplmc_gift_caravan|당신의 대상
+pt_dplmc_recruiter|신병 모집관
+pt_volheere|볼헤르 침략자들
+pt_rogue_bandits|못난 도적들
+pt_zanns|고위 잔 정찰 부대
+pt_volheerec|볼헤르 니사이니안 정찰 부대
+pt_mhs|도적 파괴자들
+pt_res|너덜너덜한 도망자들
+pt_facdeserters|위험한 탈영병
+pt_slave_rebellion|노예 반란군
+pt_freerogues|자유용병 악당들
+pt_elites_fac1|톨라니안 변절자들
+pt_elites_fac3|드라하란 반란군
+pt_elites_fac4|믹카비안 새로운 신들의 반란군
+pt_elites_fac6|하콘 제 3 외인부대 반군
+pt_elites_fac9|허스칼 반란군
+pt_secretarians|종파 용의 사제들
+pt_infidels|이교도
+pt_disbelievers|불신자들
+pt_zann_vanguard|잔 선봉대
+pt_dangerous_escapees|위험한 도망자들
+pt_marauding_bandits|약탈을 일삼는 도적들
+pt_demon_heretics|악마 숭배자들
+pt_tolranian_prisoner_train|톨라니안 포로 운송대
+pt_reich_prisoner_train|용의 제국 포로 운송대
+pt_drahara_prisoner_train|드라하란 포로 운송대
+pt_tolranian_patrol|톨라니안 순찰대
+pt_reich_patrol|용의 제국 순찰대
+pt_draharan_patrol|드라하라 순찰대
+pt_maccavian_patrol|믹카비안 순찰대
+pt_elintor_patrol|엘린터란 순찰대
+pt_hakkon_patrol|하콘 순찰대
+pt_perisno_patrol|페리스노 순찰대
+pt_falcon_patrol|팔콘 렐름의 순찰대
+pt_valahir_patrol|발라히르 순찰대
+pt_kaikoth_patrol|카이코스 연합 순찰대
+pt_geldar_patrol|겔다르 순찰대
+pt_cretas_patrol|크레토산 순찰대
+pt_kuulan_patrol|쿠우-란 순찰대
+pt_bakhal_patrol|바칼 순찰대
+pt_sut_patrol|수트 순찰대
+pt_aroulo_patrol|아로우로 순찰대
+pt_zann_patrol|잔 순찰대
+pt_minor_nobles_1|톨라니안 하급 귀족들
+pt_minor_nobles_2|용의 제국 하급 귀족들
+pt_minor_nobles_3|드라하란 낙타 기수들
+pt_minor_nobles_4|믹카비안 강철 기사단
+pt_minor_nobles_4_1|믹카비안 흑기사단
+pt_minor_nobles_5|엘린터란 하급 귀족들
+pt_minor_nobles_6|하콘 하급 귀족들
+pt_minor_nobles_7|페리스노 하급 귀족들
+pt_minor_nobles_8|팔콘 하급 귀족들
+pt_minor_nobles_9|발라히르 하급 귀족들
+pt_minor_nobles_10|카이코스 하급 귀족들
+pt_minor_nobles_11|겔다린 하급 귀족들
+pt_minor_nobles_12|크레타산 하급 귀족들
+pt_minor_nobles_13|쿠우-란 하급 귀족들
+pt_minor_nobles_14|바칼 하급 귀족들
+pt_minor_nobles_15|수트 하급 귀족들
+pt_minor_nobles_16|아로우로 하급 귀족들
+pt_minor_nobles_zann|잔 정예부대
+pt_tolranian_scouts|톨라니안 정찰대
+pt_reich_scouts|제국 정찰대
+pt_draharan_scouts|드라하란 정찰대
+pt_maccavian_scouts|믹카비안 정찰대
+pt_elintor_scouts|엘린터란 정찰대
+pt_hakkon_scouts|하콘 정찰대
+pt_perisno_scouts|페리스노 정찰대
+pt_falcon_scouts|팔콘 정찰대
+pt_valahir_scouts|발라히르 정찰대
+pt_kaikoth_scouts|카이코스 정찰대
+pt_cretas_scouts|겔다르 정찰대
+pt_kuulan_scouts|쿠우-란 정찰대
+pt_bakhal_scouts|바칼 정찰대
+pt_sut_scouts|수트 정찰대
+pt_aroulo_scouts|아로우로 정찰대
+pt_zann_scouts|잔 정찰대
+pt_tolranian_army|톨라니안 군대
+pt_reich_army|제국 군대
+pt_draharan_army|드라하란 군대
+pt_maccavian_army|믹카비안 군대
+pt_elintor_army|엘린터란 군대
+pt_hakkon_army|하콘 군대
+pt_perisno_army|페리스노 군대
+pt_zann_infantry|잔 슌-하 분견대
+pt_zann_archers|잔 사인 궁병대
+pt_zann_raiders|잔 케르기아 습격대
+pt_nemesis2|고용된 검사들
+pt_perisno_raiders|페리스노 습격대
+pt_aruolo_raiders|아로울리안 습격대
+pt_aruolo_war_party|아로울리안 전쟁 부대
+pt_pioneers|페리스노 개척자들
+pt_sekr|세크르의 동지단
+pt_rdahcim|르다침의 무법자들
+pt_red_immortals_1|붉은 불멸자들의 순찰대
+pt_red_immortals_hero|믹타빌루스
+pt_reinforcements|증원군
+pt_wyvern_riders|와이번 기수들
+pt_secretarian_scouts|종파 용의 사제들
+pt_secretarian_scouts1|종파 정찰대
+pt_kunika|쿠니카
+pt_kalrind|칼린드의 동지단
+pt_peasant_rebels_ag|농민 반란군
+pt_nadriela_zweibal|나드리엘라 츠바이벨
+pt_siegfried|신앙의 기사단
+pt_dreaded_one|공포스러운 악몽
+pt_general_ialoch|악마 사령관 이얼록
+pt_nox_of_zephilli|제필리의 녹스
+pt_lord_ceylius|비열한 군주 셀리우스
+pt_queen_aegea|여왕 아이게아
+pt_merchant_guildsman|상인 조합의 대상
+pt_mosoru|모스루
+pt_volheerec_normanni|나르마니아 클랜의 니사이니안 침략자들
+pt_volheerec_varangian|바랑기안 클랜의 니사이니안 침략자들
+pt_volheerec_viking|바이킹 클랜의 니사이니안 침략자들
+pt_searchers_wolf|늑대 조사단
+pt_corpsman|위생병
+pt_blood_shamans|피의 주술사들
+pt_perisno_pilgrims_commoners|페리스노 순례자들
+pt_perisno_pilgrims_deserters|무법한 페리스노 순례자들
+pt_peasant_rebels_1|농민 반란군
+pt_peasant_rebels_2|농민 반란군
+pt_nibor_escort|니보르 도적단
+pt_ulfheonar_escort|울프헤오나르 침략자들
+pt_rafklazan_escort|라프클라잔 왕의 정찰대
+pt_zolona_escort|졸로나 메시아
+pt_firstlegion_escort|백부장 옥타비우스의 정찰대
+pt_zeladeck_escort|젤라덱 정찰대
+pt_dreaded_one_escort|공포스러운 악몽의 정찰대
+pt_general_ialoch_escort|사령관 이얼록의 정찰대
+pt_nox_of_zephilli_escort|제필리의 녹스의 정찰대
+pt_lord_ceylius_escort|비열한 군주 셀리우스의 정찰대
+pt_siegfried_escort|위대한 성기사 지크프리드의 정찰대
+pt_queen_aegea_escort|여왕 아이게아의 정찰대
+pt_rogue_knight_1|도적 기사
+pt_rogue_knight_2|도적 기사
+pt_faction_rebels_1|반란군
+pt_faction_rebels_2|반란군
+pt_faction_rebels_3|반란군
+pt_faction_rebels_4|반란군
+pt_faction_rebels_5|반란군
+pt_faction_rebels_6|반란군
+pt_followers_old_gods|오래된 신들을 따르는 종파
+pt_followers_new_gods|새로운 신들을 따르는 종파
+pt_general_scout|제국 정찰대
+pt_horde_jin|진의 대군
+pt_horde_shun_ha|슌-하의 대군
+pt_horde_sine|시네의 대군
+pt_horde_khergia|케르지아의 대군
+pt_replenishment_horde_jin|진의 대군
+pt_replenishment_horde_shun_ha|슌-하의 대군
+pt_replenishment_horde_sine|시네의 대군
+pt_replenishment_horde_khergia|케르지아의 대군
+pt_scout_horde_jin|대군의 정찰대
+pt_scout_horde_shun_ha|대군의 정찰대
+pt_scout_horde_sine|대군의 정찰대
+pt_scout_horde_khergia|대군의 정찰대
+pt_ismael_army|이스마엘의 군대
+pt_gukpard_army|구크파드의 군대
+pt_mercenary_warband|용병 전쟁단
+pt_mysterious_group|수수께끼의 집단
+pt_adventurers|모험단
+pt_angry_mercenaries|분노한 용병들
+pt_elderly_amazon|나이든 아마존
+pt_persecutors_elderly_amazon|아마존 박해자들
+pt_squad_amazon|앙카스 분대
+pt_ankars_caravan|앙카스 보급 대상
+pt_war_party_oksanamun|나이든 아마존 옥사나문
+pt_joan_zwiebel_army|조안 츠바이벨의 군대
+pt_mercenaries_tolranian_spymaster|톨라니안 첩보 대장의 용병 군대
+pt_mercenaries_scouts|용병 정찰대
+pt_zann_prisoner_train_party|잔 포로 운송대
+pt_group_masnerian_mercenaries|마스네리안 용병단
+pt_group_freelancer_deserters|자유용병 탈영병 무리
+pt_erganzung_fur_besatzung|자유용병 대상
+pt_erganzung_fur_patrouille|자유용병 대상
+pt_freelancer_patrol_town_19|자유용병 순찰대
+pt_syabr_party|사이아브르의 부대
+pt_omelian_kasap_party|니혼니안 용병단
+pt_sea_traders|왕실 교역상
+pt_mercs_pary_13|자유용병 보병대
+pt_mercs_pary_14|데소크 용병단
+pt_mercs_pary_15|우쿤두 용병단
+pt_mercs_pary_16|암살자 파견 회사
+pt_mercs_pary_17|볼헤르 동지단
+pt_mercs_pary_18|앙카스 여성 사냥단
+pt_mercs_pary_19|믿음의 기사단 용병대
+pt_mercs_pary_20|모스루 용병단
+pt_mercs_pary_21|모험가 용병단
+pt_mercs_pary_22|여성 용병 부대
+pt_group_sut_giant|늑대의 길에 관심이 있는 자들

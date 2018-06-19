@@ -1,0 +1,4684 @@
+﻿itm_no_item|INVALID ITEM
+itm_no_item_pl|INVALID ITEM
+itm_tutorial_spear|창
+itm_tutorial_spear_pl|창
+itm_tutorial_club|곤봉
+itm_tutorial_club_pl|곤봉
+itm_tutorial_battle_axe|전투 도끼
+itm_tutorial_battle_axe_pl|전투 도끼
+itm_tutorial_arrows|화살
+itm_tutorial_arrows_pl|화살
+itm_tutorial_bolts|볼트
+itm_tutorial_bolts_pl|볼트
+itm_tutorial_short_bow|단궁
+itm_tutorial_short_bow_pl|단궁
+itm_tutorial_crossbow|크로스보우
+itm_tutorial_crossbow_pl|크로스보우
+itm_tutorial_throwing_daggers|투척용 단검
+itm_tutorial_throwing_daggers_pl|투척용 단검
+itm_tutorial_saddle_horse|승용마
+itm_tutorial_saddle_horse_pl|승용마
+itm_tutorial_shield|연모양 방패
+itm_tutorial_shield_pl|연모양 방패
+itm_tutorial_staff_no_attack|장대
+itm_tutorial_staff_no_attack_pl|장대
+itm_tutorial_staff|장대
+itm_tutorial_staff_pl|장대
+itm_tutorial_sword|칼
+itm_tutorial_sword_pl|칼
+itm_tutorial_axe|도끼
+itm_tutorial_axe_pl|도끼
+itm_tutorial_dagger|단검
+itm_tutorial_dagger_pl|단검
+itm_horse_meat|말고기
+itm_horse_meat_pl|말고기
+itm_practice_sword|연습용 칼
+itm_practice_sword_pl|연습용 칼
+itm_heavy_practice_sword|연습용 대검
+itm_heavy_practice_sword_pl|연습용 대검
+itm_practice_dagger|연습용 단검
+itm_practice_dagger_pl|연습용 단검
+itm_practice_axe|연습용 도끼
+itm_practice_axe_pl|연습용 도끼
+itm_arena_axe|도끼
+itm_arena_axe_pl|도끼
+itm_arena_sword|칼
+itm_arena_sword_pl|칼
+itm_arena_sword_two_handed|양손검
+itm_arena_sword_two_handed_pl|양손검
+itm_arena_lance|기병창
+itm_arena_lance_pl|기병창
+itm_practice_staff|연습용 장대
+itm_practice_staff_pl|연습용 장대
+itm_practice_lance|연습용 기병창
+itm_practice_lance_pl|연습용 기병창
+itm_practice_shield|연습용 방패
+itm_practice_shield_pl|연습용 방패
+itm_practice_bow|연습용 활
+itm_practice_bow_pl|연습용 활
+itm_practice_crossbow|연습용 크로스보우
+itm_practice_crossbow_pl|연습용 크로스보우
+itm_practice_javelin|연습용 투창
+itm_practice_javelin_pl|연습용 투창
+itm_practice_javelin_melee|연습용 격투형 투창
+itm_practice_javelin_melee_pl|연습용 격투형 투창
+itm_practice_throwing_daggers|투척용 단검
+itm_practice_throwing_daggers_pl|투척용 단검
+itm_practice_throwing_daggers_100_amount|투척용 단검
+itm_practice_throwing_daggers_100_amount_pl|투척용 단검
+itm_practice_horse|연습용 말
+itm_practice_horse_pl|연습용 말
+itm_practice_arrows|연습용 화살
+itm_practice_arrows_pl|연습용 화살
+itm_practice_bolts|연습용 볼트
+itm_practice_bolts_pl|연습용 볼트
+itm_practice_arrows_10_amount|연습용 화살
+itm_practice_arrows_10_amount_pl|연습용 화살
+itm_practice_arrows_100_amount|연습용 화살
+itm_practice_arrows_100_amount_pl|연습용 화살
+itm_practice_bolts_9_amount|연습용 볼트
+itm_practice_bolts_9_amount_pl|연습용 볼트
+itm_practice_boots|연습용 장화
+itm_practice_boots_pl|연습용 장화
+itm_red_tourney_armor|붉은 토너먼트 갑옷
+itm_red_tourney_armor_pl|붉은 토너먼트 갑옷
+itm_blue_tourney_armor|파란 토너먼트 갑옷
+itm_blue_tourney_armor_pl|파란 토너먼트 갑옷
+itm_green_tourney_armor|초록 토너먼트 갑옷
+itm_green_tourney_armor_pl|초록 토너먼트 갑옷
+itm_gold_tourney_armor|금색 토너먼트 갑옷
+itm_gold_tourney_armor_pl|금색 토너먼트 갑옷
+itm_red_tourney_helmet|붉은 토너먼트 투구
+itm_red_tourney_helmet_pl|붉은 토너먼트 투구
+itm_blue_tourney_helmet|파란 토너먼트 투구
+itm_blue_tourney_helmet_pl|파란 토너먼트 투구
+itm_green_tourney_helmet|초록 토너먼트 투구
+itm_green_tourney_helmet_pl|초록 토너먼트 투구
+itm_gold_tourney_helmet|금색 토너먼트 투구
+itm_gold_tourney_helmet_pl|금색 토너먼트 투구
+itm_arena_shield_red|방패
+itm_arena_shield_red_pl|방패
+itm_arena_shield_blue|방패
+itm_arena_shield_blue_pl|방패
+itm_arena_shield_green|방패
+itm_arena_shield_green_pl|방패
+itm_arena_shield_yellow|방패
+itm_arena_shield_yellow_pl|방패
+itm_arena_armor_white|하얀 투기장 갑옷
+itm_arena_armor_white_pl|하얀 투기장 갑옷
+itm_arena_armor_red|붉은 투기장 갑옷
+itm_arena_armor_red_pl|붉은 투기장 갑옷
+itm_arena_armor_blue|파란 투기장 갑옷
+itm_arena_armor_blue_pl|파란 투기장 갑옷
+itm_arena_armor_green|초록 투기장 갑옷
+itm_arena_armor_green_pl|초록 투기장 갑옷
+itm_arena_armor_yellow|노란 투기장 갑옷
+itm_arena_armor_yellow_pl|노란 투기장 갑옷
+itm_arena_tunic_white|하얀 투기장 튜닉
+itm_arena_tunic_white_pl|하얀 투기장 튜닉
+itm_arena_tunic_red|붉은 투기장 튜닉
+itm_arena_tunic_red_pl|붉은 투기장 튜닉
+itm_arena_tunic_blue|파란 투기장 튜닉
+itm_arena_tunic_blue_pl|파란 투기장 튜닉
+itm_arena_tunic_green|초록 투기장 튜닉
+itm_arena_tunic_green_pl|초록 투기장 튜닉
+itm_arena_tunic_yellow|노란 투기장 튜닉
+itm_arena_tunic_yellow_pl|노란 투기장 튜닉
+itm_arena_helmet_red|붉은 투기장 투구
+itm_arena_helmet_red_pl|붉은 투기장 투구
+itm_arena_helmet_blue|파란 투기장 투구
+itm_arena_helmet_blue_pl|파란 투기장 투구
+itm_arena_helmet_green|초록 투기장 투구
+itm_arena_helmet_green_pl|초록 투기장 투구
+itm_arena_helmet_yellow|노란 투기장 투구
+itm_arena_helmet_yellow_pl|노란 투기장 투구
+itm_steppe_helmet_white|하얀 유목민 투구
+itm_steppe_helmet_white_pl|하얀 유목민 투구
+itm_steppe_helmet_red|붉은 유목민 투구
+itm_steppe_helmet_red_pl|붉은 유목민 투구
+itm_steppe_helmet_blue|파란 유목민 투구
+itm_steppe_helmet_blue_pl|파란 유목민 투구
+itm_steppe_helmet_green|초록 유목민 투구
+itm_steppe_helmet_green_pl|초록 유목민 투구
+itm_steppe_helmet_yellow|노란 유목민 투구
+itm_steppe_helmet_yellow_pl|노란 유목민 투구
+itm_tourney_helm_white|하얀 토너먼트 투구
+itm_tourney_helm_white_pl|하얀 토너먼트 투구
+itm_tourney_helm_red|빨간 토너먼트 투구
+itm_tourney_helm_red_pl|빨간 토너먼트 투구
+itm_tourney_helm_blue|파란 토너먼트 투구
+itm_tourney_helm_blue_pl|파란 토너먼트 투구
+itm_tourney_helm_green|초록 토너먼트 투구
+itm_tourney_helm_green_pl|초록 토너먼트 투구
+itm_tourney_helm_yellow|노란 토너먼트 투구
+itm_tourney_helm_yellow_pl|노란 토너먼트 투구
+itm_arena_turban_red|투기장 터번
+itm_arena_turban_red_pl|투기장 터번
+itm_arena_turban_blue|투기장 터번
+itm_arena_turban_blue_pl|투기장 터번
+itm_arena_turban_green|투기장 터번
+itm_arena_turban_green_pl|투기장 터번
+itm_arena_turban_yellow|투기장 터번
+itm_arena_turban_yellow_pl|투기장 터번
+itm_book_tactics|전쟁에 관하여
+itm_book_tactics_pl|전쟁에 관하여
+itm_book_persuasion|수사학과 양식
+itm_book_persuasion_pl|수사학과 양식
+itm_book_leadership|알릭세누스 대왕의 전기
+itm_book_leadership_pl|알릭세누스 대왕의 전기
+itm_book_intelligence|논리학 평론
+itm_book_intelligence_pl|논리학 평론
+itm_book_trade|사물의 가치에 관한 논문
+itm_book_trade_pl|사물의 가치에 관한 논문
+itm_book_weapon_mastery|검으로 싸우는 기술
+itm_book_weapon_mastery_pl|검으로 싸우는 기술
+itm_book_engineering|기계 이론의 체계
+itm_book_engineering_pl|기계 이론의 체계
+itm_book_training_reference|군사 교범
+itm_book_training_reference_pl|군사 교범
+itm_book_global_knowledge|무수한 범죄자들
+itm_book_global_knowledge_pl|무수한 범죄자들
+itm_book_treasure_map|보물 지도
+itm_book_treasure_map_pl|보물 지도
+itm_book_rapier|결투사의 선집
+itm_book_rapier_pl|결투사의 선집
+itm_book_wound_treatment_reference|치료의 책
+itm_book_wound_treatment_reference_pl|치료의 책
+itm_book_surgery_reference|수술에 관한 위대한 책
+itm_book_surgery_reference_pl|수술에 관한 위대한 책
+itm_book_trade_ledger|상인들의 원장
+itm_book_trade_ledger_pl|상인들의 원장
+itm_spice|향신료
+itm_spice_pl|향신료
+itm_salt|소금
+itm_salt_pl|소금
+itm_oil|기름
+itm_oil_pl|기름
+itm_pottery|도자기
+itm_pottery_pl|도자기
+itm_raw_flax|아마 뭉치
+itm_raw_flax_pl|아마 뭉치
+itm_linen|아마 직물
+itm_linen_pl|아마 직물
+itm_wool|양모
+itm_wool_pl|양모
+itm_wool_cloth|양모 직물
+itm_wool_cloth_pl|양모 직물
+itm_raw_silk|비단 원단
+itm_raw_silk_pl|비단 원단
+itm_raw_dyes|염료
+itm_raw_dyes_pl|염료
+itm_velvet|벨벳
+itm_velvet_pl|벨벳
+itm_gems|보석
+itm_gems_pl|보석
+itm_silver_item|금괴
+itm_silver_item_pl|금괴
+itm_gold_ore|금 광석
+itm_gold_ore_pl|금 광석
+itm_tools|공구
+itm_tools_pl|공구
+itm_iron|철
+itm_iron_pl|철
+itm_wood|나무
+itm_wood_pl|나무
+itm_raw_leather|짐승 가죽
+itm_raw_leather_pl|짐승 가죽
+itm_leatherwork|세공한 가죽
+itm_leatherwork_pl|세공한 가죽
+itm_furs|모피
+itm_furs_pl|모피
+itm_grain|곡물
+itm_grain_pl|곡물
+itm_bread|빵
+itm_bread_pl|빵
+itm_raw_date_fruit|대추
+itm_raw_date_fruit_pl|대추
+itm_cabbages|양배추
+itm_cabbages_pl|양배추
+itm_apples|과일
+itm_apples_pl|과일
+itm_raw_grapes|포도
+itm_raw_grapes_pl|포도
+itm_raw_olives|올리브
+itm_raw_olives_pl|올리브
+itm_butter|버터
+itm_butter_pl|버터
+itm_cheese|치즈
+itm_cheese_pl|치즈
+itm_honey|꿀
+itm_honey_pl|꿀
+itm_dried_fruit|말린 과일
+itm_dried_fruit_pl|말린 과일
+itm_raisins|건포도
+itm_raisins_pl|건포도
+itm_drinking_water|식수
+itm_drinking_water_pl|식수
+itm_wine|포도주
+itm_wine_pl|포도주
+itm_ale|에일 맥주
+itm_ale_pl|에일 맥주
+itm_beer|맥주
+itm_beer_pl|맥주
+itm_whiskey|위스키
+itm_whiskey_pl|위스키
+itm_cattle_meat|소고기
+itm_cattle_meat_pl|소고기
+itm_chicken|닭고기
+itm_chicken_pl|닭고기
+itm_pork|돼지고기
+itm_pork_pl|돼지고기
+itm_venison|사슴 고기
+itm_venison_pl|사슴 고기
+itm_fish|물고기
+itm_fish_pl|물고기
+itm_dried_meat|말린 고기
+itm_dried_meat_pl|말린 고기
+itm_smoked_fish|훈제 생선
+itm_smoked_fish_pl|훈제 생선
+itm_smoked_venison|훈제 사슴 고기
+itm_smoked_venison_pl|훈제 사슴 고기
+itm_sausages|소시지
+itm_sausages_pl|소시지
+itm_deer_meat|사슴 고기
+itm_deer_meat_pl|사슴 고기
+itm_boar_meat|멧돼지 고기
+itm_boar_meat_pl|멧돼지 고기
+itm_wolf_meat|늑대 고기
+itm_wolf_meat_pl|늑대 고기
+itm_coat_meat|염소 고기
+itm_coat_meat_pl|염소 고기
+itm_coat_2_meat|염소 고기
+itm_coat_2_meat_pl|염소 고기
+itm_wilddonkey_meat|야생 당나귀 고기
+itm_wilddonkey_meat_pl|야생 당나귀 고기
+itm_rhino_meat|코뿔소 고기
+itm_rhino_meat_pl|코뿔소 고기
+itm_siege_supply|보급품
+itm_siege_supply_pl|보급품
+itm_quest_wine|포도주
+itm_quest_wine_pl|포도주
+itm_quest_ale|에일 맥주
+itm_quest_ale_pl|에일 맥주
+itm_keys|열쇠 꾸러미
+itm_keys_pl|열쇠 꾸러미
+itm_sibylla_crown|아올라스의 왕관
+itm_sibylla_crown_pl|아올라스의 왕관
+itm_strange_portrait|이상한 초상화
+itm_strange_portrait_pl|이상한 초상화
+itm_reich_gold|제국 왕의 금
+itm_reich_gold_pl|제국 왕의 금
+itm_valuable_book|용의 위대한 책
+itm_valuable_book_pl|용의 위대한 책
+itm_arabian_horse_b|드라하란 조랑말
+itm_arabian_horse_b_pl|드라하란 조랑말
+itm_saddle_horse|승용마
+itm_saddle_horse_pl|승용마
+itm_sumpter_horse|짐말
+itm_sumpter_horse_pl|짐말
+itm_hunting_horse_four|갈색 사냥말
+itm_hunting_horse_four_pl|갈색 사냥말
+itm_horse_bandits_a|갈색 도적 말
+itm_horse_bandits_a_pl|갈색 도적 말
+itm_courser|준마
+itm_courser_pl|준마
+itm_xenoargh_baydark|어두운 밤색 말
+itm_xenoargh_baydark_pl|어두운 밤색 말
+itm_european_horse_a|검은 준마
+itm_european_horse_a_pl|검은 준마
+itm_european_horse_d|검정 준마
+itm_european_horse_d_pl|검정 준마
+itm_xenoargh_bayappy|밤색 말
+itm_xenoargh_bayappy_pl|밤색 말
+itm_steppe_horse|초원마
+itm_steppe_horse_pl|초원마
+itm_hunter|사냥말
+itm_hunter_pl|사냥말
+itm_european_horse_f|얼룩말
+itm_european_horse_f_pl|얼룩말
+itm_bandits_horse_a|북부 사냥말
+itm_bandits_horse_a_pl|북부 사냥말
+itm_horse1|갈색 톨라니안 사냥말
+itm_horse1_pl|갈색 톨라니안 사냥말
+itm_tribal5|검은 드라하란 사막말
+itm_tribal5_pl|검은 드라하란 사막말
+itm_horse_bandits_b|검은 초원마
+itm_horse_bandits_b_pl|검은 초원마
+itm_horse_tyrk_b|엘프의 말
+itm_horse_tyrk_b_pl|엘프의 말
+itm_tribal2|드라하란 모래말
+itm_tribal2_pl|드라하란 모래말
+itm_horse5|갈색 쿠우-란 사냥말
+itm_horse5_pl|갈색 쿠우-란 사냥말
+itm_roman_courser|군단 준마
+itm_roman_courser_pl|군단 준마
+itm_roman_horse_1|군단 사냥말
+itm_roman_horse_1_pl|군단 사냥말
+itm_tribal4|하얀 종마
+itm_tribal4_pl|하얀 종마
+itm_steppe_paint1|치장한 초원마
+itm_steppe_paint1_pl|치장한 초원마
+itm_perisno_purebred|페리스노 순혈종
+itm_perisno_purebred_pl|페리스노 순혈종
+itm_horse_tyrk_e|검은 엘프의 말
+itm_horse_tyrk_e_pl|검은 엘프의 말
+itm_northerner_horse|북부의 말
+itm_northerner_horse_pl|북부의 말
+itm_northerner_horse_white|하얀 북부의 말
+itm_northerner_horse_white_pl|하얀 북부의 말
+itm_northerner_horse_hunter|북부 사냥말
+itm_northerner_horse_hunter_pl|북부 사냥말
+itm_northerner_horse_black|검은 북부의 말
+itm_northerner_horse_black_pl|검은 북부의 말
+itm_falcon_horse|팔코니안 말
+itm_falcon_horse_pl|팔코니안 말
+itm_rus_horse|북부 종마
+itm_rus_horse_pl|북부 종마
+itm_elvarie_spirit_horse|엘프의 영혼마
+itm_elvarie_spirit_horse_pl|엘프의 영혼마
+itm_bedyin_camel_a|낙타
+itm_bedyin_camel_a_pl|낙타
+itm_boar_rideable|전쟁 멧돼지
+itm_boar_rideable_pl|전쟁 멧돼지
+itm_cow_mod_a|암소
+itm_cow_mod_a_pl|암소
+itm_elephant|드라하란 코끼리
+itm_elephant_pl|드라하란 코끼리
+itm_yf_ydzx|전쟁 코끼리
+itm_yf_ydzx_pl|전쟁 코끼리
+itm_arhar_1|투르
+itm_arhar_1_pl|투르
+itm_arhar_armor_2|갑주 투르
+itm_arhar_armor_2_pl|갑주 투르
+itm_young_wolf_paint|어린 늑대
+itm_young_wolf_paint_pl|어린 늑대
+itm_young_wolf_white_paint|어린 치장한 하얀 늑대
+itm_young_wolf_white_paint_pl|어린 치장한 하얀 늑대
+itm_young_wolf_blk_paint|치장한 검은 늑대
+itm_young_wolf_blk_paint_pl|치장한 검은 늑대
+itm_tamed_black_wolf|길들인 검은 늑대
+itm_tamed_black_wolf_pl|길들인 검은 늑대
+itm_armor_wolf_white|갑주 하얀 늑대
+itm_armor_wolf_white_pl|갑주 하얀 늑대
+itm_armor_wolf_black|갑주 검은 늑대
+itm_armor_wolf_black_pl|갑주 검은 늑대
+itm_dreaded_wolf|무서운 늑대
+itm_dreaded_wolf_pl|무서운 늑대
+itm_tiger|호랑이
+itm_tiger_pl|호랑이
+itm_tigerwhite|백호
+itm_tigerwhite_pl|호랑이
+itm_wyvern|와이번
+itm_wyvern_pl|와이번
+itm_nightmare|나이트메어
+itm_nightmare_pl|나이트메어
+itm_fire_dragon|화염 드래곤
+itm_fire_dragon_pl|화염 드래곤
+itm_ice_dragon|얼음 드래곤
+itm_ice_dragon_pl|얼음 드래곤
+itm_black_fire_dragon|고위 드래곤
+itm_black_fire_dragon_pl|고위 드래곤
+itm_saracin_hard_horses_c_v1|드라하란 갑주마
+itm_saracin_hard_horses_c_v1_pl|드라하란 갑주마
+itm_hospitaller_knight_horse_d|하얀색과 빨간색 군마
+itm_hospitaller_knight_horse_d_pl|하얀색과 빨간색 군마
+itm_knight_horse_green|페리스노 녹색과 하얀색 군마
+itm_knight_horse_green_pl|페리스노 녹색과 하얀색 군마
+itm_templar_knight_horse_c|검정과 하얀색 갑주마
+itm_templar_knight_horse_c_pl|검정과 하얀색 갑주마
+itm_templar_knight_horse_d|페리스노 십자군 군마
+itm_templar_knight_horse_d_pl|페리스노 십자군 군마
+itm_hospitaller_knight_horse_a|검은 군마
+itm_hospitaller_knight_horse_a_pl|검은 군마
+itm_3lamellar_charger|검은 하프 캐터프락트
+itm_3lamellar_charger_pl|검은 하프 캐터프락트
+itm_leather_armour_charger1|가죽 돌격마
+itm_leather_armour_charger1_pl|가죽 돌격마
+itm_saracin_hard_horses_b|갑주 초원마
+itm_saracin_hard_horses_b_pl|갑주 초원마
+itm_war_horse4|노란색과 검정색 점박이 군마
+itm_war_horse4_pl|노란색과 검정색 점박이 군마
+itm_barded_armour_charger2|줄무늬가 있는 갑주 전쟁 돌격마
+itm_barded_armour_charger2_pl|줄무늬가 있는 갑주 전쟁 돌격마
+itm_hospitaller_charger|검정 전쟁 돌격마
+itm_hospitaller_charger_pl|검정 전쟁 돌격마
+itm_saracin_hard_horses_a_v1|모스루 순혈종
+itm_saracin_hard_horses_a_v1_pl|모스루 순혈종
+itm_saracin_hard_horses_c|드라하란 군마
+itm_saracin_hard_horses_c_pl|드라하란 군마
+itm_halfcata|검은 라멜라 하프 캐터프락트
+itm_halfcata_pl|검은 라멜라 하프 캐터프락트
+itm_horse_master_order_hospitaller|톨라니안 왕의 군마
+itm_horse_master_order_hospitaller_pl|톨라니안 왕의 군마
+itm_romanhalfcata2|갈색 하프 캐터프락트
+itm_romanhalfcata2_pl|갈색 하프 캐터프락트
+itm_dk_armour_charger|검은 갑주 돌격마
+itm_dk_armour_charger_pl|검은 갑주 돌격마
+itm_war_horse5|빨간색과 파란색 군마
+itm_war_horse5_pl|빨간색과 파란색 군마
+itm_war_horse1|빨간색과 검은색 점박이 군마
+itm_war_horse1_pl|빨간색과 검은색 점박이 군마
+itm_arab_war_horse2|태양과 달의 군마
+itm_arab_war_horse2_pl|태양과 달의 군마
+itm_english_war_horse1|빨간색과 노란색 군마
+itm_english_war_horse1_pl|빨간색과 노란색 군마
+itm_english_war_horse4|붉은 사자 군마
+itm_english_war_horse4_pl|붉은 사자 군마
+itm_khergit_war_horse|드라하란 군마
+itm_khergit_war_horse_pl|드라하란 군마
+itm_lamellar_armor_horse|라멜라 갑주마
+itm_lamellar_armor_horse_pl|라멜라 갑주마
+itm_saracin_hard_horses_a|갑주 모스루 순혈종
+itm_saracin_hard_horses_a_pl|갑주 모스루 순혈종
+itm_dorn_horse_lamellar_c|검은 미늘과 가죽 갑주 군마
+itm_dorn_horse_lamellar_c_pl|검은 미늘과 가죽 갑주 군마
+itm_romanhalfcata|하프 캐터프락트
+itm_romanhalfcata_pl|하프 캐터프락트
+itm_forest_mount|숲의 말
+itm_forest_mount_pl|숲의 말
+itm_golden_deer|일리카 팔키 군마
+itm_golden_deer_pl|일리카 팔키 군마
+itm_war_horse7|검은 군마
+itm_war_horse7_pl|검은 군마
+itm_english_war_horse3|빨간색과 파란색 사자 군마
+itm_english_war_horse3_pl|빨간색과 파란색 사자 군마
+itm_polish_war_horse2|걷잡을 수 없는 사자 군마
+itm_polish_war_horse2_pl|걷잡을 수 없는 사자 군마
+itm_ak_warhorse_chain_c|갑주 발라히르 군마
+itm_ak_warhorse_chain_c_pl|갑주 발라히르 군마
+itm_falconian_warhorse|팔코니안 군마
+itm_falconian_warhorse_pl|팔코니안 군마
+itm_saracin_hard_horses_d|갑주 드라하란 군마
+itm_saracin_hard_horses_d_pl|갑주 드라하란 군마
+itm_2lamellar_charger|제 3 군단 하프 캐터프락트
+itm_2lamellar_charger_pl|제 3 군단 하프 캐터프락트
+itm_ak_warhorse_chain_b|갑주 톨라니안 군마
+itm_ak_warhorse_chain_b_pl|갑주 톨라니안 군마
+itm_spakhorse_03|왕실의 금색 돌격마
+itm_spakhorse_03_pl|왕실의 금색 돌격마
+itm_2imperial_warhorse|제국 돌격마
+itm_2imperial_warhorse_pl|제국 돌격마
+itm_plated_charger4|용의 제국 장갑 돌격마
+itm_plated_charger4_pl|용의 제국 장갑 돌격마
+itm_wlong4|빨간색과 검은색 갑주 군마
+itm_wlong4_pl|빨간색과 검은색 갑주 군마
+itm_charger1|하콘 제국 돌격마
+itm_charger1_pl|하콘 제국 돌격마
+itm_plated_charger6|가벼운 장갑 돌격마
+itm_plated_charger6_pl|가벼운 장갑 돌격마
+itm_dorn_horse_lamellar_a|라멜라 갑주 군마
+itm_dorn_horse_lamellar_a_pl|라멜라 갑주 군마
+itm_whg2|무거운 사슬갑 군마
+itm_whg2_pl|무거운 사슬갑 군마
+itm_wlong24|팔코니안 갑주 군마
+itm_wlong24_pl|팔코니안 갑주 군마
+itm_blue_warhorse|겔다린 군마
+itm_blue_warhorse_pl|겔다린 군마
+itm_wlong22|왕실 갑주 군마
+itm_wlong22_pl|왕실 갑주 군마
+itm_dorn_horse_lamellar_b|갈색 비늘갑 돌격마
+itm_dorn_horse_lamellar_b_pl|갈색 비늘갑 돌격마
+itm_warhorse|군마
+itm_warhorse_pl|군마
+itm_wlong2|중장 독수리 군마
+itm_wlong2_pl|중장 독수리 군마
+itm_warhorse_brass|황동 갑주 군마
+itm_warhorse_brass_pl|황동 갑주 군마
+itm_mail_armour_charger1|은빛 군마
+itm_mail_armour_charger1_pl|은빛 군마
+itm_warhorse_steppe|초원 돌격마
+itm_warhorse_steppe_pl|초원 돌격마
+itm_saracen_horse_sultan|드라하라 왕실 군마
+itm_saracen_horse_sultan_pl|드라하라 왕실 군마
+itm_war_horse9|유령 군마
+itm_war_horse9_pl|유령 군마
+itm_5warhorse_holy|신성한 군마
+itm_5warhorse_holy_pl|신성한 군마
+itm_charger|돌격마
+itm_charger_pl|돌격마
+itm_charger2spak|긴 마갑 돌격마
+itm_charger2spak_pl|긴 마갑 돌격마
+itm_plated_charger9|검은 철갑 돌격마
+itm_plated_charger9_pl|검은 철갑 돌격마
+itm_charger_black|검은 마갑 돌격마
+itm_charger_black_pl|검은 마갑 돌격마
+itm_charger_bronze|청동갑 돌격마
+itm_charger_bronze_pl|청동갑 돌격마
+itm_plated_charger8|청동 장갑 돌격마
+itm_plated_charger8_pl|청동 장갑 돌격마
+itm_plated_charger2|믹카비안 장갑 돌격마
+itm_plated_charger2_pl|믹카비안 장갑 돌격마
+itm_plated_charger5|카이저의 철갑 돌격마
+itm_plated_charger5_pl|카이저의 철갑 돌격마
+itm_plate_armour_charger2|검은 철갑 군마
+itm_plate_armour_charger2_pl|검은 철갑 군마
+itm_warhorse_sarranid|초원의 장갑 군마
+itm_warhorse_sarranid_pl|초원의 장갑 군마
+itm_charger_steel|강철판 마갑 돌격마
+itm_charger_steel_pl|강철판 마갑 돌격마
+itm_ak_warhorse_chain_a|쿠우-란 군마
+itm_ak_warhorse_chain_a_pl|쿠우-란 군마
+itm_warhorse_sarranid_black|검은 마갑 초원 군마
+itm_warhorse_sarranid_black_pl|검은 마갑 초원 군마
+itm_plated_charger7|팔코니안 갑주 돌격마
+itm_plated_charger7_pl|팔코니안 갑주 돌격마
+itm_warhorse_sarranid_brass|중무장 왕실 군마
+itm_warhorse_sarranid_brass_pl|중무장 왕실 군마
+itm_plate_charger_brown|수트족 마갑 돌격마
+itm_plate_charger_brown_pl|수트족 마갑 돌격마
+itm_plate_charger_white|장갑 돌격마
+itm_plate_charger_white_pl|장갑 돌격마
+itm_charger_dark|검은 돌격마
+itm_charger_dark_pl|검은 돌격마
+itm_ak_charger_plate|톨라니안 왕실 돌격마
+itm_ak_charger_plate_pl|톨라니안 왕실 돌격마
+itm_wlong1|믿음의 교단 군마
+itm_wlong1_pl|믿음의 교단 군마
+itm_twilight_horse|페리스노 황혼의 말
+itm_twilight_horse_pl|페리스노 황혼의 말
+itm_spak_charger_plate|페리스노 갑주 돌격마
+itm_spak_charger_plate_pl|페리스노 갑주 돌격마
+itm_horny_charger_plate|수트족 가시박힌 마갑 돌격마
+itm_horny_charger_plate_pl|수트족 가시박힌 마갑 돌격마
+itm_horny_charger_black|악마의 마갑 돌격마
+itm_horny_charger_black_pl|악마의 마갑 돌격마
+itm_deer|사슴
+itm_deer_pl|사슴
+itm_boar|멧돼지
+itm_boar_pl|멧돼지
+itm_wolf|늑대
+itm_wolf_pl|늑대
+itm_wolf2|대형 하얀 늑대
+itm_wolf2_pl|대형 하얀 늑대
+itm_wolf3|대형 검은 늑대
+itm_wolf3_pl|대형 검은 늑대
+itm_wolf4|대형 늑대
+itm_wolf4_pl|대형 늑대
+itm_coat|염소
+itm_coat_pl|염소
+itm_coat_b|염소
+itm_coat_b_pl|염소
+itm_wilddonkey|야생 당나귀
+itm_wilddonkey_pl|야생 당나귀
+itm_bl_boar_fur|모피 망토
+itm_bl_boar_fur_pl|모피 망토
+itm_bl_boar|멧돼지 모피
+itm_bl_boar_pl|멧돼지 모피
+itm_civ_body_f_woolen_dress|civ body f woolen dress
+itm_civ_body_f_woolen_dress_pl|civ body f woolen dress
+itm_civ_body_f_peasant_dress_1|civ body f peasant dress 1
+itm_civ_body_f_peasant_dress_1_pl|civ body f peasant dress 1
+itm_civ_body_f_peasant_dress_2|civ body f peasant dress 2
+itm_civ_body_f_peasant_dress_2_pl|civ body f peasant dress 2
+itm_civ_body_f_common_dress_1|civ body f common dress 1
+itm_civ_body_f_common_dress_1_pl|civ body f common dress 1
+itm_civ_body_f_dress_brown|civ body f dress brown
+itm_civ_body_f_dress_brown_pl|civ body f dress brown
+itm_civ_body_f_dress_red|civ body f dress red
+itm_civ_body_f_dress_red_pl|civ body f dress red
+itm_civ_body_f_nomad_dress_rich_1|civ body f nomad dress rich 1
+itm_civ_body_f_nomad_dress_rich_1_pl|civ body f nomad dress rich 1
+itm_civ_body_f_nomad_dress_rich_2|civ body f nomad dress rich 2
+itm_civ_body_f_nomad_dress_rich_2_pl|civ body f nomad dress rich 2
+itm_civ_body_f_rich_dress_green|civ body f rich dress green
+itm_civ_body_f_rich_dress_green_pl|civ body f rich dress green
+itm_civ_body_f_court_dress_1|civ body f court dress 1
+itm_civ_body_f_court_dress_1_pl|civ body f court dress 1
+itm_civ_body_merchant_1|civ body merchant 1
+itm_civ_body_merchant_1_pl|civ body merchant 1
+itm_civ_body_pilgrim_1|civ body pilgrim 1
+itm_civ_body_pilgrim_1_pl|civ body pilgrim 1
+itm_civ_body_priest_1|civ body priest 1
+itm_civ_body_priest_1_pl|civ body priest 1
+itm_civ_body_m_white_shirt_1|civ body m white shirt 1
+itm_civ_body_m_white_shirt_1_pl|civ body m white shirt 1
+itm_civ_body_m_coarse_tunic_1|civ body m coarse tunic 1
+itm_civ_body_m_coarse_tunic_1_pl|civ body m coarse tunic 1
+itm_civ_body_m_coarse_tunic_red|civ body m coarse tunic red
+itm_civ_body_m_coarse_tunic_red_pl|civ body m coarse tunic red
+itm_civ_body_m_aketon_white_1|civ body m aketon white 1
+itm_civ_body_m_aketon_white_1_pl|civ body m aketon white 1
+itm_civ_body_m_leather_jerkin_1|civ body m leather jerkin 1
+itm_civ_body_m_leather_jerkin_1_pl|civ body m leather jerkin 1
+itm_civ_body_m_ragged_outfit_1|civ body m ragged outfit 1
+itm_civ_body_m_ragged_outfit_1_pl|civ body m ragged outfit 1
+itm_civ_body_m_leather_vest_1|civ body m leather vest 1
+itm_civ_body_m_leather_vest_1_pl|civ body m leather vest 1
+itm_civ_body_m_leather_vest_2|civ body m leather vest 2
+itm_civ_body_m_leather_vest_2_pl|civ body m leather vest 2
+itm_civ_body_m_leather_vest_3|civ body m leather vest 3
+itm_civ_body_m_leather_vest_3_pl|civ body m leather vest 3
+itm_civ_body_m_arab_robe_black|civ body m arab robe black
+itm_civ_body_m_arab_robe_black_pl|civ body m arab robe black
+itm_civ_body_m_arab_robe_1|civ body m arab robe 1
+itm_civ_body_m_arab_robe_1_pl|civ body m arab robe 1
+itm_civ_body_m_arab_robe_2|civ body m arab robe 2
+itm_civ_body_m_arab_robe_2_pl|civ body m arab robe 2
+itm_civ_body_m_arab_robe_3|civ body m arab robe 3
+itm_civ_body_m_arab_robe_3_pl|civ body m arab robe 3
+itm_civ_body_m_arab_robe_4|civ body m arab robe 4
+itm_civ_body_m_arab_robe_4_pl|civ body m arab robe 4
+itm_civ_body_m_arab_robe_5|civ body m arab robe 5
+itm_civ_body_m_arab_robe_5_pl|civ body m arab robe 5
+itm_civ_body_m_arab_robe_6|civ body m arab robe 6
+itm_civ_body_m_arab_robe_6_pl|civ body m arab robe 6
+itm_civ_body_m_arab_robe_7|civ body m arab robe 7
+itm_civ_body_m_arab_robe_7_pl|civ body m arab robe 7
+itm_civ_body_m_arab_robe_8|civ body m arab robe 8
+itm_civ_body_m_arab_robe_8_pl|civ body m arab robe 8
+itm_civ_body_m_arab_vest_1|civ body m arab vest 1
+itm_civ_body_m_arab_vest_1_pl|civ body m arab vest 1
+itm_civ_body_m_arab_vest_2|civ body m arab vest 2
+itm_civ_body_m_arab_vest_2_pl|civ body m arab vest 2
+itm_civ_body_m_arab_vest_3|civ body m arab vest 3
+itm_civ_body_m_arab_vest_3_pl|civ body m arab vest 3
+itm_civ_body_m_arab_armor_1|civ body m arab armor 1
+itm_civ_body_m_arab_armor_1_pl|civ body m arab armor 1
+itm_civ_body_m_shirt_1|civ body m shirt 1
+itm_civ_body_m_shirt_1_pl|civ body m shirt 1
+itm_civ_body_m_shirt_2|civ body m shirt 2
+itm_civ_body_m_shirt_2_pl|civ body m shirt 2
+itm_civ_body_m_shirt_3|civ body m shirt 3
+itm_civ_body_m_shirt_3_pl|civ body m shirt 3
+itm_civ_body_m_shirt_4|civ body m shirt 4
+itm_civ_body_m_shirt_4_pl|civ body m shirt 4
+itm_civ_body_m_shirt_5|civ body m shirt 5
+itm_civ_body_m_shirt_5_pl|civ body m shirt 5
+itm_civ_body_m_shirt_rich_1|civ body m shirt rich 1
+itm_civ_body_m_shirt_rich_1_pl|civ body m shirt rich 1
+itm_civ_body_m_shirt_rich_2|civ body m shirt rich 2
+itm_civ_body_m_shirt_rich_2_pl|civ body m shirt rich 2
+itm_civ_body_m_shirt_rich_3|civ body m shirt rich 3
+itm_civ_body_m_shirt_rich_3_pl|civ body m shirt rich 3
+itm_civ_body_m_shirt_rich_4|civ body m shirt rich 4
+itm_civ_body_m_shirt_rich_4_pl|civ body m shirt rich 4
+itm_civ_body_m_peasant_clothes_1|civ body m peasant clothes 1
+itm_civ_body_m_peasant_clothes_1_pl|civ body m peasant clothes 1
+itm_civ_body_m_padded_cloth_1|civ body m padded cloth 1
+itm_civ_body_m_padded_cloth_1_pl|civ body m padded cloth 1
+itm_civ_body_m_padded_cloth_3|civ body m padded cloth 3
+itm_civ_body_m_padded_cloth_3_pl|civ body m padded cloth 3
+itm_civ_body_m_nomad_robe_1|civ body m nomad robe 1
+itm_civ_body_m_nomad_robe_1_pl|civ body m nomad robe 1
+itm_civ_body_m_nomad_vest_1|civ body m nomad vest 1
+itm_civ_body_m_nomad_vest_1_pl|civ body m nomad vest 1
+itm_civ_body_m_nomad_fur_armor_1|civ body m nomad fur armor 1
+itm_civ_body_m_nomad_fur_armor_1_pl|civ body m nomad fur armor 1
+itm_civ_body_m_nomad_lam_l_1|civ body m nomad lam l 1
+itm_civ_body_m_nomad_lam_l_1_pl|civ body m nomad lam l 1
+itm_civ_body_m_nomad_lam_brown|civ body m nomad lam brown
+itm_civ_body_m_nomad_lam_brown_pl|civ body m nomad lam brown
+itm_civ_body_m_nomad_lam_white|civ body m nomad lam white
+itm_civ_body_m_nomad_lam_white_pl|civ body m nomad lam white
+itm_civ_body_m_nomad_lam_brass|civ body m nomad lam brass
+itm_civ_body_m_nomad_lam_brass_pl|civ body m nomad lam brass
+itm_civ_body_m_nomad_lam_black|civ body m nomad lam black
+itm_civ_body_m_nomad_lam_black_pl|civ body m nomad lam black
+itm_civ_body_m_nomad_lam_kuulan|civ body m nomad lam kuulan
+itm_civ_body_m_nomad_lam_kuulan_pl|civ body m nomad lam kuulan
+itm_civ_body_m_gamb_white|civ body m gamb white
+itm_civ_body_m_gamb_white_pl|civ body m gamb white
+itm_civ_body_m_gamb_grey|civ body m gamb grey
+itm_civ_body_m_gamb_grey_pl|civ body m gamb grey
+itm_civ_body_m_gamb_brown|civ body m gamb brown
+itm_civ_body_m_gamb_brown_pl|civ body m gamb brown
+itm_civ_body_m_gamb_blue|civ body m gamb blue
+itm_civ_body_m_gamb_blue_pl|civ body m gamb blue
+itm_civ_body_m_gamb_red|civ body m gamb red
+itm_civ_body_m_gamb_red_pl|civ body m gamb red
+itm_civ_body_m_gamb_striped|civ body m gamb striped
+itm_civ_body_m_gamb_striped_pl|civ body m gamb striped
+itm_civ_body_m_tabard_1|civ body m tabard 1
+itm_civ_body_m_tabard_1_pl|civ body m tabard 1
+itm_civ_body_m_tabard_2|civ body m tabard 2
+itm_civ_body_m_tabard_2_pl|civ body m tabard 2
+itm_civ_body_m_tabard_3|civ body m tabard 3
+itm_civ_body_m_tabard_3_pl|civ body m tabard 3
+itm_civ_body_m_tabard_4|civ body m tabard 4
+itm_civ_body_m_tabard_4_pl|civ body m tabard 4
+itm_civ_body_m_aketon_green_1|civ body m aketon green 1
+itm_civ_body_m_aketon_green_1_pl|civ body m aketon green 1
+itm_civ_body_m_noble_1|civ body m noble 1
+itm_civ_body_m_noble_1_pl|civ body m noble 1
+itm_civ_body_m_pino_tunic_1|civ body m pino tunic 1
+itm_civ_body_m_pino_tunic_1_pl|civ body m pino tunic 1
+itm_civ_body_m_pino_leather_fur_1|civ body m pino leather fur 1
+itm_civ_body_m_pino_leather_fur_1_pl|civ body m pino leather fur 1
+itm_civ_body_m_pino_leather_fur_2|civ body m pino leather fur 2
+itm_civ_body_m_pino_leather_fur_2_pl|civ body m pino leather fur 2
+itm_civ_body_m_pino_leather_1|civ body m pino leather 1
+itm_civ_body_m_pino_leather_1_pl|civ body m pino leather 1
+itm_civ_body_m_pino_leather_2|civ body m pino leather 2
+itm_civ_body_m_pino_leather_2_pl|civ body m pino leather 2
+itm_civ_body_m_pino_leather_3|civ body m pino leather 3
+itm_civ_body_m_pino_leather_3_pl|civ body m pino leather 3
+itm_civ_body_m_pino_leather_4|civ body m pino leather 4
+itm_civ_body_m_pino_leather_4_pl|civ body m pino leather 4
+itm_civ_body_m_pino_leather_5|civ body m pino leather 5
+itm_civ_body_m_pino_leather_5_pl|civ body m pino leather 5
+itm_civ_body_m_pino_leather_6|civ body m pino leather 6
+itm_civ_body_m_pino_leather_6_pl|civ body m pino leather 6
+itm_civ_body_m_rich_fur_1|civ body m rich fur 1
+itm_civ_body_m_rich_fur_1_pl|civ body m rich fur 1
+itm_civ_body_m_fur_coat_1|civ body m fur coat 1
+itm_civ_body_m_fur_coat_1_pl|civ body m fur coat 1
+itm_civ_body_m_fur_coat_rich_1|civ body m fur coat rich 1
+itm_civ_body_m_fur_coat_rich_1_pl|civ body m fur coat rich 1
+itm_civ_body_m_rawhide_coat_1|civ body m rawhide coat 1
+itm_civ_body_m_rawhide_coat_1_pl|civ body m rawhide coat 1
+itm_civ_body_m_peasant_fur_1|civ body m peasant fur 1
+itm_civ_body_m_peasant_fur_1_pl|civ body m peasant fur 1
+itm_civ_body_m_ragged_outfit_warm|civ body m ragged outfit warm
+itm_civ_body_m_ragged_outfit_warm_pl|civ body m ragged outfit warm
+itm_civ_body_m_fur_vest_1|civ body m fur vest 1
+itm_civ_body_m_fur_vest_1_pl|civ body m fur vest 1
+itm_civ_body_padded_armor_1|civ body padded armor 1
+itm_civ_body_padded_armor_1_pl|civ body padded armor 1
+itm_civ_body_padded_armor_2|civ body padded armor 2
+itm_civ_body_padded_armor_2_pl|civ body padded armor 2
+itm_civ_body_padded_armor_3|civ body padded armor 3
+itm_civ_body_padded_armor_3_pl|civ body padded armor 3
+itm_civ_body_padded_armor_4|civ body padded armor 4
+itm_civ_body_padded_armor_4_pl|civ body padded armor 4
+itm_civ_body_padded_armor_5|civ body padded armor 5
+itm_civ_body_padded_armor_5_pl|civ body padded armor 5
+itm_civ_body_padded_armor_6|civ body padded armor 6
+itm_civ_body_padded_armor_6_pl|civ body padded armor 6
+itm_civ_body_padded_armor_7|civ body padded armor 7
+itm_civ_body_padded_armor_7_pl|civ body padded armor 7
+itm_dplmc_coat_of_plates_red_constable|Constable Coat of Plates
+itm_dplmc_coat_of_plates_red_constable_pl|Constable Coat of Plates
+itm_civ_body_m_surcoat_1|civ body m surcoat 1
+itm_civ_body_m_surcoat_1_pl|civ body m surcoat 1
+itm_civ_body_m_surcoat_2|civ body m surcoat 2
+itm_civ_body_m_surcoat_2_pl|civ body m surcoat 2
+itm_civ_body_m_surcoat_3|civ body m surcoat 3
+itm_civ_body_m_surcoat_3_pl|civ body m surcoat 3
+itm_civ_body_m_surcoat_4|civ body m surcoat 4
+itm_civ_body_m_surcoat_4_pl|civ body m surcoat 4
+itm_civ_body_m_surcoat_5|civ body m surcoat 5
+itm_civ_body_m_surcoat_5_pl|civ body m surcoat 5
+itm_civ_body_m_surcoat_6|civ body m surcoat 6
+itm_civ_body_m_surcoat_6_pl|civ body m surcoat 6
+itm_civ_body_m_surcoat_7|civ body m surcoat 7
+itm_civ_body_m_surcoat_7_pl|civ body m surcoat 7
+itm_civ_body_m_surcoat_8|civ body m surcoat 8
+itm_civ_body_m_surcoat_8_pl|civ body m surcoat 8
+itm_civ_body_m_coat_of_plates_black|civ body m coat of plates black
+itm_civ_body_m_coat_of_plates_black_pl|civ body m coat of plates black
+itm_civ_body_m_coat_of_plates_blue|civ body m coat of plates blue
+itm_civ_body_m_coat_of_plates_blue_pl|civ body m coat of plates blue
+itm_civ_heraldic_tabard|civ heraldic tabard
+itm_civ_heraldic_tabard_pl|civ heraldic tabard
+itm_civ_heraldic_surcoat_heavy|civ heraldic surcoat heavy
+itm_civ_heraldic_surcoat_heavy_pl|civ heraldic surcoat heavy
+itm_civ_heraldic_surcoat|civ heraldic surcoat
+itm_civ_heraldic_surcoat_pl|civ heraldic surcoat
+itm_civ_heraldic_mail_with_tabard|civ heraldic mail with tabard
+itm_civ_heraldic_mail_with_tabard_pl|civ heraldic mail with tabard
+itm_civ_early_transitional_blue|civ early transitional blue
+itm_civ_early_transitional_blue_pl|civ early transitional blue
+itm_civ_early_transitional_white|civ early transitional white
+itm_civ_early_transitional_white_pl|civ early transitional white
+itm_civ_early_transitional_black|civ early transitional black
+itm_civ_early_transitional_black_pl|civ early transitional black
+itm_civ_early_transitional_pearl|civ early transitional pearl
+itm_civ_early_transitional_pearl_pl|civ early transitional pearl
+itm_civ_early_transitional_perisnified|civ early transitional perisnified
+itm_civ_early_transitional_perisnified_pl|civ early transitional perisnified
+itm_civ_twiligh_armor|civ twiligh armor
+itm_civ_twiligh_armor_pl|civ twiligh armor
+itm_civ_twiligh_armor_silver|civ twiligh armor silver
+itm_civ_twiligh_armor_silver_pl|civ twiligh armor silver
+itm_civ_noble_maccavian_armor_1|civ noble maccavian armor 1
+itm_civ_noble_maccavian_armor_1_pl|civ noble maccavian armor 1
+itm_civ_noble_maccavian_armor_2|civ noble maccavian armor 2
+itm_civ_noble_maccavian_armor_2_pl|civ noble maccavian armor 2
+itm_civ_kuyak_a|civ kuyak a
+itm_civ_kuyak_a_pl|civ kuyak a
+itm_civ_kuyak_b|civ kuyak b
+itm_civ_kuyak_b_pl|civ kuyak b
+itm_civ_sultan_armor|civ sultan armor
+itm_civ_sultan_armor_pl|civ sultan armor
+itm_civ_dorn_assasin_armor|civ dorn assasin armor
+itm_civ_dorn_assasin_armor_pl|civ dorn assasin armor
+itm_civ_huscarl_armour|civ huscarl armour
+itm_civ_huscarl_armour_pl|civ huscarl armour
+itm_civ_caped_byrnie|civ caped byrnie
+itm_civ_caped_byrnie_pl|civ caped byrnie
+itm_civ_west_guardsman|civ west guardsman
+itm_civ_west_guardsman_pl|civ west guardsman
+itm_civ_hakkon_plate_1|civ hakkon plate 1
+itm_civ_hakkon_plate_1_pl|civ hakkon plate 1
+itm_civ_hakkon_plate_2|civ hakkon plate 2
+itm_civ_hakkon_plate_2_pl|civ hakkon plate 2
+itm_civ_hakkon_plate_2_boots|civ hakkon plate 2 boots
+itm_civ_hakkon_plate_2_boots_pl|civ hakkon plate 2 boots
+itm_civ_elven_armor_0|civ elven armor 0
+itm_civ_elven_armor_0_pl|civ elven armor 0
+itm_civ_elven_armor_1|civ elven armor 1
+itm_civ_elven_armor_1_pl|civ elven armor 1
+itm_civ_elven_armor_2|civ elven armor 2
+itm_civ_elven_armor_2_pl|civ elven armor 2
+itm_civ_elven_armor_3|civ elven armor 3
+itm_civ_elven_armor_3_pl|civ elven armor 3
+itm_civ_elven_armor_4|civ elven armor 4
+itm_civ_elven_armor_4_pl|civ elven armor 4
+itm_civ_elven_armor_5|civ elven armor 5
+itm_civ_elven_armor_5_pl|civ elven armor 5
+itm_civ_fountain_guard_armor|civ fountain guard armor
+itm_civ_fountain_guard_armor_pl|civ fountain guard armor
+itm_civ_kaikoth_armor_1|civ kaikoth armor 1
+itm_civ_kaikoth_armor_1_pl|civ kaikoth armor 1
+itm_civ_kaikoth_armor_2|civ kaikoth armor 2
+itm_civ_kaikoth_armor_2_pl|civ kaikoth armor 2
+itm_civ_sut_armor_1|civ sut armor 1
+itm_civ_sut_armor_1_pl|civ sut armor 1
+itm_civ_aroulo_armor_1|civ aroulo armor 1
+itm_civ_aroulo_armor_1_pl|civ aroulo armor 1
+itm_civ_head_black_fem_cover_arab|civ head black fem cover arab
+itm_civ_head_black_fem_cover_arab_pl|civ head black fem cover arab
+itm_civ_head_brown_fem_cover_arab|civ head brown fem cover arab
+itm_civ_head_brown_fem_cover_arab_pl|civ head brown fem cover arab
+itm_civ_head_purple_fem_cover_arab|civ head purple fem cover arab
+itm_civ_head_purple_fem_cover_arab_pl|civ head purple fem cover arab
+itm_civ_head_arming_cap|civ head arming cap
+itm_civ_head_arming_cap_pl|civ head arming cap
+itm_civ_head_wimple_a|civ head wimple a
+itm_civ_head_wimple_a_pl|civ head wimple a
+itm_civ_head_wimple_b|civ head wimple b
+itm_civ_head_wimple_b_pl|civ head wimple b
+itm_civ_head_lady_hat|civ head lady hat
+itm_civ_head_lady_hat_pl|civ head lady hat
+itm_civ_head_lady_hat_b|civ head lady hat b
+itm_civ_head_lady_hat_b_pl|civ head lady hat b
+itm_civ_head_m_pilgrim_hood|civ head m pilgrim hood
+itm_civ_head_m_pilgrim_hood_pl|civ head m pilgrim hood
+itm_civ_head_m_hunter_hood|civ head m hunter hood
+itm_civ_head_m_hunter_hood_pl|civ head m hunter hood
+itm_civ_head_m_headcloth_1|civ head m headcloth 1
+itm_civ_head_m_headcloth_1_pl|civ head m headcloth 1
+itm_civ_head_m_headcloth_2|civ head m headcloth 2
+itm_civ_head_m_headcloth_2_pl|civ head m headcloth 2
+itm_civ_head_m_felt_cap_1|civ head m felt cap 1
+itm_civ_head_m_felt_cap_1_pl|civ head m felt cap 1
+itm_civ_head_m_woolen_cap_1|civ head m woolen cap 1
+itm_civ_head_m_woolen_cap_1_pl|civ head m woolen cap 1
+itm_civ_head_m_hood_1|civ head m hood 1
+itm_civ_head_m_hood_1_pl|civ head m hood 1
+itm_civ_head_m_padded_coif_1|civ head m padded coif 1
+itm_civ_head_m_padded_coif_1_pl|civ head m padded coif 1
+itm_civ_head_m_woolen_hood_1|civ head m woolen hood 1
+itm_civ_head_m_woolen_hood_1_pl|civ head m woolen hood 1
+itm_civ_head_m_hat_1|civ head m hat 1
+itm_civ_head_m_hat_1_pl|civ head m hat 1
+itm_civ_head_m_straw_hat_1|civ head m straw hat 1
+itm_civ_head_m_straw_hat_1_pl|civ head m straw hat 1
+itm_civ_head_m_arab_helmet_1|civ head m arab helmet 1
+itm_civ_head_m_arab_helmet_1_pl|civ head m arab helmet 1
+itm_civ_head_m_turban_1|civ head m turban 1
+itm_civ_head_m_turban_1_pl|civ head m turban 1
+itm_civ_head_m_turban_black_1|civ head m turban black 1
+itm_civ_head_m_turban_black_1_pl|civ head m turban black 1
+itm_civ_head_m_turban_black_2|civ head m turban black 2
+itm_civ_head_m_turban_black_2_pl|civ head m turban black 2
+itm_civ_head_m_turban_black_3|civ head m turban black 3
+itm_civ_head_m_turban_black_3_pl|civ head m turban black 3
+itm_civ_head_m_cwe_turban_black_1|civ head m cwe turban black 1
+itm_civ_head_m_cwe_turban_black_1_pl|civ head m cwe turban black 1
+itm_civ_head_m_cwe_turban_black_2|civ head m cwe turban black 2
+itm_civ_head_m_cwe_turban_black_2_pl|civ head m cwe turban black 2
+itm_civ_head_m_arab_helmet_2|civ head m arab helmet 2
+itm_civ_head_m_arab_helmet_2_pl|civ head m arab helmet 2
+itm_civ_head_m_full_turban_1|civ head m full turban 1
+itm_civ_head_m_full_turban_1_pl|civ head m full turban 1
+itm_civ_head_m_full_turban_2|civ head m full turban 2
+itm_civ_head_m_full_turban_2_pl|civ head m full turban 2
+itm_civ_head_m_fur_hat_1|civ head m fur hat 1
+itm_civ_head_m_fur_hat_1_pl|civ head m fur hat 1
+itm_civ_head_m_fur_hat_2|civ head m fur hat 2
+itm_civ_head_m_fur_hat_2_pl|civ head m fur hat 2
+itm_civ_head_m_fur_hat_3|civ head m fur hat 3
+itm_civ_head_m_fur_hat_3_pl|civ head m fur hat 3
+itm_civ_head_m_fur_hat_4|civ head m fur hat 4
+itm_civ_head_m_fur_hat_4_pl|civ head m fur hat 4
+itm_civ_head_m_nomad_cap_1|civ head m nomad cap 1
+itm_civ_head_m_nomad_cap_1_pl|civ head m nomad cap 1
+itm_civ_head_m_nomad_cap_3|civ head m nomad cap 3
+itm_civ_head_m_nomad_cap_3_pl|civ head m nomad cap 3
+itm_civ_head_m_leather_cap_1|civ head m leather cap 1
+itm_civ_head_m_leather_cap_1_pl|civ head m leather cap 1
+itm_civ_head_m_leather_cap_2|civ head m leather cap 2
+itm_civ_head_m_leather_cap_2_pl|civ head m leather cap 2
+itm_civ_head_m_leather_cap_3|civ head m leather cap 3
+itm_civ_head_m_leather_cap_3_pl|civ head m leather cap 3
+itm_civ_head_m_leather_cap_4|civ head m leather cap 4
+itm_civ_head_m_leather_cap_4_pl|civ head m leather cap 4
+itm_civ_head_m_leather_cap_nord|civ head m nomad cap nord
+itm_civ_head_m_leather_cap_nord_pl|civ head m nomad cap nord
+itm_civ_head_m_leather_cap_nord_1|civ head m nomad cap nord 1
+itm_civ_head_m_leather_cap_nord_1_pl|civ head m nomad cap nord 1
+itm_civ_head_m_nomad_cap_furred|civ head m nomad cap furred
+itm_civ_head_m_nomad_cap_furred_pl|civ head m nomad cap furred
+itm_civ_foot_wrapping_boots_1|civ foot wrapping boots 1
+itm_civ_foot_wrapping_boots_1_pl|civ foot wrapping boots 1
+itm_civ_foot_wrapping_boots_2|civ foot wrapping boots 2
+itm_civ_foot_wrapping_boots_2_pl|civ foot wrapping boots 2
+itm_civ_foot_ankle_boots_1|civ foot ankle boots 1
+itm_civ_foot_ankle_boots_1_pl|civ foot ankle boots 1
+itm_civ_foot_woolen_hose_1|civ foot woolen hose 1
+itm_civ_foot_woolen_hose_1_pl|civ foot woolen hose 1
+itm_civ_foot_woolen_hose_blue|civ foot woolen hose blue
+itm_civ_foot_woolen_hose_blue_pl|civ foot woolen hose blue
+itm_civ_foot_arab_boots_1|civ foot arab boots 1
+itm_civ_foot_arab_boots_1_pl|civ foot arab boots 1
+itm_civ_foot_arab_leather_boots_1|civ foot arab leather boots 1
+itm_civ_foot_arab_leather_boots_1_pl|civ foot arab leather boots 1
+itm_civ_foot_arab_leather_boots_2|civ foot arab leather boots 2
+itm_civ_foot_arab_leather_boots_2_pl|civ foot arab leather boots 2
+itm_civ_foot_arab_leather_boots_black|civ foot arab leather boots black
+itm_civ_foot_arab_leather_boots_black_pl|civ foot arab leather boots black
+itm_civ_foot_nomad_leather_boots_black|civ foot nomad leather boots black
+itm_civ_foot_nomad_leather_boots_black_pl|civ foot nomad leather boots black
+itm_civ_foot_nomad_boots_1|civ foot nomad boots 1
+itm_civ_foot_nomad_boots_1_pl|civ foot nomad boots 1
+itm_civ_foot_ankle_boots_brown|civ foot ankle boots brown
+itm_civ_foot_ankle_boots_brown_pl|civ foot ankle boots brown
+itm_civ_foot_hunter_boots_1|civ foot hunter boots 1
+itm_civ_foot_hunter_boots_1_pl|civ foot hunter boots 1
+itm_civ_foot_hide_boots_1|civ foot hide boots 1
+itm_civ_foot_hide_boots_1_pl|civ foot hide boots 1
+itm_civ_foot_leather_boots_1|civ foot leather boots 1
+itm_civ_foot_leather_boots_1_pl|civ foot leather boots 1
+itm_civ_foot_leather_boots_2|civ foot leather boots 2
+itm_civ_foot_leather_boots_2_pl|civ foot leather boots 2
+itm_civ_foot_furred_boots_1|civ foot furred boots 1
+itm_civ_foot_furred_boots_1_pl|civ foot furred boots 1
+itm_civ_foot_rich_boots_red|civ foot rich boots red
+itm_civ_foot_rich_boots_red_pl|civ foot rich boots red
+itm_civ_foot_rich_boots_black|civ foot rich boots black
+itm_civ_foot_rich_boots_black_pl|civ foot rich boots black
+itm_civ_foot_cavalry_boots_red|civ foot cavalry boots red
+itm_civ_foot_cavalry_boots_red_pl|civ foot cavalry boots red
+itm_civ_foot_cavalry_boots_black|civ foot cavalry boots black
+itm_civ_foot_cavalry_boots_black_pl|civ foot cavalry boots black
+itm_civ_foot_suneate_boots_red|civ foot suneate boots red
+itm_civ_foot_suneate_boots_red_pl|civ foot suneate boots red
+itm_civ_foot_suneate_boots_black|civ foot suneate boots black
+itm_civ_foot_suneate_boots_black_pl|civ foot suneate boots black
+itm_civ_foot_highlander_boots|civ foot highlander boots
+itm_civ_foot_highlander_boots_pl|civ foot highlander boots
+itm_civ_foot_plated_boots_1|civ foot plated boots 1
+itm_civ_foot_plated_boots_1_pl|civ foot plated boots 1
+itm_civ_foot_plated_boots_2|civ foot plated boots 2
+itm_civ_foot_plated_boots_2_pl|civ foot plated boots 2
+itm_civ_foot_plated_boots_black|civ foot plated boots black
+itm_civ_foot_plated_boots_black_pl|civ foot plated boots black
+itm_civ_foot_plated_boots_arab|civ foot plated boots arab
+itm_civ_foot_plated_boots_arab_pl|civ foot plated boots arab
+itm_civ_foot_cavalry_boots_1|civ foot cavalry boots 1
+itm_civ_foot_cavalry_boots_1_pl|civ foot cavalry boots 1
+itm_civ_foot_mail_boots_1|civ foot mail boots 1
+itm_civ_foot_mail_boots_1_pl|civ foot mail boots 1
+itm_civ_foot_ornate_boots_1|civ foot ornate boots 1
+itm_civ_foot_ornate_boots_1_pl|civ foot ornate boots 1
+itm_civ_foot_elven_boots_green|civ foot elven boots green
+itm_civ_foot_elven_boots_green_pl|civ foot elven boots green
+itm_civ_foot_imperial_boots_m|civ foot imperial boots m
+itm_civ_foot_imperial_boots_m_pl|civ foot imperial boots m
+itm_civ_foot_imperial_boots_f|civ foot imperial boots f
+itm_civ_foot_imperial_boots_f_pl|civ foot imperial boots f
+itm_merchant_outfit|상인의 의복
+itm_merchant_outfit_pl|상인의 의복
+itm_robe|치유사의 로브
+itm_robe_pl|치유사의 로브
+itm_whiterobe|하얀 로브
+itm_whiterobe_pl|하얀 로브
+itm_blue_dress|파란 드레스
+itm_blue_dress_pl|파란 드레스
+itm_brown_dress|갈색 드레스
+itm_brown_dress_pl|갈색 드레스
+itm_dress|드레스
+itm_dress_pl|드레스
+itm_green_dress|초록 드레스
+itm_green_dress_pl|초록 드레스
+itm_peasant_dress|농민 드레스
+itm_peasant_dress_pl|농민 드레스
+itm_red_dress|붉은 드레스
+itm_red_dress_pl|붉은 드레스
+itm_sarranid_common_dress|사막 드레스
+itm_sarranid_common_dress_pl|사막 드레스
+itm_sarranid_common_dress_b|사막 드레스
+itm_sarranid_common_dress_b_pl|사막 드레스
+itm_sarranid_lady_dress|사막 숙녀의 드레스
+itm_sarranid_lady_dress_pl|사막 숙녀의 드레스
+itm_sarranid_lady_dress_b|사막 숙녀의 드레스
+itm_sarranid_lady_dress_b_pl|사막 숙녀의 드레스
+itm_woolen_dress|모직 드레스
+itm_woolen_dress_pl|모직 드레스
+itm_court_dress|궁정 드레스
+itm_court_dress_pl|궁정 드레스
+itm_khergit_lady_dress|드라하란 숙녀 드레스
+itm_khergit_lady_dress_pl|드라하란 숙녀 드레스
+itm_lady_dress_ruby|숙녀 드레스
+itm_lady_dress_ruby_pl|숙녀 드레스
+itm_lady_dress_green|숙녀 드레스
+itm_lady_dress_green_pl|숙녀 드레스
+itm_lady_dress_blue|숙녀 드레스
+itm_lady_dress_blue_pl|숙녀 드레스
+itm_new_dress_a|파란 숙녀 드레스
+itm_new_dress_a_pl|파란 숙녀 드레스
+itm_new_dress_b|검은 숙녀 드레스
+itm_new_dress_b_pl|검은 숙녀 드레스
+itm_new_dress_c|갈색 숙녀 드레스
+itm_new_dress_c_pl|갈색 숙녀 드레스
+itm_new_dress_d|보라색 숙녀 드레스
+itm_new_dress_d_pl|보라색 숙녀 드레스
+itm_new_dress_f|어두운 보라색 숙녀 드레스
+itm_new_dress_f_pl|어두운 보라색 숙녀 드레스
+itm_khergit_lady_dress_b|드라하라 숙녀 가죽 드레스
+itm_khergit_lady_dress_b_pl|드라하라 숙녀 가죽 드레스
+itm_bride_dress|신부 드레스
+itm_bride_dress_pl|신부 드레스
+itm_bride_crown|화관
+itm_bride_crown_pl|화관
+itm_bride_shoes|신부 신발
+itm_bride_shoes_pl|신부 신발
+itm_lederhosen|가죽 호슨
+itm_lederhosen_pl|가죽 호슨
+itm_nobleman_outfit|귀족 의복
+itm_nobleman_outfit_pl|귀족 의복
+itm_rich_outfit|부유층 의복
+itm_rich_outfit_pl|부유층 의복
+itm_courtly_outfit|정장
+itm_courtly_outfit_pl|정장
+itm_fur_coat_2|귀족의 모피 외투
+itm_fur_coat_2_pl|귀족의 모피 외투
+itm_caravan_armor_a|약초상의 옷
+itm_caravan_armor_a_pl|약초상의 옷
+itm_arab_bandit_a|엘린토란 귀족 복장
+itm_arab_bandit_a_pl|엘린토란 귀족 복장
+itm_taureg_armor|귀족의 빨간 정장
+itm_taureg_armor_pl|귀족의 빨간 정장
+itm_linen_tunic|리넨 튜닉
+itm_linen_tunic_pl|리넨 튜닉
+itm_red_shirt|붉은 셔츠
+itm_red_shirt_pl|붉은 셔츠
+itm_sarranid_cloth_robe|해진 로브
+itm_sarranid_cloth_robe_pl|해진 로브
+itm_sarranid_cloth_robe_b|해진 로브
+itm_sarranid_cloth_robe_b_pl|해진 로브
+itm_coarse_tunic|튜닉과 조끼
+itm_coarse_tunic_pl|튜닉과 조끼
+itm_green_tunic|녹색 튜닉
+itm_green_tunic_pl|녹색 튜닉
+itm_blue_tunic|청색 튜닉
+itm_blue_tunic_pl|청색 튜닉
+itm_red_tunic|빨간 튜닉
+itm_red_tunic_pl|빨간 튜닉
+itm_tunic_with_green_cape|초록 망토 달린 튜닉
+itm_tunic_with_green_cape_pl|초록 망토 달린 튜닉
+itm_nomad_robe|유목민 로브
+itm_nomad_robe_pl|유목민 로브
+itm_beduin_armor_a|사막 도적의 옷
+itm_beduin_armor_a_pl|사막 도적의 옷
+itm_pelt_coat|털가죽 외투
+itm_pelt_coat_pl|털가죽 외투
+itm_ao_linh2_l|병사의 상의
+itm_ao_linh2_l_pl|병사의 상의
+itm_ao_linh2_n|병사의 파란 상의
+itm_ao_linh2_n_pl|병사의 파란 상의
+itm_arab_bandit_d|사막 상인의 복장
+itm_arab_bandit_d_pl|사막 상인의 복장
+itm_peasant_leather_ls|농민 상의
+itm_peasant_leather_ls_pl|농민 상의
+itm_steppe_armor|대초원 옷
+itm_steppe_armor_pl|대초원 옷
+itm_tabard|타바드
+itm_tabard_pl|타바드
+itm_heraldic_tabard|문장 타바드
+itm_heraldic_tabard_pl|문장 타바드
+itm_leather_jacket|가죽 상의
+itm_leather_jacket_pl|가죽 상의
+itm_beduin_armor_c|드라하란 부족민의 복장
+itm_beduin_armor_c_pl|드라하란 부족민의 복장
+itm_pilgrim_disguise|순례자 의복
+itm_pilgrim_disguise_pl|순례자 의복
+itm_ragged_outfit|누더기옷
+itm_ragged_outfit_pl|누더기옷
+itm_leather_vest|가죽 조끼
+itm_leather_vest_pl|가죽 조끼
+itm_padded_jack|패딩 잭
+itm_padded_jack_pl|패딩 잭
+itm_nomad_armor|유목민 갑옷
+itm_nomad_armor_pl|유목민 갑옷
+itm_rawhide_coat|날가죽 코트
+itm_rawhide_coat_pl|날가죽 코트
+itm_padded_cloth|아케톤
+itm_padded_cloth_pl|아케톤
+itm_turk_bandit_a|검은 아케톤
+itm_turk_bandit_a_pl|검은 아케톤
+itm_peasant_leather_b|가죽 상의
+itm_peasant_leather_b_pl|가죽 상의
+itm_leather_jerkin|가죽 조끼
+itm_leather_jerkin_pl|가죽 조끼
+itm_new_rawhide_coat_a|날가죽 외투
+itm_new_rawhide_coat_a_pl|날가죽 외투
+itm_gambeson|갬비슨
+itm_gambeson_pl|갬비슨
+itm_leather_armor|가죽 갑옷
+itm_leather_armor_pl|가죽 갑옷
+itm_wei_leather_vest_a|모피 상의
+itm_wei_leather_vest_a_pl|모피 상의
+itm_wei_xiadi_rod_padded_cloth|녹색 아케톤
+itm_wei_xiadi_rod_padded_cloth_pl|녹색 아케톤
+itm_padded_leather|솜넣은 가죽옷
+itm_padded_leather_pl|솜넣은 가죽옷
+itm_rough_leather_6|거친 가죽옷
+itm_rough_leather_6_pl|거친 가죽옷
+itm_ao_vai_2|가벼운 천 조끼
+itm_ao_vai_2_pl|가벼운 천 조끼
+itm_ao_vai_2_l|녹색 천 조끼
+itm_ao_vai_2_l_pl|녹색 천 조끼
+itm_ao_vai_2_x|겔다린 조끼
+itm_ao_vai_2_x_pl|겔다린 조끼
+itm_fur_coat|모피 외투
+itm_fur_coat_pl|모피 외투
+itm_khergit_armor|잔 대초원 옷
+itm_khergit_armor_pl|잔 대초원 옷
+itm_light_leather|가벼운 가죽옷
+itm_light_leather_pl|가벼운 가죽옷
+itm_black_steppe_armor|검은 라멜라 가죽옷
+itm_black_steppe_armor_pl|검은 라멜라 가죽옷
+itm_rough_paddedleather_spiked|거친 솜넣은 가시돋은 가죽옷
+itm_rough_paddedleather_spiked_pl|거친 솜넣은 가시돋은 가죽옷
+itm_blue_gambeson|파란 갬비슨
+itm_blue_gambeson_pl|파란 갬비슨
+itm_rough_leather_2|거친 가죽옷
+itm_rough_leather_2_pl|거친 가죽옷
+itm_nomad_vest|유목민 조끼
+itm_nomad_vest_pl|유목민 조끼
+itm_novici_templar|솜넣은 옷
+itm_novici_templar_pl|솜넣은 옷
+itm_aketon_green|솜넣은 의복
+itm_aketon_green_pl|솜넣은 의복
+itm_heraldic_padded_cloth|문장 솜넣은 옷
+itm_heraldic_padded_cloth_pl|문장 솜넣은 옷
+itm_banded_leather_a|줄무늬 가죽 갑옷
+itm_banded_leather_a_pl|줄무늬 가죽 갑옷
+itm_rough_leather_fur|거친 털 가죽옷
+itm_rough_leather_fur_pl|거친 털 가죽옷
+itm_armor_17|일리카 갈색 솜넣은 갑옷
+itm_armor_17_pl|일리카 갈색 솜넣은 갑옷
+itm_red_gambeson|갈색 갬비슨
+itm_red_gambeson_pl|갈색 갬비슨
+itm_lamellar_armor_light|가벼운 라멜라 갑옷
+itm_lamellar_armor_light_pl|가벼운 라멜라 갑옷
+itm_banded_leather_c|줄무늬 가죽 갑옷
+itm_banded_leather_c_pl|줄무늬 가죽 갑옷
+itm_ped_padd_lamellar_grey|갈색과 하얀색 가죽 솜넣은 갑옷
+itm_ped_padd_lamellar_grey_pl|갈색과 하얀색 가죽 솜넣은 갑옷
+itm_a_h4|고지대 상인 복장
+itm_a_h4_pl|고지대 상인 복장
+itm_xena_armor|헤이르 드레스
+itm_xena_armor_pl|헤이르 드레스
+itm_peasant_leather_padded|보강한 가죽 재킷
+itm_peasant_leather_padded_pl|보강한 가죽 재킷
+itm_black_lamellar_armor_light|검은색 가벼운 라멜라 갑옷
+itm_black_lamellar_armor_light_pl|검은색 가벼운 라멜라 갑옷
+itm_novici_hospitaller|검은 솜넣은 옷
+itm_novici_hospitaller_pl|검은 솜넣은 옷
+itm_banded_leather_a_spiked|가시돋힌 가죽 갑옷
+itm_banded_leather_a_spiked_pl|가시돋힌 가죽 갑옷
+itm_ped_padded1_brown|갈색 솜넣은 갑옷
+itm_ped_padded1_brown_pl|갈색 솜넣은 갑옷
+itm_rough_tunic_spiked|거친 페리스노 튜닉
+itm_rough_tunic_spiked_pl|거친 페리스노 튜닉
+itm_ped_padd_lamellar_grey2|갈색과 노란색 가죽 보강한 갑옷
+itm_ped_padd_lamellar_grey2_pl|갈색과 노란색 가죽 보강한 갑옷
+itm_bronn_armor|녹색 가죽 정장
+itm_bronn_armor_pl|녹색 가죽 정장
+itm_dethertir_armor_b|도적의 옷
+itm_dethertir_armor_b_pl|도적의 옷
+itm_wei_xiadi_kher_lamellar_vest02|갈색 라멜라 갑옷
+itm_wei_xiadi_kher_lamellar_vest02_pl|갈색 라멜라 갑옷
+itm_peasant_leather_plate_a|농민의 장갑댄 가죽옷
+itm_peasant_leather_plate_a_pl|농민의 장갑댄 가죽옷
+itm_banded_leather_b_spiked|가시돋힌 가죽 갑옷
+itm_banded_leather_b_spiked_pl|가시돋힌 가죽 갑옷
+itm_ped_padd_lamellar_blackl|노란 가죽 보강한 갑옷
+itm_ped_padd_lamellar_blackl_pl|노란 가죽 보강한 갑옷
+itm_ped_padded1_grey|회색 솜넣은 갑옷
+itm_ped_padded1_grey_pl|회색 솜넣은 갑옷
+itm_wei_xiadi_kher_ragged_outfit|가벼운 가죽과 모피 갑옷
+itm_wei_xiadi_kher_ragged_outfit_pl|가벼운 가죽과 모피 갑옷
+itm_banded_leather_b|줄무늬 가죽 갑옷
+itm_banded_leather_b_pl|줄무늬 가죽 갑옷
+itm_black_nomad_armor|검은 모피 갑옷
+itm_black_nomad_armor_pl|검은 모피 갑옷
+itm_lamellar_vest|라멜라 조끼
+itm_lamellar_vest_pl|라멜라 조끼
+itm_sarranid_leather_armor|사막 가죽 갑옷
+itm_sarranid_leather_armor_pl|사막 가죽 갑옷
+itm_rough_spiked_fur|로브트로치틴 가시돋은 모피 갑옷
+itm_rough_spiked_fur_pl|로브트로치틴 가시돋은 모피 갑옷
+itm_demonrobe|검은 로브
+itm_demonrobe_pl|검은 로브
+itm_heavy_armor_arabs_c_1|가벼운 삭카르 비늘옷
+itm_heavy_armor_arabs_c_1_pl|가벼운 삭카르 비늘옷
+itm_nobleman_outfit_c|귀족의 모피 외투
+itm_nobleman_outfit_c_pl|귀족의 모피 외투
+itm_a_tribune|검투사의 가죽 갑옷
+itm_a_tribune_pl|검투사의 가죽 갑옷
+itm_ped_padd_lamellar_whitel|무거운 노란 가죽 보강한 갑옷
+itm_ped_padd_lamellar_whitel_pl|무거운 노란 가죽 보강한 갑옷
+itm_black_lamellar_vest|검은 라멜라 조끼
+itm_black_lamellar_vest_pl|검은 라멜라 조끼
+itm_peasant_lamellar_ls|녹색 농부의 라멜라옷
+itm_peasant_lamellar_ls_pl|녹색 농부의 라멜라옷
+itm_arabian_light_armor_a|드라하란 전사의 복장
+itm_arabian_light_armor_a_pl|드라하란 전사의 복장
+itm_rough_leather_ringed|거친 고리 가죽옷
+itm_rough_leather_ringed_pl|거친 고리 가죽옷
+itm_peasant_leather_plate_b|철판댄 가죽옷
+itm_peasant_leather_plate_b_pl|철판댄 가죽옷
+itm_light_mail_and_plate|가벼운 사슬과 철판
+itm_light_mail_and_plate_pl|가벼운 사슬과 철판
+itm_lamellar_vest_khergit|드라하란 라멜라 조끼
+itm_lamellar_vest_khergit_pl|드라하란 라멜라 조끼
+itm_new_studded_leather|녹색 단추가 많은 가죽 외투
+itm_new_studded_leather_pl|녹색 단추가 많은 가죽 외투
+itm_arab_bandit_c|겔다린 궁수의 갑옷
+itm_arab_bandit_c_pl|겔다린 궁수의 갑옷
+itm_rough_mail_spiked|로브트로치틴 거친 가시돋은 사슬옷
+itm_rough_mail_spiked_pl|로브트로치틴 거친 가시돋은 사슬옷
+itm_rough_leatherplate_spiked|거친 가시돋은 철판댄 가죽옷
+itm_rough_leatherplate_spiked_pl|거친 가시돋은 철판댄 가죽옷
+itm_sarranid_cavalry_robe|기병 로브
+itm_sarranid_cavalry_robe_pl|기병 로브
+itm_armor_archer_saracin_5|드라하라 궁병의 복장
+itm_armor_archer_saracin_5_pl|드라하라 궁병의 복장
+itm_dethertir_armor_c|도적 갑옷
+itm_dethertir_armor_c_pl|도적 갑옷
+itm_rough_spiked_smallrings|로브트로치틴 작은 고리갑옷
+itm_rough_spiked_smallrings_pl|로브트로치틴 작은 고리갑옷
+itm_giap_viet3|갈색 비늘 상의
+itm_giap_viet3_pl|갈색 비늘 상의
+itm_ped_padd_lamellar_narrowd|무거운 가죽 보강한 갑옷
+itm_ped_padd_lamellar_narrowd_pl|무거운 가죽 보강한 갑옷
+itm_lorien_archer|엘린토란 궁수의 갑옷
+itm_lorien_archer_pl|엘린토란 궁수의 갑옷
+itm_studded_leather_coat|단추달린 가죽 외투
+itm_studded_leather_coat_pl|단추달린 가죽 외투
+itm_dethertir_armor_g|정찰병의 복장
+itm_dethertir_armor_g_pl|정찰병의 복장
+itm_heraldic_mail_with_tunic_b|문장 가벼운 사슬옷
+itm_heraldic_mail_with_tunic_b_pl|문장 가벼운 사슬옷
+itm_turk_bandit_c|하콘 민병대 갑옷
+itm_turk_bandit_c_pl|하콘 민병대 갑옷
+itm_wei_xiadi_scale_armor02|가벼운 빨간 비늘 갑옷
+itm_wei_xiadi_scale_armor02_pl|가벼운 빨간 비늘 갑옷
+itm_shadow_outfit_a|가벼운 그림자 갑옷
+itm_shadow_outfit_a_pl|가벼운 그림자 갑옷
+itm_rough_tunic_mailed|거친 쇠사슬 튜닉
+itm_rough_tunic_mailed_pl|거친 쇠사슬 튜닉
+itm_rough_spiked_rings|로브트로치틴 가시돋은 고리갑옷
+itm_rough_spiked_rings_pl|로브트로치틴 가시돋은 고리갑옷
+itm_peasant_leather_mail_ls|가죽 사슬옷
+itm_peasant_leather_mail_ls_pl|가죽 사슬옷
+itm_lamellar_vest_brass|황동 라멜라 조끼
+itm_lamellar_vest_brass_pl|황동 라멜라 조끼
+itm_tribal_warrior_outfit|겨울 전사의 복장
+itm_tribal_warrior_outfit_pl|겨울 전사의 복장
+itm_arabian_light_armor_c|붉은 드라하란 로브
+itm_arabian_light_armor_c_pl|붉은 드라하란 로브
+itm_haubergeon|호버즌
+itm_haubergeon_pl|호버즌
+itm_peasant_leather_scale_2|가죽 비늘 갑옷
+itm_peasant_leather_scale_2_pl|가죽 비늘 갑옷
+itm_rough_leather_plates_ring|로브트로치틴 고리 철갑
+itm_rough_leather_plates_ring_pl|로브트로치틴 고리 철갑
+itm_lamellar_armor_f|싸구려 라멜라 갑옷
+itm_lamellar_armor_f_pl|싸구려 라멜라 갑옷
+itm_hakkon_noble_outfit|하콘 귀족 복장
+itm_hakkon_noble_outfit_pl|하콘 귀족 복장
+itm_tribune_b|검투사의 가죽과 금속 갑옷
+itm_tribune_b_pl|검투사의 가죽과 금속 갑옷
+itm_armor_43|민병대 사슬옷
+itm_armor_43_pl|민병대 사슬옷
+itm_armor_14|하얀 사슬 갑옷
+itm_armor_14_pl|하얀 사슬 갑옷
+itm_new_brigandine_a|갈색 사슬 브리간딘
+itm_new_brigandine_a_pl|갈색 사슬 브리간딘
+itm_giap_viet4|비늘 언더 재킷
+itm_giap_viet4_pl|비늘 언더 재킷
+itm_shadow_outfit_b|그림자 갑옷과 어깨 보호대
+itm_shadow_outfit_b_pl|그림자 갑옷과 어깨 보호대
+itm_rough_leather_metal_plates|로브트로치틴 가죽 금속판갑
+itm_rough_leather_metal_plates_pl|로브트로치틴 가죽 금속판갑
+itm_armor_archer_saracin_4|드라하란 전사들의 복장
+itm_armor_archer_saracin_4_pl|드라하란 전사들의 복장
+itm_peasant_leather_ring_ls|로브트로치틴 고리 가죽옷
+itm_peasant_leather_ring_ls_pl|로브트로치틴 고리 가죽옷
+itm_riverlands_freylight|궁병의 사슬 갑옷
+itm_riverlands_freylight_pl|궁병의 사슬 갑옷
+itm_armor_marathascaleii|하콘 무거운 가죽옷
+itm_armor_marathascaleii_pl|하콘 무거운 가죽옷
+itm_mail_shirt|사슬 셔츠
+itm_mail_shirt_pl|사슬 셔츠
+itm_mail_with_tunic_green|페리스노 사슬갑과 튜닉
+itm_mail_with_tunic_green_pl|페리스노 사슬갑과 튜닉
+itm_mail_with_tunic_red|사슬갑과 튜닉
+itm_mail_with_tunic_red_pl|사슬갑과 튜닉
+itm_mail_with_tunic_blue|파란 사슬갑과 튜닉
+itm_mail_with_tunic_blue_pl|파란 사슬갑과 튜닉
+itm_heraldic_mail_with_tabard|문장 사슬옷과 타바드
+itm_heraldic_mail_with_tabard_pl|문장 사슬옷과 타바드
+itm_banded_leather_b_mailed|겔다린 사슬과 가죽 갑옷
+itm_banded_leather_b_mailed_pl|겔다린 사슬과 가죽 갑옷
+itm_shadow_outfit_c|그림자 갑옷과 무거운 어깨 보호대
+itm_shadow_outfit_c_pl|그림자 갑옷과 무거운 어깨 보호대
+itm_sarranid_mail_shirt|사막 사슬 셔츠
+itm_sarranid_mail_shirt_pl|사막 사슬 셔츠
+itm_rough_ring_leather|로브트로치틴 거친 고리 가죽옷
+itm_rough_ring_leather_pl|로브트로치틴 거친 고리 가죽옷
+itm_byrnie|비르니
+itm_byrnie_pl|비르니
+itm_giap_viet1_d|비늘 재킷
+itm_giap_viet1_d_pl|비늘 재킷
+itm_brigandine_red|브리간딘
+itm_brigandine_red_pl|브리간딘
+itm_heavy_armor_arabs_a|파란 드라하란 조끼
+itm_heavy_armor_arabs_a_pl|파란 드라하란 조끼
+itm_wei_xiadi_kher_lamellar_vest01|갈색 라멜라 조끼
+itm_wei_xiadi_kher_lamellar_vest01_pl|갈색 라멜라 조끼
+itm_wei_xiadi_swa_tabard|궁정 타바드
+itm_wei_xiadi_swa_tabard_pl|궁정 타바드
+itm_assn_armor_female|기사의 파멸 갑옷
+itm_assn_armor_female_pl|기사의 파멸 갑옷
+itm_xenoargh_new_female_armor_green01|여성용 녹색 가벼운 갑옷
+itm_xenoargh_new_female_armor_green01_pl|여성용 녹색 가벼운 갑옷
+itm_xenoargh_new_female_armor_orange03|우쿤두 암호랑이의 판금갑
+itm_xenoargh_new_female_armor_orange03_pl|우쿤두 암호랑이의 판금갑
+itm_xenoargh_new_female_armor_blue02|여성용 청색 무거운 판금갑
+itm_xenoargh_new_female_armor_blue02_pl|여성용 청색 무거운 판금갑
+itm_scale_armor|비늘 갑옷
+itm_scale_armor_pl|비늘 갑옷
+itm_cuir_bouilli|단단한 가죽 갑옷
+itm_cuir_bouilli_pl|단단한 가죽 갑옷
+itm_rough_macle_ringed|로브트로치틴 마클 고리갑
+itm_rough_macle_ringed_pl|로브트로치틴 마클 고리갑
+itm_rough_mail_coat|궁병의 녹색 사슬 외투
+itm_rough_mail_coat_pl|궁병의 녹색 사슬 외투
+itm_rough_mail_coat_2|로브트로치틴 가슬 외투
+itm_rough_mail_coat_2_pl|로브트로치틴 가슬 외투
+itm_black_tribal_outfit|검은 겨울용 복장
+itm_black_tribal_outfit_pl|검은 겨울용 복장
+itm_heavy_armor_arabs_f_1|니혼니안 대초원 갑옷
+itm_heavy_armor_arabs_f_1_pl|니혼니안 대초원 갑옷
+itm_armored_tabard_red|자주색 장갑댄 타바드
+itm_armored_tabard_red_pl|자주색 장갑댄 타바드
+itm_brass_byrnie|브라스 비르니
+itm_brass_byrnie_pl|브라스 비르니
+itm_giap_viet2_l|비늘 정장
+itm_giap_viet2_l_pl|비늘 정장
+itm_armor_18|일리카 기수들의 보강한 갑옷
+itm_armor_18_pl|일리카 기수들의 보강한 갑옷
+itm_rough_smallring_fured|로브트로치틴 모피 고리옷
+itm_rough_smallring_fured_pl|로브트로치틴 모피 고리옷
+itm_banded_leather_c_mailed|부유한 쇠사슬 가죽 갑옷
+itm_banded_leather_c_mailed_pl|부유한 쇠사슬 가죽 갑옷
+itm_heraldic_tabard_heavy|무거운 문장 타바드
+itm_heraldic_tabard_heavy_pl|무거운 문장 타바드
+itm_heavy_armor_arabs_f|사막 전사의 갑옷
+itm_heavy_armor_arabs_f_pl|사막 전사의 갑옷
+itm_heavy_armor_arabs_c|무거운 삭카르 비늘옷
+itm_heavy_armor_arabs_c_pl|무거운 삭카르 비늘옷
+itm_rathos_surcoat_redyellow|믿음의 제자의 서코트
+itm_rathos_surcoat_redyellow_pl|믿음의 제자의 서코트
+itm_haubergeon_brass|브라스 호버즌
+itm_haubergeon_brass_pl|브라스 호버즌
+itm_armor_ca_viji|코끼리 기수의 갑옷
+itm_armor_ca_viji_pl|코끼리 기수의 갑옷
+itm_lorien_armor_a|코끼리 기수의 갑옷
+itm_lorien_armor_a_pl|코끼리 기수의 갑옷
+itm_leather_swordsman_2|저격수의 가죽과 사슬 갑옷
+itm_leather_swordsman_2_pl|저격수의 가죽과 사슬 갑옷
+itm_armored_tabard_green|페리스노안 장갑댄 타바드
+itm_armored_tabard_green_pl|페리스노안 장갑댄 타바드
+itm_heavy_armor_arabs_b|주황색 드라하란 갑옷
+itm_heavy_armor_arabs_b_pl|주황색 드라하란 갑옷
+itm_heavy_armor_arabs_d|하얀 대초원 라멜라옷
+itm_heavy_armor_arabs_d_pl|하얀 대초원 라멜라옷
+itm_rathos_surcoat_halfred|빨간색과 하얀색의 사슬옷 껴입은 서코트
+itm_rathos_surcoat_halfred_pl|빨간색과 하얀색의 사슬옷 껴입은 서코트
+itm_wei_xiadi_mail_shirt02|무거운 빨간 사슬 셔츠
+itm_wei_xiadi_mail_shirt02_pl|무거운 빨간 사슬 셔츠
+itm_black_mail_armor|검은 사슬 갑옷
+itm_black_mail_armor_pl|검은 사슬 갑옷
+itm_mail_with_surcoat|사슬과 서코트
+itm_mail_with_surcoat_pl|사슬과 서코트
+itm_mail_hauberk|사슬 호버크
+itm_mail_hauberk_pl|사슬 호버크
+itm_amored_tabard_red_crown|장갑댄 타바드와 왕관
+itm_amored_tabard_red_crown_pl|장갑댄 타바드와 왕관
+itm_kuyak_b|쿠야크
+itm_kuyak_b_pl|쿠야크
+itm_heraldic_cuir_bouilli|문장 강화 가죽옷
+itm_heraldic_cuir_bouilli_pl|문장 강화 가죽옷
+itm_new_banded_armor|초록 줄무늬 갑옷
+itm_new_banded_armor_pl|초록 줄무늬 갑옷
+itm_rathos_surcoat_halfblue|하프블루 서코트
+itm_rathos_surcoat_halfblue_pl|하프블루 서코트
+itm_dethertir_armor_a|약탈자의 서코트 걸친 사슬옷
+itm_dethertir_armor_a_pl|약탈자의 서코트 걸친 사슬옷
+itm_armor_medium_tyrk_b|가벼운 모스루 비늘옷
+itm_armor_medium_tyrk_b_pl|가벼운 모스루 비늘옷
+itm_highlander_3_1|고산지대 갑옷
+itm_highlander_3_1_pl|고산지대 갑옷
+itm_arabian_armor_b|가벼운 잔 라멜라옷
+itm_arabian_armor_b_pl|가벼운 잔 라멜라옷
+itm_armor_medium_tyrk_a|모래언덕 기수의 갑옷
+itm_armor_medium_tyrk_a_pl|모래언덕 기수의 갑옷
+itm_giap_viet5|패딩 미늘 정장
+itm_giap_viet5_pl|패딩 미늘 정장
+itm_wei_xiadi_swa_surcoat_v|톨라니안 서코트와 사슬옷
+itm_wei_xiadi_swa_surcoat_v_pl|톨라니안 서코트와 사슬옷
+itm_rathos_surcoat_english|톨라니안 귀족 서코트
+itm_rathos_surcoat_english_pl|톨라니안 귀족 서코트
+itm_sarranid_elite_armor|드라하란 정예 갑옷
+itm_sarranid_elite_armor_pl|드라하란 정예 갑옷
+itm_lorien_armor_e|엘린토란 보초병 망토
+itm_lorien_armor_e_pl|엘린토란 보초병 망토
+itm_scalefur|겨울 비늘 갑옷
+itm_scalefur_pl|겨울 비늘 갑옷
+itm_leather_swordsman|도시 위병의 갑옷
+itm_leather_swordsman_pl|도시 위병의 갑옷
+itm_kuyak_a|쿠야크
+itm_kuyak_a_pl|쿠야크
+itm_heavy_lamellar_armor|가벼운 라멜라 외투
+itm_heavy_lamellar_armor_pl|가벼운 라멜라 외투
+itm_armor_medium_tyrk_d|부유한 사막 궁병의 갑옷
+itm_armor_medium_tyrk_d_pl|부유한 사막 궁병의 갑옷
+itm_new_cuir_bouilli|검은 강화 가죽옷
+itm_new_cuir_bouilli_pl|검은 강화 가죽옷
+itm_dorn_heavy_cavalry_armor|가벼운 사슬옷과 라멜라 갑옷
+itm_dorn_heavy_cavalry_armor_pl|가벼운 사슬옷과 라멜라 갑옷
+itm_lamellar_armor|라멜라 갑옷
+itm_lamellar_armor_pl|라멜라 갑옷
+itm_wei_xiadi_surcoat_rhodok02|서코트와 사슬옷
+itm_wei_xiadi_surcoat_rhodok02_pl|서코트와 사슬옷
+itm_khergit_elite_armor|갈색 철판 갑옷
+itm_khergit_elite_armor_pl|갈색 철판 갑옷
+itm_wei_xiadi_scale_armor01|무거운 은 비늘 갑옷
+itm_wei_xiadi_scale_armor01_pl|무거운 은 비늘 갑옷
+itm_wei_xiadi_swa_surcoat_fancy02|갈색 서코트와 사슬옷
+itm_wei_xiadi_swa_surcoat_fancy02_pl|갈색 서코트와 사슬옷
+itm_wei_xiadi_lamellar_armor02|드라하란 정예 라멜라옷
+itm_wei_xiadi_lamellar_armor02_pl|드라하란 정예 라멜라옷
+itm_lorien_armor_b|엘린토란 중보병 갑옷
+itm_lorien_armor_b_pl|엘린토란 중보병 갑옷
+itm_wei_xiadi_nord_cuir_bouilli|보라색 강화 가죽옷
+itm_wei_xiadi_nord_cuir_bouilli_pl|보라색 강화 가죽옷
+itm_banded_armor|솜넣은 갑옷
+itm_banded_armor_pl|솜넣은 갑옷
+itm_armour_temeria|믹카비안 귀족 사슬옷
+itm_armour_temeria_pl|믹카비안 귀족 사슬옷
+itm_heraldic_mail_with_tunic|문장 사슬옷
+itm_heraldic_mail_with_tunic_pl|문장 사슬옷
+itm_rus_scale|비늘 갑옷
+itm_rus_scale_pl|비늘 갑옷
+itm_riv_armor_m_archer|겔다린 병장 갑옷
+itm_riv_armor_m_archer_pl|겔다린 병장 갑옷
+itm_bnw_armour1|검정과 하얀 갑옷
+itm_bnw_armour1_pl|검정과 하얀 갑옷
+itm_wei_xiadi_swa_surcoat_fancy01|치장한 서코트와 사슬옷
+itm_wei_xiadi_swa_surcoat_fancy01_pl|치장한 서코트와 사슬옷
+itm_dethertir_armor_e|무거운 약탈자의 서코트 걸친 사슬옷
+itm_dethertir_armor_e_pl|무거운 약탈자의 서코트 걸친 사슬옷
+itm_mirk_armor_2|엘프 나뭇잎 갑옷
+itm_mirk_armor_2_pl|엘프 나뭇잎 갑옷
+itm_tribal_warrior_outfit_b|볼헤르 전사의 갑옷
+itm_tribal_warrior_outfit_b_pl|볼헤르 전사의 갑옷
+itm_ao_vai_1|라멜라 걸친 조끼
+itm_ao_vai_1_pl|라멜라 걸친 조끼
+itm_wei_xiadi_lamellar_armor01|잔 무거운 라멜라옷
+itm_wei_xiadi_lamellar_armor01_pl|잔 무거운 라멜라옷
+itm_brigandine_black|검은 호버즌
+itm_brigandine_black_pl|검은 호버즌
+itm_surcoat_over_mail|페리스노안 서코트걸친 사슬옷
+itm_surcoat_over_mail_pl|페리스노안 서코트걸친 사슬옷
+itm_elite_armor_a|보라색 철판 갑옷
+itm_elite_armor_a_pl|보라색 철판 갑옷
+itm_xenoargh_hard_leather01|갈색 강화 가죽옷
+itm_xenoargh_hard_leather01_pl|갈색 강화 가죽옷
+itm_mail_and_plate|겔다린 귀족 사슬옷과 철판
+itm_mail_and_plate_pl|겔다린 귀족 사슬옷과 철판
+itm_armor_19|무거운 일리카 갑옷
+itm_armor_19_pl|무거운 일리카 갑옷
+itm_youhou_assassin_armor|암살자의 갑옷
+itm_youhou_assassin_armor_pl|암살자의 갑옷
+itm_knight_armor_templar_a|가벼운 팔코니안 서코트 걸친 사슬옷
+itm_knight_armor_templar_a_pl|가벼운 팔코니안 서코트 걸친 사슬옷
+itm_armor_35|검은 클라잔 갑옷
+itm_armor_35_pl|검은 클라잔 갑옷
+itm_heraldic_mail_with_surcoat|문장 사슬옷과 서코트
+itm_heraldic_mail_with_surcoat_pl|문장 사슬옷과 서코트
+itm_lorien_armor_c|엘린토란 왕실 궁병의 갑옷
+itm_lorien_armor_c_pl|엘린토란 왕실 궁병의 갑옷
+itm_allmail|모피 무거운 사슬옷
+itm_allmail_pl|모피 무거운 사슬옷
+itm_early_transitional_rust|오래된 청동 사슬옷과 철판
+itm_early_transitional_rust_pl|오래된 청동 사슬옷과 철판
+itm_rus_lamellar_a|현상금 사냥꾼의 라멜라옷
+itm_rus_lamellar_a_pl|현상금 사냥꾼의 라멜라옷
+itm_wei_xiadi_surcoat_rhodok01|무거운 흑색과 녹색 서코트와 사슬옷
+itm_wei_xiadi_surcoat_rhodok01_pl|무거운 흑색과 녹색 서코트와 사슬옷
+itm_ank_archer_dress|앙카스 전사의 복장
+itm_ank_archer_dress_pl|앙카스 전사의 복장
+itm_xenoargh_new_female_armor02|처녀 전사의 중갑
+itm_xenoargh_new_female_armor02_pl|처녀 전사의 중갑
+itm_xenoargh_female_armor_sisters_of_mercy1|페리스노 수녀의 갑옷
+itm_xenoargh_female_armor_sisters_of_mercy1_pl|페리스노 수녀의 갑옷
+itm_xenoargh_new_female_armor_orange04|우쿤두 공주의 판금갑
+itm_xenoargh_new_female_armor_orange04_pl|우쿤두 공주의 판금갑
+itm_xenoargh_new_female_armor_blue04|바나디스 판금갑
+itm_xenoargh_new_female_armor_blue04_pl|바나디스 판금갑
+itm_xenoargh_new_female_armor_green03|여성용 녹색 판금갑
+itm_xenoargh_new_female_armor_green03_pl|여성용 녹색 판금갑
+itm_ank_ranger_plate|앙카스 순찰자 갑옷
+itm_ank_ranger_plate_pl|앙카스 순찰자 갑옷
+itm_xenoargh_new_female_armor04|여성용 무거운 판금갑
+itm_xenoargh_new_female_armor04_pl|여성용 무거운 판금갑
+itm_dejawolf_vikingbyrnie|망토를 걸친 비르니
+itm_dejawolf_vikingbyrnie_pl|망토를 걸친 비르니
+itm_riv_armor_h_archer|겔다린 순찰자 갑옷
+itm_riv_armor_h_archer_pl|겔다린 순찰자 갑옷
+itm_corrazina_green|녹색 코라지나
+itm_corrazina_green_pl|녹색 코라지나
+itm_cuir_bouilli_sp|악마의 강화 가죽옷
+itm_cuir_bouilli_sp_pl|악마의 강화 가죽옷
+itm_wei_xiadi_samurai_armor01|대초원 전사의 갑옷
+itm_wei_xiadi_samurai_armor01_pl|대초원 전사의 갑옷
+itm_armor_22|검은 판금갑과 사슬옷
+itm_armor_22_pl|검은 판금갑과 사슬옷
+itm_wei_xiadi_swa_surcoat_fancy03|왕실의 파란 서코트와 사슬옷
+itm_wei_xiadi_swa_surcoat_fancy03_pl|왕실의 파란 서코트와 사슬옷
+itm_knight_armor_hospitaller_c_cloak|검은 서코트와 사슬옷
+itm_knight_armor_hospitaller_c_cloak_pl|검은 서코트와 사슬옷
+itm_mamluke_mail|맘루크 사슬옷
+itm_mamluke_mail_pl|맘루크 사슬옷
+itm_armor_medium_tyrk_c|무거운 모스루 비늘옷
+itm_armor_medium_tyrk_c_pl|무거운 모스루 비늘옷
+itm_a_roman_chain|투사의 갑옷
+itm_a_roman_chain_pl|투사의 갑옷
+itm_redyoroi|붉은 요로이
+itm_redyoroi_pl|붉은 요로이
+itm_rathos_surcoat_white|무거운 하얀 서코트
+itm_rathos_surcoat_white_pl|무거운 하얀 서코트
+itm_coat_of_plates_green|녹색 서코트와 판금갑
+itm_coat_of_plates_green_pl|녹색 서코트와 판금갑
+itm_lorien_armor_f|엘린토란 정예 갑옷
+itm_lorien_armor_f_pl|엘린토란 정예 갑옷
+itm_wei_xiadi_samurai_armor02|검정 비늘 갑옷
+itm_wei_xiadi_samurai_armor02_pl|검정 비늘 갑옷
+itm_bnw_armour2|검정과 하얀색 갑옷
+itm_bnw_armour2_pl|검정과 하얀색 갑옷
+itm_banded_armor_common|무거운 줄무늬 갑옷
+itm_banded_armor_common_pl|무거운 줄무늬 갑옷
+itm_early_transitional_slaverwhip|데소크 갑옷
+itm_early_transitional_slaverwhip_pl|데소크 갑옷
+itm_rus_lamellar_b|검은 용의 제국 라멜라
+itm_rus_lamellar_b_pl|검은 용의 제국 라멜라
+itm_wei_xiadi_cataphract_armor|캐터프락트의 비늘갑
+itm_wei_xiadi_cataphract_armor_pl|캐터프락트의 비늘갑
+itm_corrazina_grey|회색 코라지나
+itm_corrazina_grey_pl|회색 코라지나
+itm_coat_of_plates_a|검은 외투와 판금갑
+itm_coat_of_plates_a_pl|검은 외투와 판금갑
+itm_xenoargh_hard_leather02|회색 곰의 금속 강화 가죽 갑옷
+itm_xenoargh_hard_leather02_pl|회색 곰의 금속 강화 가죽 갑옷
+itm_early_transitional_white|하얀 사슬옷과 판금갑
+itm_early_transitional_white_pl|하얀 사슬옷과 판금갑
+itm_youhou_assassin_armor_red|붉은 암살자의 갑옷
+itm_youhou_assassin_armor_red_pl|붉은 암살자의 갑옷
+itm_kn_arm_leather4|믹카비안 귀족 갑옷
+itm_kn_arm_leather4_pl|믹카비안 귀족 갑옷
+itm_ned_stark_armor|검은 비늘 귀족 갑옷
+itm_ned_stark_armor_pl|검은 비늘 귀족 갑옷
+itm_brigandine_b_heraldic|문장 브리간딘
+itm_brigandine_b_heraldic_pl|문장 브리간딘
+itm_dejawolf_vikingbyrnie_hylr|망토를 걸친 헤일리 비르니
+itm_dejawolf_vikingbyrnie_hylr_pl|망토를 걸친 헤일리 비르니
+itm_dorn_spearbearer_armor|강철 라멜라 갑옷
+itm_dorn_spearbearer_armor_pl|강철 라멜라 갑옷
+itm_coat_of_plates_blue|검은 외투와 판금갑
+itm_coat_of_plates_blue_pl|검은 외투와 판금갑
+itm_ghulam_heavy_cavalryman_3|비늘 잔 갑옷
+itm_ghulam_heavy_cavalryman_3_pl|비늘 잔 갑옷
+itm_knight_armor_templar_a_1|팔코니안 서코트와 사슬옷
+itm_knight_armor_templar_a_1_pl|팔코니안 서코트와 사슬옷
+itm_twiligh_armor|페리스노 황혼의 귀족 갑옷
+itm_twiligh_armor_pl|페리스노 황혼의 귀족 갑옷
+itm_early_transitional_ry|빨간색과 노란색 사슬옷과 판금갑
+itm_early_transitional_ry_pl|빨간색과 노란색 사슬옷과 판금갑
+itm_khergit_guard_armor|쿠우-란 황금 라멜라
+itm_khergit_guard_armor_pl|쿠우-란 황금 라멜라
+itm_corrazina_red|빨간 코라지나
+itm_corrazina_red_pl|빨간 코라지나
+itm_early_transitional_orange|주홍색과 빨간색 사슬옷과 판금갑
+itm_early_transitional_orange_pl|주홍색과 빨간색 사슬옷과 판금갑
+itm_coat_of_plates_red|붉은 외투와 판금갑
+itm_coat_of_plates_red_pl|붉은 외투와 판금갑
+itm_xenoargh_metal_leather02|초록색 곰의 강화 가죽옷
+itm_xenoargh_metal_leather02_pl|초록색 곰의 강화 가죽옷
+itm_churburg_13|파란 전신 판금갑
+itm_churburg_13_pl|파란 전신 판금갑
+itm_armor_23|빨간 판금갑과 사슬옷
+itm_armor_23_pl|빨간 판금갑과 사슬옷
+itm_brass_mamluke_mail|드라하란 왕실 사슬갑
+itm_brass_mamluke_mail_pl|드라하란 왕실 사슬갑
+itm_heraldic_surcoat_plated|문장 판금갑과 서코트
+itm_heraldic_surcoat_plated_pl|문장 판금갑과 서코트
+itm_early_transitional_perisnified|페리스노안 사슬옷과 판금 갑옷
+itm_early_transitional_perisnified_pl|페리스노안 사슬옷과 판금 갑옷
+itm_wei_xiadi_nord_spiked_mail|무거운 가시돋힌 사슬갑
+itm_wei_xiadi_nord_spiked_mail_pl|무거운 가시돋힌 사슬갑
+itm_bear_warrior|곰 전사의 갑옷
+itm_bear_warrior_pl|곰 전사의 갑옷
+itm_lorien_armor_d|엘프 귀족 갑옷
+itm_lorien_armor_d_pl|엘프 귀족 갑옷
+itm_dorn_sand_snakes_armor|하콘 종교 재판관의 갑옷
+itm_dorn_sand_snakes_armor_pl|하콘 종교 재판관의 갑옷
+itm_bronze_plate|하콘 청동 판금갑
+itm_bronze_plate_pl|하콘 청동 판금갑
+itm_armor_master_order_templar|팔코니안 귀족 사슬갑
+itm_armor_master_order_templar_pl|팔코니안 귀족 사슬갑
+itm_wei_xiadi_sarranid_mamluk_armor|검은 비늘과 사슬 갑옷
+itm_wei_xiadi_sarranid_mamluk_armor_pl|검은 비늘과 사슬 갑옷
+itm_bers_armor|광전사 갑옷
+itm_bers_armor_pl|광전사 갑옷
+itm_huscarl_armour|북부의 갑옷
+itm_huscarl_armour_pl|북부의 갑옷
+itm_vaegir_elite_armor|아티크 정예 갑옷
+itm_vaegir_elite_armor_pl|아티크 정예 갑옷
+itm_early_transitional_heraldic|문장 사슬옷과 판금갑
+itm_early_transitional_heraldic_pl|문장 사슬옷과 판금갑
+itm_coat_of_plates_steel|강철 외투와 판금갑
+itm_coat_of_plates_steel_pl|강철 외투와 판금갑
+itm_riv_armor_leader|겔다린 망토를 걸친 갑옷
+itm_riv_armor_leader_pl|겔다린 망토를 걸친 갑옷
+itm_brig_plate_black|검은 판금 브리간딘
+itm_brig_plate_black_pl|검은 판금 브리간딘
+itm_domaru|도마루 상의
+itm_domaru_pl|도마루 상의
+itm_domaru_heraldic|모스루 전쟁 군주의 갑옷
+itm_domaru_heraldic_pl|모스루 전쟁 군주의 갑옷
+itm_amade_steel_plate|하콘 강철 판금갑
+itm_amade_steel_plate_pl|하콘 강철 판금갑
+itm_ghulam_heavy_cavalryman_1|용의 제국 사슬과 비늘갑
+itm_ghulam_heavy_cavalryman_1_pl|용의 제국 사슬과 비늘갑
+itm_early_transitional_blue|톨라니안 사슬옷과 판금갑
+itm_early_transitional_blue_pl|톨라니안 사슬옷과 판금갑
+itm_dragonrider_armour|용의 사제 갑옷
+itm_dragonrider_armour_pl|용의 사제 갑옷
+itm_xenoargh_metal_leather01|란츠크네히트 무거운 판금갑
+itm_xenoargh_metal_leather01_pl|란츠크네히트 무거운 판금갑
+itm_plate_armor|판금 갑옷
+itm_plate_armor_pl|판금 갑옷
+itm_churburg_13_brass|킹스맨 판금갑
+itm_churburg_13_brass_pl|킹스맨 판금갑
+itm_armor_master_order_tevton|팔코니안 귀족 갑옷
+itm_armor_master_order_tevton_pl|팔코니안 귀족 갑옷
+itm_huskarl_armor_a|하콘 중갑
+itm_huskarl_armor_a_pl|하콘 중갑
+itm_cretas_brig|에이돌란 브리간딘
+itm_cretas_brig_pl|에이돌란 브리간딘
+itm_early_transitional_pearl|은 사슬옷과 판금갑
+itm_early_transitional_pearl_pl|은 사슬옷과 판금갑
+itm_rivend_rohir_armor_1d|정예 엘린토란 갑옷
+itm_rivend_rohir_armor_1d_pl|정예 엘린토란 갑옷
+itm_tyrk_armor_heavi_c|정예 용의 제국 외투와 판금갑
+itm_tyrk_armor_heavi_c_pl|정예 용의 제국 외투와 판금갑
+itm_west_pikeman_armor|기사단의 사슬옷과 판금갑
+itm_west_pikeman_armor_pl|기사단의 사슬옷과 판금갑
+itm_amade_bronze_plate_champion|하콘 투사의 판금갑
+itm_amade_bronze_plate_champion_pl|하콘 투사의 판금갑
+itm_perisno_armour_1|페리스노 투사의 갑옷
+itm_perisno_armour_1_pl|페리스노 투사의 갑옷
+itm_coat_of_plates|검은 전사의 외투와 판금갑
+itm_coat_of_plates_pl|검은 전사의 외투와 판금갑
+itm_early_transitional_black|검고 무거운 사슬옷과 판금갑
+itm_early_transitional_black_pl|검고 무거운 사슬옷과 판금갑
+itm_elf_armor|진홍의 순찰자 갑옷
+itm_elf_armor_pl|진홍의 순찰자 갑옷
+itm_gondor_armor|하이 엘프의 갑옷
+itm_gondor_armor_pl|하이 엘프의 갑옷
+itm_courtblades_brightwoods|courtblades brightwoods
+itm_courtblades_brightwoods_pl|courtblades brightwoods
+itm_2scimitar_black2|2scimitar black2
+itm_2scimitar_black2_pl|2scimitar black2
+itm_xenoargh_female_armor_sisters_of_mercy4|페리스노 여사제의 판금갑
+itm_xenoargh_female_armor_sisters_of_mercy4_pl|페리스노 여사제의 판금갑
+itm_perisnofemalearmor|여성용 페리스노 갑옷
+itm_perisnofemalearmor_pl|여성용 페리스노 갑옷
+itm_gothic_plate_female|처녀 판금 갑옷
+itm_gothic_plate_female_pl|처녀 판금 갑옷
+itm_maximilian_armour|강철 판금 갑옷
+itm_maximilian_armour_pl|강철 판금 갑옷
+itm_heraldic_tunic_new|무거운 문장 갑옷
+itm_heraldic_tunic_new_pl|무거운 문장 갑옷
+itm_rivendellrewardarmour|금색 망토를 두른 갑옷
+itm_rivendellrewardarmour_pl|금색 망토를 두른 갑옷
+itm_bronzeplate|청동 밀라노 갑옷
+itm_bronzeplate_pl|청동 밀라노 갑옷
+itm_marmont_armor|검은 페리스노 군주의 갑옷
+itm_marmont_armor_pl|검은 페리스노 군주의 갑옷
+itm_sultan_armor|술탄의 갑옷
+itm_sultan_armor_pl|술탄의 갑옷
+itm_tarth_armor|귀족의 강철 갑옷
+itm_tarth_armor_pl|귀족의 강철 갑옷
+itm_black_armor|마스네리안 사슬옷
+itm_black_armor_pl|마스네리안 사슬옷
+itm_early_transitional_gold|하콘 왕가의 사슬옷과 판금갑
+itm_early_transitional_gold_pl|하콘 왕가의 사슬옷과 판금갑
+itm_churburg_13_mail|황금 오네이트 완전무장 판금갑
+itm_churburg_13_mail_pl|황금 오네이트 완전무장 판금갑
+itm_knights_armor|기사의 판금 갑옷
+itm_knights_armor_pl|기사의 판금 갑옷
+itm_4black_armor|검은 판금 갑옷
+itm_4black_armor_pl|검은 판금 갑옷
+itm_mirk_armor_1a|은도금 엘프 갑옷
+itm_mirk_armor_1a_pl|은도금 엘프 갑옷
+itm_maximilian_armour_1|검은 판금 갑옷
+itm_maximilian_armour_1_pl|검은 판금 갑옷
+itm_plate_armor3|페리스노 룬문자 갑옷
+itm_plate_armor3_pl|페리스노 룬문자 갑옷
+itm_imperial_armor_body_combined|제국 대장의 갑옷
+itm_imperial_armor_body_combined_pl|제국 대장의 갑옷
+itm_yoroi|정예 쿠로 요로이
+itm_yoroi_pl|정예 쿠로 요로이
+itm_perisno_heavy_armour|페리스노 중장 투사의 갑옷
+itm_perisno_heavy_armour_pl|페리스노 중장 투사의 갑옷
+itm_revspartans_armour|레브스파르탄 갑옷
+itm_revspartans_armour_pl|레브스파르탄 갑옷
+itm_lorien_royal|황금 엘린토란 갑옷
+itm_lorien_royal_pl|황금 엘린토란 갑옷
+itm_milanese_armour|밀라노 갑옷
+itm_milanese_armour_pl|밀라노 갑옷
+itm_cyc_plate_armor|완전한 강철 판금 갑옷
+itm_cyc_plate_armor_pl|완전한 강철 판금 갑옷
+itm_spak_coat_of_plates_c|악마 갑옷
+itm_spak_coat_of_plates_c_pl|악마 갑옷
+itm_knight_of_the_wall_plate|기사의 판금갑
+itm_knight_of_the_wall_plate_pl|기사의 판금갑
+itm_sarranid_royal_armor|금빛 라멜라 갑옷
+itm_sarranid_royal_armor_pl|금빛 라멜라 갑옷
+itm_zabadai_man_armor|바아투르의 갑옷
+itm_zabadai_man_armor_pl|바아투르의 갑옷
+itm_west_guardsman|제국 하콘 판금갑
+itm_west_guardsman_pl|제국 하콘 판금갑
+itm_perisno_heavy_armour_with_cape|페리스노 망토걸친 투사의 갑옷
+itm_perisno_heavy_armour_with_cape_pl|페리스노 망토걸친 투사의 갑옷
+itm_dark_lord_armor|룬 문자 페리스노 귀족 갑옷
+itm_dark_lord_armor_pl|룬 문자 페리스노 귀족 갑옷
+itm_plate_etched|검은 강철 판금 갑옷
+itm_plate_etched_pl|검은 강철 판금 갑옷
+itm_gothic_armour|고딕 갑옷
+itm_gothic_armour_pl|고딕 갑옷
+itm_rivend_rohir_armor_1b|금빛 엘프 비늘 갑옷
+itm_rivend_rohir_armor_1b_pl|금빛 엘프 비늘 갑옷
+itm_west_heraldic|문장 판금갑
+itm_west_heraldic_pl|문장 판금갑
+itm_king_knight_armour|황금 페리스노 판금갑
+itm_king_knight_armour_pl|황금 페리스노 판금갑
+itm_dorn_assasin_armor|정예 아사신의 갑옷
+itm_dorn_assasin_armor_pl|정예 아사신의 갑옷
+itm_plate_armor1|믹카비안 흑기사 갑옷
+itm_plate_armor1_pl|믹카비안 흑기사 갑옷
+itm_blacky_platey_salad|검은 밀라노 갑옷
+itm_blacky_platey_salad_pl|검은 밀라노 갑옷
+itm_plated_armor1|무거운 판금 갑옷
+itm_plated_armor1_pl|무거운 판금 갑옷
+itm_citadel_guard_armor|팔코니안 기사의 갑옷
+itm_citadel_guard_armor_pl|팔코니안 기사의 갑옷
+itm_dorn_immortal_armor|판금 요로이
+itm_dorn_immortal_armor_pl|판금 요로이
+itm_plate_maw_02|산지기의 갑옷
+itm_plate_maw_02_pl|산지기의 갑옷
+itm_maximilian_armou_silver|은 판금 갑옷
+itm_maximilian_armou_silver_pl|은 판금 갑옷
+itm_narf_gothic_plate_black|검은 고딕 갑옷
+itm_narf_gothic_plate_black_pl|검은 고딕 갑옷
+itm_kingsman_plate|톨라니안 투사의 판금갑
+itm_kingsman_plate_pl|톨라니안 투사의 판금갑
+itm_dorn_wiper|명부의 갑옷
+itm_dorn_wiper_pl|명부의 갑옷
+itm_mirk_armor_1b|마법 부여된 엘프 갑옷
+itm_mirk_armor_1b_pl|마법 부여된 엘프 갑옷
+itm_fountain_guard_armor|분수 위병의 갑옷
+itm_fountain_guard_armor_pl|분수 위병의 갑옷
+itm_armour_gothic|용 비늘 갑옷
+itm_armour_gothic_pl|용 비늘 갑옷
+itm_spak_coat_of_plates_d|악마 군주의 갑옷
+itm_spak_coat_of_plates_d_pl|악마 군주의 갑옷
+itm_dark_lord_armor2|은빛 룬 문자를 새긴 페리스노 귀족 갑옷
+itm_dark_lord_armor2_pl|은빛 룬 문자를 새긴 페리스노 귀족 갑옷
+itm_paladin_armour|성기사 갑옷
+itm_paladin_armour_pl|성기사 갑옷
+itm_female_hood|숙녀의 후드
+itm_female_hood_pl|숙녀의 후드
+itm_khergit_lady_hat|케르지트 숙녀 모자
+itm_khergit_lady_hat_pl|케르지트 숙녀 모자
+itm_sarranid_head_cloth|숙녀의 두건
+itm_sarranid_head_cloth_pl|숙녀의 두건
+itm_sarranid_head_cloth_b|숙녀의 두건
+itm_sarranid_head_cloth_b_pl|숙녀의 두건
+itm_wimple_a|머리 가리개
+itm_wimple_a_pl|머리 가리개
+itm_wimple_with_veil|머리 가리개와 면사포
+itm_wimple_with_veil_pl|머리 가리개와 면사포
+itm_court_hat|둥근 모자
+itm_court_hat_pl|둥근 모자
+itm_turret_hat_blue|둥근 모자
+itm_turret_hat_blue_pl|둥근 모자
+itm_turret_hat_green|바르베트
+itm_turret_hat_green_pl|바르베트
+itm_turret_hat_ruby|둥근 모자
+itm_turret_hat_ruby_pl|둥근 모자
+itm_khergit_lady_hat_b|케르지트 숙녀의 가죽 모자
+itm_khergit_lady_hat_b_pl|케르지트 숙녀의 가죽 모자
+itm_arming_cap|군용 모자
+itm_arming_cap_pl|군용 모자
+itm_common_hood|후드
+itm_common_hood_pl|후드
+itm_felt_hat|펠트 모자
+itm_felt_hat_pl|펠트 모자
+itm_felt_hat_b|펠트 모자
+itm_felt_hat_b_pl|펠트 모자
+itm_headcloth|두건
+itm_headcloth_pl|두건
+itm_hood_b|후드
+itm_hood_b_pl|후드
+itm_hood_c|후드
+itm_hood_c_pl|후드
+itm_hood_d|후드
+itm_hood_d_pl|후드
+itm_padded_coif|솜 넣은 두건
+itm_padded_coif_pl|솜 넣은 두건
+itm_pilgrim_hood|순례자 후드
+itm_pilgrim_hood_pl|순례자 후드
+itm_sarranid_felt_head_cloth|두건
+itm_sarranid_felt_head_cloth_pl|두건
+itm_sarranid_felt_head_cloth_b|두건
+itm_sarranid_felt_head_cloth_b_pl|두건
+itm_straw_hat|밀짚모자
+itm_straw_hat_pl|밀짚모자
+itm_woolen_cap|양모 모자
+itm_woolen_cap_pl|양모 모자
+itm_woolen_hood|양모 후드
+itm_woolen_hood_pl|양모 후드
+itm_stark_hood|사냥꾼의 후드
+itm_stark_hood_pl|사냥꾼의 후드
+itm_black_hood|검은 후드
+itm_black_hood_pl|검은 후드
+itm_nomad_cap_b|유목민 모자
+itm_nomad_cap_b_pl|유목민 모자
+itm_nomad_cap_b_dark|검은 유목민 모자
+itm_nomad_cap_b_dark_pl|검은 유목민 모자
+itm_sarranid_felt_hat|사막 펠트 모자
+itm_sarranid_felt_hat_pl|사막 펠트 모자
+itm_leather_cap|가죽 모자
+itm_leather_cap_pl|가죽 모자
+itm_turban_black|검은 터번
+itm_turban_black_pl|검은 터번
+itm_beduin_turban_a_mark|유목민 터번
+itm_beduin_turban_a_mark_pl|유목민 터번
+itm_fur_hat|모피 모자
+itm_fur_hat_pl|모피 모자
+itm_turban|터번
+itm_turban_pl|터번
+itm_steppe_cap|대초원 모자
+itm_steppe_cap_pl|대초원 모자
+itm_nordic_archer_helmet|노르딕 가죽 모자
+itm_nordic_archer_helmet_pl|노르딕 가죽 모자
+itm_beduin_turban_b_mark|사막 거주자의 터번
+itm_beduin_turban_b_mark_pl|사막 거주자의 터번
+itm_nomad_cap|금속 유목민 모자
+itm_nomad_cap_pl|금속 유목민 모자
+itm_leather_steppe_cap_b|가죽 투구
+itm_leather_steppe_cap_b_pl|가죽 투구
+itm_desert_turban|사막 터번
+itm_desert_turban_pl|사막 터번
+itm_saracin_turban_c|회색 사막 터번
+itm_saracin_turban_c_pl|회색 사막 터번
+itm_new_nomad_cap_a|설적단 투구
+itm_new_nomad_cap_a_pl|설적단 투구
+itm_sarranid_warrior_cap|사막 전사의 모자
+itm_sarranid_warrior_cap_pl|사막 전사의 모자
+itm_skullcap|스컬캡
+itm_skullcap_pl|스컬캡
+itm_leather_warrior_cap|가죽 전사의 모자
+itm_leather_warrior_cap_pl|가죽 전사의 모자
+itm_nordic_veteran_archer_helmet|노르딕 가죽 투구
+itm_nordic_veteran_archer_helmet_pl|노르딕 가죽 투구
+itm_footman_helmet|보병의 투구
+itm_footman_helmet_pl|보병의 투구
+itm_sarranid_helmet1|드라하란 케피에 투구
+itm_sarranid_helmet1_pl|드라하란 케피에 투구
+itm_norman_helmet|투구와 모자
+itm_norman_helmet_pl|투구와 모자
+itm_vaegir_fur_cap|모피 모자
+itm_vaegir_fur_cap_pl|모피 모자
+itm_shahi|샤히
+itm_shahi_pl|샤히
+itm_segmented_helmet|세그먼티드 투구
+itm_segmented_helmet_pl|세그먼티드 투구
+itm_mail_coif|사슬 코이프
+itm_mail_coif_pl|사슬 코이프
+itm_sarranid_warrior_cap_black|검은 드라하란 전사 터번
+itm_sarranid_warrior_cap_black_pl|검은 드라하란 전사 터번
+itm_new_steppe_cap_a|설적단 투구
+itm_new_steppe_cap_a_pl|설적단 투구
+itm_coif|검은 사슬 코이프
+itm_coif_pl|검은 사슬 코이프
+itm_light_crusader_helm_c|세그먼티드 민병대 투구
+itm_light_crusader_helm_c_pl|세그먼티드 민병대 투구
+itm_nordic_footman_helmet|노르딕 보병 투구
+itm_nordic_footman_helmet_pl|노르딕 보병 투구
+itm_inf_t1|보병 투구
+itm_inf_t1_pl|보병 투구
+itm_helmet_with_neckguard|투구와 목보호대
+itm_helmet_with_neckguard_pl|투구와 목보호대
+itm_vaegir_fur_helmet|대초원 사슬 투구
+itm_vaegir_fur_helmet_pl|대초원 사슬 투구
+itm_sarranid_helmet1_black|검은 케피에 투구
+itm_sarranid_helmet1_black_pl|검은 케피에 투구
+itm_ranger_helmet_tld|엘프 가죽 투구
+itm_ranger_helmet_tld_pl|엘프 가죽 투구
+itm_balaclavacoif|톨라니안 고위 사슬 코이프
+itm_balaclavacoif_pl|톨라니안 고위 사슬 코이프
+itm_nordic_fighter_helmet|노르딕 전사 투구
+itm_nordic_fighter_helmet_pl|노르딕 전사 투구
+itm_ak_reinf_helmet_a|톨라니안 위병 투구
+itm_ak_reinf_helmet_a_pl|톨라니안 위병 투구
+itm_helm_saracin_b|금속 대초원 투구
+itm_helm_saracin_b_pl|금속 대초원 투구
+itm_bascinet|배서닛
+itm_bascinet_pl|배서닛
+itm_light_capelina_crusader_a|크로스보우맨의 케틀 햇
+itm_light_capelina_crusader_a_pl|크로스보우맨의 케틀 햇
+itm_youhou_assassin_hood|암살자의 후드
+itm_youhou_assassin_hood_pl|암살자의 후드
+itm_lamellar_helmet_b_a|빨간 라멜라 위병 투구
+itm_lamellar_helmet_b_a_pl|빨간 라멜라 위병 투구
+itm_khergit_war_helmet|간단한 전쟁 투구
+itm_khergit_war_helmet_pl|간단한 전쟁 투구
+itm_light_crusader_helm_d|민병대의 평정 투구
+itm_light_crusader_helm_d_pl|민병대의 평정 투구
+itm_dragonrider_helmet|악마의 후드
+itm_dragonrider_helmet_pl|악마의 후드
+itm_khergit_guard_helmet|대초원 개방형 투구
+itm_khergit_guard_helmet_pl|대초원 개방형 투구
+itm_guard_helmet|위병 투구
+itm_guard_helmet_pl|위병 투구
+itm_nasal_helmet|코받이 투구
+itm_nasal_helmet_pl|코받이 투구
+itm_khergit_cavalry_helmet|비늘 투구
+itm_khergit_cavalry_helmet_pl|비늘 투구
+itm_fullfacecoif|얼굴 감싼 코이프
+itm_fullfacecoif_pl|얼굴 감싼 코이프
+itm_ak_bascinet_avt_a|톨라니안 배서닛
+itm_ak_bascinet_avt_a_pl|톨라니안 배서닛
+itm_spiked_helmet|가시돋힌 투구
+itm_spiked_helmet_pl|가시돋힌 투구
+itm_normanhelmet4|코보호대 철 투구
+itm_normanhelmet4_pl|코보호대 철 투구
+itm_nordic_helmet|노르딕 투구
+itm_nordic_helmet_pl|노르딕 투구
+itm_light_crusader_helm_e|펠트 톱피드 투구
+itm_light_crusader_helm_e_pl|펠트 톱피드 투구
+itm_youhou_assassin_hood_red|붉은 아사신 후드
+itm_youhou_assassin_hood_red_pl|붉은 아사신 후드
+itm_vaegir_lamellar_helmet|라멜라 보호대와 투구
+itm_vaegir_lamellar_helmet_pl|라멜라 보호대와 투구
+itm_light_crusader_helm_b|고위 보병의 투구
+itm_light_crusader_helm_b_pl|고위 보병의 투구
+itm_archer_t2|궁병 투구
+itm_archer_t2_pl|궁병 투구
+itm_sarranid_horseman_helmet|쿠우-란 기수의 투구
+itm_sarranid_horseman_helmet_pl|쿠우-란 기수의 투구
+itm_vaegir_spiked_helmet|가시돋힌 모자
+itm_vaegir_spiked_helmet_pl|가시돋힌 모자
+itm_conichelm|원뿔형 투구
+itm_conichelm_pl|원뿔형 투구
+itm_metropolian_helm|엘린토란 기수의 투구
+itm_metropolian_helm_pl|엘린토란 기수의 투구
+itm_lamellar_helmet_a_a|회색 라멜라 위병 투구
+itm_lamellar_helmet_a_a_pl|회색 라멜라 위병 투구
+itm_sarranid_mail_coif|드라하란 사슬 코이프
+itm_sarranid_mail_coif_pl|드라하란 사슬 코이프
+itm_gulam_helm_a|사파히 투구
+itm_gulam_helm_a_pl|사파히 투구
+itm_kettle_hat|크림 케틀 햇
+itm_kettle_hat_pl|크림 케틀 햇
+itm_normanhelmet3|개방형 철 투구
+itm_normanhelmet3_pl|개방형 철 투구
+itm_ak_flattop_helmet_b|톨라니안 펠트 톱피드 투구
+itm_ak_flattop_helmet_b_pl|톨라니안 펠트 톱피드 투구
+itm_h_tribune_bronze|하콘 청동 투구
+itm_h_tribune_bronze_pl|하콘 청동 투구
+itm_tolrania_kettlehat|톨라니안 케틀 햇
+itm_tolrania_kettlehat_pl|톨라니안 케틀 햇
+itm_rus_helmet_a|가벼운 기병 투구
+itm_rus_helmet_a_pl|가벼운 기병 투구
+itm_crusader_helm_medium_c|사슬 투구와 코이프
+itm_crusader_helm_medium_c_pl|사슬 투구와 코이프
+itm_bascinet_2|배서닛과 애번테일
+itm_bascinet_2_pl|배서닛과 애번테일
+itm_oniontop_bascinet|어니언-탑 배서닛
+itm_oniontop_bascinet_pl|어니언-탑 배서닛
+itm_magyar_helmet_a|마자르 투구
+itm_magyar_helmet_a_pl|마자르 투구
+itm_assassin_helmet|검은 아사신 터번
+itm_assassin_helmet_pl|검은 아사신 터번
+itm_sarranid_horseman_helmet_brass|황동 기수의 투구
+itm_sarranid_horseman_helmet_brass_pl|황동 기수의 투구
+itm_flat_topped_helmet|펠트 톱피드 투구와 코이프
+itm_flat_topped_helmet_pl|펠트 톱피드 투구와 코이프
+itm_rathos_11thcent_conicalhelm_bs_store|B/W Striped Rathos Helm
+itm_rathos_11thcent_conicalhelm_bs_store_pl|B/W Striped Rathos Helm
+itm_helm_saracin_b_zann|Zann Kheshig Helmet
+itm_helm_saracin_b_zann_pl|Zann Kheshig Helmet
+itm_h_tribune_bronze_feathered|Hakkon Bronze Noble Helmet
+itm_h_tribune_bronze_feathered_pl|Hakkon Bronze Noble Helmet
+itm_open_salet|Open Sallet
+itm_open_salet_pl|Open Sallet
+itm_crusader_helm_medium_b|Naselhelm With Coif
+itm_crusader_helm_medium_b_pl|Naselhelm With Coif
+itm_capelina_crusader_b|Kettle Hat
+itm_capelina_crusader_b_pl|Kettle Hat
+itm_rathos_11thcent_conicalhelm_store|Rathos Helm
+itm_rathos_11thcent_conicalhelm_store_pl|Rathos Helm
+itm_rathos_11thcent_conicalhelm_rs_store|Purple Lymbard Helm
+itm_rathos_11thcent_conicalhelm_rs_store_pl|Purple Lymbard Helm
+itm_rathos_11thcent_conicalhelm_ry_store|Red&Yellow Helm
+itm_rathos_11thcent_conicalhelm_ry_store_pl|Red&Yellow Helm
+itm_vaeg_helmet5|Metal Steppe Helmet
+itm_vaeg_helmet5_pl|Metal Steppe Helmet
+itm_normanhelmcoif|Steel Helmet W/ Coif
+itm_normanhelmcoif_pl|Steel Helmet W/ Coif
+itm_sarranid_iron_helmet|Draharan Helmet
+itm_sarranid_iron_helmet_pl|Draharan Helmet
+itm_col1_kettlehat1|White&Red Kettle Hat
+itm_col1_kettlehat1_pl|White&Red Kettle Hat
+itm_helmet_w_eyeguard_new_alt|Nordic Helmet With Eyeguard
+itm_helmet_w_eyeguard_new_alt_pl|Nordic Helmet With Eyeguard
+itm_bascinet_3|Bascinet with Nose Guard
+itm_bascinet_3_pl|Bascinet with Nose Guard
+itm_vaegir_noble_helmet|Steppe Open Helmet
+itm_vaegir_noble_helmet_pl|Steppe Open Helmet
+itm_kettlehat1|Steel Kettle Hat
+itm_kettlehat1_pl|Steel Kettle Hat
+itm_normanhelmet2|Open Steel Helm
+itm_normanhelmet2_pl|Open Steel Helm
+itm_gulam_helm_f_market|Desert Archer's Helmet
+itm_gulam_helm_f_market_pl|Desert Archer's Helmet
+itm_rathos_11thcent_conicalhelm_black_store|Black Rathos Helm
+itm_rathos_11thcent_conicalhelm_black_store_pl|Black Rathos Helm
+itm_sarranid_royal_helmet|Draharan Royal Helmet
+itm_sarranid_royal_helmet_pl|Draharan Royal Helmet
+itm_combed_morion_blued|Old Combed Morion
+itm_combed_morion_blued_pl|Old Combed Morion
+itm_rathos_fluted_helmet|Fluted Helm
+itm_rathos_fluted_helmet_pl|Fluted Helm
+itm_archer_t3|Thick Archer Helm
+itm_archer_t3_pl|Thick Archer Helm
+itm_h_tribune2|Hakkon Helmet
+itm_h_tribune2_pl|Hakkon Helmet
+itm_rathos_11thcent_conicalhelm_rw_store|Green Perisno Helm
+itm_rathos_11thcent_conicalhelm_rw_store_pl|Green Perisno Helm
+itm_flattop|Flattop Helm
+itm_flattop_pl|Flattop Helm
+itm_ghulam_helm2|Desouk Mask
+itm_ghulam_helm2_pl|Desouk Mask
+itm_ak_bascinet_new_a|Red Bascinet with Aventail
+itm_ak_bascinet_new_a_pl|Red Bascinet with Aventail
+itm_nordhelm_coif|Nordhelm With Coif
+itm_nordhelm_coif_pl|Nordhelm With Coif
+itm_mosoru_song_helm|Mosoru Riders Helm
+itm_mosoru_song_helm_pl|Mosoru Riders Helm
+itm_normanhelmbalaclavacoif|Steel Helmet W/ High Coif
+itm_normanhelmbalaclavacoif_pl|Steel Helmet W/ High Coif
+itm_kettlehat2|Warrior's Kettle Hat
+itm_kettlehat2_pl|Warrior's Kettle Hat
+itm_redkabuto|Red Kabuto
+itm_redkabuto_pl|Red Kabuto
+itm_gnezdovo_helm_b|Gnezdovo Helm
+itm_gnezdovo_helm_b_pl|Gnezdovo Helm
+itm_tagancha_helm_a|Tagancha Helm
+itm_tagancha_helm_a_pl|Tagancha Helm
+itm_h_tribune|Legionnaire Helmet
+itm_h_tribune_pl|Legionnaire Helmet
+itm_chapel_de_fer|Chapelle-de-Fer
+itm_chapel_de_fer_pl|Chapelle-de-Fer
+itm_crusader_helm_1|Man-at-Arms' Helmet
+itm_crusader_helm_1_pl|Man-at-Arms' Helmet
+itm_normanhelmfullcoif|Helmet w/ Full Faced Coif
+itm_normanhelmfullcoif_pl|Helmet w/ Full Faced Coif
+itm_shadow_mask|Shadow Mask
+itm_shadow_mask_pl|Shadow Mask
+itm_facecovermail_turban_red|Red Desert Turban
+itm_facecovermail_turban_red_pl|Red Desert Turban
+itm_open_salet_coif|Open Sallet w/ Coif
+itm_open_salet_coif_pl|Open Sallet w/ Coif
+itm_col1_byzantion|Hightower Kettle Hat
+itm_col1_byzantion_pl|Hightower Kettle Hat
+itm_combed_morion|Combed Morion
+itm_combed_morion_pl|Combed Morion
+itm_mamluk_helm|Royal Draharan Mask
+itm_mamluk_helm_pl|Royal Draharan Mask
+itm_archer_t1|Heavy Archer Helm
+itm_archer_t1_pl|Heavy Archer Helm
+itm_h_tribune_steel|Steel Hakkon Helmet
+itm_h_tribune_steel_pl|Steel Hakkon Helmet
+itm_rus_helm|Falconian Helm
+itm_rus_helm_pl|Falconian Helm
+itm_nordic_huscarl_helmet|Nordic Huscarl's Helmet
+itm_nordic_huscarl_helmet_pl|Nordic Huscarl's Helmet
+itm_crown_coif|Crown With Coif
+itm_crown_coif_pl|Crown With Coif
+itm_sarranid_veiled_helmet|Draharan Veiled Helmet
+itm_sarranid_veiled_helmet_pl|Draharan Veiled Helmet
+itm_winged_helm_new|Golden Winged Helm
+itm_winged_helm_new_pl|Golden Winged Helm
+itm_helm_saracin_j|Desert Rider's Helmet
+itm_helm_saracin_j_pl|Desert Rider's Helmet
+itm_flattophelmet|Full Faced Flattop Helmet
+itm_flattophelmet_pl|Full Faced Flattop Helmet
+itm_frenchpepperpot3|Iron Faceplate
+itm_frenchpepperpot3_pl|Iron Faceplate
+itm_helm_tyrk_d_market|Golden Zann Mask
+itm_helm_tyrk_d_market_pl|Golden Zann Mask
+itm_facecovermail_kettlehat_s|Sharp Mail Kettle Hat
+itm_facecovermail_kettlehat_s_pl|Sharp Mail Kettle Hat
+itm_gnezdovo_helm_a|Gnezdovo Helm
+itm_gnezdovo_helm_a_pl|Gnezdovo Helm
+itm_ak_bascinet_new_b|Red Bascinet with Nose Guard
+itm_ak_bascinet_new_b_pl|Red Bascinet with Nose Guard
+itm_kabuto|Kabuto
+itm_kabuto_pl|Kabuto
+itm_dwarvenforged_helm_2|Dark Veiled Helmet
+itm_dwarvenforged_helm_2_pl|Dark Veiled Helmet
+itm_dorn_knight_helmet_a|Elintoran Helmet
+itm_dorn_knight_helmet_a_pl|Elintoran Helmet
+itm_crownedhelm|Crowned Helmet
+itm_crownedhelm_pl|Crowned Helmet
+itm_simple_ench|Simple Enchantment
+itm_simple_ench_pl|Simple Enchantment
+itm_soldiers_ench|Soldiers Enchantment
+itm_soldiers_ench_pl|Soldiers Enchantment
+itm_fine_ench|Fine Enchantment
+itm_fine_ench_pl|Fine Enchantment
+itm_noble_ench|Noble Enchantment
+itm_noble_ench_pl|Noble Enchantment
+itm_royal_ench|Royal Enchantment
+itm_royal_ench_pl|Royal Enchantment
+itm_mosoru_song_qibing|Mosoru Warlord Helm
+itm_mosoru_song_qibing_pl|Mosoru Warlord Helm
+itm_demon_hood|Demon Mask
+itm_demon_hood_pl|Demon Mask
+itm_kettlehatfacebyrnie|Faced Kettle Hat
+itm_kettlehatfacebyrnie_pl|Faced Kettle Hat
+itm_barbuta1|Open Barbuta
+itm_barbuta1_pl|Open Barbuta
+itm_h_tribune2_steel|Imperial Knight Helmet
+itm_h_tribune2_steel_pl|Imperial Knight Helmet
+itm_vaegir_war_helmet|Desert War Helmet
+itm_vaegir_war_helmet_pl|Desert War Helmet
+itm_facecovermail_turban_black|Black Desert Turban
+itm_facecovermail_turban_black_pl|Black Desert Turban
+itm_normanhelmet1|Axeman Helm
+itm_normanhelmet1_pl|Axeman Helm
+itm_frenchpepperpot2|Knight's Iron Faceplate
+itm_frenchpepperpot2_pl|Knight's Iron Faceplate
+itm_tagancha_helm_b|Full Tagancha Helm
+itm_tagancha_helm_b_pl|Full Tagancha Helm
+itm_vaegir_mask|War Mask
+itm_vaegir_mask_pl|War Mask
+itm_visored_salet|Visored Sallet
+itm_visored_salet_pl|Visored Sallet
+itm_crusader_hard_helm_ord|Simple Faceplate
+itm_crusader_hard_helm_ord_pl|Simple Faceplate
+itm_helm_tyrk_heavi_a|Illica Falki Helmet
+itm_helm_tyrk_heavi_a_pl|Illica Falki Helmet
+itm_barbuta2|Knight's Barbuta
+itm_barbuta2_pl|Knight's Barbuta
+itm_munitionshelm2|Black Iron Mask
+itm_munitionshelm2_pl|Black Iron Mask
+itm_mirk_helmet_1|Green Elven Helmet
+itm_mirk_helmet_1_pl|Green Elven Helmet
+itm_nikolskoe_helm|Nikolskoe Helm
+itm_nikolskoe_helm_pl|Nikolskoe Helm
+itm_nordic_warlord_helmet|Nordic Elite Helmet
+itm_nordic_warlord_helmet_pl|Nordic Elite Helmet
+itm_gondor_helmet|Elven Archer Helmet
+itm_gondor_helmet_pl|Elven Archer Helmet
+itm_faceplate|Faceplate
+itm_faceplate_pl|Faceplate
+itm_pepperpothelm1|Flattop Iron Faceplate
+itm_pepperpothelm1_pl|Flattop Iron Faceplate
+itm_barbuta1_black|Black Barbuta
+itm_barbuta1_black_pl|Black Barbuta
+itm_catafract_helmet_1|Gladiator's Helmet
+itm_catafract_helmet_1_pl|Gladiator's Helmet
+itm_helm_tyrk_a_market|Elite Zann Helmet
+itm_helm_tyrk_a_market_pl|Elite Zann Helmet
+itm_brass_veiled_helmet|Royal Draharan Veiled Helmet
+itm_brass_veiled_helmet_pl|Royal Draharan Veiled Helmet
+itm_full_helm|Full Helm
+itm_full_helm_pl|Full Helm
+itm_helm_tyrk_heavi_c|Royal Rider's Veiled Helmet
+itm_helm_tyrk_heavi_c_pl|Royal Rider's Veiled Helmet
+itm_munitionshelm1|Black Flattop Mask
+itm_munitionshelm1_pl|Black Flattop Mask
+itm_assassin_helmet2|Assassin's Ghost Turban
+itm_assassin_helmet2_pl|Assassin's Ghost Turban
+itm_barbuta2_white|White Knight's Barbuta
+itm_barbuta2_white_pl|White Knight's Barbuta
+itm_dwarvenforged_helm_1|Guardian's Helmet
+itm_dwarvenforged_helm_1_pl|Guardian's Helmet
+itm_imperial_helm|Imperial Helmet
+itm_imperial_helm_pl|Imperial Helmet
+itm_black_helmet|Black Helmet
+itm_black_helmet_pl|Black Helmet
+itm_dejawolf_valgarde_helm|Valgarde's Helm
+itm_dejawolf_valgarde_helm_pl|Valgarde's Helm
+itm_crusader_hard_helm_f|Oval Faceplate
+itm_crusader_hard_helm_f_pl|Oval Faceplate
+itm_visoredhelm|Visored Helm
+itm_visoredhelm_pl|Visored Helm
+itm_salet_new|Kettle Sallet
+itm_salet_new_pl|Kettle Sallet
+itm_barbuta2_black|Black Knight's Barbuta
+itm_barbuta2_black_pl|Black Knight's Barbuta
+itm_cretas_full_helm|Cretas Full Helm
+itm_cretas_full_helm_pl|Cretas Full Helm
+itm_guard_knight_helm_1|Knightly Helm
+itm_guard_knight_helm_1_pl|Knightly Helm
+itm_dorn_knight_helmet|Elintoran Knight's Helmet
+itm_dorn_knight_helmet_pl|Elintoran Knight's Helmet
+itm_fracia_helmet_2|Curved Faceplate
+itm_fracia_helmet_2_pl|Curved Faceplate
+itm_col1_gotlandbucket|Decorated Helm
+itm_col1_gotlandbucket_pl|Decorated Helm
+itm_fountain_guard_helmet|Falconian Winged Helm
+itm_fountain_guard_helmet_pl|Falconian Winged Helm
+itm_elfhelm|Crimson Ranger Helm
+itm_elfhelm_pl|Crimson Ranger Helm
+itm_novogrod_helm|Elite Drachen Helm
+itm_novogrod_helm_pl|Elite Drachen Helm
+itm_helm_tyrk_heavi_b|Feathered Kuu-lan Helmet
+itm_helm_tyrk_heavi_b_pl|Feathered Kuu-lan Helmet
+itm_crusader_knight_helm_c|Red Faceplate
+itm_crusader_knight_helm_c_pl|Red Faceplate
+itm_rathos_12thcent_faceplate|Heavy Faceplate
+itm_rathos_12thcent_faceplate_pl|Heavy Faceplate
+itm_west_pikeman_helmet|Dark Sallet with Coif
+itm_west_pikeman_helmet_pl|Dark Sallet with Coif
+itm_maciejowski_helmet_new3|White Helmet
+itm_maciejowski_helmet_new3_pl|White Helmet
+itm_bers_helm_open|Open Berserker Helmet
+itm_bers_helm_open_pl|Open Berserker Helmet
+itm_crusader_hard_helm_a|Flattop Faceplate
+itm_crusader_hard_helm_a_pl|Flattop Faceplate
+itm_luc_sugarloaf_helm_v1|Sugarloaf Helmet
+itm_luc_sugarloaf_helm_v1_pl|Sugarloaf Helmet
+itm_crusader_knight_helm_b|White Faceplate
+itm_crusader_knight_helm_b_pl|White Faceplate
+itm_catafract_helmet_3|Gladiator Champion's Helmet
+itm_catafract_helmet_3_pl|Gladiator Champion's Helmet
+itm_rivend_helmet_1c|Noble Elintoran Helmet
+itm_rivend_helmet_1c_pl|Noble Elintoran Helmet
+itm_barbuta2_1|Geldarin Noble Helmet
+itm_barbuta2_1_pl|Geldarin Noble Helmet
+itm_blacksale_salad|Black Sallet with Coif
+itm_blacksale_salad_pl|Black Sallet with Coif
+itm_helm_horned|Demon Horned Helmet
+itm_helm_horned_pl|Demon Horned Helmet
+itm_elfhelm_gold|Gold Elven Helm
+itm_elfhelm_gold_pl|Gold Elven Helm
+itm_barbuta2_purple|Purple Knight's Barbuta
+itm_barbuta2_purple_pl|Purple Knight's Barbuta
+itm_crusader_knight_helm_d|Black Faceplate
+itm_crusader_knight_helm_d_pl|Black Faceplate
+itm_gotlandbucket|Drache Helm
+itm_gotlandbucket_pl|Drache Helm
+itm_pigface_klappvisor_open|Open Pigface Bascinet
+itm_pigface_klappvisor_open_pl|Open Pigface Bascinet
+itm_guard_knight_helm|Horned Knightly Helm
+itm_guard_knight_helm_pl|Horned Knightly Helm
+itm_dorn_immortal_helmet|Elite Zann Mask
+itm_dorn_immortal_helmet_pl|Elite Zann Mask
+itm_litchina_helm|Litchina Helm
+itm_litchina_helm_pl|Litchina Helm
+itm_crusader_hard_helm_d|Knight's Faceplate
+itm_crusader_hard_helm_d_pl|Knight's Faceplate
+itm_crusaderbucket_yellow_1|Yellow Cross Helm
+itm_crusaderbucket_yellow_1_pl|Yellow Cross Helm
+itm_col1_crusaderbucket1|Blue Helm
+itm_col1_crusaderbucket1_pl|Blue Helm
+itm_citadel_guard_helmet|Falconian Ornate Helmet
+itm_citadel_guard_helmet_pl|Falconian Ornate Helmet
+itm_klappvisier|Full Steel Helm
+itm_klappvisier_pl|Full Steel Helm
+itm_crusader_knight_helm_f|Geldarin Honor Faceplate
+itm_crusader_knight_helm_f_pl|Geldarin Honor Faceplate
+itm_bers_helm|Berserker Helmet
+itm_bers_helm_pl|Berserker Helmet
+itm_crusaderbucket_teal|Teal Cross Helm
+itm_crusaderbucket_teal_pl|Teal Cross Helm
+itm_crusaderbucket_red|Red Cross Helm
+itm_crusaderbucket_red_pl|Red Cross Helm
+itm_asmoday_helmet2|Steel Horned Helm
+itm_asmoday_helmet2_pl|Steel Horned Helm
+itm_hounskull|Hounskull Bascinet
+itm_hounskull_pl|Hounskull Bascinet
+itm_rivend_helmet_2b|Royal Elintoran Helm
+itm_rivend_helmet_2b_pl|Royal Elintoran Helm
+itm_catafract_helmet_2|Hakkon Imperial Helmet
+itm_catafract_helmet_2_pl|Hakkon Imperial Helmet
+itm_crusaderbucket_orange|Orange Cross Helm
+itm_crusaderbucket_orange_pl|Orange Cross Helm
+itm_col1_bolzanobucket|Yellow Helm
+itm_col1_bolzanobucket_pl|Yellow Helm
+itm_pigface_klappvisor|Pigface Bascinet
+itm_pigface_klappvisor_pl|Pigface Bascinet
+itm_col2_madelnbucket2|Cream Great Helmet
+itm_col2_madelnbucket2_pl|Cream Great Helmet
+itm_flemish_armet_larger_and_black|Dark Drache Knight's Helmet
+itm_flemish_armet_larger_and_black_pl|Dark Drache Knight's Helmet
+itm_madelnbucket2|Gequetscht Drache Helm
+itm_madelnbucket2_pl|Gequetscht Drache Helm
+itm_crusaderbucket1|Full Helm
+itm_crusaderbucket1_pl|Full Helm
+itm_pigface_new|Knight Pigface
+itm_pigface_new_pl|Knight Pigface
+itm_bolzanobucket|Bucket Helm
+itm_bolzanobucket_pl|Bucket Helm
+itm_col1_madelnbucket2|Golden Red Helm
+itm_col1_madelnbucket2_pl|Golden Red Helm
+itm_flemish_armet|Maiden Knight's Helm
+itm_flemish_armet_pl|Maiden Knight's Helm
+itm_luc_knight_helm|Knight's Helmet w/ Visor
+itm_luc_knight_helm_pl|Knight's Helmet w/ Visor
+itm_crusaderbucket_blue|Blue Cross Helm
+itm_crusaderbucket_blue_pl|Blue Cross Helm
+itm_crusaderbucket_purple|Lymbard Helm
+itm_crusaderbucket_purple_pl|Lymbard Helm
+itm_maciejowski_helmet5b_bronze|Bronze Horned Helm
+itm_maciejowski_helmet5b_bronze_pl|Bronze Horned Helm
+itm_maciejowski_helmet_new4|Horned Helm
+itm_maciejowski_helmet_new4_pl|Horned Helm
+itm_col1_madelnbucket1|Decorated Red Helm
+itm_col1_madelnbucket1_pl|Decorated Red Helm
+itm_demon_helm|Demon Horned Helmet
+itm_demon_helm_pl|Demon Horned Helmet
+itm_sugarloaf_a|Sugarloaf Tipped Helmet
+itm_sugarloaf_a_pl|Sugarloaf Tipped Helmet
+itm_fountain_guard_helmet_mask|Fountain Guard Masked Winged Helm
+itm_fountain_guard_helmet_mask_pl|Fountain Guard Masked Winged Helm
+itm_spak_helmet_k|Spiked Full Helm
+itm_spak_helmet_k_pl|Spiked Full Helm
+itm_great_helmet|Great Helmet
+itm_great_helmet_pl|Great Helmet
+itm_crown_helm|Crown Helm
+itm_crown_helm_pl|Crown Helm
+itm_greatbascinet1|Great Bascinet
+itm_greatbascinet1_pl|Great Bascinet
+itm_winged_helmet|Noble Falconian Winged Helm
+itm_winged_helmet_pl|Noble Falconian Winged Helm
+itm_ak_wing_helmet_b|Red Winged Great Helmet
+itm_ak_wing_helmet_b_pl|Red Winged Great Helmet
+itm_crusaderbucket2|Long Full Helm
+itm_crusaderbucket2_pl|Long Full Helm
+itm_maciejowski_helmet5b_black|Black Horned Helm
+itm_maciejowski_helmet5b_black_pl|Black Horned Helm
+itm_2kettle_hat_new|Horned Kettle Hat
+itm_2kettle_hat_new_pl|Horned Kettle Hat
+itm_ak_great_helmet_a|Red Great Helmet
+itm_ak_great_helmet_a_pl|Red Great Helmet
+itm_madelnbucket1|Drache Vollhelm
+itm_madelnbucket1_pl|Drache Vollhelm
+itm_maciejowski_helmet_new5|Gold Cross Great Helmet
+itm_maciejowski_helmet_new5_pl|Gold Cross Great Helmet
+itm_maciejowski_helmet5b|White Horned Helm
+itm_maciejowski_helmet5b_pl|White Horned Helm
+itm_new_helm1|Stechhelm
+itm_new_helm1_pl|Stechhelm
+itm_winged_great_helmet|Winged Great Helmet
+itm_winged_great_helmet_pl|Winged Great Helmet
+itm_weimarhelm|Weimer Drache Helm
+itm_weimarhelm_pl|Weimer Drache Helm
+itm_sugarloaf_b|Sugarloaf Tipped Helmet
+itm_sugarloaf_b_pl|Sugarloaf Tipped Helmet
+itm_paladins_hood|Paladin Helmet with Hood
+itm_paladins_hood_pl|Paladin Helmet with Hood
+itm_twilighthelm|Perisno Twilight Helm
+itm_twilighthelm_pl|Perisno Twilight Helm
+itm_wrapping_boots|Wrapping Boots
+itm_wrapping_boots_pl|Wrapping Boots
+itm_white_hose|White Hose
+itm_white_hose_pl|White Hose
+itm_blue_hose|Blue Hose
+itm_blue_hose_pl|Blue Hose
+itm_woolen_hose|Woolen Hose
+itm_woolen_hose_pl|Woolen Hose
+itm_ankle_boots|Ankle Boots
+itm_ankle_boots_pl|Ankle Boots
+itm_ankle_boots_cwe|Townsman's Ankle Boots
+itm_ankle_boots_cwe_pl|Townsman's Ankle Boots
+itm_hunter_boots|Hunter Boots
+itm_hunter_boots_pl|Hunter Boots
+itm_rus_shoes|Brown Ankle Boots
+itm_rus_shoes_pl|Brown Ankle Boots
+itm_nomad_boots|Nomad Boots
+itm_nomad_boots_pl|Nomad Boots
+itm_hide_boots|Hide Boots
+itm_hide_boots_pl|Hide Boots
+itm_lorien_boots|Elven Black Boots
+itm_lorien_boots_pl|Elven Black Boots
+itm_leather_boots|Leather Boots
+itm_leather_boots_pl|Leather Boots
+itm_light_leather_boots|Light Leather Boots
+itm_light_leather_boots_pl|Light Leather Boots
+itm_leather_boots_dark|Dark Leather Boots
+itm_leather_boots_dark_pl|Dark Leather Boots
+itm_khergit_leather_boots|Red Desert Leather Boots
+itm_khergit_leather_boots_pl|Red Desert Leather Boots
+itm_stark_hanter_boots|Furred Hunter Boots
+itm_stark_hanter_boots_pl|Furred Hunter Boots
+itm_civil_rich_boots_b|Black Leather Boots
+itm_civil_rich_boots_b_pl|Black Leather Boots
+itm_boot_average_crusader_c|Padded Leather Boots
+itm_boot_average_crusader_c_pl|Padded Leather Boots
+itm_sarranid_boots_b|Desert Leather Boots
+itm_sarranid_boots_b_pl|Desert Leather Boots
+itm_west_rider_boots|Black Rider's Boots
+itm_west_rider_boots_pl|Black Rider's Boots
+itm_sarranid_boots_black|Dark Desert Leather Boots
+itm_sarranid_boots_black_pl|Dark Desert Leather Boots
+itm_rus_cav_boots|Red Cavalry Boots
+itm_rus_cav_boots_pl|Red Cavalry Boots
+itm_splinted_greaves|Splinted Greaves
+itm_splinted_greaves_pl|Splinted Greaves
+itm_suneate_1|Black Suneate Boots
+itm_suneate_1_pl|Black Suneate Boots
+itm_sarranid_boots_d|Desert Mail Boots
+itm_sarranid_boots_d_pl|Desert Mail Boots
+itm_civil_rich_boots_a|Red Padded Leather Boots
+itm_civil_rich_boots_a_pl|Red Padded Leather Boots
+itm_splinted_leather_greaves|Splinted Leather Greaves
+itm_splinted_leather_greaves_pl|Splinted Leather Greaves
+itm_sarranid_boots_c|Desert Plated Boots
+itm_sarranid_boots_c_pl|Desert Plated Boots
+itm_highlander_boots_2_2|Highlander Boots
+itm_highlander_boots_2_2_pl|Highlander Boots
+itm_redsuneate|Red Suneate Boots
+itm_redsuneate_pl|Red Suneate Boots
+itm_suneate|Suneate Boots
+itm_suneate_pl|Suneate Boots
+itm_sarranid_boots_brass|Desert Brass Boots
+itm_sarranid_boots_brass_pl|Desert Brass Boots
+itm_saracin_hard_boot_b|Plated Desert Boots
+itm_saracin_hard_boot_b_pl|Plated Desert Boots
+itm_riv_boots|Geldarin Greaves
+itm_riv_boots_pl|Geldarin Greaves
+itm_bear_boots|Bear Fur Shoes
+itm_bear_boots_pl|Bear Fur Shoes
+itm_boot_average_crusader_b|Cavalry Boots
+itm_boot_average_crusader_b_pl|Cavalry Boots
+itm_rus_splint_greaves|Plated Boots
+itm_rus_splint_greaves_pl|Plated Boots
+itm_mail_boots|Mail Boots
+itm_mail_boots_pl|Mail Boots
+itm_splinted_greaves_spurs|Splinted Greaves with Spurs
+itm_splinted_greaves_spurs_pl|Splinted Greaves with Spurs
+itm_dorn_spearbearer_boots|Dark Plated Boots
+itm_dorn_spearbearer_boots_pl|Dark Plated Boots
+itm_mail_boots_brass|Brass Mail Boots
+itm_mail_boots_brass_pl|Brass Mail Boots
+itm_mail_chausses_shin_guard|Mail Chausses Boots
+itm_mail_chausses_shin_guard_pl|Mail Chausses Boots
+itm_imperial_boots_female|Female Imperial Boots
+itm_imperial_boots_female_pl|Female Imperial Boots
+itm_shadow_greaves|Shadow Greaves
+itm_shadow_greaves_pl|Shadow Greaves
+itm_amade_steel_greaves|Hakkon Steel Greaves
+itm_amade_steel_greaves_pl|Hakkon Steel Greaves
+itm_imperial_boots_male|Imperial Boots
+itm_imperial_boots_male_pl|Imperial Boots
+itm_khergit_guard_boots|Kuu-lan Guard Boots
+itm_khergit_guard_boots_pl|Kuu-lan Guard Boots
+itm_shynbaulds|Shynbaulds
+itm_shynbaulds_pl|Shynbaulds
+itm_mirk_boots_1|Elven Greaves
+itm_mirk_boots_1_pl|Elven Greaves
+itm_iron_greaves|Iron Greaves
+itm_iron_greaves_pl|Iron Greaves
+itm_suneate_steel|Steel Suneate Boots
+itm_suneate_steel_pl|Steel Suneate Boots
+itm_bronze_greaves|Hakkon Bronze Greaves
+itm_bronze_greaves_pl|Hakkon Bronze Greaves
+itm_dorn_knight_boots|Ornate Greaves
+itm_dorn_knight_boots_pl|Ornate Greaves
+itm_black_greaves|Black Greaves
+itm_black_greaves_pl|Black Greaves
+itm_plate_boots|Plate Boots
+itm_plate_boots_pl|Plate Boots
+itm_steel_greaves|Cased Greaves
+itm_steel_greaves_pl|Cased Greaves
+itm_knights_boot|Knightly Plate Boots
+itm_knights_boot_pl|Knightly Plate Boots
+itm_bronzeshynald|Bronze Greaves
+itm_bronzeshynald_pl|Bronze Greaves
+itm_west_pikeman_boots|Knight's Greaves
+itm_west_pikeman_boots_pl|Knight's Greaves
+itm_rivend_boots_1b|Golden Elintoran Greaves
+itm_rivend_boots_1b_pl|Golden Elintoran Greaves
+itm_black_boot_salad_of|Black Steel Greaves
+itm_black_boot_salad_of_pl|Black Steel Greaves
+itm_plate_boots2|Silver Plate Boots
+itm_plate_boots2_pl|Silver Plate Boots
+itm_twilight_boots|Perisno Twilight Boots
+itm_twilight_boots_pl|Perisno Twilight Boots
+itm_iron_greaves_a|Dark Knight Plate Boots
+itm_iron_greaves_a_pl|Dark Knight Plate Boots
+itm_leather_gloves|Leather Gloves
+itm_leather_gloves_pl|Leather Gloves
+itm_new_leather_gloves|Purple Leather Gloves
+itm_new_leather_gloves_pl|Purple Leather Gloves
+itm_gloves_lord_l|Rich Leather Gloves
+itm_gloves_lord_l_pl|Rich Leather Gloves
+itm_mail_mittens|Mail Mittens
+itm_mail_mittens_pl|Mail Mittens
+itm_cwe_king_gloves|Royal Leather Gloves
+itm_cwe_king_gloves_pl|Royal Leather Gloves
+itm_gauntlets_arabs_a_l|Plated Leather Gloves
+itm_gauntlets_arabs_a_l_pl|Plated Leather Gloves
+itm_kote|Kote
+itm_kote_pl|Kote
+itm_new_mail_mittens|Yellow Scale Mittens
+itm_new_mail_mittens_pl|Yellow Scale Mittens
+itm_dark_mail_mittens|Dark Mail Mittens
+itm_dark_mail_mittens_pl|Dark Mail Mittens
+itm_brass_mail_mittens|Brass Mail Mittens
+itm_brass_mail_mittens_pl|Brass Mail Mittens
+itm_gauntlets_arabs_b_l|Royal Plated Gloves
+itm_gauntlets_arabs_b_l_pl|Royal Plated Gloves
+itm_redkote|Red Kote
+itm_redkote_pl|Red Kote
+itm_lamellar_gauntlets|Brown Lamellar Gauntlets
+itm_lamellar_gauntlets_pl|Brown Lamellar Gauntlets
+itm_gondor_bracer_l|Spider Silk Gloves
+itm_gondor_bracer_l_pl|Spider Silk Gloves
+itm_wisby_gauntlets_black|Black Splinted Leather Gauntlets
+itm_wisby_gauntlets_black_pl|Black Splinted Leather Gauntlets
+itm_wisby_gauntlets_red|Red Splinted Leather Gauntlets
+itm_wisby_gauntlets_red_pl|Red Splinted Leather Gauntlets
+itm_new_lamellar_gauntlets|Lamellar Gauntlets
+itm_new_lamellar_gauntlets_pl|Lamellar Gauntlets
+itm_brass_lamellar_gauntlets|Brass Lamellar Gauntlets
+itm_brass_lamellar_gauntlets_pl|Brass Lamellar Gauntlets
+itm_new_scale_gauntlets|Scale Gauntlets
+itm_new_scale_gauntlets_pl|Scale Gauntlets
+itm_dorn_knight_gant|Iron Plated Gloves
+itm_dorn_knight_gant_pl|Iron Plated Gloves
+itm_brass_scale_gauntlets|Brass Scale Gauntlets
+itm_brass_scale_gauntlets_pl|Brass Scale Gauntlets
+itm_beargauntlets|Bear Gloves
+itm_beargauntlets_pl|Bear Gloves
+itm_bnw_gauntlets|Black and White Gauntlets
+itm_bnw_gauntlets_pl|Black and White Gauntlets
+itm_bronze_gauntlet|Hakkkon Bronze Gauntlets
+itm_bronze_gauntlet_pl|Hakkkon Bronze Gauntlets
+itm_gauntlets|Gauntlets
+itm_gauntlets_pl|Gauntlets
+itm_hourglass_gauntlets|Hourglass Gauntlets
+itm_hourglass_gauntlets_pl|Hourglass Gauntlets
+itm_scale_gauntlets|Black Scale Gauntlets
+itm_scale_gauntlets_pl|Black Scale Gauntlets
+itm_twilight_gloves|Perisno Twilight Gloves
+itm_twilight_gloves_pl|Perisno Twilight Gloves
+itm_hourglass_gauntlets_ornate|Ornate Hourglass Gauntlets
+itm_hourglass_gauntlets_ornate_pl|Ornate Hourglass Gauntlets
+itm_new_gauntlets_b|Rich Gauntlets
+itm_new_gauntlets_b_pl|Rich Gauntlets
+itm_bronzeplatemitten|Bronze Plate Mittens
+itm_bronzeplatemitten_pl|Bronze Plate Mittens
+itm_plate_mittens|Plate Mittens
+itm_plate_mittens_pl|Plate Mittens
+itm_glovesblack|Perisno Dark Plate Gloves
+itm_glovesblack_pl|Perisno Dark Plate Gloves
+itm_blackplatemitty|Black Plate Mittens
+itm_blackplatemitty_pl|Black Plate Mittens
+itm_roman_shirt|Tunic
+itm_roman_shirt_pl|Tunic
+itm_roman_shirt_white|Green Tunic
+itm_roman_shirt_white_pl|Green Tunic
+itm_roman_shirt_red|Black Tunic
+itm_roman_shirt_red_pl|Black Tunic
+itm_roman_light_armor|Legion Light Armor
+itm_roman_light_armor_pl|Legion Light Armor
+itm_roman_hamata|Hamata
+itm_roman_hamata_pl|Hamata
+itm_roman_squamata|Squamata
+itm_roman_squamata_pl|Squamata
+itm_roman_cent_hamata|Visavo Hamata
+itm_roman_cent_hamata_pl|Visavo Hamata
+itm_roman_armor_cent|Light Legion Segmentata
+itm_roman_armor_cent_pl|Light Legion Segmentata
+itm_roman_armor_white|Legion Segmentata
+itm_roman_armor_white_pl|Legion Segmentata
+itm_roman_armor|Dark Legion Segmentata
+itm_roman_armor_pl|Dark Legion Segmentata
+itm_roman_armor_red|Centurion Legion Segmentata
+itm_roman_armor_red_pl|Centurion Legion Segmentata
+itm_roman_helm_copper|Auxiliary Helmet
+itm_roman_helm_copper_pl|Auxiliary Helmet
+itm_roman_helm_lego|Legionary Helmet
+itm_roman_helm_lego_pl|Legionary Helmet
+itm_roman_helm_preator|Praetorian Helmet
+itm_roman_helm_preator_pl|Praetorian Helmet
+itm_roman_helm_cent|Centurion Helmet
+itm_roman_helm_cent_pl|Centurion Helmet
+itm_roman_greaves_caligea|Caligae
+itm_roman_greaves_caligea_pl|Caligae
+itm_roman_greaves_gutter_single|Single Greave
+itm_roman_greaves_gutter_single_pl|Single Greave
+itm_roman_greaves_gutter|Simple Legion Greaves
+itm_roman_greaves_gutter_pl|Simple Legion Greaves
+itm_roman_greaves_greek|Legion Greaves
+itm_roman_greaves_greek_pl|Legion Greaves
+itm_roman_centurion_boots|Centurion's Greaves
+itm_roman_centurion_boots_pl|Centurion's Greaves
+itm_woodman_tunic|Aroulo Tunic
+itm_woodman_tunic_pl|Aroulo Tunic
+itm_woodman_scout|Aroulo Light Armor
+itm_woodman_scout_pl|Aroulo Light Armor
+itm_woodman_padded|Aroulo Padded Armor
+itm_woodman_padded_pl|Aroulo Padded Armor
+itm_leaf_armour|Aroulo Wood Armor
+itm_leaf_armour_pl|Aroulo Wood Armor
+itm_woodman_chieftain|Aroulo Medium Armor
+itm_woodman_chieftain_pl|Aroulo Medium Armor
+itm_armour_braided|Aroulo Braided Armor
+itm_armour_braided_pl|Aroulo Braided Armor
+itm_aroulo_boots|Aroulo Rich Leather Boots
+itm_aroulo_boots_pl|Aroulo Rich Leather Boots
+itm_woodman_staff|Aroulo Staff
+itm_woodman_staff_pl|Aroulo Staff
+itm_stonemaul_aroulo|Tribal Stone Hammer
+itm_stonemaul_aroulo_pl|Tribal Stone Hammer
+itm_aroulo_arrows|Aroulo Hunter Arrows
+itm_aroulo_arrows_pl|Aroulo Hunter Arrows
+itm_aroulo_throwing_wep|Aroulo Leaf Bomb
+itm_aroulo_throwing_wep_pl|Aroulo Leaf Bomb
+itm_aroulo_throwing_wep_area_damage|Club
+itm_aroulo_throwing_wep_area_damage_pl|Club
+itm_aroulo_throwing_wep_tourney|Aroulo Leaf Bomb
+itm_aroulo_throwing_wep_tourney_pl|Aroulo Leaf Bomb
+itm_dreaded_greaves|Dreaded One's Greaves
+itm_dreaded_greaves_pl|Dreaded One's Greaves
+itm_dreaded_helmet|Dreaded One's Helmet
+itm_dreaded_helmet_pl|Dreaded One's Helmet
+itm_gabranth|Darklord Full Suit
+itm_gabranth_pl|Darklord Full Suit
+itm_armor_baratheon|Weathered Armor
+itm_armor_baratheon_pl|Weathered Armor
+itm_helm_baratheon|Weathered Helmet
+itm_helm_baratheon_pl|Weathered Helmet
+itm_boots_baratheon|Weathered Greaves
+itm_boots_baratheon_pl|Weathered Greaves
+itm_archer_tevton_armor_b|Perisno Pilgrim's Clothes
+itm_archer_tevton_armor_b_pl|Perisno Pilgrim's Clothes
+itm_armor_monie_tevton_b|Perisno Monk's Robe
+itm_armor_monie_tevton_b_pl|Perisno Monk's Robe
+itm_sergeant_tevton_armor_b|Perisno Cleric's Armor
+itm_sergeant_tevton_armor_b_pl|Perisno Cleric's Armor
+itm_knight_armor_tevton_c|Perisno Priest's Mail Surcoat
+itm_knight_armor_tevton_c_pl|Perisno Priest's Mail Surcoat
+itm_knight_armor_templar_d|Perisno Crusader's Armor
+itm_knight_armor_templar_d_pl|Perisno Crusader's Armor
+itm_knight_armor_tevton_c_cloak|Perisno Holy Champion's Armor
+itm_knight_armor_tevton_c_cloak_pl|Perisno Holy Champion's Armor
+itm_knight_armor_templar_d_cloak|Perisno Zealot's Armor
+itm_knight_armor_templar_d_cloak_pl|Perisno Zealot's Armor
+itm_tabard_red|Freelancer Recruit's Tabard
+itm_tabard_red_pl|Freelancer Recruit's Tabard
+itm_sergeant_armor_antioh_a|Freelancer Soldier's Uniform
+itm_sergeant_armor_antioh_a_pl|Freelancer Soldier's Uniform
+itm_knight_armor_antioh_e|Freelancer Infantry's Uniform
+itm_knight_armor_antioh_e_pl|Freelancer Infantry's Uniform
+itm_knight_armor_antioh_b_cloak|Freelancer Swordsmaster's Uniform
+itm_knight_armor_antioh_b_cloak_pl|Freelancer Swordsmaster's Uniform
+itm_armor_master_order_antioh|Freelancer Dismounted Knight's Armor
+itm_armor_master_order_antioh_pl|Freelancer Dismounted Knight's Armor
+itm_archer_ibelin_armor_a|Freelancer Archer's Uniform
+itm_archer_ibelin_armor_a_pl|Freelancer Archer's Uniform
+itm_sergeant_ibelin_armor|Freelancer Veteran Archer's Uniform
+itm_sergeant_ibelin_armor_pl|Freelancer Veteran Archer's Uniform
+itm_knight_armor_ibelin_c|Freelancer Master Archer's Uniform
+itm_knight_armor_ibelin_c_pl|Freelancer Master Archer's Uniform
+itm_knight_armor_ibelin_b_cloak|Freelancer Sharpshooter's Uniform
+itm_knight_armor_ibelin_b_cloak_pl|Freelancer Sharpshooter's Uniform
+itm_west_heavy_footman_armor|Freelancer Rider's Armor
+itm_west_heavy_footman_armor_pl|Freelancer Rider's Armor
+itm_west_rider_armor|Freelancer Squire's Armor
+itm_west_rider_armor_pl|Freelancer Squire's Armor
+itm_west_halberdier|Freelancer Knight's Armor
+itm_west_halberdier_pl|Freelancer Knight's Armor
+itm_west_man_at_arms_armor|Freelancer Marshal's Armor
+itm_west_man_at_arms_armor_pl|Freelancer Marshal's Armor
+itm_knight_armor_hospitaller_f|Eagle Retainer Armor
+itm_knight_armor_hospitaller_f_pl|Eagle Retainer Armor
+itm_knight_armor_hospitaller_d_cloak|Eagle Knight Armor
+itm_knight_armor_hospitaller_d_cloak_pl|Eagle Knight Armor
+itm_armor_master_order_hospitaller|Eagle Lord Armor
+itm_armor_master_order_hospitaller_pl|Eagle Lord Armor
+itm_warblade_bluesilver|Rhinio's Court Blade
+itm_warblade_bluesilver_pl|Rhinio's Court Blade
+itm_elfhelm_fake|Fake Elven Helm
+itm_elfhelm_fake_pl|Fake Elven Helm
+itm_elf_armor_fake|Fake Crimson Ranger Armor
+itm_elf_armor_fake_pl|Fake Crimson Ranger Armor
+itm_redwoodbow_fake|Common Red Bow
+itm_redwoodbow_fake_pl|Common Red Bow
+itm_simpletreequiver_arrow_fake|Red Arrows
+itm_simpletreequiver_arrow_fake_pl|Red Arrows
+itm_sabre_brightwood_fake|Red Sabre
+itm_sabre_brightwood_fake_pl|Red Sabre
+itm_nibor_hood_bow|Nibor Brotherhood Bow
+itm_nibor_hood_bow_pl|Nibor Brotherhood Bow
+itm_litchina_helm_dark|Litchina Helm
+itm_litchina_helm_dark_pl|Litchina Helm
+itm_litchina_gold|Litchina Helm
+itm_litchina_gold_pl|Litchina Helm
+itm_strange_armor|Strange Armor
+itm_strange_armor_pl|Strange Armor
+itm_strange_boots|Strange Boots
+itm_strange_boots_pl|Strange Boots
+itm_strange_helmet|Strange Helmet
+itm_strange_helmet_pl|Strange Helmet
+itm_duelling_helmet_blue|Blue Tourney Helm
+itm_duelling_helmet_blue_pl|Blue Tourney Helm
+itm_duelling_helmet|Dueling Helm
+itm_duelling_helmet_pl|Dueling Helm
+itm_pilgrim_disguise_ludger|Pilgrim Disguise
+itm_pilgrim_disguise_ludger_pl|Pilgrim Disguise
+itm_mail_boots_for_tableau|Mail Boots
+itm_mail_boots_for_tableau_pl|Mail Boots
+itm_a_h1|Dwarven Mountain Outfit
+itm_a_h1_pl|Dwarven Mountain Outfit
+itm_a_h1_1|Black Dwarven Mountain Outfit
+itm_a_h1_1_pl|Black Dwarven Mountain Outfit
+itm_a_h2|Dwarven Warrior Armor
+itm_a_h2_pl|Dwarven Warrior Armor
+itm_a_h3|Elite Mountain Armor
+itm_a_h3_pl|Elite Mountain Armor
+itm_dwarf_scalemail|Dwaven Scalemail
+itm_dwarf_scalemail_pl|Dwaven Scalemail
+itm_dwarven_scalemail|Dwarven Scale Armor
+itm_dwarven_scalemail_pl|Dwarven Scale Armor
+itm_dwarf_armor_9a|Silver Kaikoth Scalemail
+itm_dwarf_armor_9a_pl|Silver Kaikoth Scalemail
+itm_dwarf_armor_9b|Royal Kaikoth Armor
+itm_dwarf_armor_9b_pl|Royal Kaikoth Armor
+itm_b_h1|Dwarven Highlander Boots
+itm_b_h1_pl|Dwarven Highlander Boots
+itm_dwarf_helm_l|Kaikoth Cap
+itm_dwarf_helm_l_pl|Kaikoth Cap
+itm_dwarf_helm_m|Kaikoth Round Helm
+itm_dwarf_helm_m_pl|Kaikoth Round Helm
+itm_dwarf_helm_c|Kaikoth Helm with Mask
+itm_dwarf_helm_c_pl|Kaikoth Helm with Mask
+itm_dwarf_helm_e|White Kaikoth Chained Helm
+itm_dwarf_helm_e_pl|White Kaikoth Chained Helm
+itm_dwarf_helm_b|Kaikoth Coif with Mask
+itm_dwarf_helm_b_pl|Kaikoth Coif with Mask
+itm_dwarf_helm_d|Kaikoth Chained Helm
+itm_dwarf_helm_d_pl|Kaikoth Chained Helm
+itm_dwarf_helm_g|Kaikoth Frisian Helm
+itm_dwarf_helm_g_pl|Kaikoth Frisian Helm
+itm_dwarf_helm_p|Kaikoth Sallet Chain
+itm_dwarf_helm_p_pl|Kaikoth Sallet Chain
+itm_dwarf_helm_n|Kaikoth Round Helmet
+itm_dwarf_helm_n_pl|Kaikoth Round Helmet
+itm_dwarf_helm_f|Kaikoth Faced Helm
+itm_dwarf_helm_f_pl|Kaikoth Faced Helm
+itm_dwarf_helm_i|Kaikoth Iron Helm
+itm_dwarf_helm_i_pl|Kaikoth Iron Helm
+itm_dwarf_helm_o|Kaikoth Sargeant Helmet
+itm_dwarf_helm_o_pl|Kaikoth Sargeant Helmet
+itm_inf_t3|Heavy Infantry Helm
+itm_inf_t3_pl|Heavy Infantry Helm
+itm_inf_t4|Mountain Keeper Helm
+itm_inf_t4_pl|Mountain Keeper Helm
+itm_dwarf_helm_h|Kaikoth Ironface Helm
+itm_dwarf_helm_h_pl|Kaikoth Ironface Helm
+itm_dwarf_helm_j|Kaikoth King's Helm
+itm_dwarf_helm_j_pl|Kaikoth King's Helm
+itm_giant_arena_1|Giant Armor
+itm_giant_arena_1_pl|Giant Armor
+itm_giant_arena_2|Giant Armor
+itm_giant_arena_2_pl|Giant Armor
+itm_giant_arena_3|Giant Armor
+itm_giant_arena_3_pl|Giant Armor
+itm_giant_arena_4|Giant Armor
+itm_giant_arena_4_pl|Giant Armor
+itm_giants_brown_pants|Giant's Brown Pants
+itm_giants_brown_pants_pl|Giant's Brown Pants
+itm_giants_grey_pants|Giant's Grey Pants
+itm_giants_grey_pants_pl|Giant's Grey Pants
+itm_armor_marauder_recruit_a_01|Bakhal Soldier Pants
+itm_armor_marauder_recruit_a_01_pl|Bakhal Soldier Pants
+itm_armor_marauder_recruit_b_01|Sut Light Armor
+itm_armor_marauder_recruit_b_01_pl|Sut Light Armor
+itm_armor_marauder_recruit_c_01|Bakhal Light Armor
+itm_armor_marauder_recruit_c_01_pl|Bakhal Light Armor
+itm_giant_archer_armor_sut|Sut Huntsman Armor
+itm_giant_archer_armor_sut_pl|Sut Huntsman Armor
+itm_giant_archer_armor_bakhal|Bakhal Huntsman Armor
+itm_giant_archer_armor_bakhal_pl|Bakhal Huntsman Armor
+itm_giant_archer_armor_sut_2|Sut Bowman Armor
+itm_giant_archer_armor_sut_2_pl|Sut Bowman Armor
+itm_giant_archer_armor_bakhal_2|Bakhal Archer Armor
+itm_giant_archer_armor_bakhal_2_pl|Bakhal Archer Armor
+itm_giant_guard_armor_bakhal|Bakhal Blood Armor
+itm_giant_guard_armor_bakhal_pl|Bakhal Blood Armor
+itm_giant_in_karnoth_mine|Bakhal Footman Armor
+itm_giant_in_karnoth_mine_pl|Bakhal Footman Armor
+itm_giant_leather_armor_sut|Sut Fur Armor
+itm_giant_leather_armor_sut_pl|Sut Fur Armor
+itm_armor_weathered_berserker_b_01|Bakhal Slaveherder Armor
+itm_armor_weathered_berserker_b_01_pl|Bakhal Slaveherder Armor
+itm_giant_guard_armor_sut|Sut Fighter Armor
+itm_giant_guard_armor_sut_pl|Sut Fighter Armor
+itm_giant_plate_armor_bakhal|Bakhal Giant Plate
+itm_giant_plate_armor_bakhal_pl|Bakhal Giant Plate
+itm_giant_plate_armor_sut|Sut Giant Plate
+itm_giant_plate_armor_sut_pl|Sut Giant Plate
+itm_giant_champion_armor_bakhal|Bakhal Soldier Armor
+itm_giant_champion_armor_bakhal_pl|Bakhal Soldier Armor
+itm_giant_guardsman_armor_sut|Sut Warrior Armor
+itm_giant_guardsman_armor_sut_pl|Sut Warrior Armor
+itm_giant_leather_armor_bakhal|Bakhal Spiked Armor
+itm_giant_leather_armor_bakhal_pl|Bakhal Spiked Armor
+itm_armor_elite_berserker_a_01|Bakhal Warrior Armor
+itm_armor_elite_berserker_a_01_pl|Bakhal Warrior Armor
+itm_armor_weathered_marauder_of_norsca_b_01|Sut Spiked Armor
+itm_armor_weathered_marauder_of_norsca_b_01_pl|Sut Spiked Armor
+itm_giant_warrior_armor_bakhal|Bakhal Warrior Plate
+itm_giant_warrior_armor_bakhal_pl|Bakhal Warrior Plate
+itm_giant_guardsman_armor_sut_2|Sut Lesser Chieftain's Armor
+itm_giant_guardsman_armor_sut_2_pl|Sut Lesser Chieftain's Armor
+itm_elite_marauder_armor2|Giant Berserker Armor
+itm_elite_marauder_armor2_pl|Giant Berserker Armor
+itm_armor_elite_marauder_of_norsca_c_02|Bakhal Champion Plate
+itm_armor_elite_marauder_of_norsca_c_02_pl|Bakhal Champion Plate
+itm_giant_chieftan_armor_bakhal|Bakhal Chieftain Armor
+itm_giant_chieftan_armor_bakhal_pl|Bakhal Chieftain Armor
+itm_giant_chieftan_armor_sut|Sut Chieftain Armor
+itm_giant_chieftan_armor_sut_pl|Sut Chieftain Armor
+itm_giant_helmet_karnoth|단순한 거인의 투구
+itm_giant_helmet_karnoth_pl|단순한 거인의 투구
+itm_giant_helmet_bakhal|바칼 투구
+itm_giant_helmet_bakhal_pl|바칼 투구
+itm_sut_horned_helmet|수트족 뿔달린 투구
+itm_sut_horned_helmet_pl|수트족 뿔달린 투구
+itm_spiked_bakhal_helmet|바칼족 뿔달린 투구
+itm_spiked_bakhal_helmet_pl|바칼족 뿔달린 투구
+itm_giant_helmet_sut|수트족 강철 투구
+itm_giant_helmet_sut_pl|수트족 강철 투구
+itm_giant_helm_01|거인 전사의 투구
+itm_giant_helm_01_pl|거인 전사의 투구
+itm_giant_bers_helmet|거인 광전사 투구
+itm_giant_bers_helmet_pl|거인 광전사 투구
+itm_k14_bak_warrior_helmet|바칼족 전사의 투구
+itm_k14_bak_warrior_helmet_pl|바칼족 전사의 투구
+itm_k15_sut_warrior_helmet|수트족 전사의 투구
+itm_k15_sut_warrior_helmet_pl|수트족 전사의 투구
+itm_giant_honor_helmet|거인의 의례용 투구
+itm_giant_honor_helmet_pl|거인의 의례용 투구
+itm_bakhal_guard_helmet|바칼족 뿔달린 위병 투구
+itm_bakhal_guard_helmet_pl|바칼족 뿔달린 위병 투구
+itm_giant_horned_helmet_sut|수트족 투사의 투구
+itm_giant_horned_helmet_sut_pl|수트족 투사의 투구
+itm_giant_horned_skull_helmet_bakhal|바칼족 뿔달린 해골 투구
+itm_giant_horned_skull_helmet_bakhal_pl|바칼족 뿔달린 해골 투구
+itm_giant_horned_chief_helmet_sut|수트족 뿔달린 족장의 투구
+itm_giant_horned_chief_helmet_sut_pl|수트족 뿔달린 족장의 투구
+itm_giant_warlord_helmet|거인 전쟁 군주의 투구
+itm_giant_warlord_helmet_pl|거인 전쟁 군주의 투구
+itm_giant_horned_helmet_bakhal|바칼족 강철 뿔달린 투구
+itm_giant_horned_helmet_bakhal_pl|바칼족 강철 뿔달린 투구
+itm_full_sut_helmet|수트족 완전무장 투구
+itm_full_sut_helmet_pl|수트족 완전무장 투구
+itm_giant_grey_boots|거인의 회색 장화
+itm_giant_grey_boots_pl|거인의 회색 장화
+itm_giant_brown_boots|거인의 갈색 장화
+itm_giant_brown_boots_pl|거인의 갈색 장화
+itm_giant_gr_boots_knee_01|거인의 회색 가죽 장화
+itm_giant_gr_boots_knee_01_pl|거인의 회색 가죽 장화
+itm_giant_br_boots_knee_02|거인의 갈색 가죽 장화
+itm_giant_br_boots_knee_02_pl|거인의 갈색 가죽 장화
+itm_giant_warrior_boots|거인의 전사 장화
+itm_giant_warrior_boots_pl|거인의 전사 장화
+itm_giant_fur_boots|거인의 모피 장화
+itm_giant_fur_boots_pl|거인의 모피 장화
+itm_giant_furred_boots|거인의 털 장화
+itm_giant_furred_boots_pl|거인의 털 장화
+itm_giant_furred_boots_1|거인의 털덮인 전사의 장화
+itm_giant_furred_boots_1_pl|거인의 털덮인 전사의 장화
+itm_giant_leather_boots|거인의 금속과 가죽 장화
+itm_giant_leather_boots_pl|거인의 금속과 가죽 장화
+itm_giant_plated_boots|거인의 판금 장화
+itm_giant_plated_boots_pl|거인의 판금 장화
+itm_giant_plated_boots_sharp|거인의 전사 판금 장화
+itm_giant_plated_boots_sharp_pl|거인의 전사 판금 장화
+itm_giant_plated_boots_war|거인의 전쟁 군주 판금 장화
+itm_giant_plated_boots_war_pl|거인의 전쟁 군주 판금 장화
+itm_giant_gloves|거인의 모피 장갑
+itm_giant_gloves_pl|거인의 모피 장갑
+itm_giant_gloves_plus|거인 전사의 장갑
+itm_giant_gloves_plus_pl|거인 전사의 장갑
+itm_giant_gloves_plus1|거인의 금속 장갑
+itm_giant_gloves_plus1_pl|거인의 금속 장갑
+itm_ad_viking_shield_round_04|녹색과 적색 노르딕 방패
+itm_ad_viking_shield_round_04_pl|녹색과 적색 노르딕 방패
+itm_ad_viking_shield_round_05|청색과 백색 노르딕 방패
+itm_ad_viking_shield_round_05_pl|청색과 백색 노르딕 방패
+itm_ad_viking_shield_round_07|흑색과 백색 노르딕 방패
+itm_ad_viking_shield_round_07_pl|흑색과 백색 노르딕 방패
+itm_dal_hindue|삭카르 방패
+itm_dal_hindue_pl|삭카르 방패
+itm_dal_hinduf|붉은 사슴 방패
+itm_dal_hinduf_pl|붉은 사슴 방패
+itm_dal_hindug|일리카 팔키 방패
+itm_dal_hindug_pl|일리카 팔키 방패
+itm_dal_muslimh|사막 방패
+itm_dal_muslimh_pl|사막 방패
+itm_dwarf_shield_f|드워프 나무 방패
+itm_dwarf_shield_f_pl|드워프 나무 방패
+itm_dwarf_shield_l|드워프 보병 방패
+itm_dwarf_shield_l_pl|드워프 보병 방패
+itm_fur_covered_shield|모피 씌운 방패
+itm_fur_covered_shield_pl|모피 씌운 방패
+itm_leather_covered_round_shield|가죽 덮어씌운 원형 방패
+itm_leather_covered_round_shield_pl|가죽 덮어씌운 원형 방패
+itm_luc_wooden_shield_y|원형 나무 방패
+itm_luc_wooden_shield_y_pl|원형 나무 방패
+itm_hide_covered_round_shield|생가죽 덮어씌운 원형 방패
+itm_hide_covered_round_shield_pl|생가죽 덮어씌운 원형 방패
+itm_kite_shield_3|갈색 연모양 방패
+itm_kite_shield_3_pl|갈색 연모양 방패
+itm_kite_shield_4|어두운 갈색 연모양 방패
+itm_kite_shield_4_pl|어두운 갈색 연모양 방패
+itm_kite_shield_8|검은 줄무늬 연모양 방패
+itm_kite_shield_8_pl|검은 줄무늬 연모양 방패
+itm_norman_shield_7|연모양 방패
+itm_norman_shield_7_pl|연모양 방패
+itm_tab_shield_heater_a|오래된 다리미형 방패
+itm_tab_shield_heater_a_pl|오래된 다리미형 방패
+itm_tab_shield_heater_b|소박한 다리미형 방패
+itm_tab_shield_heater_b_pl|소박한 다리미형 방패
+itm_tab_shield_kite_a|오래된 연모양 방패
+itm_tab_shield_kite_a_pl|오래된 연모양 방패
+itm_tab_shield_pavise_a|오래된 판자 방패
+itm_tab_shield_pavise_a_pl|오래된 판자 방패
+itm_tab_shield_round_a|오래된 원형 방패
+itm_tab_shield_round_a_pl|오래된 원형 방패
+itm_wooden_shield|나무 방패
+itm_wooden_shield_pl|나무 방패
+itm_wooden_shield2|나무 방패
+itm_wooden_shield2_pl|나무 방패
+itm_light_shield|가벼운 방패
+itm_light_shield_pl|가벼운 방패
+itm_painted_brass_shield5|색칠한 황동 방패
+itm_painted_brass_shield5_pl|색칠한 황동 방패
+itm_ad_viking_shield_round_06|황색과 흑색 노르딕 방패
+itm_ad_viking_shield_round_06_pl|황색과 흑색 노르딕 방패
+itm_ad_viking_shield_round_08|주황색 노르딕 방패
+itm_ad_viking_shield_round_08_pl|주황색 노르딕 방패
+itm_ad_viking_shield_round_09|녹색 페리스노안 방패
+itm_ad_viking_shield_round_09_pl|녹색 페리스노안 방패
+itm_dal_arab|갈색 드라하란 방패
+itm_dal_arab_pl|갈색 드라하란 방패
+itm_dal_hindua|데소크 사막 방패
+itm_dal_hindua_pl|데소크 사막 방패
+itm_dal_muslimb|장식된 사막 방패
+itm_dal_muslimb_pl|장식된 사막 방패
+itm_dal_muslimc|장식된 황색 방패
+itm_dal_muslimc_pl|장식된 황색 방패
+itm_dwarf_shield_d|드워프 나무 방패
+itm_dwarf_shield_d_pl|드워프 나무 방패
+itm_dwarf_shield_j|드워프 녹색 방패
+itm_dwarf_shield_j_pl|드워프 녹색 방패
+itm_luc_heavy_wooden_shield|무거운 나무 방패
+itm_luc_heavy_wooden_shield_pl|무거운 나무 방패
+itm_kite_shield_6|백색 T 방패
+itm_kite_shield_6_pl|백색 T 방패
+itm_norman_shield_2|페리스노 연모양 방패
+itm_norman_shield_2_pl|페리스노 연모양 방패
+itm_norman_shield_6|늑대 연모양 방패
+itm_norman_shield_6_pl|늑대 연모양 방패
+itm_roman_shield_oval|계란형 스큐툼
+itm_roman_shield_oval_pl|계란형 스큐툼
+itm_s_h2|고산지대 방패
+itm_s_h2_pl|고산지대 방패
+itm_sh_oval|둥근 제철 방패
+itm_sh_oval_pl|둥근 제철 방패
+itm_shield_4|수호자의 흑색과 백색 방패
+itm_shield_4_pl|수호자의 흑색과 백색 방패
+itm_shield_5|수호자의 흑색 줄무늬 방패
+itm_shield_5_pl|수호자의 흑색 줄무늬 방패
+itm_shield_6|검은 멧돼지 방패
+itm_shield_6_pl|검은 멧돼지 방패
+itm_tab_shield_heater_c|다리미형 방패
+itm_tab_shield_heater_c_pl|다리미형 방패
+itm_tab_shield_kite_cav_a|기수의 연모양 방패
+itm_tab_shield_kite_cav_a_pl|기수의 연모양 방패
+itm_tab_shield_kite_b|평범한 연모양 방패
+itm_tab_shield_kite_b_pl|평범한 연모양 방패
+itm_tab_shield_kite_c|연모양 방패
+itm_tab_shield_kite_c_pl|연모양 방패
+itm_tab_shield_round_b|평범한 원형 방패
+itm_tab_shield_round_b_pl|평범한 원형 방패
+itm_tab_shield_round_c|원형 방패
+itm_tab_shield_round_c_pl|원형 방패
+itm_tab_shield_pavise_b|평범한 판자 방패
+itm_tab_shield_pavise_b_pl|평범한 판자 방패
+itm_tab_shield_small_round_a|평범한 기병 방패
+itm_tab_shield_small_round_a_pl|평범한 기병 방패
+itm_painted_brass_shield|색칠한 황동 방패
+itm_painted_brass_shield_pl|색칠한 황동 방패
+itm_2shield|나무와 강철 방패
+itm_2shield_pl|나무와 강철 방패
+itm_ad_viking_shield_round_10|빨간 노르딕 방패
+itm_ad_viking_shield_round_10_pl|빨간 노르딕 방패
+itm_ad_viking_shield_round_11|색칠한 노르딕 방패
+itm_ad_viking_shield_round_11_pl|색칠한 노르딕 방패
+itm_ad_viking_shield_round_15|서펜트 노르딕 방패
+itm_ad_viking_shield_round_15_pl|서펜트 노르딕 방패
+itm_dal_hindub|금색 기수 방패
+itm_dal_hindub_pl|금색 기수 방패
+itm_dal_hindum|피의 부족 방패
+itm_dal_hindum_pl|피의 부족 방패
+itm_dal_hinduk|빨간 보병 방패
+itm_dal_hinduk_pl|빨간 보병 방패
+itm_dal_muslimd|장식된 녹색 방패
+itm_dal_muslimd_pl|장식된 녹색 방패
+itm_dwarf_shield_g|Small Red Dwarven Shield
+itm_dwarf_shield_g_pl|Small Red Dwarven Shield
+itm_dwarf_shield_k|Red Dwarven Shield
+itm_dwarf_shield_k_pl|Red Dwarven Shield
+itm_gondor_shield_d|Falconian Kite Shield
+itm_gondor_shield_d_pl|Falconian Kite Shield
+itm_gondor_shield_b|Large Falconian Kite Shield
+itm_gondor_shield_b_pl|Large Falconian Kite Shield
+itm_heavy_shield2|Heavy War Shield
+itm_heavy_shield2_pl|Heavy War Shield
+itm_hermitage_shield_1|Hermitage Shield
+itm_hermitage_shield_1_pl|Hermitage Shield
+itm_luc_cavalry_shield_z|Round Cavalry Shield
+itm_luc_cavalry_shield_z_pl|Round Cavalry Shield
+itm_norman_shield_1|Red Kite Shield
+itm_norman_shield_1_pl|Red Kite Shield
+itm_norman_shield_3|Kite Shield
+itm_norman_shield_3_pl|Kite Shield
+itm_norman_shield_5|Blue Kite Shield
+itm_norman_shield_5_pl|Blue Kite Shield
+itm_kite_shield_5|Dark Kite Shield
+itm_kite_shield_5_pl|Dark Kite Shield
+itm_roman_shield_early|Early Scutum
+itm_roman_shield_early_pl|Early Scutum
+itm_roman_shield_velite|Velite Shield
+itm_roman_shield_velite_pl|Velite Shield
+itm_shield_2|Cross Heater Shield
+itm_shield_2_pl|Cross Heater Shield
+itm_shield_3|Blue Eagle Shield
+itm_shield_3_pl|Blue Eagle Shield
+itm_shield_11|Lion Shield
+itm_shield_11_pl|Lion Shield
+itm_shield_13|Perisno Sun Shield
+itm_shield_13_pl|Perisno Sun Shield
+itm_shield_heater_c|Brown Heater Shield
+itm_shield_heater_c_pl|Brown Heater Shield
+itm_spak_pavise_1|White Dragon Pavise Shield
+itm_spak_pavise_1_pl|White Dragon Pavise Shield
+itm_tab_shield_heater_cav_a|Horseman's Heater Shield
+itm_tab_shield_heater_cav_a_pl|Horseman's Heater Shield
+itm_tab_shield_pavise_c|Board Shield
+itm_tab_shield_pavise_c_pl|Board Shield
+itm_tab_shield_small_round_b|Round Cavalry Shield
+itm_tab_shield_small_round_b_pl|Round Cavalry Shield
+itm_steel_shield|Steel Shield
+itm_steel_shield_pl|Steel Shield
+itm_brass_shield1|Decorated Brass Shield
+itm_brass_shield1_pl|Decorated Brass Shield
+itm_brass_shield|Decorated Shield
+itm_brass_shield_pl|Decorated Shield
+itm_plate_covered_round_shield|Plate Covered Round Shield
+itm_plate_covered_round_shield_pl|Plate Covered Round Shield
+itm_shields_archer_templar_b|Old Black&Red Steel Shield
+itm_shields_archer_templar_b_pl|Old Black&Red Steel Shield
+itm_ad_viking_shield_round_14|Blue Nordic Shield
+itm_ad_viking_shield_round_14_pl|Blue Nordic Shield
+itm_ad_viking_shield_round_12|Signs Nordic Shield
+itm_ad_viking_shield_round_12_pl|Signs Nordic Shield
+itm_hermitage_shield_3|Golden Hermitage Shield
+itm_hermitage_shield_3_pl|Golden Hermitage Shield
+itm_dal_hindud|Red Decorated Desert Shield
+itm_dal_hindud_pl|Red Decorated Desert Shield
+itm_dal_hinduh|Decorated Golden Shield
+itm_dal_hinduh_pl|Decorated Golden Shield
+itm_dal_muslima|Naturecast Shield
+itm_dal_muslima_pl|Naturecast Shield
+itm_dal_muslime|Decorated Silvered Steel Shield
+itm_dal_muslime_pl|Decorated Silvered Steel Shield
+itm_dal_muslimf|Decorated Silver Guard Shield
+itm_dal_muslimf_pl|Decorated Silver Guard Shield
+itm_dal_muslimj|Sun Shield
+itm_dal_muslimj_pl|Sun Shield
+itm_dwarf_shield_a|Dwarven Shield
+itm_dwarf_shield_a_pl|Dwarven Shield
+itm_dwarf_shield_i|Iron Plated Dwarven Shield
+itm_dwarf_shield_i_pl|Iron Plated Dwarven Shield
+itm_lorien_round_shield|Elven Round Shield
+itm_lorien_round_shield_pl|Elven Round Shield
+itm_citadel_guard_shield|Falconian Guard Shield
+itm_citadel_guard_shield_pl|Falconian Guard Shield
+itm_gondor_shield_a|Falconian Square Shield
+itm_gondor_shield_a_pl|Falconian Square Shield
+itm_gondor_shield_c|Falconian Cavalry Shield
+itm_gondor_shield_c_pl|Falconian Cavalry Shield
+itm_norman_shield_8|Lymbard Kite Shield
+itm_norman_shield_8_pl|Lymbard Kite Shield
+itm_norman_shield_4|Order of Faith Kite Shield
+itm_norman_shield_4_pl|Order of Faith Kite Shield
+itm_roman_shield_cav|Cavalry Scutum
+itm_roman_shield_cav_pl|Cavalry Scutum
+itm_roman_shield_square|Scutum
+itm_roman_shield_square_pl|Scutum
+itm_s_h2_2|Dwarven Highlander Shield
+itm_s_h2_2_pl|Dwarven Highlander Shield
+itm_shb2|Round Gold Lion Shield
+itm_shb2_pl|Round Gold Lion Shield
+itm_shield_amazon|Amazon Shield
+itm_shield_amazon_pl|Amazon Shield
+itm_spak_knightsh|Black Cross Shield
+itm_spak_knightsh_pl|Black Cross Shield
+itm_sunshield|Golden Sunshield
+itm_sunshield_pl|Golden Sunshield
+itm_tab_shield_heater_d|Heavy Heater Shield
+itm_tab_shield_heater_d_pl|Heavy Heater Shield
+itm_tab_shield_kite_d|Heavy Kite Shield
+itm_tab_shield_kite_d_pl|Heavy Kite Shield
+itm_tab_shield_pavise_d|Heavy Board Shield
+itm_tab_shield_pavise_d_pl|Heavy Board Shield
+itm_tab_shield_round_d|Heavy Round Shield
+itm_tab_shield_round_d_pl|Heavy Round Shield
+itm_steel_shield_herald01|Green Dragon Steel Shield
+itm_steel_shield_herald01_pl|Green Dragon Steel Shield
+itm_steel_shield_herald02|Red Beast Steel Shield
+itm_steel_shield_herald02_pl|Red Beast Steel Shield
+itm_steel_shield_herald03|Green Wolf Steel Shield
+itm_steel_shield_herald03_pl|Green Wolf Steel Shield
+itm_dec_steel_shield|Decorated Steel Shield
+itm_dec_steel_shield_pl|Decorated Steel Shield
+itm_new_shield|Decorated Hakkon Steel Shield
+itm_new_shield_pl|Decorated Hakkon Steel Shield
+itm_saracin_shield_s|Hard Steel Shield
+itm_saracin_shield_s_pl|Hard Steel Shield
+itm_saracin_shield_g|Brown Metal Shield
+itm_saracin_shield_g_pl|Brown Metal Shield
+itm_saracin_shield_h|Green Metal Shield
+itm_saracin_shield_h_pl|Green Metal Shield
+itm_saracin_shield_k|Blue Metal Shield
+itm_saracin_shield_k_pl|Blue Metal Shield
+itm_saracin_shield_r|Noble Metal Shield
+itm_saracin_shield_r_pl|Noble Metal Shield
+itm_saracin_shield_v|Guard's Metal Shield
+itm_saracin_shield_v_pl|Guard's Metal Shield
+itm_shields_archer_templar_a|Perisno Zealot's Shield
+itm_shields_archer_templar_a_pl|Perisno Zealot's Shield
+itm_sp_newsh|Black Knight Shield
+itm_sp_newsh_pl|Black Knight Shield
+itm_dwarf_shield_c|Dwarven Decorated Shield
+itm_dwarf_shield_c_pl|Dwarven Decorated Shield
+itm_round_dragon_shield|Round Dragon Shield
+itm_round_dragon_shield_pl|Round Dragon Shield
+itm_round_dragon_shield2|Gold Dragon Shield
+itm_round_dragon_shield2_pl|Gold Dragon Shield
+itm_sh_snake|Blacksnake Shield
+itm_sh_snake_pl|Blacksnake Shield
+itm_shb1|Gold Lion Shield
+itm_shb1_pl|Gold Lion Shield
+itm_shield_7|Steel Hakkon Shield
+itm_shield_7_pl|Steel Hakkon Shield
+itm_shield_8|Black Bull Shield
+itm_shield_8_pl|Black Bull Shield
+itm_shield_10|Black Cross Shield
+itm_shield_10_pl|Black Cross Shield
+itm_tab_shield_heater_cav_b|Knightly Heater Shield
+itm_tab_shield_heater_cav_b_pl|Knightly Heater Shield
+itm_tab_shield_kite_cav_b|Knightly Kite Shield
+itm_tab_shield_kite_cav_b_pl|Knightly Kite Shield
+itm_tab_shield_round_e|Huscarl's Round Shield
+itm_tab_shield_round_e_pl|Huscarl's Round Shield
+itm_tab_shield_small_round_c|Elite Cavalry Shield
+itm_tab_shield_small_round_c_pl|Elite Cavalry Shield
+itm_numenor_shield|Falconian Guardsman Shield
+itm_numenor_shield_pl|Falconian Guardsman Shield
+itm_wardens_shield|Falconian Tower Shield
+itm_wardens_shield_pl|Falconian Tower Shield
+itm_asmoday_seel|Black Demon Shield
+itm_asmoday_seel_pl|Black Demon Shield
+itm_sp_shr1|Old Age Steel Shield
+itm_sp_shr1_pl|Old Age Steel Shield
+itm_steel_shield_kite|Steel Kite Shield
+itm_steel_shield_kite_pl|Steel Kite Shield
+itm_steel_shield_heater|Steel Heater Shield
+itm_steel_shield_heater_pl|Steel Heater Shield
+itm_towershield_steel|Golden Tower Shield
+itm_towershield_steel_pl|Golden Tower Shield
+itm_saracin_shield_c|Red&Gold Metal Shield
+itm_saracin_shield_c_pl|Red&Gold Metal Shield
+itm_saracin_shield_p|Royal Ornate Metal Shield
+itm_saracin_shield_p_pl|Royal Ornate Metal Shield
+itm_saracin_shield_d|Noble Geldarin Shield
+itm_saracin_shield_d_pl|Noble Geldarin Shield
+itm_saracin_shield_y|Royal Metal Shield
+itm_saracin_shield_y_pl|Royal Metal Shield
+itm_saracin_shield_t|Black Metal Shield
+itm_saracin_shield_t_pl|Black Metal Shield
+itm_sh_golden|Golden Royal Shield
+itm_sh_golden_pl|Golden Royal Shield
+itm_shield_imperial|이지스
+itm_shield_imperial_pl|이지스
+itm_lyre|Lyre
+itm_lyre_pl|Lyre
+itm_lute|Lute
+itm_lute_pl|Lute
+itm_pavise|Pavise Shield
+itm_pavise_pl|Pavise Shield
+itm_k14_bak_villager_shield|Bakhal Recruit Shield
+itm_k14_bak_villager_shield_pl|Bakhal Recruit Shield
+itm_k15_sut_giant_shield|Sut Recruit Shield
+itm_k15_sut_giant_shield_pl|Sut Recruit Shield
+itm_bakhal_leather_shield|Bakhal Leather Shield
+itm_bakhal_leather_shield_pl|Bakhal Leather Shield
+itm_sut_leather_shield|Sut Leather Shield
+itm_sut_leather_shield_pl|Sut Leather Shield
+itm_bakhal_shield|Bakhal Shield
+itm_bakhal_shield_pl|Bakhal Shield
+itm_sut_shield|Sut Shield
+itm_sut_shield_pl|Sut Shield
+itm_k14_bak_warrior_shield|Bakhal Warrior Shield
+itm_k14_bak_warrior_shield_pl|Bakhal Warrior Shield
+itm_k15_sut_warrior_shield|Sut Warrior Shield
+itm_k15_sut_warrior_shield_pl|Sut Warrior Shield
+itm_bakhal_steel_shield|Bakhal Steel Shield
+itm_bakhal_steel_shield_pl|Bakhal Steel Shield
+itm_sut_steel_shield|Sut Steel Shield
+itm_sut_steel_shield_pl|Sut Steel Shield
+itm_bakhal_elite_shield|Bakhal Warlord's Shield
+itm_bakhal_elite_shield_pl|Bakhal Warlord's Shield
+itm_sut_elite_shield|Sut Warlord's Shield
+itm_sut_elite_shield_pl|Sut Warlord's Shield
+itm_practice_arrows_2|연습용 화살
+itm_practice_arrows_2_pl|연습용 화살
+itm_barbed_arrows|가시가 돋친 화살
+itm_barbed_arrows_pl|가시가 돋친 화살
+itm_ak_arrows_b|민병대 화살
+itm_ak_arrows_b_pl|민병대 화살
+itm_brown_arrow|페리스노 사냥꾼 화살
+itm_brown_arrow_pl|페리스노 사냥꾼 화살
+itm_arrows|검은 깃털 화살
+itm_arrows_pl|검은 깃털 화살
+itm_bodkin_arrows|돗바늘 화살
+itm_bodkin_arrows_pl|돗바늘 화살
+itm_khergit_arrows|드라하란 화살
+itm_khergit_arrows_pl|드라하란 화살
+itm_spak_bow8_arrow|숲의 화살
+itm_spak_bow8_arrow_pl|숲의 화살
+itm_yinjian|팔코니안 화살
+itm_yinjian_pl|팔코니안 화살
+itm_3steel_arrow|페리스노 화살
+itm_3steel_arrow_pl|페리스노 화살
+itm_samurai_arrow_a|사무라이 화살
+itm_samurai_arrow_a_pl|사무라이 화살
+itm_ebonyornate_arrow|검은 독수리 화살
+itm_ebonyornate_arrow_pl|검은 독수리 화살
+itm_gromitearrow|날카로운 페리스노 화살
+itm_gromitearrow_pl|날카로운 페리스노 화살
+itm_elven_arrows|엘프 화살
+itm_elven_arrows_pl|엘프 화살
+itm_whiteleatherquiver_arrow|엘프 사냥꾼 화살
+itm_whiteleatherquiver_arrow_pl|엘프 사냥꾼 화살
+itm_spak_arrow|겔다린 화살
+itm_spak_arrow_pl|겔다린 화살
+itm_spak_ar2|페리스노 순찰자 화살
+itm_spak_ar2_pl|페리스노 순찰자 화살
+itm_ivorygoldquiver_arrow|상아 화살
+itm_ivorygoldquiver_arrow_pl|상아 화살
+itm_elmwoodquiver_arrow|엘름우드 화살
+itm_elmwoodquiver_arrow_pl|엘름우드 화살
+itm_1steel_arrow|검은 강철 화살
+itm_1steel_arrow_pl|검은 강철 화살
+itm_amazon_arrow|앙카스 화살
+itm_amazon_arrow_pl|앙카스 화살
+itm_lonely_ar|엘프 순찰자 화살
+itm_lonely_ar_pl|엘프 순찰자 화살
+itm_skeleton_archer_arrow|바칼 거인족 화살
+itm_skeleton_archer_arrow_pl|바칼 거인족 화살
+itm_bronze_arrow|청동 화살
+itm_bronze_arrow_pl|청동 화살
+itm_scull_arrow|해골 화살
+itm_scull_arrow_pl|해골 화살
+itm_spak_bow6_arrow|붉은 순찰자 화살
+itm_spak_bow6_arrow_pl|붉은 순찰자 화살
+itm_simpletreequiver_arrow|엘프 피의 화살
+itm_simpletreequiver_arrow_pl|엘프 피의 화살
+itm_blackarrow|검은 나무 화살
+itm_blackarrow_pl|검은 나무 화살
+itm_axe_a|도끼활 도끼
+itm_axe_a_pl|도끼활 도끼
+itm_bolts|볼트
+itm_bolts_pl|볼트
+itm_akbolt_a|하콘 볼트
+itm_akbolt_a_pl|하콘 볼트
+itm_steel_bolts|강철 볼트
+itm_steel_bolts_pl|강철 볼트
+itm_akbolt_b|특별한 귀족 볼트
+itm_akbolt_b_pl|특별한 귀족 볼트
+itm_van_helsing_crossbow_bolt|드워프 볼트
+itm_van_helsing_crossbow_bolt_pl|드워프 볼트
+itm_long_bow|장궁
+itm_long_bow_pl|장궁
+itm_bogmir_yumi|연습용 유미
+itm_bogmir_yumi_pl|연습용 유미
+itm_new_warbow_b|빨간 줄무늬 전쟁활
+itm_new_warbow_b_pl|빨간 줄무늬 전쟁활
+itm_new_warbow_a|파란 줄무늬 전쟁활
+itm_new_warbow_a_pl|파란 줄무늬 전쟁활
+itm_fire_war_bow|빨간 불꽃 전쟁활
+itm_fire_war_bow_pl|빨간 불꽃 전쟁활
+itm_akwar_bow|순찰자 전쟁활
+itm_akwar_bow_pl|순찰자 전쟁활
+itm_war_bow|떡갈나무 전쟁활
+itm_war_bow_pl|떡갈나무 전쟁활
+itm_bogmir_yumi_striped|황제의 유미
+itm_bogmir_yumi_striped_pl|황제의 유미
+itm_latticed_flatbow|페리스노 플랫 활
+itm_latticed_flatbow_pl|페리스노 플랫 활
+itm_practice_bow_2|사냥활
+itm_practice_bow_2_pl|사냥활
+itm_new_shortbow|단궁
+itm_new_shortbow_pl|단궁
+itm_dale_bow|페리스노 활
+itm_dale_bow_pl|페리스노 활
+itm_hunting_bow|치안관의 활
+itm_hunting_bow_pl|치안관의 활
+itm_elven_bow|용병의 활
+itm_elven_bow_pl|용병의 활
+itm_short_bow|짧은 이 바우
+itm_short_bow_pl|짧은 이 바우
+itm_riv_bow|겔다린 단궁
+itm_riv_bow_pl|겔다린 단궁
+itm_lorien_bow_reward|엘프활
+itm_lorien_bow_reward_pl|엘프활
+itm_longest_bow|유미
+itm_longest_bow_pl|유미
+itm_whitewoodbow|백목활
+itm_whitewoodbow_pl|백목활
+itm_longest_bow_3|푸른 유미
+itm_longest_bow_3_pl|푸른 유미
+itm_ivorybow|상아활
+itm_ivorybow_pl|상아활
+itm_gondor_bow|엘프 단궁
+itm_gondor_bow_pl|엘프 단궁
+itm_skeleton_archer_bow|거인의 해골활
+itm_skeleton_archer_bow_pl|거인의 해골활
+itm_skywoodbow|스카이우드 활
+itm_skywoodbow_pl|스카이우드 활
+itm_longest_bow_2|붉은 유미
+itm_longest_bow_2_pl|붉은 유미
+itm_lonely|페리스노 붉은 순찰자 활
+itm_lonely_pl|페리스노 붉은 순찰자 활
+itm_redwoodbow|진홍색 활
+itm_redwoodbow_pl|진홍색 활
+itm_elmwoodbow|엘프 엘름우드 활
+itm_elmwoodbow_pl|엘프 엘름우드 활
+itm_guizugong|팔코니안 활
+itm_guizugong_pl|팔코니안 활
+itm_ebonybow|검은 흑단 활
+itm_ebonybow_pl|검은 흑단 활
+itm_ranger_bow|검은 숲 순찰자의 활
+itm_ranger_bow_pl|검은 숲 순찰자의 활
+itm_nomad_bow|유목민 활
+itm_nomad_bow_pl|유목민 활
+itm_noldor_bow|붉은 단궁
+itm_noldor_bow_pl|붉은 단궁
+itm_strong_bow|아로우로 활
+itm_strong_bow_pl|아로우로 활
+itm_dwarf_short_bow|드워프 단궁
+itm_dwarf_short_bow_pl|드워프 단궁
+itm_tulgan_bow|툴간 활
+itm_tulgan_bow_pl|툴간 활
+itm_amazon_bow|앙카스 활
+itm_amazon_bow_pl|앙카스 활
+itm_khergit_bow|드라하란 활
+itm_khergit_bow_pl|드라하란 활
+itm_new_strong_bow|붉은 줄무늬 합성궁
+itm_new_strong_bow_pl|붉은 줄무늬 합성궁
+itm_new_strongbow|푸른 줄무늬 합성궁
+itm_new_strongbow_pl|푸른 줄무늬 합성궁
+itm_short_imperial_bow|제국 단궁
+itm_short_imperial_bow_pl|제국 단궁
+itm_spak_bow6|페리스노 궁병의 활
+itm_spak_bow6_pl|페리스노 궁병의 활
+itm_imperial_bow_3|제국 하얀 활
+itm_imperial_bow_3_pl|제국 하얀 활
+itm_tulgan_bow_kuulan|쿠우-란 활
+itm_tulgan_bow_kuulan_pl|쿠우-란 활
+itm_dwarf_horn_bow|드워프 뿔활
+itm_dwarf_horn_bow_pl|드워프 뿔활
+itm_imperial_bow_1|귀족 발라히르 활
+itm_imperial_bow_1_pl|귀족 발라히르 활
+itm_fire_nomad_bow|빨간 불꽃 보안관의 활
+itm_fire_nomad_bow_pl|빨간 불꽃 보안관의 활
+itm_imperial_bow_2|제국의 붉은 활
+itm_imperial_bow_2_pl|제국의 붉은 활
+itm_imperial_bow|귀족 활
+itm_imperial_bow_pl|귀족 활
+itm_hunting_crossbow|사냥용 크로스보우
+itm_hunting_crossbow_pl|사냥용 크로스보우
+itm_light_crossbow|가벼운 크로스보우
+itm_light_crossbow_pl|가벼운 크로스보우
+itm_akheavy_crossbow_1|파란 크로스보우
+itm_akheavy_crossbow_1_pl|파란 크로스보우
+itm_spak_crsb02|페리스노 기병 크로스보우
+itm_spak_crsb02_pl|페리스노 기병 크로스보우
+itm_new_sniper_crossbow|개선된 크로스보우
+itm_new_sniper_crossbow_pl|개선된 크로스보우
+itm_van_helsing_crossbow_01|드워프 크로스보우
+itm_van_helsing_crossbow_01_pl|드워프 크로스보우
+itm_crossbow|크로스보우
+itm_crossbow_pl|크로스보우
+itm_bow_a|도끼활
+itm_bow_a_pl|도끼활
+itm_heavy_crossbow|무거운 크로스보우
+itm_heavy_crossbow_pl|무거운 크로스보우
+itm_spak_crsb01|페리스노 크로스보우
+itm_spak_crsb01_pl|페리스노 크로스보우
+itm_sniper_crossbow|공성 크로스보우
+itm_sniper_crossbow_pl|공성 크로스보우
+itm_crossbow_axe|날 달린 크로스보우
+itm_crossbow_axe_pl|날 달린 크로스보우
+itm_crossbow_axe_melee|날 달린 크로스보우
+itm_crossbow_axe_melee_pl|날 달린 크로스보우
+itm_throwing_knives|투척용 주머니칼
+itm_throwing_knives_pl|투척용 주머니칼
+itm_throwing_daggers|투척용 단검
+itm_throwing_daggers_pl|투척용 단검
+itm_assassin_throwing_daggers|암살용 단검
+itm_assassin_throwing_daggers_pl|암살용 단검
+itm_shinobi_bite_throw|쿠나이
+itm_shinobi_bite_throw_pl|쿠나이
+itm_shinobi_bite|쿠나이
+itm_shinobi_bite_pl|쿠나이
+itm_darts|다트
+itm_darts_pl|다트
+itm_war_darts|전쟁용 다트
+itm_war_darts_pl|전쟁용 다트
+itm_javelin|투창
+itm_javelin_pl|투창
+itm_javelin_melee|투창
+itm_javelin_melee_pl|투창
+itm_jarid|자리드
+itm_jarid_pl|자리드
+itm_jarid_melee|자리드
+itm_jarid_melee_pl|자리드
+itm_roman_javelin|군단 투창
+itm_roman_javelin_pl|군단 투창
+itm_roman_javelin_melee|군단 투창
+itm_roman_javelin_melee_pl|군단 투창
+itm_throwing_spears|투척용 창
+itm_throwing_spears_pl|투척용 창
+itm_throwing_spear_melee|투척용 창
+itm_throwing_spear_melee_pl|투척용 창
+itm_nowe_jarid|하콘 자리드
+itm_nowe_jarid_pl|하콘 자리드
+itm_nowe_jarid_melee|하콘 자리드
+itm_nowe_jarid_melee_pl|하콘 자리드
+itm_roman_pilum_1|필라
+itm_roman_pilum_1_pl|필라
+itm_roman_pilum_2|군단 필라
+itm_roman_pilum_2_pl|군단 필라
+itm_light_throwing_axes|가벼운 투척용 도끼
+itm_light_throwing_axes_pl|가벼운 투척용 도끼
+itm_light_throwing_axes_melee|가벼운 투척용 도끼
+itm_light_throwing_axes_melee_pl|가벼운 투척용 도끼
+itm_throwing_axes|투척용 도끼
+itm_throwing_axes_pl|투척용 도끼
+itm_throwing_axes_melee|투척용 도끼
+itm_throwing_axes_melee_pl|투척용 도끼
+itm_heavy_throwing_axes|무거운 투척용 도끼
+itm_heavy_throwing_axes_pl|무거운 투척용 도끼
+itm_heavy_throwing_axes_melee|무거운 투척용 도끼
+itm_heavy_throwing_axes_melee_pl|무거운 투척용 도끼
+itm_rohirrim_throwing_axe|치명적인 투척용 도끼
+itm_rohirrim_throwing_axe_pl|치명적인 투척용 도끼
+itm_hurlbat_1|할바트
+itm_hurlbat_1_pl|할바트
+itm_hurlbat_1_melee|할바트
+itm_hurlbat_1_melee_pl|할바트
+itm_hurlbat_2|기사의 할바트
+itm_hurlbat_2_pl|기사의 할바트
+itm_hurlbat_2_melee|기사의 할바트
+itm_hurlbat_2_melee_pl|기사의 할바트
+itm_luc_throwing_hammer|투척용 망치
+itm_luc_throwing_hammer_pl|투척용 망치
+itm_luc_throwing_scimitar|투척용 시미터
+itm_luc_throwing_scimitar_pl|투척용 시미터
+itm_luc_throwing_scimitar_melee|투척용 시미터
+itm_luc_throwing_scimitar_melee_pl|투척용 시미터
+itm_stones|돌멩이
+itm_stones_pl|돌멩이
+itm_knife|주머니칼
+itm_knife_pl|주머니칼
+itm_sickle|낫
+itm_sickle_pl|낫
+itm_dagger|단검
+itm_dagger_pl|단검
+itm_butchering_knife|도살용 주머니칼
+itm_butchering_knife_pl|도살용 주머니칼
+itm_cleaver|클리버
+itm_cleaver_pl|클리버
+itm_luc_italian_dagger|선술집에서 감추기용 단검
+itm_luc_italian_dagger_pl|선술집에서 감추기용 단검
+itm_luc_sarranid_dagger|드라하란 단검
+itm_luc_sarranid_dagger_pl|드라하란 단검
+itm_wood_elven_knife|엘프 주머니칼
+itm_wood_elven_knife_pl|엘프 주머니칼
+itm_jack_sting|고대의 주머니칼
+itm_jack_sting_pl|고대의 주머니칼
+itm_luc_rondel_dagger_p|아사신의 단검
+itm_luc_rondel_dagger_p_pl|아사신의 단검
+itm_torch|횃불
+itm_torch_pl|횃불
+itm_sword_medieval_b_small|짧은 검
+itm_sword_medieval_b_small_pl|짧은 검
+itm_sword_viking_2_small|노르딕 짧은 검
+itm_sword_viking_2_small_pl|노르딕 짧은 검
+itm_sword_medieval_c_small|짧은 군용검
+itm_sword_medieval_c_small_pl|짧은 군용검
+itm_luc_scramasax|스크래머색스
+itm_luc_scramasax_pl|스크래머색스
+itm_falchion|팔치온
+itm_falchion_pl|팔치온
+itm_military_cleaver_short|짧은 클리버
+itm_military_cleaver_short_pl|짧은 클리버
+itm_sword_khergit_3|오래된 군도
+itm_sword_khergit_3_pl|오래된 군도
+itm_luc_english_falchion|긴 팔치온
+itm_luc_english_falchion_pl|긴 팔치온
+itm_lorien_sword_b|엘프 짧은 검
+itm_lorien_sword_b_pl|엘프 짧은 검
+itm_sword_viking_3_small|노르딕 짧은 전쟁검
+itm_sword_viking_3_small_pl|노르딕 짧은 전쟁검
+itm_jack_boromir|고대의 검
+itm_jack_boromir_pl|고대의 검
+itm_crusaders_swords_a|짧은 브로드소드
+itm_crusaders_swords_a_pl|짧은 브로드소드
+itm_sword_khergit_2|군도
+itm_sword_khergit_2_pl|군도
+itm_strange_short_sword|이상한 짧은 검
+itm_strange_short_sword_pl|이상한 짧은 검
+itm_swiss_falchion_v3|페리스노안 팔치온
+itm_swiss_falchion_v3_pl|페리스노안 팔치온
+itm_jack_herugrim|장로의 검
+itm_jack_herugrim_pl|장로의 검
+itm_sword_khergit_1|유목민 군도
+itm_sword_khergit_1_pl|유목민 군도
+itm_lorien_sword_a|엘프 장검
+itm_lorien_sword_a_pl|엘프 장검
+itm_jack_faramir|조상의 검
+itm_jack_faramir_pl|조상의 검
+itm_strange_rapier|이상한 레이피어
+itm_strange_rapier_pl|이상한 레이피어
+itm_sword_viking_2|오래된 노르딕 검
+itm_sword_viking_2_pl|오래된 노르딕 검
+itm_sword_medieval_b|검
+itm_sword_medieval_b_pl|검
+itm_sword_medieval_c_long|장검
+itm_sword_medieval_c_long_pl|장검
+itm_sword_viking_1|노르딕 검
+itm_sword_viking_1_pl|노르딕 검
+itm_broadsword|브로드소드
+itm_broadsword_pl|브로드소드
+itm_scimitar|시미터
+itm_scimitar_pl|시미터
+itm_sword_medieval_c|군용검
+itm_sword_medieval_c_pl|군용검
+itm_saracin_sword_e|드라하란 검
+itm_saracin_sword_e_pl|드라하란 검
+itm_military_cleaver_b|병사의 클리버
+itm_military_cleaver_b_pl|병사의 클리버
+itm_italian_sword|페리스노 군용검
+itm_italian_sword_pl|페리스노 군용검
+itm_sword_medieval_d_long|군용 장검
+itm_sword_medieval_d_long_pl|군용 장검
+itm_luc_flemish_sword|플레미시 검
+itm_luc_flemish_sword_pl|플레미시 검
+itm_saracin_sword_d|남부 전사의 검
+itm_saracin_sword_d_pl|남부 전사의 검
+itm_nordic_sword_v1|북부의 검
+itm_nordic_sword_v1_pl|북부의 검
+itm_gondor_sword|용의 제국 검
+itm_gondor_sword_pl|용의 제국 검
+itm_crusader_sword_c|종사의 검
+itm_crusader_sword_c_pl|종사의 검
+itm_2scimitar_green|페리스노안 녹색 전쟁검
+itm_2scimitar_green_pl|페리스노안 녹색 전쟁검
+itm_sword_rusty_a|검은 칼
+itm_sword_rusty_a_pl|검은 칼
+itm_1hlongsword|장검
+itm_1hlongsword_pl|장검
+itm_sword_viking_3|노르딕 전쟁검
+itm_sword_viking_3_pl|노르딕 전쟁검
+itm_sword_medieval_a|오래된 기사의 검
+itm_sword_medieval_a_pl|오래된 기사의 검
+itm_highlad_broadsword|고산지대 브로드소드
+itm_highlad_broadsword_pl|고산지대 브로드소드
+itm_saracin_sword_b|귀족의 검
+itm_saracin_sword_b_pl|귀족의 검
+itm_saracin_sword_c|검은 브로드소드
+itm_saracin_sword_c_pl|검은 브로드소드
+itm_crusader_sword|새로운 신들의 검
+itm_crusader_sword_pl|새로운 신들의 검
+itm_warblade_black01|검은 엘프 전쟁검
+itm_warblade_black01_pl|검은 엘프 전쟁검
+itm_military_cleaver_c|군용 클리버
+itm_military_cleaver_c_pl|군용 클리버
+itm_scimitar_b|정예 시미터
+itm_scimitar_b_pl|정예 시미터
+itm_crusader_long_sword_a|기사의 장검
+itm_crusader_long_sword_a_pl|기사의 장검
+itm_viking_sword_a|무거운 북부의 검
+itm_viking_sword_a_pl|무거운 북부의 검
+itm_saracin_sword_a|드라하란 기병검
+itm_saracin_sword_a_pl|드라하란 기병검
+itm_courtblades_black|검은 궁정검
+itm_courtblades_black_pl|검은 궁정검
+itm_luc_strange_blade|이상한 칼
+itm_luc_strange_blade_pl|이상한 칼
+itm_warblade_black02|검은 고대의 전쟁검
+itm_warblade_black02_pl|검은 고대의 전쟁검
+itm_crusader_sword_b|기사의 검
+itm_crusader_sword_b_pl|기사의 검
+itm_luc_sarranid_falchion_m2|무거운 시미터
+itm_luc_sarranid_falchion_m2_pl|무거운 시미터
+itm_khopesh_1|코피스
+itm_khopesh_1_pl|코피스
+itm_scimitar_whiteleather|팔코니안 귀족 검
+itm_scimitar_whiteleather_pl|팔코니안 귀족 검
+itm_crusader_long_sword_c|흑기사의 검
+itm_crusader_long_sword_c_pl|흑기사의 검
+itm_courtblades_ebony|흑단 기사의 검
+itm_courtblades_ebony_pl|흑단 기사의 검
+itm_warblade_darkwoodgold|드라하란 왕족의 검
+itm_warblade_darkwoodgold_pl|드라하란 왕족의 검
+itm_elvish_sword|엘프 귀족의 검
+itm_elvish_sword_pl|엘프 귀족의 검
+itm_warblade_greensilver|Green Elven Courtblade
+itm_warblade_greensilver_pl|Green Elven Courtblade
+itm_warblade_ivorygold|Ancient Golden Warblade
+itm_warblade_ivorygold_pl|Ancient Golden Warblade
+itm_luc_italian_longsword|One-Handed Longsword
+itm_luc_italian_longsword_pl|One-Handed Longsword
+itm_war_sword_no1|Squire's Longsword
+itm_war_sword_no1_pl|Squire's Longsword
+itm_sword_val_2|Etched Knight's Sword
+itm_sword_val_2_pl|Etched Knight's Sword
+itm_claymore_no1_v3|One-Handed Knight's Claymore
+itm_claymore_no1_v3_pl|One-Handed Knight's Claymore
+itm_giant_cleaver|Giant Cleaver
+itm_giant_cleaver_pl|Giant Cleaver
+itm_demonic_sword_1h|Demonic Sword
+itm_demonic_sword_1h_pl|Demonic Sword
+itm_sword_val_1|Royal Sword with Emerald
+itm_sword_val_1_pl|Royal Sword with Emerald
+itm_youhou_assassin_sword|Assassin's Sword
+itm_youhou_assassin_sword_pl|Assassin's Sword
+itm_sword_val_3|Royal Sword with Ruby
+itm_sword_val_3_pl|Royal Sword with Ruby
+itm_dirk|Dwarven Blade
+itm_dirk_pl|Dwarven Blade
+itm_dwarf_sword_a|Dwarven Sword
+itm_dwarf_sword_a_pl|Dwarven Sword
+itm_dwarf_sword_c|Dwarven Infantry Sword
+itm_dwarf_sword_c_pl|Dwarven Infantry Sword
+itm_dwarf_sword_d|Dwarven Noble Sword
+itm_dwarf_sword_d_pl|Dwarven Noble Sword
+itm_roman_gladius_1|Gladius
+itm_roman_gladius_1_pl|Gladius
+itm_roman_gladius_2|Legion Gladius
+itm_roman_gladius_2_pl|Legion Gladius
+itm_roman_gladius_3|Imperial Gladius
+itm_roman_gladius_3_pl|Imperial Gladius
+itm_roman_cav_sword_1|Legion Sword
+itm_roman_cav_sword_1_pl|Legion Sword
+itm_roman_cav_sword_3|Legion Cavalry Sword
+itm_roman_cav_sword_3_pl|Legion Cavalry Sword
+itm_roman_cav_sword_2|Legion Centurion Sword
+itm_roman_cav_sword_2_pl|Legion Centurion Sword
+itm_imperial_cavalry_sword1h|Imperial Cavalry Sword
+itm_imperial_cavalry_sword1h_pl|Imperial Cavalry Sword
+itm_luc_celtic_sword|Praetorian's Sword
+itm_luc_celtic_sword_pl|Praetorian's Sword
+itm_lui_waronehandedaxec|Woodsman's Short Axe
+itm_lui_waronehandedaxec_pl|Woodsman's Short Axe
+itm_lui_vikingaxeonehb|Blue Bladed Axe
+itm_lui_vikingaxeonehb_pl|Blue Bladed Axe
+itm_nordic_axe_no2|Raider Axe
+itm_nordic_axe_no2_pl|Raider Axe
+itm_one_handed_war_axe_spiked|Militia Axe
+itm_one_handed_war_axe_spiked_pl|Militia Axe
+itm_lui_knightaxeoneh|Bluetint Axe
+itm_lui_knightaxeoneh_pl|Bluetint Axe
+itm_lui_waronehandedaxe|Red Chopper
+itm_lui_waronehandedaxe_pl|Red Chopper
+itm_one_handed_war_axe_no4|Footman War Axe
+itm_one_handed_war_axe_no4_pl|Footman War Axe
+itm_one_handed_war_axe_b|One Handed War Axe
+itm_one_handed_war_axe_b_pl|One Handed War Axe
+itm_lui_vaegiraxe|Maccavian Waraxe
+itm_lui_vaegiraxe_pl|Maccavian Waraxe
+itm_luc_knightaxeoneh|Sergeant Axe
+itm_luc_knightaxeoneh_pl|Sergeant Axe
+itm_one_handed_war_axe_no12|Guardian One Handed Axe
+itm_one_handed_war_axe_no12_pl|Guardian One Handed Axe
+itm_rohirrim_short_axe|Perisno Short Axe
+itm_rohirrim_short_axe_pl|Perisno Short Axe
+itm_horsemans_axe_no2|Horsemans Spiked Axe
+itm_horsemans_axe_no2_pl|Horsemans Spiked Axe
+itm_one_handed_war_axe_no6|Short Battle Axe
+itm_one_handed_war_axe_no6_pl|Short Battle Axe
+itm_one_handed_war_axe_no7|Bending War Axe
+itm_one_handed_war_axe_no7_pl|Bending War Axe
+itm_knights_war_axe_1h|Heavy Sergeant Axe
+itm_knights_war_axe_1h_pl|Heavy Sergeant Axe
+itm_lui_knightaxeonehb|Steelcoat Axe
+itm_lui_knightaxeonehb_pl|Steelcoat Axe
+itm_one_handed_war_axe_no11|Guardian Tear Axe
+itm_one_handed_war_axe_no11_pl|Guardian Tear Axe
+itm_lui_knightaxeonehc|Decorated Steetcoat Axe
+itm_lui_knightaxeonehc_pl|Decorated Steetcoat Axe
+itm_rohirrim_long_hafted_axe|Perisno War Hatchet
+itm_rohirrim_long_hafted_axe_pl|Perisno War Hatchet
+itm_one_handed_war_axe_no10|Punched War Axe
+itm_one_handed_war_axe_no10_pl|Punched War Axe
+itm_lui_battleaxenewb|Tundra Axe
+itm_lui_battleaxenewb_pl|Tundra Axe
+itm_luc_baronaxeoneh|Baron Axe
+itm_luc_baronaxeoneh_pl|Baron Axe
+itm_rohan_axe_reward|Perisno Double Bladed Axe
+itm_rohan_axe_reward_pl|Perisno Double Bladed Axe
+itm_luc_knightly_axe_one_handed|Iron Knightly Axe
+itm_luc_knightly_axe_one_handed_pl|Iron Knightly Axe
+itm_lui_baronaxeoneh|Rich Baron Axe
+itm_lui_baronaxeoneh_pl|Rich Baron Axe
+itm_waorchaosaxea|Runed Chaos Axe
+itm_waorchaosaxea_pl|Runed Chaos Axe
+itm_horsemans_axe_no4|Axe
+itm_horsemans_axe_no4_pl|Axe
+itm_luc_waronehandedaxec|Hatchet
+itm_luc_waronehandedaxec_pl|Hatchet
+itm_one_handed_battle_axe_a|Woodsman's Axe
+itm_one_handed_battle_axe_a_pl|Woodsman's Axe
+itm_one_handed_war_axe_no14|Light One-Handed Axe
+itm_one_handed_war_axe_no14_pl|Light One-Handed Axe
+itm_lui_waronehandedaxeb|Yellow Axe
+itm_lui_waronehandedaxeb_pl|Yellow Axe
+itm_horsemans_axe_no1|Horsemans Axe
+itm_horsemans_axe_no1_pl|Horsemans Axe
+itm_mackie_varangian_axe|Varangian Axe
+itm_mackie_varangian_axe_pl|Varangian Axe
+itm_one_handed_battle_axe_c|One Handed Battle Axe
+itm_one_handed_battle_axe_c_pl|One Handed Battle Axe
+itm_horsemans_axe_no3|Horsemans Battle Axe
+itm_horsemans_axe_no3_pl|Horsemans Battle Axe
+itm_war_axe|Perisno Guard Axe
+itm_war_axe_pl|Perisno Guard Axe
+itm_lui_knightaxeonehd|Earcut Axe
+itm_lui_knightaxeonehd_pl|Earcut Axe
+itm_great_axe_no1|Guardian Hatchet
+itm_great_axe_no1_pl|Guardian Hatchet
+itm_one_handed_war_axe_no3|Cavalry Battle Axe
+itm_one_handed_war_axe_no3_pl|Cavalry Battle Axe
+itm_lui_kjergitaxe|Axe Of War
+itm_lui_kjergitaxe_pl|Axe Of War
+itm_axe_crusader_1|Black Axe
+itm_axe_crusader_1_pl|Black Axe
+itm_lui_knightaxetwoha|Knights Axe
+itm_lui_knightaxetwoha_pl|Knights Axe
+itm_lui_knightaxeonehe|Deepscar Axe
+itm_lui_knightaxeonehe_pl|Deepscar Axe
+itm_luc_iron_hand_axe_h|Small Tipped Battle Axe
+itm_luc_iron_hand_axe_h_pl|Small Tipped Battle Axe
+itm_lui_knightbattleaxenew|Scar Axe
+itm_lui_knightbattleaxenew_pl|Scar Axe
+itm_lui_battleaxea|Maccavian Battle Axe
+itm_lui_battleaxea_pl|Maccavian Battle Axe
+itm_luc_horsemans_axe|Horseman's Iron Axe
+itm_luc_horsemans_axe_pl|Horseman's Iron Axe
+itm_luc_knightly_axe_one_handed_b|Lordly Battle Axe
+itm_luc_knightly_axe_one_handed_b_pl|Lordly Battle Axe
+itm_luc_iron_hand_axe_g|Iron Battle Axe
+itm_luc_iron_hand_axe_g_pl|Iron Battle Axe
+itm_bleeding_killer|Bleeding Killer
+itm_bleeding_killer_pl|Bleeding Killer
+itm_battle_axe_le_duc|Long Horseman Axe
+itm_battle_axe_le_duc_pl|Long Horseman Axe
+itm_luc_english_horseman_axe|Drache Riders Axe
+itm_luc_english_horseman_axe_pl|Drache Riders Axe
+itm_lui_knightaxetwohb|Drooping Crow Axe
+itm_lui_knightaxetwohb_pl|Drooping Crow Axe
+itm_battle_axe_no5|Falling Steel Axe
+itm_battle_axe_no5_pl|Falling Steel Axe
+itm_gothic_battle_axe_no4|Long One-Handed Axe
+itm_gothic_battle_axe_no4_pl|Long One-Handed Axe
+itm_luc_axe_knight_z|Long One-Handed Battle Axe
+itm_luc_axe_knight_z_pl|Long One-Handed Battle Axe
+itm_luc_germanic_battle_axe|Drache Battle Axe
+itm_luc_germanic_battle_axe_pl|Drache Battle Axe
+itm_luc_knightly_axe|Baatur's Axe
+itm_luc_knightly_axe_pl|Baatur's Axe
+itm_luc_battleaxeb|Long Knight's Axe
+itm_luc_battleaxeb_pl|Long Knight's Axe
+itm_lui_rangeraxe|Ranger Battle Axe
+itm_lui_rangeraxe_pl|Ranger Battle Axe
+itm_german_horsemans_axe_no1|Knight's War Axe
+itm_german_horsemans_axe_no1_pl|Knight's War Axe
+itm_lui_knightbastardaxea|Headcutter
+itm_lui_knightbastardaxea_pl|Headcutter
+itm_luc_knightly_axe_b|Speared War Axe
+itm_luc_knightly_axe_b_pl|Speared War Axe
+itm_spak_iceaxe|Limb Carver
+itm_spak_iceaxe_pl|Limb Carver
+itm_sungodaxe|Dwarven Sungod Axe
+itm_sungodaxe_pl|Dwarven Sungod Axe
+itm_mace_1|Spiked Club
+itm_mace_1_pl|Spiked Club
+itm_luc_new_spiked_club|Spiked Club
+itm_luc_new_spiked_club_pl|Spiked Club
+itm_mace_3|Spiked Mace
+itm_mace_3_pl|Spiked Mace
+itm_fighting_pick|Fighting Pick
+itm_fighting_pick_pl|Fighting Pick
+itm_luc_spiked_mace_b|Darkened Mace
+itm_luc_spiked_mace_b_pl|Darkened Mace
+itm_morningstar_no1|Small Morningstar
+itm_morningstar_no1_pl|Small Morningstar
+itm_spiked_mace|Metal Spiked Mace
+itm_spiked_mace_pl|Metal Spiked Mace
+itm_dwarf_adz|Small Dwarven Pickaxe
+itm_dwarf_adz_pl|Small Dwarven Pickaxe
+itm_rrr_mace3|Spiked Deathbringer
+itm_rrr_mace3_pl|Spiked Deathbringer
+itm_pickaxe_hand|Shadow Hunter's Pickaxe
+itm_pickaxe_hand_pl|Shadow Hunter's Pickaxe
+itm_military_pick|Military Pick
+itm_military_pick_pl|Military Pick
+itm_german_morningstar|Morgenstern
+itm_german_morningstar_pl|Morgenstern
+itm_military_sickle_a|Military Sickle
+itm_military_sickle_a_pl|Military Sickle
+itm_luc_horseman_pick|Horseman's Pick
+itm_luc_horseman_pick_pl|Horseman's Pick
+itm_spiked_war_club_no1|Spiked War Club
+itm_spiked_war_club_no1_pl|Spiked War Club
+itm_mackie_mangler_short|Short Mangler
+itm_mackie_mangler_short_pl|Short Mangler
+itm_luc_morningstar_4|Tolranian Morningstar
+itm_luc_morningstar_4_pl|Tolranian Morningstar
+itm_dwarf_pickaxe|Dwarven Darksteel Pickaxe
+itm_dwarf_pickaxe_pl|Dwarven Darksteel Pickaxe
+itm_luc_morningstar_3|Perisno Spiked Morningstar
+itm_luc_morningstar_3_pl|Perisno Spiked Morningstar
+itm_luc_iron_morningstar|Iron Morningstar
+itm_luc_iron_morningstar_pl|Iron Morningstar
+itm_knights_winged_mace_2h|Holy Mace
+itm_knights_winged_mace_2h_pl|Holy Mace
+itm_luc_hammer_spike|Spiked Hammer
+itm_luc_hammer_spike_pl|Spiked Hammer
+itm_wooden_stick|Wooden Stick
+itm_wooden_stick_pl|Wooden Stick
+itm_club2_v2|Bandit Club
+itm_club2_v2_pl|Bandit Club
+itm_rrr_club1| Wooden Spiked Club
+itm_rrr_club1_pl| Wooden Spiked Club
+itm_luc_studded_club|Studded Rolling Pin
+itm_luc_studded_club_pl|Studded Rolling Pin
+itm_mace_2|Knobbed Mace
+itm_mace_2_pl|Knobbed Mace
+itm_militia_hammer|Militia Hammer
+itm_militia_hammer_pl|Militia Hammer
+itm_mace_4|Winged Mace
+itm_mace_4_pl|Winged Mace
+itm_saracen_mace|Light Wooden Mace
+itm_saracen_mace_pl|Light Wooden Mace
+itm_rrr_mace4|Tolranian Mace
+itm_rrr_mace4_pl|Tolranian Mace
+itm_luc_knobbed_mace_b|Military Knobbed Mace
+itm_luc_knobbed_mace_b_pl|Military Knobbed Mace
+itm_luc_knobbed_mace|Dark Knobbed Mace
+itm_luc_knobbed_mace_pl|Dark Knobbed Mace
+itm_hammer|Small Battle Hammer
+itm_hammer_pl|Small Battle Hammer
+itm_luc_spiked_mace|Blunt Spiked Mace
+itm_luc_spiked_mace_pl|Blunt Spiked Mace
+itm_rrr_hammer1|Spine Warhammer
+itm_rrr_hammer1_pl|Spine Warhammer
+itm_luc_german_winged_mace|Drache Winged Mace
+itm_luc_german_winged_mace_pl|Drache Winged Mace
+itm_knights_warhammer_no1|Whitesteel Warhammer
+itm_knights_warhammer_no1_pl|Whitesteel Warhammer
+itm_lui_mace|Manhunter Mace
+itm_lui_mace_pl|Manhunter Mace
+itm_lui_empirewarhammerc|Sharp Ended Hammer
+itm_lui_empirewarhammerc_pl|Sharp Ended Hammer
+itm_jan_zizkas_mace|Ceremonial Mace
+itm_jan_zizkas_mace_pl|Ceremonial Mace
+itm_winged_mace|Flanged Mace
+itm_winged_mace_pl|Flanged Mace
+itm_luc_warhammer_s|Steel Battlehammer
+itm_luc_warhammer_s_pl|Steel Battlehammer
+itm_knights_warhammer_no2|Foot Knight's Hammer
+itm_knights_warhammer_no2_pl|Foot Knight's Hammer
+itm_ball_mace_no2|Ball Mace
+itm_ball_mace_no2_pl|Ball Mace
+itm_military_hammer|Military Hammer
+itm_military_hammer_pl|Military Hammer
+itm_knights_winged_mace_1h|Falconian One-Handed Mace
+itm_knights_winged_mace_1h_pl|Falconian One-Handed Mace
+itm_crude_warhammer|Darksteel Warhammer
+itm_crude_warhammer_pl|Darksteel Warhammer
+itm_sarranid_mace_1|Iron Mace
+itm_sarranid_mace_1_pl|Iron Mace
+itm_lui_empirewarhammerb|Empire Spiked Fighting Hammer
+itm_lui_empirewarhammerb_pl|Empire Spiked Fighting Hammer
+itm_winged_mace_no1|Tolranian Winged Mace
+itm_winged_mace_no1_pl|Tolranian Winged Mace
+itm_luc_kriegshammer|Kriegshammer
+itm_luc_kriegshammer_pl|Kriegshammer
+itm_knights_mace_no1|Armed Winged Mace
+itm_knights_mace_no1_pl|Armed Winged Mace
+itm_lui_knighthammerempire|Fighting Hammer
+itm_lui_knighthammerempire_pl|Fighting Hammer
+itm_luc_flanged_mace_iron|Iron Flanged Mace
+itm_luc_flanged_mace_iron_pl|Iron Flanged Mace
+itm_luc_spiked_mace_5p|Long War Mace
+itm_luc_spiked_mace_5p_pl|Long War Mace
+itm_luc_bronze_mace|God Of Amber Mace
+itm_luc_bronze_mace_pl|God Of Amber Mace
+itm_gothic_hammer|Heavy Hammer
+itm_gothic_hammer_pl|Heavy Hammer
+itm_luc_winged_mace_2h|Long Gothic Mace
+itm_luc_winged_mace_2h_pl|Long Gothic Mace
+itm_smallsword_marauder_recruit_01|Giant's Knife
+itm_smallsword_marauder_recruit_01_pl|Giant's Knife
+itm_smallaxe_marauder_recruit_b_01|Giant's Small Axe
+itm_smallaxe_marauder_recruit_b_01_pl|Giant's Small Axe
+itm_smallaxe_marauder_recruit_a_01|Sut Small Axe
+itm_smallaxe_marauder_recruit_a_01_pl|Sut Small Axe
+itm_axe_marauder_01|Bakhal One-Handed Axe
+itm_axe_marauder_01_pl|Bakhal One-Handed Axe
+itm_greatsword_elite_marauder_of_norsca_01|Sut One-Handed Sword
+itm_greatsword_elite_marauder_of_norsca_01_pl|Sut One-Handed Sword
+itm_greatcrowbill_weathered_marauder_of_norsca_01|Giant War Hammer
+itm_greatcrowbill_weathered_marauder_of_norsca_01_pl|Giant War Hammer
+itm_smallcrowbill_marauder_recruit_01|Bakhal Crowbill
+itm_smallcrowbill_marauder_recruit_01_pl|Bakhal Crowbill
+itm_sut_slasher|Sut Raider's Sabre
+itm_sut_slasher_pl|Sut Raider's Sabre
+itm_axe_raider_01|Sut One-Handed Axe
+itm_axe_raider_01_pl|Sut One-Handed Axe
+itm_middleaxe_marauder_of_norsca_a_01|Giant's Small War Axe
+itm_middleaxe_marauder_of_norsca_a_01_pl|Giant's Small War Axe
+itm_axe_weathered_marauder_01|Giant Battle Axe
+itm_axe_weathered_marauder_01_pl|Giant Battle Axe
+itm_crowbill_marauder_01|Bakhal War Crowbill
+itm_crowbill_marauder_01_pl|Bakhal War Crowbill
+itm_middleaxe_marauder_of_norsca_b_01|Giant Waraxe
+itm_middleaxe_marauder_of_norsca_b_01_pl|Giant Waraxe
+itm_sut_slasher_02|Sut Slasher
+itm_sut_slasher_02_pl|Sut Slasher
+itm_crowbill_weathered_marauder_01|Bakhal Warlord Crowbill
+itm_crowbill_weathered_marauder_01_pl|Bakhal Warlord Crowbill
+itm_giant_axe_01|Sut Executioner's Axe
+itm_giant_axe_01_pl|Sut Executioner's Axe
+itm_sut_one_handed_war_axe|Sut One-Handed Chieftain Axe
+itm_sut_one_handed_war_axe_pl|Sut One-Handed Chieftain Axe
+itm_axe_weathered_raider_01|Bakhal Spiked Axe
+itm_axe_weathered_raider_01_pl|Bakhal Spiked Axe
+itm_sut_two_handed_axe|Bakhal Two Handed Axe
+itm_sut_two_handed_axe_pl|Bakhal Two Handed Axe
+itm_bigaxe_weathered_marauder_01|Bakhal Waraxe
+itm_bigaxe_weathered_marauder_01_pl|Bakhal Waraxe
+itm_axe_weathered_berserker_b_01|Bakhal Dismemberer
+itm_axe_weathered_berserker_b_01_pl|Bakhal Dismemberer
+itm_giant_greatsword|Giant Greatsword
+itm_giant_greatsword_pl|Giant Greatsword
+itm_axe_berserker_a_01|Sut Chieftain's Two-Handed Axe
+itm_axe_berserker_a_01_pl|Sut Chieftain's Two-Handed Axe
+itm_axe_weathered_berserker_a_01|Giant Battle Axe
+itm_axe_weathered_berserker_a_01_pl|Giant Battle Axe
+itm_axe_elite_berserker_a_01|The Last Breath
+itm_axe_elite_berserker_a_01_pl|The Last Breath
+itm_axe_elite_raider_01|Giant Warlord Axe
+itm_axe_elite_raider_01_pl|Giant Warlord Axe
+itm_giant_spear|Giant Spear
+itm_giant_spear_pl|Giant Spear
+itm_spear_weathered_raider_01|Giant Long Spear
+itm_spear_weathered_raider_01_pl|Giant Long Spear
+itm_bakhal_spear|Bakhal Slaveherder Spear
+itm_bakhal_spear_pl|Bakhal Slaveherder Spear
+itm_club_with_spike_head|Old Spiked Staff
+itm_club_with_spike_head_pl|Old Spiked Staff
+itm_goedendag_no1|Goedendag
+itm_goedendag_no1_pl|Goedendag
+itm_spiked_staff_no1|Spiked Staff
+itm_spiked_staff_no1_pl|Spiked Staff
+itm_lui_knighthammer|Knighthammer
+itm_lui_knighthammer_pl|Knighthammer
+itm_luc_flanged_mace_iron_b|Bastard Winged Mace
+itm_luc_flanged_mace_iron_b_pl|Bastard Winged Mace
+itm_luc_horsemans_hammer|Long Bastard Hammer
+itm_luc_horsemans_hammer_pl|Long Bastard Hammer
+itm_luc_knightly_hammer|Knight Warhammer
+itm_luc_knightly_hammer_pl|Knight Warhammer
+itm_greathammer_no1|Bastard Warhammer
+itm_greathammer_no1_pl|Bastard Warhammer
+itm_lui_knighthammerbastard|Bastard Knighthammer
+itm_lui_knighthammerbastard_pl|Bastard Knighthammer
+itm_bastard_mace_no1|Bastard Mace
+itm_bastard_mace_no1_pl|Bastard Mace
+itm_luc_flanged_mace_s|Bastard Flanged Mace
+itm_luc_flanged_mace_s_pl|Bastard Flanged Mace
+itm_luc_spiked_war_club|Bastard Spiked War Club
+itm_luc_spiked_war_club_pl|Bastard Spiked War Club
+itm_luc_morningstar_new|Dark Tolranian Morningstar
+itm_luc_morningstar_new_pl|Dark Tolranian Morningstar
+itm_luc_war_axe_s|Light Bastard Axe
+itm_luc_war_axe_s_pl|Light Bastard Axe
+itm_lui_vikingaxebastard|Maccavian Bastard Axe
+itm_lui_vikingaxebastard_pl|Maccavian Bastard Axe
+itm_gothic_horsemans_axe|Light Battle Axe
+itm_gothic_horsemans_axe_pl|Light Battle Axe
+itm_lui_warbastardaxea|Bastard Of War
+itm_lui_warbastardaxea_pl|Bastard Of War
+itm_sarranid_two_handed_axe_b|Iron Axe
+itm_sarranid_two_handed_axe_b_pl|Iron Axe
+itm_luc_hache_darmes|Hache d'Armes
+itm_luc_hache_darmes_pl|Hache d'Armes
+itm_great_axe|Old Great Axe
+itm_great_axe_pl|Old Great Axe
+itm_varangian_war_axe_no1|Bastard War Axe
+itm_varangian_war_axe_no1_pl|Bastard War Axe
+itm_dwarf_great_mattock|Dwarven Mattock
+itm_dwarf_great_mattock_pl|Dwarven Mattock
+itm_battle_axe_no3|Fighting Axe
+itm_battle_axe_no3_pl|Fighting Axe
+itm_gothic_battle_axe_no1|Valahir Bastard Axe
+itm_gothic_battle_axe_no1_pl|Valahir Bastard Axe
+itm_bastard_iron_war_axe|Iron War Axe
+itm_bastard_iron_war_axe_pl|Iron War Axe
+itm_great_axe_no4|Long Bastard Axe
+itm_great_axe_no4_pl|Long Bastard Axe
+itm_lui_battleaxetwoh|Carver Axe
+itm_lui_battleaxetwoh_pl|Carver Axe
+itm_longsword_b|Longsword
+itm_longsword_b_pl|Longsword
+itm_bastard_sword_a|Bastard Sword
+itm_bastard_sword_a_pl|Bastard Sword
+itm_bastard_sword_a_fix|Dark Bastard Sword
+itm_bastard_sword_a_fix_pl|Dark Bastard Sword
+itm_swiss_falchion_v2|Bastard Falchion
+itm_swiss_falchion_v2_pl|Bastard Falchion
+itm_strange_sword|Strange Sword
+itm_strange_sword_pl|Strange Sword
+itm_sword_khergit_4|Heavy Sabre
+itm_sword_khergit_4_pl|Heavy Sabre
+itm_hooksword_spak|Hooked Blade
+itm_hooksword_spak_pl|Hooked Blade
+itm_cinthorc|Crimson Bastard Sword
+itm_cinthorc_pl|Crimson Bastard Sword
+itm_samurai_sword|Wakizashi
+itm_samurai_sword_pl|Wakizashi
+itm_lorien_sword_hand_and_half|Elven War Sword
+itm_lorien_sword_hand_and_half_pl|Elven War Sword
+itm_asmoday_sword|Long Darkblade
+itm_asmoday_sword_pl|Long Darkblade
+itm_jack_glamdring|Ancestral Greatsword
+itm_jack_glamdring_pl|Ancestral Greatsword
+itm_claymore_no1|Infantry Claymore
+itm_claymore_no1_pl|Infantry Claymore
+itm_trust|Squire Bastard Sword
+itm_trust_pl|Squire Bastard Sword
+itm_2h_claymore|Highland Claymore
+itm_2h_claymore_pl|Highland Claymore
+itm_sabre_whiteleather|Falconian Bastard Sabre
+itm_sabre_whiteleather_pl|Falconian Bastard Sabre
+itm_sabre_black|Black Blade
+itm_sabre_black_pl|Black Blade
+itm_sword_val_4|Bastard Knight Sword
+itm_sword_val_4_pl|Bastard Knight Sword
+itm_sabre_hithlain|Ivory Blade
+itm_sabre_hithlain_pl|Ivory Blade
+itm_frostfang|Northern Bastard Sword
+itm_frostfang_pl|Northern Bastard Sword
+itm_sabre_brightwood|Brightwood Blade
+itm_sabre_brightwood_pl|Brightwood Blade
+itm_sabre_cloud|Geldarin Warblade
+itm_sabre_cloud_pl|Geldarin Warblade
+itm_kingslayer|국왕시해자
+itm_kingslayer_pl|국왕시해자
+itm_ranger_blade|Ranger Blade
+itm_ranger_blade_pl|Ranger Blade
+itm_mongol_heavy_sword|Heavy Zann Sword
+itm_mongol_heavy_sword_pl|Heavy Zann Sword
+itm_two_handed_katana|Nodachi
+itm_two_handed_katana_pl|Nodachi
+itm_bastard_sword_b|Long Bastard Knight Sword
+itm_bastard_sword_b_pl|Long Bastard Knight Sword
+itm_sabre_elmwood|Elmwood Blade
+itm_sabre_elmwood_pl|Elmwood Blade
+itm_sabre_ebony|Ebony Blade
+itm_sabre_ebony_pl|Ebony Blade
+itm_jack_anduril|Ancient Greatsword
+itm_jack_anduril_pl|Ancient Greatsword
+itm_scimitar_brightwood|Ancient Royal Sword
+itm_scimitar_brightwood_pl|Ancient Royal Sword
+itm_sword_valirian_a|Spirit of the North
+itm_sword_valirian_a_pl|Spirit of the North
+itm_skyfall|Skyfall
+itm_skyfall_pl|Skyfall
+itm_waorsworda|Ancient Perisno Kingsblade
+itm_waorsworda_pl|Ancient Perisno Kingsblade
+itm_shortened_military_scythe|Shortened Military Scythe
+itm_shortened_military_scythe_pl|Shortened Military Scythe
+itm_english_longsword|Perisno Longsword
+itm_english_longsword_pl|Perisno Longsword
+itm_warbrand_no1|Warbrand
+itm_warbrand_no1_pl|Warbrand
+itm_sword_two_handed_b|Two Handed Sword
+itm_sword_two_handed_b_pl|Two Handed Sword
+itm_khergit_sword_two_handed_b|Light Two Handed Sabre
+itm_khergit_sword_two_handed_b_pl|Light Two Handed Sabre
+itm_wood_elven_blade|Elvarie Blade
+itm_wood_elven_blade_pl|Elvarie Blade
+itm_danish_greatsword|Tolranian Longsword
+itm_danish_greatsword_pl|Tolranian Longsword
+itm_khergit_sword_two_handed_a|Two Handed Sabre
+itm_khergit_sword_two_handed_a_pl|Two Handed Sabre
+itm_german_bastard_sword|Two Handed Longsword
+itm_german_bastard_sword_pl|Two Handed Longsword
+itm_2scimitar_bluesilver|Geldarin Two Handed Sword
+itm_2scimitar_bluesilver_pl|Geldarin Two Handed Sword
+itm_butcher|Butcher Sword
+itm_butcher_pl|Butcher Sword
+itm_darkblade| Spiked Blade
+itm_darkblade_pl| Spiked Blade
+itm_2scimitar_darkwood|Draharan Royal Two Handed Sword
+itm_2scimitar_darkwood_pl|Draharan Royal Two Handed Sword
+itm_luc_serrated_sword_v2|Serrated Sword
+itm_luc_serrated_sword_v2_pl|Serrated Sword
+itm_luc_sarranid_falchion|Great Scimitar
+itm_luc_sarranid_falchion_pl|Great Scimitar
+itm_glassblade|Glassarian Blade
+itm_glassblade_pl|Glassarian Blade
+itm_demon_sword|Demon Blade
+itm_demon_sword_pl|Demon Blade
+itm_sword_two_handed_a|Great Sword
+itm_sword_two_handed_a_pl|Great Sword
+itm_sword_of_war|Sword of War
+itm_sword_of_war_pl|Sword of War
+itm_greatsword|Perisno Greatsword
+itm_greatsword_pl|Perisno Greatsword
+itm_strange_great_sword|Strange Great Sword
+itm_strange_great_sword_pl|Strange Great Sword
+itm_luc_zweihander|Zweihander
+itm_luc_zweihander_pl|Zweihander
+itm_2hand_swadian_regent|Regent Sword
+itm_2hand_swadian_regent_pl|Regent Sword
+itm_heroicsword|Noble Two-handed Sword
+itm_heroicsword_pl|Noble Two-handed Sword
+itm_schlachtschwert|Schlachtschwert
+itm_schlachtschwert_pl|Schlachtschwert
+itm_perisno_king_sword|Perisno Sun Sword
+itm_perisno_king_sword_pl|Perisno Sun Sword
+itm_flamberge_brown|Flame Schlachtschwert
+itm_flamberge_brown_pl|Flame Schlachtschwert
+itm_flamberg|Flamberge
+itm_flamberg_pl|Flamberge
+itm_nisaynian_legacy|Nisaynian's Legacy
+itm_nisaynian_legacy_pl|Nisaynian's Legacy
+itm_winged_sword|Highelf Sword
+itm_winged_sword_pl|Highelf Sword
+itm_dreaded_sword|Dreaded Sword
+itm_dreaded_sword_pl|Dreaded Sword
+itm_flamberge|Flamebringer
+itm_flamberge_pl|Flamebringer
+itm_waoreelongsword|Golden Sunblade
+itm_waoreelongsword_pl|Golden Sunblade
+itm_two_handed_axe|Lumberjack's Axe
+itm_two_handed_axe_pl|Lumberjack's Axe
+itm_luc_executioners_axe|Maccavian Executioners Axe
+itm_luc_executioners_axe_pl|Maccavian Executioners Axe
+itm_axe|Axe
+itm_axe_pl|Axe
+itm_war_axe_no2|Crude War Axe
+itm_war_axe_no2_pl|Crude War Axe
+itm_two_handed_battle_axe_2|Two Handed Axe
+itm_two_handed_battle_axe_2_pl|Two Handed Axe
+itm_luc_two_handed_axe_1|Two Handed War Axe
+itm_luc_two_handed_axe_1_pl|Two Handed War Axe
+itm_gothic_battle_axe_no2|Guardian Battle Axe
+itm_gothic_battle_axe_no2_pl|Guardian Battle Axe
+itm_battle_axe_no6|Woodsman's War Axe
+itm_battle_axe_no6_pl|Woodsman's War Axe
+itm_maciejowski_axe_axe_no1|Maciejowski Axe
+itm_maciejowski_axe_axe_no1_pl|Maciejowski Axe
+itm_luc_bastard_axe|Heavy Warriors Axe
+itm_luc_bastard_axe_pl|Heavy Warriors Axe
+itm_luc_war_axe_2|Maccavian Battle Axe
+itm_luc_war_axe_2_pl|Maccavian Battle Axe
+itm_maciejowski_axe_f|Light Two-Handed Battle Axe
+itm_maciejowski_axe_f_pl|Light Two-Handed Battle Axe
+itm_great_slavic_axe_no1|Chopper
+itm_great_slavic_axe_no1_pl|Chopper
+itm_battle_ax_aa|Battle Axe
+itm_battle_ax_aa_pl|Battle Axe
+itm_great_axe_no2|Maccavian Great Axe
+itm_great_axe_no2_pl|Maccavian Great Axe
+itm_luc_iron_war_axe|Iron Battle Axe
+itm_luc_iron_war_axe_pl|Iron Battle Axe
+itm_luc_two_handed_axe_2|Two Handed Killer Axe
+itm_luc_two_handed_axe_2_pl|Two Handed Killer Axe
+itm_battle_axe_c|Lucus Battle Axe
+itm_battle_axe_c_pl|Lucus Battle Axe
+itm_luc_maciejowski_axe|Great Battle Axe
+itm_luc_maciejowski_axe_pl|Great Battle Axe
+itm_great_axe_no3|Twisted Guardian Axe
+itm_great_axe_no3_pl|Twisted Guardian Axe
+itm_gothic_battle_axe_no5|Perisno War Axe
+itm_gothic_battle_axe_no5_pl|Perisno War Axe
+itm_luc_battle_axe|Maccavian War Axe
+itm_luc_battle_axe_pl|Maccavian War Axe
+itm_sarranid_two_handed_axe_a|Two-Handed Iron Battle Axe
+itm_sarranid_two_handed_axe_a_pl|Two-Handed Iron Battle Axe
+itm_lightedge_spak|Lightedge Axe
+itm_lightedge_spak_pl|Lightedge Axe
+itm_luc_knightly_axe_two_handed|Two Handed Knight Axe
+itm_luc_knightly_axe_two_handed_pl|Two Handed Knight Axe
+itm_taleworlds_doubleaxe|Double Winged Axe
+itm_taleworlds_doubleaxe_pl|Double Winged Axe
+itm_long_axe_b_alt|Long War Axe
+itm_long_axe_b_alt_pl|Long War Axe
+itm_varangian_axe|Varangian Battle Axe
+itm_varangian_axe_pl|Varangian Battle Axe
+itm_long_axe_c_alt|Great Long Axe
+itm_long_axe_c_alt_pl|Great Long Axe
+itm_executer|Executer
+itm_executer_pl|Executer
+itm_shortened_voulge|Shortened Voulge
+itm_shortened_voulge_pl|Shortened Voulge
+itm_bardiche|Bardiche
+itm_bardiche_pl|Bardiche
+itm_great_axe_no5|Lucus's Axe
+itm_great_axe_no5_pl|Lucus's Axe
+itm_great_bardiche|Great Bardiche
+itm_great_bardiche_pl|Great Bardiche
+itm_strelet_bardiche|Steel Bardiche
+itm_strelet_bardiche_pl|Steel Bardiche
+itm_battle_axe_no4|Dragon's Tongue Bardiche
+itm_battle_axe_no4_pl|Dragon's Tongue Bardiche
+itm_luc_polish_bardiche|Maccavian Bardiche
+itm_luc_polish_bardiche_pl|Maccavian Bardiche
+itm_voulge|Voulge
+itm_voulge_pl|Voulge
+itm_swiss_voulge_no1|Swak Voulge
+itm_swiss_voulge_no1_pl|Swak Voulge
+itm_swiss_voulge_no2|Footman Voulge
+itm_swiss_voulge_no2_pl|Footman Voulge
+itm_luc_saxon_voulge|Lobtrochtin Voulge
+itm_luc_saxon_voulge_pl|Lobtrochtin Voulge
+itm_swiss_voulge_no3|Pikeman Voulge
+itm_swiss_voulge_no3_pl|Pikeman Voulge
+itm_luc_saxon_voulge_b|Lobtrochtin Dreaded Voulge
+itm_luc_saxon_voulge_b_pl|Lobtrochtin Dreaded Voulge
+itm_maul_no1|Spiked Maul
+itm_maul_no1_pl|Spiked Maul
+itm_luc_plancon_a_picot_a|Spiked Two-Handed Mace
+itm_luc_plancon_a_picot_a_pl|Spiked Two-Handed Mace
+itm_luc_spiked_war_club_b|Dark Spiked 2h Mace
+itm_luc_spiked_war_club_b_pl|Dark Spiked 2h Mace
+itm_morningstar|Long Morningstar
+itm_morningstar_pl|Long Morningstar
+itm_morningstar_2|Long Dark Morningstar
+itm_morningstar_2_pl|Long Dark Morningstar
+itm_cudgel|Cudgel
+itm_cudgel_pl|Cudgel
+itm_sledgehammer|Sledgehammer
+itm_sledgehammer_pl|Sledgehammer
+itm_maul|Maul
+itm_maul_pl|Maul
+itm_luc_wooden_war_hammer|Wooden Spiked Maul
+itm_luc_wooden_war_hammer_pl|Wooden Spiked Maul
+itm_luc_great_hammer_a|Infantry Hammer
+itm_luc_great_hammer_a_pl|Infantry Hammer
+itm_warhammer_kn1|Bloodflow Warhammer
+itm_warhammer_kn1_pl|Bloodflow Warhammer
+itm_great_hammer|Iron Hammer
+itm_great_hammer_pl|Iron Hammer
+itm_luc_knights_warhammer|Knights Warhammer
+itm_luc_knights_warhammer_pl|Knights Warhammer
+itm_warhammer|Hamlet's Divine Hammer
+itm_warhammer_pl|Hamlet's Divine Hammer
+itm_lucas_nomad_club|Nomad Soiel Club
+itm_lucas_nomad_club_pl|Nomad Soiel Club
+itm_rrr_mallet1|Mallet
+itm_rrr_mallet1_pl|Mallet
+itm_lui_twohandedmace|Long Manhunter Mace
+itm_lui_twohandedmace_pl|Long Manhunter Mace
+itm_sarranid_two_handed_mace_1|Long Iron Mace
+itm_sarranid_two_handed_mace_1_pl|Long Iron Mace
+itm_giant_club|Ulfhednar's Club
+itm_giant_club_pl|Ulfhednar's Club
+itm_lui_manhunter_polehammer|Empire Spiked Two-Handed Hammer
+itm_lui_manhunter_polehammer_pl|Empire Spiked Two-Handed Hammer
+itm_jousting_lance|Jousting Lance
+itm_jousting_lance_pl|Jousting Lance
+itm_double_sided_lance|Double Sided Lance
+itm_double_sided_lance_pl|Double Sided Lance
+itm_bamboo_lance|Bamboo Lance
+itm_bamboo_lance_pl|Bamboo Lance
+itm_light_lance|Light Lance
+itm_light_lance_pl|Light Lance
+itm_lance|Lance
+itm_lance_pl|Lance
+itm_heavy_lance|Heavy Lance
+itm_heavy_lance_pl|Heavy Lance
+itm_great_lance|Great Lance
+itm_great_lance_pl|Great Lance
+itm_lance_4|Brown Striped Lance
+itm_lance_4_pl|Brown Striped Lance
+itm_lance_2|Orange Striped Lance
+itm_lance_2_pl|Orange Striped Lance
+itm_lance_5|Dark Striped Lance
+itm_lance_5_pl|Dark Striped Lance
+itm_lance_3|Red Striped Lance
+itm_lance_3_pl|Red Striped Lance
+itm_lance_1|Black Striped Lance
+itm_lance_1_pl|Black Striped Lance
+itm_lance_6|Blue Striped Lance
+itm_lance_6_pl|Blue Striped Lance
+itm_lance_lev1|Page's Lance
+itm_lance_lev1_pl|Page's Lance
+itm_lance_lev2|Senior Page's Lance
+itm_lance_lev2_pl|Senior Page's Lance
+itm_lance_lev3|Squire's Lance
+itm_lance_lev3_pl|Squire's Lance
+itm_lance_lev4|Knight's Lance
+itm_lance_lev4_pl|Knight's Lance
+itm_lance_lev6|Cavalier's Lance
+itm_lance_lev6_pl|Cavalier's Lance
+itm_lance_lev5|Knight Lord's Lance
+itm_lance_lev5_pl|Knight Lord's Lance
+itm_h_spear|Wooden Spear
+itm_h_spear_pl|Wooden Spear
+itm_shortened_spear|Shortened Spear
+itm_shortened_spear_pl|Shortened Spear
+itm_spear|Spear
+itm_spear_pl|Spear
+itm_bamboo_spear|Bamboo Spear
+itm_bamboo_spear_pl|Bamboo Spear
+itm_war_spear|War Spear
+itm_war_spear_pl|War Spear
+itm_luc_long_war_spear|Long Spear
+itm_luc_long_war_spear_pl|Long Spear
+itm_swiss_pike_1|Hakkon Pike
+itm_swiss_pike_1_pl|Hakkon Pike
+itm_dwarf_spear|Dwarf Spear
+itm_dwarf_spear_pl|Dwarf Spear
+itm_sword_spear|Sword Spear
+itm_sword_spear_pl|Sword Spear
+itm_war_spear_12|Infantry Spear
+itm_war_spear_12_pl|Infantry Spear
+itm_awlpike|Awlpike
+itm_awlpike_pl|Awlpike
+itm_boar_spear_of_frederick_iv_of_tyrol|Tyrol Spear
+itm_boar_spear_of_frederick_iv_of_tyrol_pl|Tyrol Spear
+itm_war_spear_no2|Castle Guard Spear
+itm_war_spear_no2_pl|Castle Guard Spear
+itm_swiss_pike_3_v2|Lightwood Hakkon Pike
+itm_swiss_pike_3_v2_pl|Lightwood Hakkon Pike
+itm_epieu_de_guerre_no1|Chiavarina
+itm_epieu_de_guerre_no1_pl|Chiavarina
+itm_bohemian_ear_spoon_no1|Bohemian Spear
+itm_bohemian_ear_spoon_no1_pl|Bohemian Spear
+itm_awlpike_long|Long Awlpike
+itm_awlpike_long_pl|Long Awlpike
+itm_gondor_spear|Fountain Guard Spear
+itm_gondor_spear_pl|Fountain Guard Spear
+itm_citadel_guard_spear|Elintoran Guard Spear
+itm_citadel_guard_spear_pl|Elintoran Guard Spear
+itm_roman_spear_1|Short Legion Spear
+itm_roman_spear_1_pl|Short Legion Spear
+itm_roman_spear_2|Legion Spear
+itm_roman_spear_2_pl|Legion Spear
+itm_roman_spear_3|Heavy Legion Hasta
+itm_roman_spear_3_pl|Heavy Legion Hasta
+itm_german_hunting_spear|Hunting Spear
+itm_german_hunting_spear_pl|Hunting Spear
+itm_boar_spear|Boar Spear
+itm_boar_spear_pl|Boar Spear
+itm_ashwood_pike|Ashwood Pike
+itm_ashwood_pike_pl|Ashwood Pike
+itm_halfj6|Modified Slammer
+itm_halfj6_pl|Modified Slammer
+itm_pike|Pike
+itm_pike_pl|Pike
+itm_glaive_kn_no2|Glaive
+itm_glaive_kn_no2_pl|Glaive
+itm_halfj4|Double Edged Blade
+itm_halfj4_pl|Double Edged Blade
+itm_swiss_pike_2|Long Pike
+itm_swiss_pike_2_pl|Long Pike
+itm_corseque_no3|Short Corseque
+itm_corseque_no3_pl|Short Corseque
+itm_halfj9|Valahir Spear
+itm_halfj9_pl|Valahir Spear
+itm_luc_pike_5m_lenght450|5-meter Spear
+itm_luc_pike_5m_lenght450_pl|5-meter Spear
+itm_partisan_no1|Long Sword Spear
+itm_partisan_no1_pl|Long Sword Spear
+itm_halfj7|Tornblow
+itm_halfj7_pl|Tornblow
+itm_yari_spear_b|Long Yari Spear
+itm_yari_spear_b_pl|Long Yari Spear
+itm_halfj3|Double Edged Spear
+itm_halfj3_pl|Double Edged Spear
+itm_swiss_pike_3_v1|Medium Hakkon Pike
+itm_swiss_pike_3_v1_pl|Medium Hakkon Pike
+itm_luc_trident|Trident
+itm_luc_trident_pl|Trident
+itm_corseque_no1|Corseque
+itm_corseque_no1_pl|Corseque
+itm_halfj8|Guardian Spear
+itm_halfj8_pl|Guardian Spear
+itm_unholy_trident|Unholy Trident
+itm_unholy_trident_pl|Unholy Trident
+itm_halfj10|Long Spear
+itm_halfj10_pl|Long Spear
+itm_nordic_halberd|Short Halberd
+itm_nordic_halberd_pl|Short Halberd
+itm_luc_hungarian_axe_b|Long Militia Axe
+itm_luc_hungarian_axe_b_pl|Long Militia Axe
+itm_dane_axe_no1|Dane Poleaxe
+itm_dane_axe_no1_pl|Dane Poleaxe
+itm_long_bardiche|Long Bardiche
+itm_long_bardiche_pl|Long Bardiche
+itm_glaive|Knightsbane
+itm_glaive_pl|Knightsbane
+itm_luc_swiss_poleaxe|Light Poleaxe
+itm_luc_swiss_poleaxe_pl|Light Poleaxe
+itm_great_long_bardiche|Great Long Bardiche
+itm_great_long_bardiche_pl|Great Long Bardiche
+itm_burgundian_glaive|Foreign Bardiche
+itm_burgundian_glaive_pl|Foreign Bardiche
+itm_luc_hungarian_axe|Long Guard Axe
+itm_luc_hungarian_axe_pl|Long Guard Axe
+itm_halfj|Half Moon
+itm_halfj_pl|Half Moon
+itm_gallowglass_axe_no1|Guardsman's Poleaxe
+itm_gallowglass_axe_no1_pl|Guardsman's Poleaxe
+itm_poleaxe_a|Tolranian Poleaxe
+itm_poleaxe_a_pl|Tolranian Poleaxe
+itm_luc_pole_axe_new|Infantry Poleaxe
+itm_luc_pole_axe_new_pl|Infantry Poleaxe
+itm_luc_partisan|Bladed Halberd
+itm_luc_partisan_pl|Bladed Halberd
+itm_luc_flemish_halberd|Darksteel Bardiche
+itm_luc_flemish_halberd_pl|Darksteel Bardiche
+itm_elegant_poleaxe|Gardist Hellebarde
+itm_elegant_poleaxe_pl|Gardist Hellebarde
+itm_luc_poleaxe_m|Darksteel Poleaxe
+itm_luc_poleaxe_m_pl|Darksteel Poleaxe
+itm_halfj1|Double Moon
+itm_halfj1_pl|Double Moon
+itm_venetian_poleaxe_1475|Kingsman's Poleaxe
+itm_venetian_poleaxe_1475_pl|Kingsman's Poleaxe
+itm_simple_poleaxe|Guard Poleaxe
+itm_simple_poleaxe_pl|Guard Poleaxe
+itm_german_poleaxe|Royal Hakkon Poleaxe
+itm_german_poleaxe_pl|Royal Hakkon Poleaxe
+itm_halfj12|Redmoon Halberd
+itm_halfj12_pl|Redmoon Halberd
+itm_hafted_blade_b|Short Hafted Blade
+itm_hafted_blade_b_pl|Short Hafted Blade
+itm_hafted_blade_a|Hafted Blade
+itm_hafted_blade_a_pl|Hafted Blade
+itm_luc_hafted_blade_4|Sharkov Hafted Blade
+itm_luc_hafted_blade_4_pl|Sharkov Hafted Blade
+itm_luc_swiss_voulge|Bloodlines Hafted Blade
+itm_luc_swiss_voulge_pl|Bloodlines Hafted Blade
+itm_glaive_no1|Lightsteel Glaive
+itm_glaive_no1_pl|Lightsteel Glaive
+itm_naginata|Naginata
+itm_naginata_pl|Naginata
+itm_luc_hafted_blade_1|Lucky Hafted Blade
+itm_luc_hafted_blade_1_pl|Lucky Hafted Blade
+itm_glaive_xv|Noble Perisno Glaive
+itm_glaive_xv_pl|Noble Perisno Glaive
+itm_luc_hafted_blade_2|Blade of Dragon Dynasty
+itm_luc_hafted_blade_2_pl|Blade of Dragon Dynasty
+itm_long_axe|Long Axe
+itm_long_axe_pl|Long Axe
+itm_long_axe_as_axe|Long Axe
+itm_long_axe_as_axe_pl|Long Axe
+itm_luc_great_long_axe|Long Battle Axe
+itm_luc_great_long_axe_pl|Long Battle Axe
+itm_luc_great_long_axe_as_axe|Long Battle Axe
+itm_luc_great_long_axe_as_axe_pl|Long Battle Axe
+itm_military_fork|Battle Fork
+itm_military_fork_pl|Battle Fork
+itm_military_scythe|Military Scythe
+itm_military_scythe_pl|Military Scythe
+itm_battle_fork_no1|Military Fork
+itm_battle_fork_no1_pl|Military Fork
+itm_long_hafted_knobbed_mace|Long Hafted Knobbed Mace
+itm_long_hafted_knobbed_mace_pl|Long Hafted Knobbed Mace
+itm_long_hafted_spiked_mace|Long Hafted Mace
+itm_long_hafted_spiked_mace_pl|Long Hafted Mace
+itm_luc_marteau_de_lucerne|Speared Polehammer
+itm_luc_marteau_de_lucerne_pl|Speared Polehammer
+itm_luc_long_hammer|Long Hammer
+itm_luc_long_hammer_pl|Long Hammer
+itm_luc_german_short_polehammer|Foot Knight Polehammer
+itm_luc_german_short_polehammer_pl|Foot Knight Polehammer
+itm_milanese_polehammer_no1|Knight's Darksteel Polehammer
+itm_milanese_polehammer_no1_pl|Knight's Darksteel Polehammer
+itm_polehammer|Stone Polehammer
+itm_polehammer_pl|Stone Polehammer
+itm_long_spiked_club|Long Spiked Club
+itm_long_spiked_club_pl|Long Spiked Club
+itm_luc_long_hafted_spiked_mace_b|Long Hafted Spiked Mace
+itm_luc_long_hafted_spiked_mace_b_pl|Long Hafted Spiked Mace
+itm_luc_english_polehammer|Darksteel Spearclaw
+itm_luc_english_polehammer_pl|Darksteel Spearclaw
+itm_luc_lucerne_hammer|Darksteel Polehammer
+itm_luc_lucerne_hammer_pl|Darksteel Polehammer
+itm_dwarf_great_pick|Dwarven Great Pick
+itm_dwarf_great_pick_pl|Dwarven Great Pick
+itm_bec_de_corbin_a|War Hammer
+itm_bec_de_corbin_a_pl|War Hammer
+itm_mackie_morning_star_long|Long Morning Star
+itm_mackie_morning_star_long_pl|Long Morning Star
+itm_morgenstern_no2|Long Morgenstern
+itm_morgenstern_no2_pl|Long Morgenstern
+itm_staff|Staff
+itm_staff_pl|Staff
+itm_scythe|Peasant Scythe
+itm_scythe_pl|Peasant Scythe
+itm_war_sickle_no1|War Sickle
+itm_war_sickle_no1_pl|War Sickle
+itm_war_scythe_no1|War Scythe
+itm_war_scythe_no1_pl|War Scythe
+itm_iron_staff|Iron Staff
+itm_iron_staff_pl|Iron Staff
+itm_waorstaffb|Eidolon Warstaff
+itm_waorstaffb_pl|Eidolon Warstaff
+itm_waorstaffa|Demon's Rune Warstaff
+itm_waorstaffa_pl|Demon's Rune Warstaff
+itm_waorstaffe|Runed Persino Kingsman Staff
+itm_waorstaffe_pl|Runed Persino Kingsman Staff
+itm_dedal_kufel|맥주잔
+itm_dedal_kufel_pl|맥주잔
+itm_dedal_lutnia|류트니아
+itm_dedal_lutnia_pl|류트니아
+itm_dedal_lira|리라
+itm_dedal_lira_pl|리라
+itm_2_peasant_leather_ring_ls|길리 슈트 모조품
+itm_2_peasant_leather_ring_ls_pl|길리 슈트 모조품
+itm_peyotl|페요틀
+itm_peyotl_pl|페요틀
+itm_white_fox_furs|하얀 여우의 모피
+itm_white_fox_furs_pl|하얀 여우의 모피
+itm_map_tolrania|톨라니아 지도
+itm_map_tolrania_pl|톨라니아 지도
+itm_map_drachen|용의 제국 지도
+itm_map_drachen_pl|용의 제국 지도
+itm_map_drahara|드라하라 지도
+itm_map_drahara_pl|드라하라 지도
+itm_map_maccavia|믹카비안 지도
+itm_map_maccavia_pl|믹카비안 지도
+itm_map_elintor|엘린터 지도
+itm_map_elintor_pl|엘린터 지도
+itm_map_hakkon|하콘 지도
+itm_map_hakkon_pl|하콘 지도
+itm_items_end|Items End
+itm_items_end_pl|Items End

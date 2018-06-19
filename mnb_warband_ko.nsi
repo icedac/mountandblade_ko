@@ -2,7 +2,7 @@
 !include 'LogicLib.nsh'
 !include 'WinMessages.nsh'
 
-!define INSTALLER_VERSION     "0.0.3"
+!define INSTALLER_VERSION     "0.0.5"
 !define INSTALLER_NAME        "Mount & Blade: Warband Korean Patch"
 !define INSTALLER_FILE_BASE   "mnb_warband_ko_patch"
 !define TITLE_NAME            "${INSTALLER_NAME} ${INSTALLER_VERSION}"
@@ -125,6 +125,9 @@ FunctionEnd
 !define PENDOR_DIR            "$INSTDIR\..\..\workshop\content\48700\875202420"
 !define AWOIAF_DIR            "$INSTDIR\..\..\workshop\content\48700\948075218"
 !define TLD_DIR               "$INSTDIR\..\..\workshop\content\48700\299974223"
+!define PERISNO_DIR           "$INSTDIR\..\..\workshop\content\48700\316610148"
+
+
 InstallDir "fuck me \steamapps\common\MountBlade Warband"
 
 ; ==================================
@@ -206,15 +209,6 @@ Function "CheckRequirement"
 
   NoErrorWarbandEnv:
 
-  ; MessageBox mb_ok '${PENDOR_DIR}\main.bmp'
-  IfFileExists "${PENDOR_DIR}\main.bmp" 0 +2  
-  goto NoErrorPendor
-
-  ${If} ${Cmd} 'MessageBox MB_YESNO "펜도르의 예언 설치 폴더를 찾지 못하였습니다. 설치를 계속 하겠습니까?" IDNO'
-      MessageBox mb_ok '설치를 종료합니다.'
-      Quit
-  ${EndIf}
-  
   NoErrorPendor:
 
   goto FunExit
@@ -246,7 +240,7 @@ Function .onInit
   Call CloseProgram
 
   Sleep 500 
-  
+
   Push "MB Window"
   Call CloseProgram
 
@@ -296,6 +290,10 @@ Section "!M&B: 워밴드 한글" SecWarbandVanilla
   SetOutPath "$0\Mount&Blade Warband"
   File .\src\language.txt
 
+  SetOutPath "${WARBAND_DIR}"
+  Rename "${WARBAND_DIR}\mb_warband.exe" "${WARBAND_DIR}\orig.mb_warband.exe"
+  File .\src\mb_warband.exe
+
   ; korean font data
   SetOutPath "${WARBAND_DIR}\data\languages\ko"
   File .\src\mnb_warband\data\languages\ko\font_data.xml
@@ -311,7 +309,16 @@ SectionEnd
 ;--------------------------------
 ;Installer Sections
 
+SectionGroup "펜도르의 예언"
+
 Section /o "펜도르의 예언: 한글" SecPendor
+  ; MessageBox mb_ok '${PENDOR_DIR}\main.bmp'
+  IfFileExists "${PENDOR_DIR}\main.bmp" 0 +2  
+  goto NoError
+
+  MessageBox mb_iconexclamation|mb_ok "펜도르의 예언 설치 폴더를 찾지 못하였습니다. 펜도르가 정상적으로 작동하지 않을 수 있습니다."
+
+  NoError:
 
   ; korean font data
   SetOutPath "${PENDOR_DIR}\data\languages\ko"
@@ -329,14 +336,48 @@ Section /o "펜도르의 예언: 한글" SecPendor
 SectionEnd
 
 Section /o "(beta) 펜도르의 예언: 중립 영웅 표시" SecPendorNeutral
+  ; MessageBox mb_ok '${PENDOR_DIR}\main.bmp'
+  IfFileExists "${PENDOR_DIR}\main.bmp" 0 +2  
+  goto NoError
 
-  SetOutPath "${PENDOR_DIR}"  
+  MessageBox mb_iconexclamation|mb_ok "펜도르의 예언 설치 폴더를 찾지 못하였습니다. 펜도르가 정상적으로 작동하지 않을 수 있습니다."
+
+  NoError:
+
+  SetOutPath "${PENDOR_DIR}"
+  ; Rename "${PENDOR_DIR}\party_templates.txt" "${PENDOR_DIR}\orig.party_templates.txt"
   File .\src\prophecy_of_pendor\small_label_party_templates\party_templates.txt
 
 SectionEnd
 
+SectionGroupEnd
+
+Section /o "(beta) Perisno: 한글" SecPerisno
+  ; MessageBox mb_ok '${PERISNO_DIR}\main.bmp'
+  IfFileExists "${PERISNO_DIR}\main.bmp" 0 +2  
+  goto NoError
+
+  MessageBox mb_iconexclamation|mb_ok "페리스노 설치 폴더를 찾지 못하였습니다. 페리스노가 정상적으로 작동하지 않을 수 있습니다."
+
+  NoError:
+
+  Rename "${PERISNO_DIR}\data\font_data.xml" "${PERISNO_DIR}\data\orig.font_data.xml"
+  Rename "${PERISNO_DIR}\textures\font.dds" "${PERISNO_DIR}\textures\orig.font.dds"
+
+  ; korean data
+  SetOutPath "${PERISNO_DIR}\languages\ko"
+  File /r /x *.txt .\src\perisno\languages\ko\*.csv
+
+SectionEnd
 
 Section /o "(beta) AWOIAF: 한글" SecAWOIAF
+  ; MessageBox mb_ok '${PENDOR_DIR}\main.bmp'
+  IfFileExists "${AWOIAF_DIR}\main.bmp" 0 +2  
+  goto NoError
+
+  MessageBox mb_iconexclamation|mb_ok "AWOIAF 설치 폴더를 찾지 못하였습니다. AWOIAF가 정상적으로 작동하지 않을 수 있습니다."
+
+  NoError:
 
   ; korean font data
   SetOutPath "${AWOIAF_DIR}\data\languages\ko"
