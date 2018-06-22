@@ -2102,7 +2102,7 @@ dlga_dplmc_constable_patrol_disband_confirm:dplmc_constable_security_ask.1|아�
 dlga_dplmc_constable_security:dplmc_constable_pretalk|아무것도 아닙니다.
 dlga_dplmc_constable_talk:dplmc_constable_prisoner|내게 포로들이 좀 있는데, 당신이 팔아줄 수 있겠습니까?
 dlga_dplmc_constable_prisoner:dplmc_constable_pretalk|예, 물론입니다.
-dlga_dplmc_constable_talk:dplmc_constable_dismiss_confirm_ask|당신은 해산되었습니다.
+dlga_dplmc_constable_talk:dplmc_constable_dismiss_confirm_ask|당신은 해고야!
 dlga_dplmc_constable_dismiss_confirm_ask:dplmc_constable_dismiss_confirm|주군께 제가 더 이상 필요 없다고 확신하십니까?
 dlga_dplmc_constable_dismiss_confirm:dplmc_constable_dismiss_confirm_yes|네, 그렇습니다.
 dlga_dplmc_constable_dismiss_confirm_yes:close_window|명하시는 대로.

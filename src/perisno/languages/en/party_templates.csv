@@ -1,0 +1,309 @@
+pt_none|none
+pt_rescued_prisoners|Rescued Prisoners
+pt_enemy|Enemy
+pt_hero_party|Hero Party
+pt_village_defenders|Village Defenders
+pt_cattle_herd|Cattle Herd
+pt_looters|Robbers
+pt_perisno_pilgrims|Perisno Pilgrims
+pt_scholars|Scholars
+pt_manhunters|Glory-Seeking Men
+pt_steppe_bandits|Saccar Raiders
+pt_taiga_bandits|Snow Crawlers
+pt_desert_bandits|Sandwalker
+pt_forest_bandits|Outlawed Criminals
+pt_mountain_bandits|Escaped Prisoners
+pt_sea_raiders|Volheere Raiders
+pt_imperial_scout|Imperial Scouts
+pt_crusader_knights|Holy Crusaders
+pt_aethling_lords|Divine Aethlings
+pt_rafklazan|King Rafklazan
+pt_nibor|Nibor Hood
+pt_nibor_bandits|Nibor's Bandits
+pt_foreigners|Foreign Invaders
+pt_cult_assassins|Rul'Daiun Assassins
+pt_hakkon_inquisitors|Hakkon Inquisitors
+pt_falki|Illica Falki
+pt_amazons|Ankars Seducers
+pt_eagle_brotherhood|Eagle Knights
+pt_eagle_brotherhood1|Eagle Knights
+pt_eagle_brotherhood2|Eagle Knights
+pt_demon_worshippers|Demon Worshippers
+pt_demon_worshippers1|Demon Worshippers
+pt_demon_worshippers2|Demon Worshippers
+pt_demonarmy|Demonic Army
+pt_eaglearmy|Eagle War Party
+pt_zolona|Zolona
+pt_ulfheonar|Ulfheonar
+pt_zeladeck|Zeladeck The Chosen One
+pt_lymbard|Lymbardian Knights
+pt_desouk|Desouk Slavers
+pt_rivermen|The Rivermen
+pt_femmercenaries|Female Outlaw Mercenary Warband
+pt_mercenaries|Outlaw Mercenary Warband
+pt_wolf_knights|Wolf Knights
+pt_wolfarmy|Wolf Knight War Party
+pt_firstlegion|The Third Legion
+pt_legionscout|Third Legion Scouts
+pt_legionpatrol|Third Legion Patrol
+pt_geldar_scouts|Geldarin Scouts
+pt_geldar_infantry|Geldarin Infantry Contingent
+pt_geldar_warparty|Geldarin War Party
+pt_geldar_rangers|Geldarin Rangers
+pt_geldar_army|Geldarin Army
+pt_valahir_people|People of Valahir
+pt_onishi|Onishi
+pt_yachamoci|General Yachamoci
+pt_torlan|Tolran Kingsmen Elites
+pt_amara|High Dragon Priests
+pt_zengi|Drahara Elephant Mercenaries
+pt_culgrah|Divine Aethling Elites
+pt_eli_elite|Elintoran Elites
+pt_baibars|Hakkon High Inquisition
+pt_voldeburg_caravan|Voldeburg Caravan
+pt_local_lord|Local Reich Lord
+pt_gunnarr|Gunnarr
+pt_dpriests|Dragon Priests
+pt_mercs_pary_1|Mercenary Party
+pt_mercs_pary_2|Jin Mercenaries
+pt_mercs_pary_3|Company of Monk Warriors
+pt_mercs_pary_4|Company of Nun Warriors
+pt_mercs_pary_5|Nodah's Mercenary Company
+pt_mercs_pary_6|Sidhethon's Mercenary Company
+pt_mercs_pary_7|Remus's Guardsmen Company
+pt_mercs_pary_8|Hakkon Company of the East
+pt_mercs_pary_9|Filibuster Company of Aethlings
+pt_mercs_pary_10|Company of Crusaders
+pt_mercs_pary_11|Marauder Company
+pt_mercs_pary_12|Freelancers' Cavalry Company
+pt_deserters|Deserters
+pt_merchant_caravan|Merchant Caravan
+pt_troublesome_bandits|Troublesome Bandits
+pt_bandits_awaiting_ransom|Bandits Awaiting Ransom
+pt_kidnapped_girl|Kidnapped Girl
+pt_village_farmers|Village Farmers
+pt_spy_partners|Unremarkable Travellers
+pt_unrem_travellers|Unremarkable Travellers
+pt_runaway_serfs|Runaway Serfs
+pt_spy|Ordinary Townsman
+pt_sacrificed_messenger|Sacrificed Messenger
+pt_forager_party|Foraging Party
+pt_scout_party|Scouts
+pt_patrol_party|Patrol
+pt_mercenary_patrol|Mercenary Patrol
+pt_minor_nobles|Minor Nobles
+pt_messenger_party|Messenger
+pt_raider_party|Raiders
+pt_raider_captives|Raider Captives
+pt_kingdom_caravan_party|Caravan
+pt_prisoner_train_party|Prisoner Train
+pt_default_prisoners|Default Prisoners
+pt_routed_warriors|Routed Enemies
+pt_deer_herd|Deer Herd
+pt_boar_herd|Boar Herd
+pt_wolf_herd|Wolf Pack
+pt_coat_herd|Goat Herd
+pt_coatb_herd|Goat Herd
+pt_wilddonkey_herd|Wild Donkey Herd
+pt_center_reinforcements|Reinforcements
+pt_kingdom_hero_party|War Party
+pt_steppe_bandit_lair|Saccar Camp
+pt_taiga_bandit_lair|Snowcave
+pt_desert_bandit_lair|Sandwalker Den
+pt_forest_bandit_lair|Outlaw Encampment
+pt_mountain_bandit_lair|Slave's Resident
+pt_sea_raider_lair|Volheere Landing
+pt_looter_lair|Kidnappers' Hideout
+pt_leaded_looters|Band of robbers
+pt_dplmc_spouse|Your Spouse
+pt_dplmc_gift_caravan|Your Caravan
+pt_dplmc_recruiter|Recruiter
+pt_volheere|Volheere Raiders
+pt_rogue_bandits|Rogue Bandits
+pt_zanns|Advanced Zann Scouting Party
+pt_volheerec|Volheere Nisaynian Scouting Party
+pt_mhs|Bandit Destroyers
+pt_res|Ragged Escapees
+pt_facdeserters|Dangerous Deserters
+pt_slave_rebellion|Slave Rebels
+pt_freerogues|Freelancer Rogues
+pt_elites_fac1|Tolranian Renegades
+pt_elites_fac3|Draharan Rebel Army
+pt_elites_fac4|Maccavian New Gods Rebels
+pt_elites_fac6|Hakkon Rebel Third Legionnaires
+pt_elites_fac9|Rebel Huscarls
+pt_secretarians|Secretarian Dragon Priests
+pt_infidels|Infidels
+pt_disbelievers|Disbelievers
+pt_zann_vanguard|Zann Vanguard
+pt_dangerous_escapees|Dangerous Escapees
+pt_marauding_bandits|Marauding Bandits
+pt_demon_heretics|Demon Worshippers
+pt_tolranian_prisoner_train|Tolranian Prisoner Train
+pt_reich_prisoner_train|Drachen Prisoner Train
+pt_drahara_prisoner_train|Draharan Prisoner Train
+pt_tolranian_patrol|Tolranian Patrol
+pt_reich_patrol|Drachen Patrol
+pt_draharan_patrol|Drahara Patrol
+pt_maccavian_patrol|Maccavian Patrol
+pt_elintor_patrol|Elintoran Patrol
+pt_hakkon_patrol|Hakkon Patrol
+pt_perisno_patrol|Perisno Patrol
+pt_falcon_patrol|Realm of the Falcon Patrol
+pt_valahir_patrol|Valahir Patrol
+pt_kaikoth_patrol|Kaikoth Confederation Patrol
+pt_geldar_patrol|Geldar Patrol
+pt_cretas_patrol|Cretasan Patrol
+pt_kuulan_patrol|Kuu-lan Patrol
+pt_bakhal_patrol|Bakhal Patrol
+pt_sut_patrol|Sut Patrol
+pt_aroulo_patrol|Aroulo Patrol
+pt_zann_patrol|Zann Patrol
+pt_minor_nobles_1|Minor Tolranian Nobles
+pt_minor_nobles_2|Minor Drachen Nobles
+pt_minor_nobles_3|Draharan Camel Riders
+pt_minor_nobles_4|Maccavian Steel Knights
+pt_minor_nobles_4_1|Maccavian Black Knights
+pt_minor_nobles_5|Minor Elintoran Nobles
+pt_minor_nobles_6|Minor Hakkon Nobles
+pt_minor_nobles_7|Minor Perisno Nobles
+pt_minor_nobles_8|Minor Falcon Nobles
+pt_minor_nobles_9|Minor Valahir Nobles
+pt_minor_nobles_10|Minor Kaikoth Nobles
+pt_minor_nobles_11|Minor Geldarin Nobles
+pt_minor_nobles_12|Minor Cretasan Nobles
+pt_minor_nobles_13|Minor Kuu-lan Nobles
+pt_minor_nobles_14|Minor Bakhal Nobles
+pt_minor_nobles_15|Minor Sut Nobles
+pt_minor_nobles_16|Minor Aroulo Nobles
+pt_minor_nobles_zann|Zann Elites
+pt_tolranian_scouts|Tolranian Scouts
+pt_reich_scouts|Reich Scouts
+pt_draharan_scouts|Draharan Scouts
+pt_maccavian_scouts|Maccavian Scouts
+pt_elintor_scouts|Elintoran Scouts
+pt_hakkon_scouts|Hakkon Scouts
+pt_perisno_scouts|Perisno Scouts
+pt_falcon_scouts|Falcon Scouts
+pt_valahir_scouts|Valahir Scouts
+pt_kaikoth_scouts|Kaikoth Scouts
+pt_cretas_scouts|Geldar Scouts
+pt_kuulan_scouts|Kuu-lan Scouts
+pt_bakhal_scouts|Bakhal Scouts
+pt_sut_scouts|Sut Scouts
+pt_aroulo_scouts|Aroulo Scouts
+pt_zann_scouts|Zann Scouts
+pt_tolranian_army|Tolranian Army
+pt_reich_army|Reich Army
+pt_draharan_army|Draharan Army
+pt_maccavian_army|Maccavian Army
+pt_elintor_army|Elintoran Army
+pt_hakkon_army|Hakkon Army
+pt_perisno_army|Perisno Army
+pt_zann_infantry|Zann Shun-Ha Contingent
+pt_zann_archers|Zann Sine Archers
+pt_zann_raiders|Zann Khergia Raiders
+pt_nemesis2|Hired Blades
+pt_perisno_raiders|Perisno Raiders
+pt_aruolo_raiders|Aroulian Raiders
+pt_aruolo_war_party|Aroulian War Party
+pt_pioneers|Perisnoan Pioneers
+pt_sekr|Sekr's Band
+pt_rdahcim|Rdahcim's Outlaws
+pt_red_immortals_1|Red Immortals Patrol
+pt_red_immortals_hero|Mactabilus
+pt_reinforcements|Reinforcements
+pt_wyvern_riders|Wyvern Riders
+pt_secretarian_scouts|Sectarian Dragon Priests
+pt_secretarian_scouts1|Sectarian Scouts
+pt_kunika|Kunika
+pt_kalrind|Kalrind's Band
+pt_peasant_rebels_ag|Peasant Rebels
+pt_nadriela_zweibal|Nadriela Zweibal
+pt_siegfried|Order of Faith
+pt_dreaded_one|Dreaded Nightmare
+pt_general_ialoch|Demon Marshal Ialoch
+pt_nox_of_zephilli|Nox of Zephilli
+pt_lord_ceylius|Lord Ceylius the Dishonorable
+pt_queen_aegea|Queen Aegea
+pt_merchant_guildsman|Merchant's Guild Caravan
+pt_mosoru|Mosoru
+pt_volheerec_normanni|Nisaynian Raiders from Clan of Normanni
+pt_volheerec_varangian|Nisaynian Raiders from Clan of Varangian
+pt_volheerec_viking|Nisaynian Raiders from Clan of Viking
+pt_searchers_wolf|Wolf Searchers
+pt_corpsman|Corpsmen
+pt_blood_shamans|Blood Shamans
+pt_perisno_pilgrims_commoners|Perisno Pilgrims
+pt_perisno_pilgrims_deserters|Outlawed Perisno Pilgrims
+pt_peasant_rebels_1|Peasant Rebels
+pt_peasant_rebels_2|Peasant Rebels
+pt_nibor_escort|Nibor's Bandits
+pt_ulfheonar_escort|Ulfheonar Raiders
+pt_rafklazan_escort|Scouts of King Rafklazan
+pt_zolona_escort|Zolona Messiahs
+pt_firstlegion_escort|Scouts of Centurion Octavius
+pt_zeladeck_escort|Zeladeck Scouts
+pt_dreaded_one_escort|Scouts of Dreaded Nightmare
+pt_general_ialoch_escort|Scouts of Marshal Ialoch
+pt_nox_of_zephilli_escort|Scouts of Nox of Zephilli
+pt_lord_ceylius_escort|Scouts of Lord Ceylius the Dishonorable
+pt_siegfried_escort|Scouts of Grand Paladin Siegfried
+pt_queen_aegea_escort|Scouts of Queen Aegea
+pt_rogue_knight_1|Rogue Knight
+pt_rogue_knight_2|Rogue Knight
+pt_faction_rebels_1|Rebels
+pt_faction_rebels_2|Rebels
+pt_faction_rebels_3|Rebels
+pt_faction_rebels_4|Rebels
+pt_faction_rebels_5|Rebels
+pt_faction_rebels_6|Rebels
+pt_followers_old_gods|Sect of The Followers of Old Gods
+pt_followers_new_gods|Sect of The Followers of New Gods
+pt_general_scout|Imperial Scouts
+pt_horde_jin|Horde of Jin
+pt_horde_shun_ha|Horde of Shun-Ha
+pt_horde_sine|Horde of Sine
+pt_horde_khergia|Horde of Khergia
+pt_replenishment_horde_jin|Horde of Jin
+pt_replenishment_horde_shun_ha|Horde of Shun-Ha
+pt_replenishment_horde_sine|Horde of Sine
+pt_replenishment_horde_khergia|Horde of Khergia
+pt_scout_horde_jin|Horde Scouts
+pt_scout_horde_shun_ha|Horde Scouts
+pt_scout_horde_sine|Horde Scouts
+pt_scout_horde_khergia|Horde Scouts
+pt_ismael_army|Ismael's Army
+pt_gukpard_army|Gukpard's Army
+pt_mercenary_warband|Mercenary Warband
+pt_mysterious_group|Mysterious Group
+pt_adventurers|Adventurers
+pt_angry_mercenaries|Angry Mercenaries
+pt_elderly_amazon|Elderly Amazon
+pt_persecutors_elderly_amazon|Amazon Persecutors
+pt_squad_amazon|Squad of Ankars
+pt_ankars_caravan|Ankars Supply Caravan
+pt_war_party_oksanamun|Elderly Amazon Oksanamun
+pt_joan_zwiebel_army|Joan Zwiebel's Army
+pt_mercenaries_tolranian_spymaster|Tolranian Spymaster's Mercenary Army
+pt_mercenaries_scouts|Mercenary Scouts
+pt_zann_prisoner_train_party|Zann Prisoner Train
+pt_group_masnerian_mercenaries|Group of Masnerian Mercenaries
+pt_group_freelancer_deserters|Group of Freelancer Deserters
+pt_erganzung_fur_besatzung|Freelancer Caravan
+pt_erganzung_fur_patrouille|Freelancer Caravan
+pt_freelancer_patrol_town_19|Freelancer Patrol
+pt_syabr_party|Syabr's Party
+pt_omelian_kasap_party|Company of nihonian mercenaries
+pt_sea_traders|Royal Traders
+pt_mercs_pary_13|Freelancers' Infantry Company
+pt_mercs_pary_14|Desouk Mercenaries
+pt_mercs_pary_15|Ukundu Mercenary Company
+pt_mercs_pary_16|Company of Assassins
+pt_mercs_pary_17|Volheere Company
+pt_mercs_pary_18|Company of Ankars Huntresses
+pt_mercs_pary_19|Company of Order of Faith
+pt_mercs_pary_20|Company of Mosoru
+pt_mercs_pary_21|Adventurer Mercenaries
+pt_mercs_pary_22|Female Mercenary Party
+pt_group_sut_giant|The Interested in the Path of the Wolf

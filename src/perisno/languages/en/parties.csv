@@ -1,0 +1,311 @@
+p_zendar|Mistylake City
+p_town_1|Maccan
+p_town_2|Forde
+p_town_3|Lille
+p_town_4|Leuven
+p_town_5|Forniron
+p_town_6|Lesbere
+p_town_7|Vinica
+p_town_8|Murdenholl
+p_town_9|Voldeberg
+p_town_10|Khul Vara
+p_town_11|Freising
+p_town_12|Arendal
+p_town_13|Reichberg
+p_town_14|Krain
+p_town_15|Elsinore
+p_town_16|Galwe
+p_town_17|Uliastai
+p_town_18|Bulgan
+p_town_19|Amarna
+p_town_20|Vellinaz
+p_town_21|Sut
+p_town_22|Arish
+p_town_23|Grund
+p_town_24|Grozny
+p_town_25|Fountain Hall
+p_town_26|Karnoth
+p_town_27|Dwallnor
+p_town_28|Qaletaqa
+p_town_29|Tumatarhun
+p_castle_1|Esahil Castle
+p_castle_2|Namauk Castle
+p_castle_3|Hafen Castle
+p_castle_4|Arklow Castle
+p_castle_5|Yorid Castle
+p_castle_6|Federo Castle
+p_castle_7|Demaig Castle
+p_castle_8|Rhenstal Castle
+p_castle_9|Azure Keep
+p_castle_10|Julre Castle
+p_castle_11|Verek Castle
+p_castle_12|Laidir Castle
+p_castle_13|Headow Castle
+p_castle_14|Maelond Castle
+p_castle_15|Lyndel Castle
+p_castle_16|Serin Castle
+p_castle_17|Selansir Castle
+p_castle_18|Gral Castle
+p_castle_19|Glatteis Castle
+p_castle_20|Dillac Castle
+p_castle_21|Ianthas Castle
+p_castle_22|Omigan Castle
+p_castle_23|Panmandot Castle
+p_castle_24|Cournin Castle
+p_castle_25|Valellon Castle
+p_castle_26|Riar Castle
+p_castle_27|Kilnar Keep
+p_castle_28|Waal Castle
+p_castle_29|Norberg Castle
+p_castle_30|Urlabay Castle
+p_castle_31|Westrey Castle
+p_castle_32|Anlux Castle
+p_castle_33|Efenas Castle
+p_castle_34|Harrath Castle
+p_castle_35|Enduin Castle
+p_castle_36|Farraige Castle
+p_castle_37|Dasselocht Castle
+p_castle_38|Temesin Castle
+p_castle_39|Steinturm Castle
+p_castle_40|Jezatt Castle
+p_castle_41|Aolas Castle
+p_castle_42|Sasspegah Castle
+p_castle_43|Alef Castle
+p_castle_44|Dailin Castle
+p_castle_45|Hasaca Castle
+p_castle_46|Desert Outpost
+p_castle_47|Samarra Castle
+p_castle_48|Bardaq Castle
+p_castle_49|Alnar Castle
+p_castle_50|Amarhus Castle
+p_castle_51|Fimbul Castle
+p_castle_52|Wotin Castle
+p_castle_53|Falcon's Pride
+p_castle_54|Falconclaw
+p_castle_55|Falconhead
+p_castle_56|Falconwatch
+p_castle_57|Falconwaters
+p_castle_58|Shards Keep
+p_castle_59|Longbeard Keep
+p_castle_60|Kahhadir Keep
+p_castle_61|Hornogoth Keep
+p_castle_62|Tabranpadan Castle
+p_castle_63|Steorac Castle
+p_castle_64|Huradan Castle
+p_castle_90|Zann Fort
+p_village_1|Galbar
+p_village_2|Arcross
+p_village_3|Yascon
+p_village_4|Ander
+p_village_5|Bravan
+p_village_6|Soveil
+p_village_7|Ellcour
+p_village_8|Stuin
+p_village_9|Tempe
+p_village_10|Kolines
+p_village_11|Lifwen
+p_village_12|Esari
+p_village_13|Logebur
+p_village_14|Mistelholz-Kollern
+p_village_15|Valellon
+p_village_16|Bebbanburg
+p_village_17|Wittinghausen
+p_village_18|Angern
+p_village_19|Horitzdorf
+p_village_20|Krumau
+p_village_21|Vogeltenne
+p_village_22|Rossenberg
+p_village_23|Themar
+p_village_24|Arcady
+p_village_25|Ubi Dahae
+p_village_26|Pluvian
+p_village_27|Cuetlu
+p_village_28|Malarkona
+p_village_29|Camp of Zann Colonists
+p_village_30|Pomelach
+p_village_31|Nath Nabon
+p_village_32|Neary
+p_village_33|Belseaud
+p_village_34|Hoxbend
+p_village_35|Tourlin
+p_village_36|Lewin
+p_village_37|Mdippre
+p_village_38|Varote
+p_village_39|Galmel
+p_village_40|Slenor
+p_village_41|Ganeguiba
+p_village_42|Sekhtem
+p_village_43|Chelnye
+p_village_44|Kusba
+p_village_45|Zebekr
+p_village_46|Solune
+p_village_47|Fasera
+p_village_48|Chriton
+p_village_49|Ruckendorf
+p_village_50|Hodlwald
+p_village_51|Asheld
+p_village_52|Pedrodes
+p_village_53|Starade
+p_village_54|Nerana
+p_village_55|Dubehal
+p_village_56|Jefcir
+p_village_57|Livres
+p_village_58|Unterhaid
+p_village_59|Dellon
+p_village_60|Tennelted
+p_village_61|Ers
+p_village_62|Reichenau
+p_village_63|Hulim
+p_village_64|Istle
+p_village_65|Suvant
+p_village_66|Lagenbruck
+p_village_67|Liebesdorf
+p_village_68|Ianthas
+p_village_69|Vynde
+p_village_70|Cymbelis
+p_village_71|Lisgal
+p_village_72|Kenett
+p_village_73|Umagroth
+p_village_74|Kohlgruben
+p_village_75|Ozak
+p_village_76|Qir
+p_village_77|Gantahir
+p_village_78|Oyens
+p_village_79|Waveshore
+p_village_80|Roquall
+p_village_81|Tepna
+p_village_82|Kahr
+p_village_83|Olsway
+p_village_84|Nettlemist
+p_village_85|Teufelstein
+p_village_86|Breitenschlag
+p_village_87|Ziering
+p_village_88|Zedouhkan
+p_village_89|Doett
+p_village_90|Lior
+p_village_91|Onmesp
+p_village_92|Wahran
+p_village_93|Casari
+p_village_94|Notloc
+p_village_95|Ferago
+p_village_96|Kaibel
+p_village_97|Afenbol
+p_village_98|Mopon
+p_village_99|Reness
+p_village_100|Tollua
+p_village_101|Feylig
+p_village_102|Dumaniyye
+p_village_103|Sokrit
+p_village_104|Hustaj
+p_village_105|Dydal
+p_village_106|Inoqtec
+p_village_107|Esca
+p_village_108|Noubra
+p_village_109|Hesh Danlis
+p_village_110|Zalea
+p_village_111|Mor
+p_village_112|Vole
+p_village_113|Jikloa
+p_village_114|Enga
+p_village_115|Skapta
+p_village_116|Reyoarfell
+p_village_117|Grenmarr
+p_village_118|Jorundarfell
+p_village_119|Kaldrus
+p_village_120|Moberg
+p_village_121|Clearwaters
+p_village_122|Skillbriggins
+p_village_123|Sacred Groves
+p_village_124|Moutain Springs
+p_village_125|Halls' End
+p_village_126|Leathercut
+p_village_127|Miles' Tippin
+p_village_128|Brennan's Triumph
+p_village_129|Troer
+p_village_130|Locktich
+p_village_131|Hammerhill
+p_village_132|Rocks Pike
+p_village_133|Dwallhaven
+p_village_134|Norelokk
+p_village_135|Ambolian
+p_village_136|Tollhoul
+p_village_137|Butchers Pit
+p_village_138|Lakkill
+p_village_139|Rains Greeve
+p_village_140|Atcez
+p_village_141|Bolinc
+p_village_142|Banuk
+p_village_190|Turan
+p_village_191|Adat
+p_village_192|Kesser
+p_salt_mine|Beehouse
+p_four_ways_inn|Four Ways Inn
+p_test_scene|test scene
+p_battlefields|battlefields
+p_dhorak_keep|Dhorak Keep
+p_training_ground|Training Ground
+p_training_ground_1|Training Field
+p_training_ground_2|Training Field
+p_training_ground_3|Training Field
+p_training_ground_4|Training Field
+p_training_ground_5|Training Field
+p_steppe_bandit_spawn_point|the steppes
+p_steppe_bandit_spawn_point_1|the steppes
+p_taiga_bandit_spawn_point|the tundra
+p_taiga_bandit_spawn_point_1|the tundra
+p_taiga_bandit_spawn_point_2|the tundra
+p_forest_bandit_spawn_point|the forests
+p_forest_bandit_spawn_point_1|the forests
+p_mountain_bandit_spawn_point|the highlands
+p_sea_raider_spawn_point_1|the coast
+p_sea_raider_spawn_point_2|the coast
+p_desert_bandit_spawn_point|the deserts
+p_rafklazan_sp|Rafklazan's Invaders
+p_nibor_sp|Nibor's Bandits
+p_foreigners_sp|foreigners sp
+p_assassin_sp|assassin sp
+p_falki_sp|falki sp
+p_amazons_sp|the amazon forest
+p_eagle_sp|eagle sp
+p_eagle1_sp|eagle1 sp
+p_eagle2_sp|eagle2 sp
+p_demon_sp|demon sp
+p_demon1_sp|demon1 sp
+p_demon2_sp|demon2 sp
+p_demonarmy_sp|demonarmy sp
+p_eaglearmy_sp|eaglearmy sp
+p_onishi_sp|Kamikaze Warriors
+p_yachamoci_sp|Kamikaze Warriors
+p_imperial_scout_sp|imperial scout sp
+p_lymbard_sp|Lymbard
+p_desouk_sp|Desouk Slavers
+p_wolf_sp|Wolf Knights
+p_wolfarmy_sp|Wolf Knights War Party
+p_geldar_sp|Geldarin Elves
+p_torlan_sp|Tolrania
+p_amara_sp|Reich
+p_zengi_sp|Drahara
+p_culgrah_sp|Maccavia
+p_faradon_sp|Elintor
+p_baibars_sp|Hakkon
+p_zolona_sp|Zolona's Bandits
+p_ulfheonar_sp|The Volheere Berserkers
+p_rivermen_sp|the lake
+p_legionscout_sp|Legion Scouts
+p_zeladeck_sp|zeladeck
+p_pioneer_sp|pioneers
+p_pioneer_sp_1|pioneers
+p_aruolo_sp|aruolians
+p_aruolo_sp_1|aruolians
+p_mosoru_sp_1|the desert
+p_aruolo_backtory_sp|middle of nowhere
+p_outpost_1|Outpost
+p_outpost_2|Outpost
+p_fort|Fort
+p_zann_outpost|Zann Outpost
+p_castle_merc_guild|Mercenary Guild
+p_freelancer_outpost|Freelancer Outpost
+p_volheere_sp|volheere sp
+p_third_legion_fort|Third Legion Outpost
+p_grazir_shrine|Shrine of Grazir
+p_parties_end|parties end

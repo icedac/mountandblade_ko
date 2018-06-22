@@ -22,7 +22,7 @@ trp_novice_fighter|초보 전사
 trp_novice_fighter_pl|초보 전사
 trp_regular_fighter|정규 전사
 trp_regular_fighter_pl|정규 전사
-trp_veteran_fighter|숙련 전사
+trp_veteran_fighter|베테랑 전사
 trp_veteran_fighter_pl|숙련 전사
 trp_champion_fighter|투사
 trp_champion_fighter_pl|투사
@@ -30,8 +30,8 @@ trp_giant_novice_fighter|초보 전사
 trp_giant_novice_fighter_pl|초보 전사
 trp_giant_regular_fighter|정규 전사
 trp_giant_regular_fighter_pl|정규 전사
-trp_giant_veteran_fighter|숙련 전사
-trp_giant_veteran_fighter_pl|숙련 전사
+trp_giant_veteran_fighter|베테랑 전사
+trp_giant_veteran_fighter_pl|베테랑 전사
 trp_giant_champion_fighter|투사
 trp_giant_champion_fighter_pl|투사
 trp_dwarf_champion_fighter|드워프 전사
@@ -72,16 +72,16 @@ trp_k01_tol_bowman|톨라니안 궁병
 trp_k01_tol_bowman_pl|톨라니안 궁병
 trp_k01_tol_longbowman|톨라니안 장궁병
 trp_k01_tol_longbowman_pl|톨라니안 장궁병
-trp_k01_tol_vetlongbowman|톨라니안 숙련 장궁병
-trp_k01_tol_vetlongbowman_pl|톨라니안 숙련 장궁병
+trp_k01_tol_vetlongbowman|톨라니안 베테랑 장궁병
+trp_k01_tol_vetlongbowman_pl|톨라니안 베테랑 장궁병
 trp_k01_tol_archer|톨라니안 궁수
 trp_k01_tol_archer_pl|톨라니안 궁수
 trp_k01_tol_headhunter|톨라니안 머리 사냥꾼
 trp_k01_tol_headhunter_pl|톨라니안 머리 사냥꾼
-trp_k01_tol_trainedfootman|톨라니안 훈련받은 보병
-trp_k01_tol_trainedfootman_pl|톨라니안 훈련받은 보병
-trp_k01_tol_vetfootman|톨라니안 숙련된 보병
-trp_k01_tol_vetfootman_pl|톨라니안 숙련된 보병
+trp_k01_tol_trainedfootman|톨라니안 숙련 보병
+trp_k01_tol_trainedfootman_pl|톨라니안 숙련 보병
+trp_k01_tol_vetfootman|톨라니안 베테랑 보병
+trp_k01_tol_vetfootman_pl|톨라니안 베테랑 보병
 trp_k01_tol_hacker|톨라니안 해커
 trp_k01_tol_hacker_pl|톨라니안 해커
 trp_k01_tol_kingsguard|톨라니안 왕의 근위병
@@ -260,8 +260,8 @@ trp_k04_mac_spearman|믹카비아 창병
 trp_k04_mac_spearman_pl|믹카비아 창병
 trp_k04_mac_halberdier|믹카비아 할버디어
 trp_k04_mac_halberdier_pl|믹카비아 할버디어
-trp_k04_mac_swordsmaster|믹카비아 검술의 달인
-trp_k04_mac_swordsmaster_pl|믹카비아 검술의 달인
+trp_k04_mac_swordsmaster|믹카비아 검술 마스터
+trp_k04_mac_swordsmaster_pl|믹카비아 검술 마스터
 trp_k04_mac_northguard|믹카비아 북부 경비병
 trp_k04_mac_northguard_pl|믹카비아 북부 경비병
 trp_k04_mac_messenger|믹카비아 전령
@@ -392,26 +392,26 @@ trp_k07_zan_militia|잔 민병
 trp_k07_zan_militia_pl|잔 민병
 trp_k07_zan_bowman|잔 궁병
 trp_k07_zan_bowman_pl|잔 궁병
-trp_k07_zan_trainedbowman|잔 훈련받은 궁병
-trp_k07_zan_trainedbowman_pl|잔 훈련받은 궁병
-trp_k07_zan_vetbowman|잔 숙련된 궁병
-trp_k07_zan_vetbowman_pl|잔 숙련된 궁병
+trp_k07_zan_trainedbowman|잔 숙련 궁병
+trp_k07_zan_trainedbowman_pl|잔 숙련 궁병
+trp_k07_zan_vetbowman|잔 베테랑 궁병
+trp_k07_zan_vetbowman_pl|잔 베테랑 궁병
 trp_k07_zan_longbowman|잔 장궁병
 trp_k07_zan_longbowman_pl|잔 장궁병
 trp_k07_zan_mtdarcher|잔 기마 궁수
 trp_k07_zan_mtdarcher_pl|잔 기마 궁수
-trp_k07_zan_swifthunter|잔 신속의 사냥꾼
-trp_k07_zan_swifthunter_pl|잔 신속의 사냥꾼
+trp_k07_zan_swifthunter|잔 신속 사냥꾼
+trp_k07_zan_swifthunter_pl|잔 신속 사냥꾼
 trp_k07_zan_swordsman|잔 검사
 trp_k07_zan_swordsman_pl|잔 검사
-trp_k07_zan_trainedswordsman|잔 훈련받은 검사
-trp_k07_zan_trainedswordsman_pl|잔 훈련받은 검사
-trp_k07_zan_vetswordsman|잔 숙련된 검사
-trp_k07_zan_vetswordsman_pl|잔 숙련된 검사
+trp_k07_zan_trainedswordsman|잔 숙련 검사
+trp_k07_zan_trainedswordsman_pl|잔 숙련 검사
+trp_k07_zan_vetswordsman|잔 베테랑 검사
+trp_k07_zan_vetswordsman_pl|잔 베테랑 검사
 trp_k07_zan_spearman|잔 창병
 trp_k07_zan_spearman_pl|잔 창병
-trp_k07_zan_spearmaster|잔 창술의 달인
-trp_k07_zan_spearmaster_pl|잔 창술의 달인
+trp_k07_zan_spearmaster|잔 창술 마스터
+trp_k07_zan_spearmaster_pl|잔 창술 마스터
 trp_k07_zan_messenger|잔 전령
 trp_k07_zan_messenger_pl|잔 전령
 trp_k07_zan_deserter|잔 탈영병
@@ -430,10 +430,10 @@ trp_k07_zan_n_blackwarrior|흑전사
 trp_k07_zan_n_blackwarrior_pl|흑전사
 trp_k07_zan_n_kheshig|잔 왕실 친위대
 trp_k07_zan_n_kheshig_pl|잔 왕실 친위대
-trp_k07_zan_n_yumimaster|잔 유미의 달인
-trp_k07_zan_n_yumimaster_pl|잔 유미의 달인
-trp_k07_zan_n_mtdberserker|잔 말을 탄 광전사
-trp_k07_zan_n_mtdberserker_pl|잔 말을 탄 광전사
+trp_k07_zan_n_yumimaster|잔 유미 마스터
+trp_k07_zan_n_yumimaster_pl|잔 유미 마스터
+trp_k07_zan_n_mtdberserker|잔 기마 광전사
+trp_k07_zan_n_mtdberserker_pl|잔 기마 광전사
 trp_k07_zan_m_ronin|잔 로닌
 trp_k07_zan_m_ronin_pl|잔 로닌
 trp_k08_fal_cav01|에이펠 피얼칸
@@ -560,8 +560,8 @@ trp_k10_kai_n_elderseeker|카이코스 원로 추적자
 trp_k10_kai_n_elderseeker_pl|카이코스 원로 추적자
 trp_k10_kai_n_smith|카이코스 대장장이
 trp_k10_kai_n_smith_pl|카이코스 대장장이
-trp_k10_kai_n_master_miner|카이코스 광산일의 달인
-trp_k10_kai_n_master_miner_pl|카이코스 광산일의 달인
+trp_k10_kai_n_master_miner|카이코스 광산일 마스터
+trp_k10_kai_n_master_miner_pl|카이코스 광산일 마스터
 trp_k10_kai_n_foreman|카이코스 감독관
 trp_k10_kai_n_foreman_pl|카이코스 감독관
 trp_k10_kai_m_mercescort|카이코스 용병 호위
@@ -746,14 +746,14 @@ trp_k16_aro_woodsman|아로우로 숲사람
 trp_k16_aro_woodsman_pl|아로우로 숲사람
 trp_k16_aro_bowman|아로우로 궁병
 trp_k16_aro_bowman_pl|아로우로 궁병
-trp_k16_aro_bowmaster|아로우로 활의 달인
-trp_k16_aro_bowmaster_pl|아로우로 활의 달인
+trp_k16_aro_bowmaster|아로우로 활 마스터
+trp_k16_aro_bowmaster_pl|아로우로 활 마스터
 trp_k16_aro_hurler|아로우로 투척꾼
 trp_k16_aro_hurler_pl|아로우로 투척꾼
 trp_k16_aro_provenhurler|아로우로 입증된 투척꾼
 trp_k16_aro_provenhurler_pl|아로우로 입증된 투척꾼
-trp_k16_aro_masterhurler|아로우로 투척의 달인
-trp_k16_aro_masterhurler_pl|아로우로 투척의 달인
+trp_k16_aro_masterhurler|아로우로 투척 마스터
+trp_k16_aro_masterhurler_pl|아로우로 투척 마스터
 trp_k16_aro_fighter|아로우로 싸움꾼
 trp_k16_aro_fighter_pl|아로우로 싸움꾼
 trp_k16_aro_warrior|아로우로 전사
@@ -956,8 +956,8 @@ trp_m04_frg_i_soldier|자유용병 병사
 trp_m04_frg_i_soldier_pl|자유용병 병사
 trp_m04_frg_i_infantry|자유용병 보병
 trp_m04_frg_i_infantry_pl|자유용병 보병
-trp_m04_frg_i_swordsmaster|자유용병 검술의 달인
-trp_m04_frg_i_swordsmaster_pl|자유용병 검술의 달인
+trp_m04_frg_i_swordsmaster|자유용병 검술 마스터
+trp_m04_frg_i_swordsmaster_pl|자유용병 검술 마스터
 trp_m04_frg_i_dismknight|자유용병 하마 기사
 trp_m04_frg_i_dismknight_pl|자유용병 하마 기사
 trp_m04_frg_c_rider|자유용병 기수
@@ -972,8 +972,8 @@ trp_m04_frg_a_archer|자유용병 궁수
 trp_m04_frg_a_archer_pl|자유용병 궁수
 trp_m04_frg_a_vetarcher|자유용병 숙련 궁수
 trp_m04_frg_a_vetarcher_pl|자유용병 숙련 궁수
-trp_m04_frg_a_masterarcher|자유용병 궁술의 달인
-trp_m04_frg_a_masterarcher_pl|자유용병 궁술의 달인
+trp_m04_frg_a_masterarcher|자유용병 궁술 마스터
+trp_m04_frg_a_masterarcher_pl|자유용병 궁술 마스터
 trp_m04_frg_a_sharpshooter|자유용병 명사수
 trp_m04_frg_a_sharpshooter_pl|자유용병 명사수
 trp_settler|페리스노 정착민
@@ -986,8 +986,8 @@ trp_slave_male|노예
 trp_slave_male_pl|노예
 trp_trained_slave|검투사
 trp_trained_slave_pl|검투사
-trp_veteran_slave|노련한 검투사
-trp_veteran_slave_pl|노련한 검투사
+trp_veteran_slave|베테랑 검투사
+trp_veteran_slave_pl|베테랑 검투사
 trp_gladiator|선수권 검투사
 trp_gladiator_pl|선수권 검투사
 trp_antiope_amazon|앙카스 여성 사냥꾼
@@ -1216,8 +1216,8 @@ trp_m10_pmc_a_archer|고용된 궁수
 trp_m10_pmc_a_archer_pl|고용된 궁수
 trp_m10_pmc_a_vetarcher|고용된 숙련 궁수
 trp_m10_pmc_a_vetarcher_pl|고용된 숙련 궁수
-trp_m10_pmc_a_masterarcher|고용된 궁술의 달인
-trp_m10_pmc_a_masterarcher_pl|고용된 궁술의 달인
+trp_m10_pmc_a_masterarcher|고용된 궁술 마스터
+trp_m10_pmc_a_masterarcher_pl|고용된 궁술 마스터
 trp_m10_pmc_a_sharpshooter|고용된 명사수
 trp_m10_pmc_a_sharpshooter_pl|고용된 명사수
 trp_player_retainers|가정 경호원
@@ -1463,11 +1463,11 @@ trp_xerina|여전사 켈라
 trp_xerina_pl|켈라
 trp_dranton|클라샤스
 trp_dranton_pl|클라샤스
-trp_kradus|검의 달인 신딤
+trp_kradus|검 마스터 신딤
 trp_kradus_pl|신딤
 trp_tourneynpc1|방랑자 테일
 trp_tourneynpc1_pl|방랑자 테일
-trp_tourneynpc2|방패의 달인 에이린
+trp_tourneynpc2|방패 마스터 에이린
 trp_tourneynpc2_pl|에이린
 trp_tourneynpc3|기사 켈라스
 trp_tourneynpc3_pl|켈라스
@@ -1477,14 +1477,14 @@ trp_tourneynpc5|전사 데터니
 trp_tourneynpc5_pl|전사 데터니
 trp_tourneynpc6|최고의 칼잡이 레진
 trp_tourneynpc6_pl|최고의 칼잡이 레진
-trp_tourneynpc7|창술의 달인 헤일
-trp_tourneynpc7_pl|창술의 달인 헤일
+trp_tourneynpc7|창술 마스터 헤일
+trp_tourneynpc7_pl|창술 마스터 헤일
 trp_tourneynpc8|기사 나들렛
 trp_tourneynpc8_pl|기사 나들렛
 trp_tourneynpc9|기사 슬라이서
 trp_tourneynpc9_pl|기사 슬라이서
-trp_tourneynpc10|무기의 달인 아렛
-trp_tourneynpc10_pl|무기의 달인 아렛
+trp_tourneynpc10|무기 마스터 아렛
+trp_tourneynpc10_pl|무기 마스터 아렛
 trp_tourneynpc11|사막의 암살자 오르드톰
 trp_tourneynpc11_pl|사막의 암살자 오르드톰
 trp_tourneynpc12|기사 이오디스

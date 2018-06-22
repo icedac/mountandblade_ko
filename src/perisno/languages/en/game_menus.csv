@@ -1,0 +1,1012 @@
+menu_start_game_0|Welcome to the land of Perisno. Where elves and giants roam in the ancient moors and forests, where dwarves craft great works and men form mighty empires. Dragons lurk in dark abodes of stories old, with vast and exotic lands abound. There are many powerful kingdoms and empires waging war for control of all the land, whilst smaller groups and factions stake out their own claims and rivalries, sowing havoc and destruction in their wake upon the populace. You have been chosen to rise into greatness, to find your destiny. Enter adventurer, into the world of Perisno!
+mno_continue|Continue...
+mno_go_back|Go back
+menu_start_phase_2|{s1}
+mno_town_1|Join a caravan to Lesbere, in the Kingdom of Tolrania
+mno_town_2|Join a caravan to Murdenholl, in the Reich des Drachen.
+mno_town_3|Join a caravan to Khul Vara, in the Drahara Desert Nation.
+mno_town_4|Take a ship to Maccan, in the Maccavian Republic.
+mno_town_5|Take a ship to Forniron, in the Elintoran Nation.
+mno_town_6|Join a caravan to Amarna, in the Hakkon Empire.
+menu_start_game_3|Choose your scenario:
+menu_tutorial|You approach a field where the locals are training with weapons. You can practice here to improve your combat skills.
+mno_go_back_dot|Go back.
+menu_reports|Character Renown: {reg5}^Honor Rating: {reg6}^Party Morale: {reg8}^Party Size Limit: {reg7}^
+mno_troop_tree_viewer|View Troop Trees
+mno_troop_tree_viewer_minor|View Troop Trees (minor factions)
+mno_action_view_trade_ledger|View Your Trade Ledger.
+mno_action_view_trade_ledger_denied|Assess Items to start your Trade Ledger.
+mno_view_character_report|View character report.
+mno_view_party_size_report|View party size report.
+mno_view_weekly_budget_report|View weekly budget report.
+mno_view_morale_report|View party morale report.
+mno_view_bank_report|View Financial Report
+mno_dplmc_show_economic_report|View prosperity report.
+mno_view_political_reports|View Political and Courtship Reports
+mno_view_reference_materials|Reference Material
+mno_resume_travelling|Resume travelling.
+menu_reports_political|Political and Courtship Reports
+mno_view_npc_mission_report|View companion mission report.
+mno_lord_relations|View list of known lords by relation.
+mno_view_affiliated_family_report|View affiliated family member / spouse report.
+mno_courtship_relations|View courtship relations.
+mno_view_faction_relations_report|View faction relations report.
+menu_reference_reports|Reference Material
+mno_action_view_all_troops1|View All Troops (main factions)
+mno_action_view_all_troops2|View All Troops (minor factions)
+mno_action_view_all_items|View All Items
+mno_return|Return
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|The battle is over. {s1} Your side killed {reg5} enemies and lost {reg6} troops over the battle. You personally slew {reg7} men in the fighting.
+menu_start_game_0_5|Toggle Mod Options (Permanent)
+mno_fog_of_war|Toggle Fog of War (Currently: {s10})
+mno_troop_skill|Toggle Troop skill difficulty (Currently: {s10})
+mno_hard_mode|Toggle Hard Mode (Currently: {s10})
+menu_start_game_1|Select your character's gender.
+mno_start_male|Male
+mno_start_female|Female
+menu_start_game_male|Select your character's race.
+mno_start_human_male|Human Male
+mno_start_elven_male|Elven Male
+mno_start_dwarf_male|Dwarven Male
+mno_start_giant_male|Giant Male
+menu_start_game_female|Select your character's race.
+mno_start_human_female|Human Female
+mno_start_elven_female|Elven Female
+mno_start_dwarven_female|Dwarven Female
+menu_start_game_human|Where were you born?
+mno_start_human_northern|A cold island far to the north.
+mno_start_human_western|A small village on Perisno's western coast.
+mno_start_human_native_warband_backstory|A land far from Perisno (Classic Start).
+menu_start_game_dwarf|Where were you born?
+mno_start_dwarf_karnoth|Karnoth, the capital of the Dwarven Kingdom.
+mno_start_dwarf_native_warband_backstory|A land far from Perisno (Classic Start).
+menu_start_character_1_karnoth_dwarf|You began your life as a young dwarf born to a Kaikoth Ironfist, one of the fiercest dwarven fighters around. However, your father died in a war with the Hakkon Empire when you were but an infant, and you were raised by your mother.
+menu_start_character_2_karnoth_dwarf|Your father's brothers in arms taught you how to the basics in wielding a sword when you were young, but, as life went on, those father figures soon left your life. Their training, however, stayed with you. At this point your mother had sold off the rest of your father's wealth; save for one banner from his conquests, which she refused to sell.
+menu_start_character_3_karnoth_dwarf|You were forced to take up work in the mines, even as a young {reg3?girl:boy}, to provide for your family. You managed to eke out a living and provide for your mother, but not much else.
+menu_start_character_4_karnoth_dwarf|Eventually, you were able to earn yourself dwarven armor of your own by squiring to one of the ironfists, your father's former comrade. This meant you needed to work in the mines even more however; to provide for your family and for half the cost of each piece of your expensive equipment. However, one day you saw something amiss in the mines...
+menu_start_character_1_tropical_human|You never knew your mother, no doubt some whore your father took a fancy to on his travels. All that was told to you was that one time when your father returned from a trading voyage, he brought a child with him, claiming it to be his seed.
+menu_start_character_2_tropical_human|You grew up helping him with his trading, living well in whatever city you were in, then coming back to the village for a time to deposit your earnings in your growing estate.
+menu_start_character_3_tropical_human|Then, you went onto one more trading mission. This one was to the Aroulo islands to the west, tribal places, mostly ignored by the main kingdoms in Perisno.
+menu_start_character_4_tropical_human|To your dismay, a group of pirates attacked your ship, destroying it and killing your father, along with the rest of the crew. You managed to escape by swimming to a nearby island.
+menu_start_character_1_north_human|You were born into this world the {reg3?daughter:son} of a family of warriors and fishermen on your small island; which your kinsmen called Hylr.
+menu_start_character_2_north_human|Your father had the name Izgromar, but he died when you were young. Your only memory of him is the time he returned from a raid, and taught you to throw the spear. Following his death, besides fishing for subsistence, you spent your early days training, your goal to honor the name of your father.
+menu_start_character_3_north_human|You were poorer than most, but given your skill with the spear, you did not go hungry much. As you grew older, you trained more with your weapons, and finally were accepted to the next raiding party travelling to the rich Valahir lands to the south.
+menu_start_character_4_north_human|The raid went well at first. When a Valahir patrol came upon the party, your leader, Torsson, managed to fight off three Hersirs singlehandedly. You even managed to kill a Thrall or two. However, one bit of Valahir scum in the patrol managed to escape, and soon after, Aethling Svafar himself descended upon you. Your wits left you, and several other men, and you and your party rode back to your ship as fast as humanly possible on your stolen horses, left with but a pittance; without your leader.
+menu_choose_skill|{s13}
+mno_begin_adventuring|Become an adventurer and ride to your destiny.
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_morale_report|{s1}
+menu_courtship_relations|{s1}
+menu_lord_relations|{s1}
+menu_companion_report|{s7}{s1}
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+menu_camp|You set up camp. What do you want to do?
+mno_camp_mod_opition|Change Game Settings.
+mno_camp_action|Take an action.
+mno_camp_wait_here|Wait here for some time.
+mno_camp_cheat|CHEAT MENU!
+mno_camp_cheat_leo|Leo's cheat menu
+mno_dplmc_camp_manage_inventory|Manage auto-loot settings.
+mno_dplmc_camp_manage_inventory_disabled|Auto-loot requires Inventory Management or Looting at rank 2.
+mno_dplmc_camp_preferences|Diplomacy preferences.
+menu_camp_cheat|Select a cheat:
+mno_camp_perisno|Perisno Options
+mno_camp_cheat_find_item|Find an item...
+mno_camp_cheat_1|Buff me!
+mno_camp_cheat_su|Perisno Development Cheats.
+mno_camp_cheat_coordinates|Give me coordinates of this location!
+mno_camp_change_race|Change race
+mno_camp_movetopage2|Next page
+menu_camp_cheat_two|Select a cheat:
+mno_cheat_random_check|Give me back Khivachis!
+mno_cheat_reset_treachery|Reset lords' treacherous intentions
+mno_cheat_start_tournament|Spawn minors!
+mno_camp_cheat_5|PM
+mno_camp_cheat_325|Reset banners
+mno_cheat_temp_1|Tournaments
+mno_camp_movetopage3|Next page
+menu_camp_cheat_three|Select a cheat:
+mno_camp_cheatleo_resume_travelling|Resume travelling
+mno_cheat_end_merc_contract|I want to end my mercenary contract
+mno_cheat_spawn_rdahcim|Spawn Rdahcim
+mno_cheat_spawn_locallord|Spawn Local Reich Lord
+mno_cheat_spawn_gunnar|Spawn Gunnarr
+mno_cheat_spawn_ripatrol|Spawn RI Patrol
+mno_cheat_minister|Fix the minister (for bugged princesses only)!
+mno_camp_cheat_exchange_screen_temp_party|TP ES
+menu_camp_changerace|Select a race
+mno_cheat_change_race_hum_male|Human male
+mno_cheat_change_race_hum_female|Human female
+mno_cheat_change_race_elf_male|Elf male
+mno_cheat_change_race_elf_female|Elf female
+mno_cheat_change_race_dwa_male|Dwarf male
+mno_cheat_change_race_dwa_female|Dwarf  female
+mno_cheat_change_race_gia_male|Giant male
+mno_cheat_change_race_resume|Resume travelling
+menu_camp_cheatleo|Select a cheat:
+mno_camp_cheatleo_give_troops|Give soldiers
+mno_camp_cheatleo_undress_troops|Undress the soldier
+mno_camp_cheatleo_get_50_troops|Get 50 soldiers
+mno_camp_cheatleo_get_clothing|Select Clothing
+mno_camp_cheatleo_get_light_armor|Select Light Armor
+mno_camp_cheatleo_get_medium_armor1|Select Medium Armor
+mno_camp_cheatleo_get_heavy_armor1|Select Heavy Armor
+mno_camp_cheatleo_get_heavy_armor2|Select VHA, VHH and Light Footwear
+mno_camp_cheatleo_get_light_headgear|Select Light Headgear
+mno_camp_cheatleo_get_medium_headgear|Select Medium Headgear
+mno_camp_cheatleo_get_heavy_headgear|Select Heavy Headgear
+mno_camp_cheatleo_get_footwear_and_gloves|Select Footwear and Gloves
+mno_camp_cheatleo_get_civilian_clothing|Select Male/Unisex Civilian Clothing
+mno_camp_cheatleo_more_options|More options...
+menu_camp_cheatleo2|Select a cheat:
+mno_camp_cheatleo_get_shield1|Select Shield 1
+mno_camp_cheatleo_get_shield2|Select Shield 2
+mno_camp_cheatleo_get_ammunition_and_bows|Select Ammunition and Bows
+mno_camp_cheatleo_get_xbows_and_throwing|Select Xbows and Throwing Wpns
+mno_camp_cheatleo_get_1h1|Select 1h Knives and Swords
+mno_camp_cheatleo_get_1h2|Select 1h Axes
+mno_camp_cheatleo_get_1h3|Select 1h Maces and Giant Weapons
+mno_camp_cheatleo_get_12h|Select Bastards and 2h Swords
+mno_camp_cheatleo_get_2h1|Select 2h Axes and Maces
+mno_camp_cheatleo_get_pol1|Select Lances and Pikes
+mno_camp_cheatleo_get_pol2|Select Poleaxes and Other Polearms
+mno_camp_cheatleo_get_mount1|Select Mount 1
+mno_camp_cheatleo_get_mount2|Select Mount 2
+mno_camp_cheatleo_goto2|Go to the next page
+mno_camp_cheatleo_returnto0|Return to the previous page
+menu_camp_cheatleo3|Select a cheat:
+mno_camp_cheatleo_get_culture_armor|Select Culture-Based Armor
+mno_camp_cheatleo_get_giant_armor|Select Giant and Dwarven Armor
+mno_camp_cheatleo_get_civilian_stuff|Select Civilian Stuff and Fem. Civ. Cl.
+mno_camp_cheatleo_get_100_troops|Get 100 soldiers
+mno_camp_cheatleo_get_lords|Get Lords , Ladies, Companions and Unique NPCs
+mno_camp_cheatleo_get_civilians|Get Civilians
+mno_camp_cheatleo_get_whetever_is_left|Get Whatever is Left
+mno_cheat_give_companions|Give me companions!
+mno_cheat_give_lords_with_good_faces|Give me lords with good faces!
+mno_camp_cheatleo_returnto1|Return to the previous page
+menu_su_cheat_menu|Select a cheat:
+menu_su_unique_sp_cheat_menu|Select a cheat:
+menu_perisno_options|Perisno Options
+mno_camp_minimap|Toggle Battle Minimap (Currently: {s10})
+mno_camp_companion|Toggle Companion Complaints (Currently: {s10})
+mno_camp_factions_color|Change faction's color
+mno_camp_go_back|Back to camp menu.
+menu_camp_action|Choose an action:
+mno_camp_examine_map|Examine {s15}
+mno_camp_recruit_prisoners|Recruit some of your prisoners to your party.
+mno_action_read_book|Select a book to read.
+mno_action_rename_kingdom|Rename your kingdom.
+mno_action_change_party_name|Change your party's name.
+mno_action_change_vassal_title|Change your vassals' title of nobility.
+mno_action_retire|Retire from adventuring.
+mno_camp_smoke_food|Preserve some of the raw food in your inventory.
+mno_camp_action_4|Back to camp menu.
+menu_camp_smoking_food|What food will you try to preserve (either through smoking or salting) ? Some of it may get lost in the process, depending on your cooking skill, and it will take some time.
+mno_smoke_fish|I will preserve my fish.
+mno_smoke_cattle_meat|I will preserve my beef.
+mno_smoke_venison|I will preserve my venison.
+mno_smoke_pork|I will preserve my pork.
+mno_smoke_chicken|I will preserve my chicken.
+mno_smoke_apples|I will preserve my fruit.
+mno_smoke_grapes|I will preserve my grapes.
+mno_leave|Leave
+menu_camp_recruit_prisoners|You offer your prisoners freedom if they agree to join you as soldiers. {s18}
+mno_camp_recruit_prisoners_accept|Take them.
+mno_camp_recruit_prisoners_reject|Reject them.
+menu_camp_lose_map|As you're about to put the map back, a strong gust of wind blows it out of your hands...
+menu_camp_no_prisoners|You have no prisoners to recruit from.
+menu_camp_action_read_book|Choose a book to read:
+mno_action_read_book_1|{s1}.
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}.
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+mno_action_read_book_8|{s1}.
+mno_action_read_book_9|{s1}.
+mno_action_read_book_10|{s1}.
+menu_camp_action_read_book_start|{s1}
+menu_retirement_verify|You are at day {reg0}. Your current luck is {reg1}. Are you sure you want to retire?
+mno_retire_yes|Yes.
+mno_retire_no|No.
+menu_end_game|The decision is made, and you resolve to give up your adventurer's life and settle down. You sell off your weapons and armour, gather up all your money, and ride off into the sunset....
+mno_end_game_bye|Farewell.
+menu_cattle_herd|You encounter a herd of cattle.
+mno_cattle_drive_away|Drive the cattle onward.
+mno_cattle_stop|Bring the herd to a stop.
+mno_cattle_kill|Slaughter some of the animals.
+menu_cattle_herd_kill|How many animals do you want to slaughter?
+mno_cattle_kill_1|One.
+mno_cattle_kill_2|Two.
+mno_cattle_kill_3|Three.
+mno_cattle_kill_4|Four.
+mno_cattle_kill_5|Five.
+menu_arena_duel_fight|You and your opponent prepare to duel.
+menu_duel_menu|{s1}{s2}
+mno_start_fight|Start the duel.
+mno_duel_again|Duel again.
+menu_simple_encounter|{s2} You have {reg10} troops fit for battle against their {reg11}.
+mno_encounter_attack|Charge the enemy.
+mno_encounter_order_attack|Order your troops to attack without you.
+mno_encounter_leave|Leave.
+mno_encounter_retreat|Pull back, leaving some soldiers behind to cover your retreat.
+mno_encounter_surrender|Surrender.
+menu_encounter_retreat_confirm|As the party member with the highest tactics skill, ({reg2}), {reg3?you devise:{s3} devises} a plan that will allow you and your men to escape with your lives, but you'll have to leave {reg4} soldiers behind to stop the enemy from giving chase.
+mno_leave_behind|Go on. The sacrifice of these men will save the rest.
+mno_dont_leave_behind|No. We leave no one behind.
+menu_encounter_retreat|You tell {reg4} of your troops to hold the enemy while you retreat with the rest of your party.
+menu_order_attack_begin|Your troops prepare to attack the enemy.
+mno_order_attack_begin|Order the attack to begin.
+mno_call_back|Call them back.
+menu_order_attack_2|{s4}^^Your casualties: {s8}^^Enemy casualties: {s9}
+mno_order_attack_continue|Order your soldiers to continue the attack.
+mno_order_retreat|Call your soldiers back.
+menu_battle_debrief|{s11}^^Your Casualties:{s8}{s10}^^Enemy Casualties:{s9}
+menu_total_victory|You shouldn't be reading this... {s9}
+menu_enemy_slipped_away|{s17}
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+menu_pre_join|You come across a battle between {s2} and {s1}. You decide to...
+mno_pre_join_help_attackers|Move in to help the {s2}.
+mno_pre_join_help_defenders|Rush to the aid of the {s1}.
+mno_pre_join_leave|Don't get involved.
+menu_join_battle|You are helping the {s2} against the {s1}. You have {reg10} troops fit for battle against the enemy's {reg11}.
+mno_join_attack|Charge the enemy.
+mno_join_order_attack|Order your troops to attack with your allies while you stay back.
+mno_join_leave|Leave.
+mno_join_wounded|You are too wounded to fight.
+menu_join_order_attack|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
+menu_zendar|You enter the town of Zendar.
+mno_zendar_enter| 
+mno_zendar_enter_door|Door to the town center.
+mno_zendar_tavern| 
+mno_zendar_tavern_door|Door to the tavern.
+mno_zendar_merchant| 
+mno_zendar_merchant_door|Door to the merchant.
+mno_zendar_arena| 
+mno_zendar_arena_door|Door to the arena.
+mno_town_1_leave| 
+menu_salt_mine|You enter the salt mine.
+mno_enter|Enter.
+menu_four_ways_inn|You arrive at the Four Ways Inn.
+menu_test_scene|You enter the test scene.
+menu_dhorak_keep|You enter the Dhorak Keep
+menu_zann_outpost|You enter the Zann Outpost
+mno_talk_merchant|Talk to the Zann Merchant.
+mno_talk_merchant_door|Exit to the camp.
+mno_talk_zann_fort_captain|Talk to the Zann Fort Captain.
+mno_talk_zann_fort_captain_door|Exit to the camp.
+menu_elkaru|You ride into the snowy castle of Elkaru, which was once a haven for the world's worst murderers, bandits, and plunderers.
+menu_freelancer_outpost|You enter the Freelancer Outpost
+mno_talk_auggie|Talk to the Freelancer Leader.
+mno_talk_auggie_door|Exit to the camp.
+menu_castle_merc_guild|You are approaching the castle of the Mercenary Guild.
+mno_enter_merc_guild|Approach the castle.
+mno_enter_merc_guild_cortyard|Enter the courtyard.
+mno_merc_change_race|[Hire recruits of a different race]
+menu_merc_changerace|Select a race
+mno_merc_change_race_hum_male|Human males
+mno_merc_change_race_hum_female|Human females
+mno_merc_change_race_elf_male|Elf males
+mno_merc_change_race_elf_female|Elf females
+mno_merc_change_race_dwa_male|Dwarf males
+mno_merc_change_race_dwa_female|Dwarf  females
+mno_merc_change_race_gia_male|Giant males (the current equipment will be removed!)
+mno_merc_change_race_resume|Resume travelling
+menu_join_siege_outside|{s1} has come under siege by {s2}.
+mno_approach_besiegers|Approach the siege camp.
+mno_pass_through_siege|Pass through the siege lines and enter {s1}.
+menu_cut_siege_without_fight|The besiegers let you approach the gates without challenge.
+menu_besiegers_camp_with_allies|{s1} remains under siege. The banners of {s2} fly above the camp of the besiegers, where you and your men are welcomed.
+mno_talk_to_siege_commander| Request a meeting with the commander.
+mno_join_siege_with_allies|Join the next assault.
+mno_join_siege_stay_back|Order your soldiers to join the next assault without you.
+menu_castle_outside|You are outside {s2}.{s11} {s3} {s4}
+mno_approach_gates|Approach the gates and hail the guard.
+mno_town_sneak|Disguise yourself and try to sneak into the {s7}
+mno_dplmc_riot_start_siege|Besiege the {reg6?town:castle} to counter the insurgency.
+mno_dplmc_riot_negotiate|Begin negotiations.
+mno_castle_start_siege|Besiege the {reg6?town:castle}.
+mno_castle_leave|Leave.
+menu_castle_guard|You approach the gate. The men on the walls watch you closely.
+mno_request_shelter|Request entry to the castle.
+mno_request_meeting_commander|Request a meeting with someone.
+mno_guard_leave|Leave.
+menu_castle_entry_granted|After a brief wait, the guards open the gates for you and allow your party inside.
+menu_castle_entry_denied|The lord of this castle has forbidden you from coming inside these walls, and the guard sergeant informs you that his men will fire if you attempt to come any closer.
+menu_castle_meeting|With whom do you want to meet?
+mno_guard_meet_s5|{s5}.
+mno_forget_it|Forget it.
+menu_castle_meeting_selected|Your request for a meeting is relayed inside, and finally {s6} appears in the courtyard to speak with you.
+menu_castle_besiege|You are laying siege to {s1}. {s2} {s3}
+mno_siege_request_meeting|Call for a meeting with the castle commander.
+mno_wait_24_hours|Wait until tomorrow.
+mno_castle_lead_attack|Lead your soldiers in an assault.
+mno_attack_stay_back|Order your soldiers to attack while you stay back...
+mno_build_ladders|Prepare ladders to attack the walls.
+mno_build_siege_tower|Build a siege tower.
+mno_lift_siege|Abandon the siege.
+menu_deer_herd|You encounter a herd of deer.
+mno_deer_kill|Hunt some of the animals.
+menu_deer_herd_kill_end|You shouldn't be reading this.
+menu_coat_herd|You encounter a herd of goat. They belong to the flock of a pastor who swings his sling at you until you move away.
+menu_coatb_herd_kill_end|You shouldn't be reading this.
+menu_coatb_herd|You encounter a herd of goat.
+mno_coatb_kill|Hunt some of the animals.
+menu_boar_herd|You encounter a herd of boars.
+mno_boar_kill|Hunt some of the animals.
+menu_boar_herd_kill_end|You shouldn't be reading this.
+menu_wolf_herd|You encounter a pack of wolves.
+mno_wolf_kill|Hunt some of the wolves.
+menu_wolf_herd_kill_end|You shouldn't be reading this.
+menu_wilddonkey_herd|You encounter a herd of Wild Donkey.
+mno_wilddonkey_kill|Hunt some of the animals.
+menu_wilddonkey_herd_kill_end|You shouldn't be reading this.
+menu_siege_attack_meets_sally|The defenders sally out to meet your assault.
+menu_castle_besiege_inner_battle|{s1}
+menu_construct_ladders|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that it will take {reg4} hours to build enough scaling ladders for the assault.
+mno_build_ladders_cont|Do it.
+menu_construct_siege_tower|As the party member with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower will take {reg4} hours.
+mno_build_siege_tower_cont|Start building.
+menu_castle_attack_walls_simulate|{s4}^^Your casualties:{s8}^^Enemy casualties were: {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
+menu_castle_taken_by_friends|Nothing to see here.
+menu_castle_taken|{s3} has fallen to your troops, and you now have full control of the {reg2?town:castle}. You can plunder spoils of war worth {reg3} aurums.{reg1? You may station troops here to defend it against enemies who may try to recapture it. Also, you should select now whether you will hold the {reg2?town:castle} yourself or give it to a faithful vassal...:}
+mno_dplmc_spoils_yourself|Plunder it and keep the spoils all for yourself.
+mno_dplmc_spoils_accompanying_vassals|Plunder it and share the spoils equally between the vassals accompanying you and yourself.
+mno_dplmc_spoils_all_vassals|Plunder it and share the spoils equally between your vassals and yourself.
+menu_castle_taken_2|{s3} has fallen to your troops, and you now have full control of the castle. It is time to send word to {s9} about your victory. {s5}
+mno_castle_taken_claim|Request that {s3} be awarded to you.
+mno_castle_taken_claim_2|Request that {s3} be awarded to your {wife/husband}.
+mno_castle_taken_no_claim|Ask no rewards.
+menu_requested_castle_granted_to_player|You receive a message from your liege, {s3}.^^ {reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to you, with all due incomes and titles, to hold in {reg4?her:his} name for as long as you maintain your oath of homage..
+menu_requested_castle_granted_to_player_husband|You receive a message from your liege, {s3}.^^ {reg4?She:He} has decided to grant {s2}{reg3? and the nearby village of {s4}:} to your husband, {s7}.
+menu_requested_castle_granted_to_another|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give you ownership of the castle, but that is a favour which I fear I cannot grant, as you already hold significant estates in my realm. Instead I have sent you {reg6} aurums to cover the expenses of your campaign, but {s2} I give to {s5}.' 
+mno_accept_decision|Accept the decision.
+mno_leave_faction|You have been wronged! Renounce your oath to your liege! 
+menu_requested_castle_granted_to_another_female|You receive a message from your monarch, {s3}.^^ 'I was most pleased to hear of your valiant efforts in the capture of {s2}. Your victory has gladdened all our hearts. You also requested me to give ownership of the castle to your spouse, but that is a favour which I fear I cannot grant, as your spouse already holds significant estates in my realm. Instead I have sent you {reg6} aurums to cover the expenses of your campaign, but {s2} I give to {s5}.' 
+menu_leave_faction|Renouncing your oath is a grave act. Your lord may condemn you and confiscate your lands and holdings. However, if you return them of your own free will, he may let the betrayal go without a fight.
+mno_leave_faction_give_back|Renounce your oath and give up your holdings.
+mno_leave_faction_hold|Renounce your oath and rule your lands, including {s2}, in your own name.
+mno_leave_faction_cancel|Remain loyal and accept the decision.
+menu_give_center_to_player|Your lord offers to extend your fiefs! {s1} sends word that {reg4?she:he} is willing to grant {s2} to you in payment for your loyal service, adding it to your holdings. What is your answer?
+mno_give_center_to_player_accept|Accept the offer.
+mno_give_center_to_player_reject|Reject. You have no interest in holding {s2}.
+menu_give_center_to_player_2|With a brief ceremony, you are officially confirmed as the new lord of {s2}{reg3? and its bound village {s4}:}. {reg3?They:It} will make a fine part of your fiefdom. You can now claim the rents and revenues from your personal estates there, draft soldiers from the populace, and manage the lands as you see fit. However, you are also expected to defend your fief and your people from harm, as well as maintaining the rule of law and order.
+menu_oath_fulfilled|You had a contract with {s1} to serve {reg4?her:him} for a certain duration. Your contract has now expired. What will you do?
+mno_renew_oath|Renew your contract with {s1} for another month.
+mno_dont_renew_oath|Become free of your bond.
+menu_siege_started_defender|{s1} is launching an assault against the walls of {s2}. You have {reg10} troops fit for battle against the enemy's {reg11}. You decide to...
+mno_dplmc_negotiate_with_besieger|Negotiate with the besieger.
+mno_siege_defender_join_battle|Join the battle.
+mno_siege_defender_troops_join_battle|Order your men to join the battle without you.
+menu_siege_join_defense|{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}
+menu_enter_your_own_castle|{s10}
+menu_village|{s10} {s12}^{s11}^{s6}{s7}
+mno_village_manage|Manage this village.
+mno_recruit_volunteers|Recruit Volunteers.
+mno_village_center|Go to the village center.
+mno_village_center_door|Door to the village center.
+mno_dplmc_village_elder_meeting|Meet the Village Elder.
+mno_village_buy_food|Buy supplies from the peasants.
+mno_dplmc_village_auto_buy_food|Buy food automatically.
+mno_village_attack_bandits|Attack the bandits.
+mno_village_wait|Wait here for some time.
+mno_dplmc_village_counter_insurgency|Counter the insurgency.
+mno_dplmc_village_negotiate|Begin negotiations.
+mno_collect_taxes_qst|{reg5?Continue collecting taxes:Collect taxes} due to {s1}.
+mno_train_peasants_against_bandits_qst|Train the peasants.
+mno_village_hostile_action|Take a hostile action.
+mno_village_reports|Show reports.
+mno_unloot_village|! CHEAT: unloot village
+mno_village_leave|Leave...
+menu_village_hostile_action|What action do you have in mind?
+mno_village_take_food|Force the peasants to give you supplies.
+mno_village_steal_cattle|Steal cattle.
+mno_village_loot|Loot and burn this village.
+menu_recruit_volunteers|{s18}
+mno_continue_not_enough_gold|I don't have enough money...
+mno_recruit_them|Recruit them ({reg6} aurums).
+menu_village_hunt_down_fugitive_defeated|A heavy blow from the fugitive sends you to the ground, and your vision spins and goes dark. Time passes. When you open your eyes again you find yourself battered and bloody, but luckily none of the wounds appear to be lethal.
+menu_village_infest_bandits_result|{s9}
+menu_village_infestation_removed|In a battle worthy of song, you and your men drive the bandits out of the village, making it safe once more. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find.
+mno_village_bandits_defeated_accept|Take it as your just due.
+mno_village_bandits_defeated_cont|Refuse, stating that they need these items more than you do.
+menu_center_manage|{s19}^{reg6?^^You are currently building {s7}. The building will be completed after {reg8} day{reg9?s:}.:}
+mno_center_build_manor|Build a manor.
+mno_center_build_fish_pond|Build a mill.
+mno_center_build_watch_tower|Build a watch tower.
+mno_center_build_school|Build a school.
+mno_center_build_messenger_post|Build a messenger post.
+mno_center_build_prisoner_tower|Build a prisoner tower.
+mno_center_build_palisade|Build a palisade.
+mno_center_build_caltrops|Build caltrops.
+mno_center_build_guild|Build a guild hall.
+mno_center_build_university|Build a university.
+mno_center_build_blacksmith|Build a blacksmith forge.
+mno_center_build_caravan_escort|Build a caravan escort outpost.
+mno_center_build_bookstore|Build a bookstore.
+mno_center_build_festival_square|Build a festival square.
+menu_center_improve|{s19} As the party member with the highest engineer skill ({reg2}), {reg3?you reckon:{s3} reckons} that building the {s4} will cost you {reg5} aurums and will take {reg6} days.
+mno_dplmc_improve_cont|Go on. (Pay from treasury)
+mno_improve_cont|Go on.
+mno_improve_not_enough_gold|I don't have enough money for that.
+menu_town_bandits_failed|{s4} {s5}
+menu_town_bandits_succeeded|The bandits fall before you as wheat to a scythe! Soon you stand alone in the streets while most of your attackers lie unconscious, dead or dying. Searching the bodies, you find a purse which must have belonged to a previous victim of these brutes. Or perhaps, it was given to them by someone who wanted to arrange a suitable ending to your life.
+menu_village_steal_cattle_confirm|As the party member with the highest looting skill ({reg2}), {reg3?you reckon:{s1} reckons} that you can steal as many as {reg4} heads of village's cattle.
+mno_village_steal_cattle_confirm|Go on.
+menu_village_steal_cattle|{s1}
+menu_village_take_food_confirm|It will be difficult to force and threaten the peasants into giving their precious supplies. You think you will need at least one hour.
+mno_village_take_food_confirm|Go ahead.
+menu_village_take_food|The villagers grudgingly bring out what they have for you.
+mno_take_supplies|Take the supplies.
+mno_let_them_keep_it|Let them keep it.
+menu_village_start_attack|Some of the angry villagers grab their tools and prepare to resist you. It looks like you'll have a fight on your hands if you continue.
+mno_village_raid_attack|Charge them.
+mno_village_raid_leave|Leave this village alone.
+menu_village_loot_no_resist|The villagers here are few and frightened, and they quickly scatter and run before you. The village is at your mercy.
+menu_village_loot_complete|On your orders your troops sack the village, pillaging everything of any value, and then put the buildings to the torch. From the coins and valuables that are found, you get your share of {reg1} aurums.
+menu_village_loot_defeat|Fighting with courage and determination, the villagers manage to hold together and drive off your forces.
+menu_village_loot_continue|Do you wish to continue looting this village?
+mno_disembark_yes|Yes.
+mno_disembark_no|No.
+menu_close|Nothing.
+menu_town|{s10} {s14}^{s11}{s12}{s13}
+mno_castle_castle|Go to the Lord's hall{s1}.
+mno_castle_castle_door|Door to the castle.
+mno_join_tournament|Join the tournament.
+mno_town_castle|Go to the castle{s1}.
+mno_town_castle_door|Door to the castle.
+mno_town_center|Take a walk around the streets.
+mno_town_center_door|Door to the town center.
+mno_town_tavern|Visit the tavern.
+mno_town_tavern_door|Door to the tavern.
+mno_town_merchant|Speak with the merchant.
+mno_town_merchant_door|Door to the shop.
+mno_town_arena|Enter the arena.
+mno_town_arena_door|Door to the arena.
+mno_town_dungeon|Never: Enter the prison.
+mno_town_dungeon_door|Door to the dungeon.
+mno_castle_inspect|Take a walk around the courtyard.
+mno_castle_inspect_door|To the castle courtyard.
+mno_visit_lady|Attempt to visit a lady
+mno_visit_lady_door|Door to the garden.
+mno_trade_with_merchants|Go to the marketplace.
+mno_castle_station_troops|Manage the garrison {s10}
+mno_dplmc_castle_give_troops|Give troops to the garrison (cannot remove)
+mno_town_bank|Visit the landlords and moneylenders.
+mno_dplmc_guild_master_meeting|Meet the Guild Master.
+mno_castle_wait|Wait here for some time{s1}.
+mno_recruit_nobles|Recruit Nobles.
+mno_walled_center_manage|Manage this {reg0?town:castle}.
+mno_manage_kingdom|Manage your kingdom.
+mno_walled_center_move_court|Move your court here.
+mno_town_leave|Leave...
+mno_town_leave_door|Leave Area.
+mno_center_reports|Show reports.
+mno_sail_from_port|Buy a ship (5000 aurums)
+menu_cannot_enter_court|There is a feast in progress in the lord's hall, but you are not of sufficient status to be invited inside. Perhaps increasing your renown would win you admittance -- or you might also try distinguishing yourself at a tournament while the feast is in progress...
+menu_lady_visit|Whom do you wish to visit?
+mno_visit_lady_1|Visit {s12}
+mno_visit_lady_2|Visit {s12}
+mno_visit_lady_3|Visit {s12}
+mno_visit_lady_3_door|Door to the garden.
+mno_visit_lady_4|Visit {s12}
+mno_visit_lady_5|Visit {s12}
+mno_visit_lady_6|Visit {s12}
+mno_visit_lady_7|Visit {s12}
+mno_visit_lady_8|Visit {s12}
+menu_town_tournament_lost|You have been eliminated from the tournament.{s8}
+menu_town_tournament_won|You have won the tournament of {s3}! You are filled with pride as the crowd cheers your name. In addition to honour, fame and glory, you earn a prize of {reg9} aurums. {s8}
+menu_town_tournament_won_by_another|As the only {reg3?fighter:man} to remain undefeated this day, {s1} wins the lists and the glory of this tournament.
+menu_town_tournament|{s1}You are at tier {reg0} of the tournament, with {reg1} participants remaining. In the next round, there will be {reg2} teams with {reg3} {reg4?fighters:fighter} each.
+mno_tournament_view_participants|View participants.
+mno_tournament_bet|Place a bet on yourself.
+mno_tournament_join_next_fight|Fight in the next round.
+mno_leave_tournament|Withdraw from the tournament.
+menu_tournament_withdraw_verify|Are you sure you want to withdraw from the tournament?
+mno_tournament_withdraw_yes|Yes. This is a pointless affectation.
+mno_tournament_withdraw_no|No, not as long as there is a chance of victory!
+menu_tournament_bet|The odds against you are {reg5} to {reg6}.{reg1? You have already bet {reg1} aurums on yourself, and if you win, you will earn {reg2} aurums.:} How much do you want to bet?
+mno_bet_500_denars|500 aurums.
+mno_bet_200_denars|200 aurums.
+mno_bet_100_denars|100 aurums.
+mno_bet_50_denars|50 aurums.
+mno_bet_25_denars|25 aurums.
+menu_tournament_bet_confirm|If you bet {reg1} aurums, you will earn {reg2} aurums if you win the tournament. Is that all right?
+mno_tournament_bet_accept|Go ahead.
+mno_tournament_bet_cancel|Forget it.
+menu_tournament_participants|You ask one of the criers for the names of the tournament participants. They are:^{s11}
+menu_collect_taxes|As the party member with the highest trade skill ({reg2}), {reg3?you expect:{s1} expects} that collecting taxes from here will take {reg4} days...
+mno_start_collecting|Start collecting.
+mno_collect_later|Put it off until later.
+menu_collect_taxes_complete|You've collected {reg3} aurums in taxes from {s3}. {s19} will be expecting you to take the money to {reg4?her:him}.
+menu_collect_taxes_rebels_killed|Your quick action and strong arm have successfully put down the revolt. Surely, anyone with a mind to rebel against you will think better of it after this.
+menu_collect_taxes_failed|You could collect only {reg3} aurums as tax from {s3} before the revolt broke out. {s1} won't be happy, but some silver will placate {reg4?her:him} better than nothing at all...
+menu_collect_taxes_revolt_warning|The people of {s3} are outraged at your demands and decry it as nothing more than extortion. They're getting very restless, and they may react badly if you keep pressing them.
+mno_continue_collecting_taxes|Ignore them and continue.
+mno_halve_taxes|Agree to reduce your collection by half. ({s1} may be upset)
+menu_collect_taxes_revolt|You are interrupted while collecting the taxes at {s3}. A large band of angry {reg9?peasants:townsmen} is marching nearer, shouting about the exorbitant taxes and waving torches and weapons. It looks like they aim to fight you!
+menu_train_peasants_against_bandits|As the party member with the highest training skill ({reg2}), {reg3?you expect:{s1} expects} that getting some peasants ready for practice will take {reg4} hours.
+mno_make_preparation|Train them.
+mno_train_later|Put it off until later.
+menu_train_peasants_against_bandits_ready|You put the peasants through the basics of soldiering, discipline and obedience. You think {reg0} of them {reg1?have:has} fully grasped the training and {reg1?are:is} ready for some practice.
+mno_peasant_start_practice|Start the practice fight.
+menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_attack|As you get ready to continue the training, a sentry from the village runs up to you, shouting alarums. The bandits have been spotted on the horizon, riding hard for {s3}. The elder begs that you organize your newly-trained militia and face them.
+mno_peasants_against_bandits_attack_resist|Prepare for a fight!
+menu_train_peasants_against_bandits_attack_result|{s9}
+menu_train_peasants_against_bandits_success|The bandits are broken! Those few who remain run off with their tails between their legs, terrified of the peasants and their new champion. The villagers have little left in the way of wealth after their ordeal, but they offer you all they can find to show their gratitude.
+menu_disembark|Do you wish to disembark?
+menu_ship_reembark|Do you wish to embark?
+mno_reembark_yes|Yes.
+mno_reembark_no|No.
+menu_center_reports|Town Name: {s1}^Rent Income: {reg1} aurums^Tariff Income: {reg2} aurums^Food Stock: for {reg3} days
+mno_to_price_and_productions|Show prices and productions.
+menu_price_and_production|Productions are:^(Note: base/modified by raw materials/modified by materials plus prosperity)^{s1}^^Price factors are:^{s2}
+menu_town_trade|You head towards the marketplace.
+mno_town_enterprise|Visit your {s3}.
+mno_town_enterprise_door|Door to your enterprise.
+mno_auto_sell|Sell items automatically.
+mno_assess_prices|Assess the local prices.
+mno_trade_with_arms_merchant|Trade with the arms merchant.
+mno_trade_with_armor_merchant|Trade with the armor merchant.
+mno_trade_with_horse_merchant|Trade with the horse merchant.
+mno_trade_with_goods_merchant|Trade with the goods merchant.
+mno_auto_buy_food|Buy food automatically.
+mno_back_to_town_menu|Head back.
+menu_manage_kingdom|Which aspect of your kingdom would you like to modify?
+mno_reset_color|Change the kingdom's color.
+mno_get_adviser|Hire an adviser to assist in managing your kingdom.
+mno_back|Go back to town menu.
+mno_player_retainers_change_race|[Hire Household Guards of a different race]
+menu_playerretainers_changerace|Select a race
+mno_playerretainers_change_race_hum_male|Human males
+mno_playerretainers_change_race_hum_female|Human females
+mno_playerretainers_change_race_elf_male|Elf males
+mno_playerretainers_change_race_elf_female|Elf females
+mno_playerretainers_change_race_dwa_male|Dwarf males
+mno_playerretainers_change_race_dwa_female|Dwarf  females
+mno_playerretainers_change_race_gia_male|Giant males (most of the equipment is incompatible with giants!)
+mno_playerretainers_change_race_resume|Resume travelling
+menu_dplmc_trade_auto_sell_begin|Items in your inventory whose type is marked as sellable and whose prices are below {reg1} aurums will be sold to the {reg2?appropriate merchants:elder} in the current {reg2?town:village} automatically.  Specifically food, trade goods, and books will never be sold. ^^You can change some settings here freely.
+mno_change_settings|Change settings.
+menu_dplmc_trade_auto_buy_food_begin|You will automatically buy food according to your shopping list. Do you want to continue?^^You can view and configure the shopping list here.
+mno_dplmc_change_shopping_list_of_food|Configure your shopping list.
+menu_town_trade_assessment_begin|You overhear several discussions about the price of trade goods across the local area.^You listen closely, trying to work out the best deals around.
+menu_town_trade_assessment|As the party member with the highest trade skill ({reg2}), {reg3?you try to figure out:{s1} tries to figure out} the best goods to trade in. {s2}
+menu_sneak_into_town_suceeded|Disguised in the garments of a poor pilgrim, you fool the guards and make your way into the town.
+menu_sneak_into_town_caught|As you try to sneak in, one of the guards recognizes you and raises the alarm! You must flee back through the gates before all the guards in the town come down on you!
+mno_sneak_caught_fight|Try to fight your way out!
+mno_sneak_caught_surrender|Surrender.
+menu_sneak_into_town_caught_dispersed_guards|You drive off the guards and cover your trail before running off, easily losing your pursuers in the maze of streets.
+menu_sneak_into_town_caught_ran_away|You make your way back through the gates and quickly retreat to the safety of the countryside.{s11}
+menu_enemy_offer_ransom_for_prisoner|{s2} offers you a sum of {reg12} aurums in silver if you are willing to sell them {s1}.
+mno_ransom_accept|Accept the offer.
+mno_ransom_reject|Reject the offer.
+menu_training_ground|You approach a training field where you can practice your martial skills. What kind of training do you want to do?
+mno_camp_trainer|Speak with the trainer.
+mno_camp_train_melee|Sparring practice.
+mno_camp_train_archery|Ranged weapon practice.
+mno_camp_train_mounted|Horseback practice.
+menu_training_ground_selection_details_melee_1|How many opponents will you go against?
+mno_camp_train_melee_num_men_1|One.
+mno_camp_train_melee_num_men_2|Two.
+mno_camp_train_melee_num_men_3|Three.
+mno_camp_train_melee_num_men_4|Four.
+menu_training_ground_selection_details_melee_2|Choose your opponent #{reg1}:
+mno_training_ground_selection_details_melee_random|Choose randomly.
+menu_training_ground_selection_details_mounted|What kind of weapon do you want to train with?
+mno_camp_train_mounted_details_1|One handed weapon.
+mno_camp_train_mounted_details_2|Polearm.
+mno_camp_train_mounted_details_3|Bow.
+mno_camp_train_mounted_details_4|Thrown weapon.
+menu_training_ground_selection_details_ranged_1|What kind of ranged weapon do you want to train with?
+mno_camp_train_ranged_weapon_bow|Bow and arrows.
+mno_camp_train_ranged_weapon_crossbow|Crossbow.
+mno_camp_train_ranged_weapon_thrown|Throwing Knives.
+menu_training_ground_selection_details_ranged_2|What range do you want to practice at?
+mno_camp_train_ranged_details_1|10 yards.
+mno_camp_train_ranged_details_2|20 yards.
+mno_camp_train_ranged_details_3|30 yards.
+mno_camp_train_ranged_details_4|40 yards.
+mno_camp_train_ranged_details_5|50 yards.
+mno_camp_train_ranged_details_6|60 yards.
+mno_camp_train_ranged_details_7|70 yards.
+menu_training_ground_description|{s0}
+menu_training_ground_training_result|{s7}{s2}
+menu_marshall_selection_candidate_ask|{s15} will soon select a new marshall for {s23}. Some of the lords have suggested your name as a likely candidate.
+mno_marshall_candidate_accept|Let {s15} learn that you are willing to serve as marshall.
+mno_marshall_candidate_reject|Tell everyone that you are too busy these days.
+menu_captivity_avoid_wilderness|Suddenly all the world goes black around you. Many hours later you regain your conciousness and find yourself at the spot you fell. Your enemies must have taken you up for dead and left you there. However, it seems that none of your wound were lethal, and altough you feel awful, you find out that can still walk. You get up and try to look for any other survivors from your party.
+menu_captivity_start_wilderness|Stub
+menu_captivity_start_wilderness_surrender|Stub
+menu_captivity_start_wilderness_defeat|Your enemies take you prisoner.
+menu_captivity_start_castle_surrender|Stub
+menu_captivity_start_castle_defeat|Stub
+menu_captivity_start_under_siege_defeat|Your enemies take you prisoner.
+menu_captivity_wilderness_taken_prisoner|Your enemies take you prisoner.
+menu_captivity_wilderness_check|stub
+menu_captivity_end_wilderness_escape|After painful days of being dragged about as a prisoner, you find a chance and escape from your captors!
+menu_captivity_castle_taken_prisoner|You are quickly surrounded by guards who take away your weapons. With curses and insults, they throw you into the dungeon where you must while away the miserable days of your captivity.
+menu_captivity_rescue_lord_taken_prisoner|You remain in disguise for as long as possible before revealing yourself. The guards are outraged and beat you savagely before throwing you back into the cell for God knows how long...
+menu_captivity_castle_check|stub
+menu_captivity_end_exchanged_with_prisoner|After days of imprisonment, you are finally set free when your captors exchange you with another prisoner.
+menu_captivity_end_propose_ransom|You spend long hours in the sunless dank of the dungeon, more than you can count. Suddenly one of your captors enters your cell with an offer; he proposes to free you in return for {reg5} aurums of your hidden wealth. You decide to...
+mno_captivity_end_ransom_accept|Accept the offer.
+mno_captivity_end_ransom_deny|Refuse him, wait for something better.
+menu_captivity_castle_remain|More days pass in the darkness of your cell. You get through them as best you can, enduring the kicks and curses of the guards, watching your underfed body waste away more and more...
+menu_kingdom_army_quest_report_to_army|{s8} sends word that {reg4?she:he} wishes you to join {reg4?her:his} new military campaign. You need to bring at least {reg13} troops to the army, and are instructed to raise more men with all due haste if you do not have enough.
+menu_kingdom_army_quest_messenger|{s8} sends word that {reg4?she:he} wishes to speak with you about a task {reg4?she:he} needs performed. {reg4?She:He} requests you to come and see {reg4?her:him} as soon as possible.
+menu_kingdom_army_quest_join_siege_order|{s8} sends word that you are to join the siege of {s9} in preparation for a full assault. Your troops are to take {s9} at all costs.
+menu_kingdom_army_follow_failed|You have failed to follow {s8}. The marshal assumes that you were otherwise engaged, but would have appreciated your support.
+menu_invite_player_to_faction_without_center|You receive an offer of vassalage!^^ {s8} of {s9} has sent a royal herald to bring you an invititation in {reg4?her:his} own hand. You would be granted the honour of becoming a vassal {reg33?lady:lord} of {s9}, and in return {s8} asks you to swear an oath of homage to {reg4?her:him} and fight in {reg4?her:his} military campaigns, although {reg4?she:he} offers you no lands or titles. {reg4?She:He} will surely be offended if you do not take the offer...
+mno_faction_accept|Accept!
+mno_faction_reject|Decline the invitation.
+menu_invite_player_to_faction|You receive an offer of vassalage!^^ {s8} of {s9} has sent a royal herald to bring you an invititation in {reg4?her:his} own hand. You would be granted the honour of becoming a vassal {reg33?lady:lord} of {s9}, and in return {s8} asks you to swear an oath of homage to {reg4?her:him} and fight in {reg4?her:his} military campaigns, offering you the fief of {s2} for your loyal service. {reg4?She:He} will surely be offended if you do not take the offer...
+menu_invite_player_to_faction_accepted|In order to become a vassal, you must swear an oath of homage to {s3}. You shall have to find {reg4?her:him} and give {reg4?her:him} your oath in person. {s5}
+menu_question_peace_offer|You Receive a Peace Offer^^The {s1} offers you a peace agreement. What is your answer?
+mno_peace_offer_accept|Accept
+mno_dplmc_peace_offer_terms|Dictate the peace terms
+mno_peace_offer_reject|Reject
+menu_notification_truce_expired|Truce Has Expired^^The truce between {s1} and {s2} has expired.
+menu_notification_feast_quest_expired|{s10}
+menu_notification_sortie_possible|Enemy Sighted: Enemies have been sighted outside the walls of {s4}, and {s5} and others are preparing for a sortie. You may join them if you wish.
+menu_notification_casus_belli_expired|Kingdom Fails to Respond^^The {s1} has not responded to the {s2}'s provocations, and {s3} suffers a loss of face among {reg4?her:his} more bellicose subjects...^
+menu_notification_lord_defects|Defection: {s4} has abandoned the {s5} and joined the {s7}, taking {reg4?her:his} fiefs with {reg4?her:him}
+menu_notification_treason_indictment|Treason Indictment^^{s9}
+menu_notification_border_incident|Border incident^^Word reaches you that {s9}. Though you don't know whether or not the rumors are true, you do know one thing -- this seemingly minor incident has raised passions among the {s4}, making it easier for them to go to war against the {s3}, if they want it...
+menu_notification_player_faction_active|You now possess land in your name, without being tied to any kingdom. This makes you a monarch in your own right, with your court temporarily located at {s12}. However, the other kings in Perisno will at first consider you a threat, for if any upstart warlord can grab a throne, then their own legitimacy is called into question.^^You may find it desirable at this time to pledge yourself to an existing kingdom. If you want to continue as a sovereign monarch, then your first priority should be to establish an independent right to rule. You can establish your right to rule through several means -- marrying into a high-born family, recruiting new lords, governing your lands, treating with other kings, or dispatching your companions on missions.^^At any rate, your first step should be to appoint a chief minister from among your companions, to handle affairs of state. Different companions have different capabilities.^You may appoint new ministers from time to time. You may also change the location of your court, by speaking to the minister.
+mno_appoint_spouse|Appoint your {reg0?wife:husband}, {s10}...
+mno_dplmc_appoint_spouse_plus_1|Appoint your {reg0?wife:husband}, {s10}...
+mno_appoint_npc1|Appoint {s10}
+mno_appoint_npc2|Appoint {s10}
+mno_appoint_npc3|Appoint {s10}
+mno_appoint_npc4|Appoint {s10}
+mno_appoint_npc5|Appoint {s10}
+mno_appoint_npc6|Appoint {s10}
+mno_appoint_npc7|Appoint {s10}
+mno_appoint_npc8|Appoint {s10}
+mno_appoint_npc9|Appoint {s10}
+mno_appoint_npc10|Appoint {s10}
+mno_appoint_npc11|Appoint {s10}
+mno_appoint_npc12|Appoint {s10}
+mno_appoint_npc13|Appoint {s10}
+mno_appoint_npc14|Appoint {s10}
+mno_appoint_npc15|Appoint {s10}
+mno_appoint_npc16|Appoint {s10}
+mno_appoint_npc17|Appoint {s10}
+mno_appoint_default|Appoint a prominent citizen from the area...
+menu_minister_confirm|{s9}can be found at your court in {s12}. You should consult periodically, to avoid the accumulation of unresolved issues that may sap your authority...
+menu_notification_court_lost|{s12}
+menu_notification_player_faction_deactive|Your kingdom no longer holds any land.
+menu_notification_player_wedding_day|{s8} wishes to inform you that preparations for your wedding at {s10} have been complete, and that your presence is expected imminently .
+menu_notification_player_kingdom_holds_feast|{s11}
+menu_notification_center_under_siege|{s1} has been besieged by {s2} of {s3}!
+menu_notification_village_raid_started|Your Village is under Attack!^^{s2} of {s3} is laying waste to {s1}.
+menu_notification_one_faction_left|Perisno Conquered by One Kingdom^^{s1} has defeated all rivals and stands as the sole kingdom.
+menu_notification_oath_renounced_faction_defeated|Your Old Faction was Defeated^^You won the battle against {s1}! This ends your struggle which started after you renounced your oath to them.
+menu_notification_center_lost|An Estate was Lost^^You have lost {s1} to {s2}.
+menu_notification_troop_left_players_faction|Betrayal!^^{s1} has left {s2} and joined {s3}.
+menu_notification_troop_joined_players_faction|Good news!^^ {s1} has left {s2} and joined {s3}.
+menu_notification_war_declared|Declaration of War^^{s1} has declared war against {s2}!
+menu_notification_peace_declared|Peace Agreement^^{s1} and {s2} have made peace!^{s57}
+menu_notification_faction_defeated|Faction Eliminated^^{s1} is no more!
+menu_notification_rebels_switched_to_faction|Rebellion Success^^ Your rebellion is victorious! Your faction now has the sole claim to the title of {s11}, with {s12} as the single ruler.
+menu_notification_player_should_consult|{reg0?Your minister:{s11}} send word that there are problems brewing in the realm which, if left untreated, could sap your authority. You should consult with {reg4?her:him} at your earliest convenience
+menu_notification_player_feast_in_progress|Feast in Preparation^^Your {reg33?husband:wife} has started preparations for a feast in your hall in {s11}
+menu_notification_lady_requests_visit|An elderly woman approaches your party and passes one of your men a letter, sealed in plain wax. It is addressed to you. When you break the seal, you see it is from {s15}. It reads, 'I so enjoyed your last visit. {s14} I am currently in {s10}.{s12}'
+menu_garden|{s12}
+mno_nurse|Go with the nurse
+menu_nibor_in_p_village_15|Nibor Hood's party occupied this village. Though it doesn't seem that locals mind their presence.
+menu_result_nibor_in_village_15|{s2}
+menu_schlacht_im_randomdorf_1|A band of rogue nobles and their mercenaries took residence in this village. Someone needs to deal with them.
+menu_result_schlacht_im_randomdorf_1|{s2}
+menu_nibor_rebellion_in_town|Nibor Hood's brigands found their way into the town! Many citizens as well as a part of garrison troops joined them. Others prefer not to interfere. Deal with the rebels!
+menu_result_nibor_rebellion_in_town|{s2}
+menu_oim_talk_to_bandits_horse|{s2}
+mno_defend_village_|Prepare for a fight!
+menu_oim_bandits_battle_for_horse_result|{s2}
+menu_kill_local_merchant_begin|You spot your victim and follow him, observing as he turns a corner into a dark alley. This will surely be your best opportunity to attack him.
+menu_debug_alert_from_s65|DEBUG ALERT: {s65}
+menu_auto_return_to_map|stub
+menu_bandit_lair|{s3}
+mno_continue_1|Attack the hideout...
+mno_leave_no_attack|Leave...
+mno_leave_victory|Continue...
+mno_leave_defeat|Continue...
+menu_notification_player_faction_political_issue_resolved|After consulting with the peers of the realm, {s10} has decided to confer {s11} on {s12}.
+menu_notification_player_faction_political_issue_resolved_for_player|After consulting with the peers of the realm, {s10} has decided to confer {s11} on you. You may decline the honor, but it will probably mean that you will not receive other awards for a little while.{s12}
+mno_accept|Accept the honor
+mno_decline|Decline the honor
+menu_start_phase_3|{s16}^^You are exhausted by the time you find the inn in {s1}, and fall asleep quickly. However, you awake before dawn and are eager to explore your surroundings. You venture out onto the streets, which are still deserted. All of a sudden, you hear a sound that stands the hairs of your neck on end -- the rasp of a blade sliding from its scabbard...
+menu_lost_tavern_duel|{s11}
+menu_establish_court|To establish {s4} as your court will require a small refurbishment. In particular, you will need a set of tools and a bolt of velvet. it may also take a short while for some of your followers to relocate here. Do you wish to proceed?
+mno_establish|Establish {s4} as your court
+menu_notification_relieved_as_marshal|{s4} wishes to inform you that your services as marshal are no longer required. In honor of valiant efforts on behalf of the realm over the last {reg4} days, however, {reg8?she:he} offers you a purse of {reg5} aurums.
+menu_dplmc_manage_loot_pool|{s10}
+mno_dplmc_auto_loot|Let your heroes select gear from the items on the ground.
+mno_dplmc_auto_loot_no|Insufficient item pool space for auto-upgrade.
+mno_dplmc_loot|Access the items on the ground.
+mno_dplmc_auto_loot_upgrade_management|Update management of NPCs' equipment.
+mno_dplmc_leave|{s20}
+mno_dplmc_leave_and_take_a|Gather {reg0} of the {reg20} items on the ground and leave.
+mno_dplmc_leave_and_take_b|Gather the remaining {reg20} {reg0?items:item} on the ground and leave.
+mno_dplmc_leave_and_take_c|There is no space left in your bags.
+menu_dplmc_auto_loot|Your heroes will automatically grab items from the loot pool based on their pre-selected upgrade options. Heroes listed first in the party order will have first pick. Any equipment no longer needed will be dropped back into the loot pool.  Any items in the loot pool will be lost when you leave.  Are you sure you wish to do this?
+mno_dplmc_autoloot_no|No, I've changed my mind.
+mno_dplmc_autoloot_yes|Yes, perform the upgrading.
+menu_dplmc_notification_alliance_declared|Alliance Agreement^^{s1} and {s2} have formed an alliance!^{s57}
+mno_dplmc_continue|Continue...
+menu_dplmc_notification_defensive_declared|Defensive Pact^^{s1} and {s2} have agreed to a defensive pact!^{s57}
+menu_dplmc_notification_trade_declared|Trade Agreement^^{s1} and {s2} have signed a trade agreement!^{s57}
+menu_dplmc_notification_nonaggression_declared|Non-aggression Treaty^^{s1} and {s2} have concluded a non-aggression treaty!^{s57}
+menu_dplmc_question_alliance_offer|You Receive an Alliance Offer^^The {s1} wants to form an alliance with you. What is your answer?
+mno_dplmc_alliance_offer_accept|Accept
+mno_dplmc_alliance_offer_reject|Reject
+menu_dplmc_question_defensive_offer|You Receive a Pact Offer^^The {s1} offers you a defensive pact. What is your answer?
+mno_dplmc_defensive_offer_accept|Accept
+mno_dplmc_defensive_offer_reject|Reject
+menu_dplmc_question_trade_offer|You Receive a Pact Offer^^The {s1} offers you a trade pact. What is your answer?
+mno_dplmc_trade_offer_accept|Accept
+mno_dplmc_trade_offer_reject|Reject
+menu_dplmc_question_nonaggression_offer|You Receive a Pact Offer^^The {s1} offers you a non-aggression treaty. What is your answer?
+mno_dplmc_nonaggression_offer_accept|Accept
+mno_dplmc_nonaggression_offer_reject|Reject
+menu_dplmc_notification_alliance_expired|Alliance Has Expired^^The alliance between {s1} and {s2} has expired and was degraded to a defensive pact.
+menu_dplmc_notification_defensive_expired|Defensive Pact Has Expired^^The defensive pact between {s1} and {s2} has expired and was degraded to a trade agreement.
+menu_dplmc_notification_trade_expired|Trade Agreement Has Expired^^The trade agreement between {s1} and {s2} has expired and was degraded to a non-aggression treaty.
+menu_dplmc_dictate_terms|Dictate your peace terms.
+mno_dplmc_demand_4000|Demand 4000 aurums
+mno_dplmc_demand_8000|Demand 8000 aurums
+mno_dplmc_demand_castle|Demand {s2}.
+mno_dplmc_go_back|Go back
+menu_dplmc_deny_terms|The {s1} refuses your terms and is breaking off of negotiations.
+menu_dplmc_village_riot_result|{s9}
+menu_dplmc_village_riot_removed|In bloody battle you and your men slaughter the rebels and regain control over the village. But there is not much left you can control.
+menu_dplmc_town_riot_removed|In bloody battle you and your men slaughter the rebels and regain control over the town.
+menu_dplmc_riot_negotiate|You approach the angry crowd and begin negotiations. The leader of the riot demands {reg0} aurums. He agrees to lay down arms if you are willing to pay.
+mno_dplmc_pay_riot_treasury|Induce your chamberlain to pay the money from the treasury.
+mno_dplmc_pay_riot_cash|Pay cash.
+mno_dplmc_back|Back...
+menu_dplmc_notification_riot|The peasants of {s1} launched a riot against you! In a surprise attack, men loyal to you have been slain. The remainder joined the angry crowd.
+menu_dplmc_notification_appoint_chamberlain|As a lord of a fief you can now appoint a chamberlain who resides at you court for a weekly salary of 15 aurums. He will handle all financial affairs like collecting and determining taxes, paying wages and managing your estate. In addition he supervises money transfers between kingdoms giving you more diplomatic options.
+mno_dplmc_appoint_default|Appoint a prominent nobleman from the area.
+menu_dplmc_chamberlain_confirm|Your chamberlain can be found at your court. You should consult him if you want to give him any financial advice or you need greater amounts of money. You should always make sure that there is enough money in the treasury to pay for political affairs.
+menu_dplmc_notification_appoint_constable|As a lord of a fief you can now appoint a constable who resides at you court for a weekly salary of 15 aurums. He will recruit new troops and provide information about your army.
+menu_dplmc_constable_confirm|Your constable can be found at your court. You should consult him if you want to recruit new troops or get detailed information about your standing army.
+menu_dplmc_notification_appoint_chancellor|As a lord of a fief you can now appoint a chancellor who resides at you court for a weekly salary of 20 aurums. He will be the keeper of your seal and conduct the correspondence between you and other important persons.
+menu_dplmc_chancellor_confirm|Your chancellor can be found at your court. You should consult him if you want to send messages or gifts.
+menu_dplmc_deserters|Some of your men don't believe that you will pay their wages and desert. Overall you lose: {s11} men.
+menu_dplmc_negotiate_besieger|You appear with a white flag at the top of the wall. After a while a negotiator of {s11} approaches you. He demands {s6} and all associated villages as well as {reg0} aurums for safe conduct.
+mno_dplmc_comply_treasury|Comply and induce your chamberlain to pay the money from the treasury.
+mno_dplmc_comply|Comply and pay the money cash.
+mno_dplmc_break_off|Break off negotiations.
+menu_dplmc_messenger|Sire, I found {s10} and delivered your message. {reg4?Her:His} answer was {s11}.
+menu_dplmc_scout|Your spy returned from {s10}^^{s11}{s12}
+menu_dplmc_domestic_policy|You can now shape the domestic policy of your kingdom. Do you want to change your policy now?
+mno_dplmc_yes|Yes, I want to change the domestic policy.
+mno_dplmc_no|No, I don't want to change the domestic policy.
+menu_dplmc_preferences|Diplomacy 4.3 (Sept 22, 2012) Preferences{s0}
+mno_dplmc_disable_horse_speed|Disable Diplomacy horse speed.
+mno_dplmc_enable_horse_speed|Enable Diplomacy horse speed.
+mno_dplmc_disable_battle_continuation|Disable Diplomacy battle continuation.
+mno_dplmc_enable_battle_continuation|Enable Diplomacy battle continuation.
+mno_dplmc_disable_terrain_advantage|Disable terrain advantage in Autocalc battles (currently this feature is Enabled).
+mno_dplmc_enable_terrain_advantage|Enable terrain advantage in Autocalc battles (currently this feature is Disabled).
+mno_dplmc_reset_terrain_advantage|You used a saved game from another mod: g dplmc terrain advantage = {reg0} (click to reset)
+mno_dplmc_toggle_lord_recycling_a|Enable lords returning from exile (currently disabled)
+mno_dplmc_toggle_lord_recycling_b|Disable lords returning from exile (currently enabled)
+mno_dplmc_toggle_lord_recycling_reset|You used a saved game from another mod: g dplmc lord recycling = {reg0} (click to reset)
+mno_dplmc_toggle_ai_changes_a|Enable AI changes (currently disabled)
+mno_dplmc_toggle_ai_changes_b|Increase AI changes (currently low)
+mno_dplmc_toggle_ai_changes_c|Increase AI changes (currently medium)
+mno_dplmc_toggle_ai_changes_d|Disable AI changes (currently high/experimental)
+mno_dplmc_reset_ai_changes|You used a saved game from another mod: g dplmc ai changes = {reg0} (click to reset)
+mno_dplmc_toggle_gold_changes_a|Set economic & behavioral changes to low (current mode: disabled)
+mno_dplmc_toggle_gold_changes_b|Set economic & behavioral changes to medium (current mode: low)
+mno_dplmc_toggle_gold_changes_c|Set economic & behavioral changes to high/experimental (current mode: medium)
+mno_dplmc_toggle_gold_changes_d|Disable economic & behavioral changes (current mode: high/experimental)
+mno_dplmc_reset_gold_changes|You used a saved game from another mod: g dplmc gold changes = {reg0} (click to reset)
+mno_dplmc_switch_woman_prejudice_1|Change prejudice level (current level is default)
+mno_dplmc_switch_woman_prejudice_2|Change prejudice level (current level is off)
+mno_dplmc_switch_woman_prejudice_3|Change prejudice level (current level is high)
+menu_dplmc_affiliated_family_report|{s0}
+menu_dplmc_economic_report|{s0}
+menu_dk_invasion_start_warning|A farmer, his face streaked with sweat and body red with blood, runs up to your entourage as you are traveling. '{s1}!' he cries, running up to you. 'Wait, please! I beg you, hear of what I have to say!^^The farmer takes a moment to catch his breath and then looks at you with desperation. 'Foreign invaders have come, all dressed in strange dark armor and wielding terrifying weapons! Escape, {s1}, when you have the chance! It is doomsday! I have seen them myself! They have conquered two castles already and are going to conquer another! Please, run! Doomsday is upon us!'^^With that, the farmer runs off into the distance.
+menu_pre_invasion|As you are traveling, you hear rumors from travelers on the road about a mysterious foreign threat called the 'Zann.'^^These men supposedly wield terrifying weapons and have exotic ways of fighting.^^ It is said that their ships will land on Perisno in a month's time, and that they have a massive army of over 4000 elite troops coming.^^Though this may not be true, you shold prepare yourself for the worst should the Zann descend upon the land.
+menu_rafklazan|A messenger rides up to you and tells you that a group of Foreign Invaders under someone called King Rafklazan has landed on the shores of Perisno by accident.
+menu_ulfhednar|A messenger rides up to you and tells you that an infamous Volheere Raider from Nisaynia has landed with his army of berserkers.
+menu_zolona|A messenger rides up to you and tells you a nomadic Queen has come from the far deserts and is deciding to stay here in Perisno.
+menu_thirdlegion|A messenger rides up to you and tells you that a Third Legion general has rallied his soldiers and are now marching for war.
+menu_zeladeck|A messenger rides up to you and tells you that the Illicans in the mountains of the Reich lands have proclaimed their 'Chosen One' and are now marching for war against the Reich.
+menu_dreaded_and_faith|You hear urgent rumors and news from travelers everywhere that something huge has happened between the Demon Worshippers and the Eagle Knights. They say that the two have erupted into a full scale war, and neither side is backing down. Some rumors speak of a dark, evil presence near Galwe, and a large column of light erupting in the mountains near Lille. You may wish to check these occurences out yourself.
+menu_general_ialoch|A messenger rides up to you and tells you that a demonic general by the name of Ialoch has risen his armies and is now roaming the land.
+menu_nox_of_zephilli|A messenger rides up to you and tells you that a man by the name of Nox of Zephilli has proclaimed himself as the 'Chosen One' who will rise up and conquer Perisno in the name of the ancient Perisnoan Empire. He is now roaming the land, gathering support wherever he goes and challenging any who dare say he is not the rightful Emperor.
+menu_lord_ceylius|You hear news that the Lord of the Mercenaries, Lord Ceylius has gathered a band of mercenaries and are now roaming the land, harassing caravans and razing villages wherever they go.
+menu_queen_aegea|You hear news that the Amazons have rallied under the banner of their proclaimed Queen, Aegea, and are now roaming the land.
+menu_event_01|A local minstrel has composed a small song about your deeds.
+mno_choice_01_1|That is great news!
+mno_choice_01_2|I shall like to reward him with 300 aurums. Let him continue his work!
+mno_choice_01_3|A song? What kind of fool will sing a song about me? I deserve an epic! Bring me his head!
+menu_event_02|A lone beggar comes up to you and asks for alms. He smells of rot and his stench is unbearable.
+mno_choice_02_1|Give the poor man 100 aurums.
+mno_choice_02_2|Ignore him and continue on.
+mno_choice_02_3|The fool smells like a pigsty! Throw him to the nearest farm, where he belongs!
+menu_event_03|A young upstart noble spreads outrageous lies about you behind your back. If this doesn't stop, soon you will be the laughingstock of the country.
+mno_choice_03_1|I challenge him to a duel!
+mno_choice_03_2|It's none of my business.
+mno_choice_03_3|Hire some Assassins of Ral'Daiun for 500 aurums and make sure he meets his end in a 'natural' way.
+menu_event_04|A bard has composed a long song about your heroic deeds.
+mno_choice_04_1|That is great news!
+mno_choice_04_2|I shall like to reward him with 1000 aurums. Let him continue his work!
+mno_choice_04_3|A song? What kind of fool will sing a song about me? I deserve an epic! Bring me his head, and I'll watch HIM sing - in pain!
+menu_event_05|A master bard has composed an epic of your legendary deeds.
+mno_choice_05_1|That is great news!
+mno_choice_05_2|I shall like to reward him with 3000 aurums. Let him continue his work!
+mno_choice_05_3|It's not good enough. Tell him to make two epics or I'll have his head.
+menu_event_06|As you are traveling, a band of farmers approach you and ask if they could join your party.
+mno_choice_06_1|Of course!
+mno_choice_06_2|No thanks. I have no space and no need for more troops.
+menu_event_07|As you are traveling, a small group of peasant woman approach you and ask if they could join your party. They said that their village was raided and now they have nowhere to go.
+mno_choice_07_1|Of course!
+mno_choice_07_2|I have no need for new troops.
+mno_choice_07_3|No, but perhaps you can do my travel weary men some favors...
+menu_event_08|Your men make camp and you notice something strange. A field of unknown types of mushrooms lay before you. What do you do?
+mno_choice_08_1|Eat them.
+mno_choice_08_2|Share them with your army.
+mno_choice_08_3|Do nothing.
+menu_event_09|Your men make camp and you notice something strange. A field of unknown types of mushrooms lay before you. What do you do?
+mno_choice_09_1|Eat them.
+mno_choice_09_2|Share them with your army.
+mno_choice_09_3|Do nothing.
+menu_event_10|As you are traveling, you meet a Knight of the Wolf. His 'pack' has abandoned him, and he wishes to join your party as a straggler.
+mno_choice_10_1|Of course!
+mno_choice_10_2|I have no space and no need for more troops.
+menu_event_11|You come across some runaway Desouk slaves.
+mno_choice_11_1|Help them on their way.
+mno_choice_11_2|Return them to the Desouk slavers.
+menu_event_12|You chance upon a fight between a group of bandits and merchants. The merchants seem to be losing and once they see you, they plead for your help.
+mno_choice_12_1|Kill all the bandits.
+mno_choice_12_2|Help the bandits.
+mno_choice_12_3|Slaughter both groups and take all the loot.
+menu_event_13|Having heard of your famous exploits, a group of mercenaries approach you and ask if they could join your party.
+mno_choice_13_1|Let them join.
+mno_choice_13_2|I don't need mercenaries.
+menu_event_14|A religous fanatic from the New Gods Worshippers follows your army. He creates much unrest but gain some converts as well.
+mno_choice_14_1|Let him be. He is a true man of faith to have so much courage.
+mno_choice_14_2|Offer him a place in your troops!
+mno_choice_14_3|Kill the fool.
+menu_event_15|A religous fanatic from the Old Gods Worshippers follows your army. He creates much unrest but gain some converts as well.
+mno_choice_15_1|Let him be. He is a true man of faith to have so much courage.
+mno_choice_15_2|Offer him a place in your troops!
+mno_choice_15_3|Kill the fool.
+menu_event_16|You encounter a wounded Knight of the Eagle. He tells you that he and his party was ambushed by Demon Worshippers and asks you to take him into your party.
+mno_choice_16_1|Let him join.
+mno_choice_16_2|I don't need any more people. Especially not Eagle Knights.
+mno_choice_16_3|Torture him and then execute him. Eagle Knights deserve no less.
+menu_event_17|You encounter a wounded Demon Priest. He tells you that he and his party was ambushed by Eagle Knights and asks you to take him into your party.
+mno_choice_17_1|Let him join.
+mno_choice_17_2|I don't need any more people. Especially not Demon Priests.
+mno_choice_17_3|Torture him and then execute him. Demon Priests deserve no less.
+menu_event_18|While traveling, your party comes across a small cottage with an adjoining garden. Although there is fish cooking over a fire out front, nobody seems to be here.
+mno_choice_18_1|Raid the cottage!
+mno_choice_18_2| Ignore the cottage and continue on your way.
+mno_choice_18_3|Leave a small bag of 300 aurums by the fire and continue on your way
+menu_event_19|You stumble across a small herd of cattle.
+mno_choice_19_1|Slaughter them and eat them!
+mno_choice_19_2|Continue on.
+mno_choice_19_3|Hunt them for fun.
+menu_event_20|You come across a small group of Freelancers. They seem to have recently abandoned their former captain.
+mno_choice_20_1|Offer them to join you.
+mno_choice_20_2|Continue on.
+mno_choice_20_3| Kill them for abandoning their captain.
+menu_event_21|A scout comes riding up to you and tells you that they have found a man tied to a tree. Upon investigating, you find out he was tied up because local bandits were going to use him as target practice until your troops came by.
+mno_choice_21_1|Untie him. 
+mno_choice_21_2|Leave him there. Why should we care?
+mno_choice_21_3|Untie him and give him supplies
+menu_event_22|Your party stumble upon a wounded steppe urchin.
+mno_choice_22_1|Take him and ask a ransom to the elder of his village.
+mno_choice_22_2|Continue on.
+mno_choice_22_3|Help him along his journey.
+menu_event_23|You are travelling and passing by a battlefield as you see a plunderer carefully picking through the corpses of honorable men. The man looks up and sees you approach. He looks frightened, but understands that he couldn't escape anyway, so he just stands there trembling and awaiting his fate.
+mno_choice_23_1|Kill him and take his loot, then set the wolves on him...
+mno_choice_23_2|Continue on.
+mno_choice_23_3|This man is right to do so! Anyone with common sense would do the same. 
+menu_event_24|While traversing some particularly rough terrain, you hear an arrow whiz by your head and clank against one of your troops' shields. Before you can react, another arrow impales itself in the ground next to your foot. It is clear that someone has just tried to assassinate you.
+mno_choice_24_1|Send your swiftest troop to find and capture the assassin.
+mno_choice_24_2|Send a heavier troop to find and kill the assassin.
+mno_choice_24_3|Let the assassin escape. The next time, you will be ready.
+menu_event_25|Your eyes catch a glint of metal in the ground below.
+mno_choice_25_1|Halt your party and investigate it.
+mno_choice_25_2|Ignore it and keep moving.
+menu_event_26|You see a young wolf pup limping across the road in front of you. It is clear that it has been injured and separated from its parents, and it won't survive much longer on its own.
+mno_choice_26_1|Put it out of its misery.
+mno_choice_26_2|Offer it some meat.
+mno_choice_26_3|Leave it be.
+menu_change_color|What color would you like to set the kingdom to?^When a color is selected an example will be displayed.^These options can be found in Camp as well for more detailed colors.
+mno_color_brown|Brown (Default.)
+mno_color_violet|Violet.
+mno_color_olive|Olive.
+mno_color_red|Red.
+mno_color_white|White.
+mno_color_black|Black.
+mno_back_to_kingdom_management|Return to the kingdom management menu.
+menu_do_change_color|Change your kingdom to this color?
+mno_color_yes|Yes.
+mno_color_no|No.
+menu_hire_adviser|Which adviser would you like to hire?
+mno_intel_adviser|{s1}
+mno_highmarshal|{s1}
+menu_hire_intel_adviser|A {s1} controls a network of spies throughout Perisno.  He can tell you which lords are unhappy in other kingdoms, which castles are least defended, and where the monarchs of each faction are hiding.^A {s1} costs 5000 aurums to hire. Hire one?
+mno_yes|Yes.
+mno_no|No.
+menu_hire_high_marshal|A {s1} is the commander of the armies from the center of the kingdom and has a host of options, including giving the ability to hire war parties and more. He costs 20,000. Hire one?
+menu_assassination_failed|A messenger reins in beside your party.^^ '{reg33?Madam:Sir}, I bring grave news. Your attack on {s2} has failed. The assassins attacked at dawn, as the lord made his way to the privy, but the first quarrel missed high when he stooped to remove something from his shoe. Alas, the element of surprise was lost, and he fought off the assassins. ^^Your Spymaster sends his condolences.
+menu_assassination_fought_off|A messenger reins in beside your party.^^ '{reg33?Madam:Sir}, I bring good news. Your attack on {s2} has failed. The assassins attacked at dusk, but the guards were alert, and engaged the killers. Many died, but the lord escaped. However {s2}'s personal retinue has been reduced, and it will be some time before he can rebuild his forces.^^ Your Spymaster sends word that this might be an auspicious time to launch an attack.
+menu_assassination_prosperity|A messenger reins in beside your party.^^'{reg33?Madam:Sir}, I bring mixed news. Your attack on {s2} was successful. However, the element of surprise was missing, and before they could administer the killing blow, the assassins were cut down.^^ That said, not all is lost. Seeing their lord struck down, his fiefs were shaken by their Lord's vulnerability, and there was talk of war, though with whom, no one knew. The prosperity of all {s2}'s holdings is down by twenty points and this will hit him in his pocketbook, though he lives still.^Your Spymaster sends his congratulations.
+menu_assassination_fiefed|A messenger reins in beside your party.^^'{reg33?Madam:Sir}, I bring great news. Your attack on {s2} has succeeded. Nay, he is not dead, more's the pity. But apparently his liege had already been unsatisfied with his vassalage, and this attack has confirmed {s2}'s weakness. ^^{reg33?Madam:Sir}, {s1} has relieved {s2} of all his lands and titles, and has bestowed them upon {s3}! ^^{s2} is humiliated and landless! Your Spymaster congratulates you on your cunning!
+menu_notification_give_vassal_gift|{s4} is recognizing your loyal service as a vassal by rewarding you with a {s1}.
+menu_recruit_nobles|{s18}
+menu_red_immortals|You have defeated the Red Immortal party. You manage to capture one of the Immortals and interrogate him. He tells you that their leader, called Mactabilus, is nearby and that he will avenge them. Then, the Red Immortal kills himself with a hidden dagger before you and your men can react.
+menu_khivachis|You have defeated Kunika. Shortly after, a messenger from Khivachis comes up to you and tells you that they watched the entire battle and Khivachis needs you to report to her back at Reichberg.
+menu_perisno_start_welcome|Welcome to Perisno, adventurer. You will soon find that this mod is a bit harder than Native and brings you to an entire new world. You will meet new NPCs, discover long lost treasures, embark on dangerous quests, and more.^^    Currently the year is 365. You are just one of the thousands of men out there who seek to change the future. The Kingdom of Tolrania spreads across the center of Perisno, the Reich des Drachen - with their strange creatures and heavy cavalry - dominate the north along with Maccavia, the Kingdoms of Drahara and Hakkon share the deserts, and the Elven Kingdom of Elintor inhabit the forests.^^    Minor factions like the Demon Worshippers and the Assassins of Ral'Daiun lurk about, waiting to catch easy prey - and in a land far away, a fleet of ships are preparing to set sail for Perisno... In your travels you will encounter rogues, merchants, heroes, and more. ^^    Notes: If you wish to check out the faction lores go to Notes. Perisno is a full new world for you to discover. Play it the way you wish to, and good luck, brave adventurer! 
+menu_book_rapier_read1|You close the Anthology on the Dueler, having read it cover to cover. In addition to having learned a bit more about sparring, you discovered an intriguing account made by a Geldarin elf.
+menu_book_rapier_read2|The elf, a watchman by the name of Dadithas, claims to have seen the Dueler and his few loyal apprentices arrive on and depart from the shore west of the Azure Keep for the uncharted isles of the Aroulo. If there is one place to look for him, the civilization of the Aroulian jungle may be it.
+menu_third_legion_fort|You come to a seemingly occupied fort, a relic of the past belonging to the Venetor Empire.
+mno_enter_attempt|Attempt to enter the fort.
+mno_enter_fort|Enter the fort.
+mno_attack_fort|Attack the fort.
+mno_claim_fort|Claim the fort for Visavo Austad.
+menu_sneak_third_legion_succeeded|Disguised in the equipment of a soldier of the Third, you fool the guards and make your way into the fort.
+mno_continue_door|Exit to the camp.
+menu_enter_third_legion_succeeded|The guards welcome you into the fort.
+menu_sneak_third_legion_failed|As you draw closer to the entrance to the fort, you spot a few Legion guards keeping watch over the gate. Although they would raise the alarm if they saw you attempt to slip into the fort, you notice that they seem to be letting anyone with proper Legion equipment through without hesitation...
+mno_Leave|Leave.
+menu_third_legion_attack|You prepare to attack the Third Legion's fort.
+mno_third_legion_attack|Lead your soldiers in an assault.
+menu_grazir_shrine|You stumble upon a seemingly abandoned fort in the woods. However, as you edge closer, you begin hearing whispers and screeches in the back of your mind. You carefully make your way through the gates and read a faded inscription saying, 'The Shrine of Grazir. Outsiders of the Sect, beware ...' You ...
+mno_enter_scene|Go inside the shrine for a closer look. Maybe there are ancient relics that can be found ...
+mno_enter_scene_door|Exit to the camp.
+menu_grazir_complete|grazir finish
+menu_demon_shrine|You visit the Demon Shrine.
+mno_talk_shrine|Go and talk to the Demon Priests to join their Order.
+menu_start_game_new_backstory_northern|You disembark from your ship in disgrace...
+menu_svafar_duel_menu|You prepare to fight.
+menu_start_game_new_backstory_human_tropical|Stepping onto the beach, you are approached by a few Aroulo natives...
+menu_start_game_new_backstory_dwarf_karnoth|You decide to investigate...
+menu_backstory_dwarf_karnoth_killed_demon|You have cleansed the mine of the demon worshippors, and the master of the mine gives you a reward- such a reward that you would never have to work in the mine again, 3000 gold. He also agrees that your mother will be provided for. The ironfist who you squired with recognizes your valor, saying there is nothing more for him to teach you. The world is yours for the taking, adventurer.
+menu_backstory_human_tropical_killed_aroulo|You have killed the natives and taken their things, no doubt you have angered the Aroulo.
+menu_backstory_human_tropical_visit_village|You follow the native back to his village...
+menu_world_map_soldier|What do you need to do soldier?
+mno_join_commander_battle|Follow the commander into battle.
+mno_enter_town|Enter stationed town.
+mno_commander|Request audience with your commander.
+mno_revolt|Revolt against the commander!
+mno_desert|Desert the army.(keep equipment but lose relations)
+mno_report|Commander's Report
+mno_return_to_duty|Return to duty.
+menu_commander_aud|Your request for a meeting is relayed to your commander's camp, and finally {s6} appears from his tent to speak with you.
+mno_reject_talk_lord|No, nevermind.
+menu_ask_revolt|Are you sure you want to revolt?
+mno_confirm_revolt|Yes, {s6} will be the death of us all, it is time to act!
+mno_reject_revolt|No, I am loyal to {s6}.
+menu_revolt|Do you want to release the prisoners to help your men?
+mno_revolt_prisoners|Yes, I will take the risk for a greater advantage.
+mno_revolt_no_prisoners|No, I don't trust prisoners.
+menu_ask_desert|Do you want to desert?
+mno_confirm_desert|Yes, this is pointless.
+mno_reject_desert|No, I am loyal to my commander.
+menu_desert|While in the army you've made some good friends. Some could possibly follow you.
+mno_desert_party|Try to convince them to follow you.
+mno_desert_alone|No, I have a better chance alone.
+menu_upgrade_path|In recognition of your excellent service, you have been promoted.
+mno_upgrade_path_1|{s66}
+mno_upgrade_path_2|{s67}
+menu_troop_tree_switch_modes|I shouldn't see this.  This should automatically be hidden by a new presentation.

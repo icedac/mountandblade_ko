@@ -1,0 +1,1849 @@
+qstr_You_have_equipped_an|You have equipped an item restricted for this race. It will be returned to your inventory once you enter the world map, or destroyed if you lack inventory space.
+qstr_Restricted_Item|Restricted Item
+qstr_{reg1}.0|{reg1}.0
+qstr_{reg1}.00{reg2}|{reg1}.00{reg2}
+qstr_{reg1}.0{reg2}|{reg1}.0{reg2}
+qstr_{reg1}.{reg2}|{reg1}.{reg2}
+qstr_Perisno_v{s1}_|Perisno v{s1} 
+qstr_Next_Page|Next Page
+qstr_Game_Rules:^|Game Rules:^
+qstr_0|0
+qstr_Show_game_rules|Show game rules
+qstr_Continue...|Continue...
+qstr_Candidate_#1:_{s1}|Candidate #1: {s1}
+qstr_Candidate_#2:_{s1}|Candidate #2: {s1}
+qstr_{s3}_of_{s4}_wishes_|{s3} of {s4} wishes to select a new marshall and invites his vassals for a counsel. {s1} and {s2} are the likely candidates.
+qstr_Who_do_you_wish_to_s|Who do you wish to support?
+qstr_{s1}_gives_his_suppo|{s1} gives his support to {s2}.
+qstr_Number_of_Supporters|Number of Supporters: {reg0}
+qstr_{s2}_has_heard_his_v|{s2} has heard his vassals' counsel. He selects {s1} as the marshall of {s3}.
+qstr_Action|Action
+qstr_Mount|Mount
+qstr_Attack_Type|Attack Type
+qstr_Stand_Ground|Stand Ground
+qstr_Charge|Charge
+qstr_Follow_Me|Follow Me
+qstr_Hold_This_Position|Hold This Position
+qstr_Spread_Out|Spread Out
+qstr_Stand_Closer|Stand Closer
+qstr_Fall_Back|Fall Back
+qstr_Advance|Advance
+qstr_Dismount|Dismount
+qstr_Fire_At_Will|Fire At Will
+qstr_Hold_Your_Fire|Hold Your Fire
+qstr_Use_Blunt_Weapons|Use Blunt Weapons
+qstr_Use_Any_Weapon|Use Any Weapon
+qstr_Ready|Ready
+qstr_Wounded|Wounded
+qstr_Dead|Dead
+qstr_Number_of_men_knocke|Number of men knocked down: {reg1}
+qstr_Number_of_men_left:_|Number of men left: {reg1}
+qstr_Opponents_Beaten:_{r|Opponents Beaten: {reg1}
+qstr_Opponents_Remaining:|Opponents Remaining: {reg1}
+qstr_Remain_in_retirement|Remain in retirement.
+qstr_Go_back_to_the_adven|Go back to the adventuring.
+qstr_You_have_retired_at_|You have retired at level {reg4} after {reg5} days of adventuring.
+qstr_Effect_on_Score|Effect on Score
+qstr_Settlements_owned_by|Settlements owned by you: {reg0}
+qstr_Friendly_Settlements|Friendly Settlements: {reg0}
+qstr_Hostile_Settlements:|Hostile Settlements: {reg0}
+qstr_Friendly_Lords:_{reg|Friendly Lords: {reg0}
+qstr_Enemy_Lords:_{reg0}|Enemy Lords: {reg0}
+qstr_Victories:_{reg0}|Victories: {reg0}
+qstr_Defeats:_{reg0}|Defeats: {reg0}
+qstr_Quests_Completed:_{r|Quests Completed: {reg0}
+qstr_Companions_Found:_{r|Companions Found: {reg0}
+qstr_Companions_Lost/Depa|Companions Lost/Departed: {reg0}
+qstr_Wealth:_{reg0}_aurum|Wealth: {reg0} aurums
+qstr_Inventory:_{reg0}_au|Inventory: {reg0} aurums
+qstr_Renown:_{reg0}|Renown: {reg0}
+qstr_Experience:_{reg0}|Experience: {reg0}
+qstr_Days_Passed:_{reg0}|Days Passed: {reg0}
+qstr_Difficulty:_{reg0}%|Difficulty: {reg0}%
+qstr_TOTAL_SCORE:_{reg0}|TOTAL SCORE: {reg0}
+qstr_unknown_yet|unknown yet
+qstr_tomorrow|tomorrow
+qstr_Next_Payday:_{s22}|Next Payday: {s22}
+qstr_{s0}__{s50}_|{s0} ({s50})
+qstr_None|None
+qstr_Wages_for_{s0}__you_|Wages for {s0} (you pay {reg7} aurums):
+qstr_Staff:|Staff:
+qstr_Earlier_cash:|Earlier cash:
+qstr_New_cash:|New cash:
+qstr_Done|Done
+qstr_Name:_{s1}^Level:_{r|Name: {s1}^Level: {reg1}
+qstr_{s1}^HP:_{reg1}/{reg|{s1}^HP: {reg1}/{reg2}
+qstr_{s1}|{s1}
+qstr_Weapon_upgrade_setti|Weapon upgrade settings:
+qstr_Apply_to_everyone|Apply to everyone
+qstr_Upgrade_armor_|Upgrade armor 
+qstr_Upgrade_horse_|Upgrade horse 
+qstr_Select_your_domestic|Select your domestic policy
+qstr_Centralization:|Centralization:
+qstr_Aristocracy:|Aristocracy:
+qstr_Serfdom:|Serfdom:
+qstr_Mercantilism:|Mercantilism:
+qstr_High_centralization_|High centralization reduces tax inefficiency for the king and raises it for vassals. This will interfere  the relations between ruler and vassals.
+qstr_High_aristocracy_wil|High aristocracy will improve the relations between the king and his vassals who will be able to raise bigger armies but it will decreased trade.
+qstr_High_serfdom_reduces|High serfdom reduces tax inefficiency for the king and his vassals and vassals can maintain bigger armies but troops loose morale.
+qstr_Mercantilistic_polic|Mercantilistic policies maximize exports while minimizing imports, and increase government regulation of industry.
+qstr_Cancel|Cancel
+qstr_Dictate_the_peace_te|Dictate the peace terms
+qstr_Select_the_castle_an|Select the castle and the amount of money and check the boxes to activate the demand. The demands are combined if both boxes are checked.
+qstr_1000_aurums|1000 aurums
+qstr__Faction_Relations_R| Faction Relations Report 
+qstr__Return_to_menu_| Return to menu 
+qstr_Your_kingdom|Your kingdom
+qstr_Player^Relation|Player^Relation
+qstr_War|War
+qstr_Casus_Belli|Casus Belli
+qstr_Peace|Peace
+qstr_Truce|Truce
+qstr_Alliance|Alliance
+qstr_Defense|Defense
+qstr_Trade|Trade
+qstr_{reg59?{reg59}_days:|{reg59?{reg59} days:}
+qstr_{reg61}|{reg61}
+qstr_{s9}|{s9}
+qstr_Loyal|Loyal
+qstr_Devoted|Devoted
+qstr_Fond|Fond
+qstr_Gracious|Gracious
+qstr_Friendly|Friendly
+qstr_Supportive|Supportive
+qstr_Favorable|Favorable
+qstr_Cooperative|Cooperative
+qstr_Accepting|Accepting
+qstr_Indifferent|Indifferent
+qstr_Suspicious|Suspicious
+qstr_Grumbling|Grumbling
+qstr_Hostile|Hostile
+qstr_Resentful|Resentful
+qstr_Angry|Angry
+qstr_Hateful|Hateful
+qstr_Revengeful|Revengeful
+qstr_Vengeful|Vengeful
+qstr_{reg1}|{reg1}
+qstr_{s3}|{s3}
+qstr_{reg61}_{reg58?_{reg|{reg61} {reg58?({reg58} U) :}Centers
+qstr_{reg62}_Caravans|{reg62} Caravans
+qstr_{reg60}_{reg59?_{reg|{reg60} {reg59?({reg59} P) :}Lords
+qstr_How_will_your_male_v|How will your male vassals be known?
+qstr_How_will_your_female|How will your female vassals be known?
+qstr_Use_the_Titles_Enter|Use the Titles Entered Above.
+qstr_Use_Default_Titles__|Use Default Titles (Lord/Lady).
+qstr_Sell_items_automatic|Sell items automaticly when leaving:
+qstr_Price_limit_for_auto|Price limit for auto-sell:
+qstr_Item_types_for_auto_|Item types for auto-sell:
+qstr_Select_all|Select all
+qstr_Select_invert|Select invert
+qstr_Buy_food_automatical|Buy food automatically when leaving:
+qstr_*|*
+qstr__Courtships_in_progr| Courtships in progress 
+qstr__Known_Lords_by_Rela| Known Lords by Relation 
+qstr__Character_&_Compani| Character & Companions 
+qstr__Done_| Done 
+qstr_Your_supporters|Your supporters
+qstr_Tolrania|Tolrania
+qstr_Reich_Des_Drachen|Reich Des Drachen
+qstr_Drahara|Drahara
+qstr_Maccavia|Maccavia
+qstr_Elintor|Elintor
+qstr_Hakkon_Empire|Hakkon Empire
+qstr_The_Valahir_Clan|The Valahir Clan
+qstr_All_Factions|All Factions
+qstr_What_will_your_party|What will your party be known as?
+qstr_By_the_name_entered_|By the name entered above.
+qstr_Simply_by_my_name:_{|Simply by my name: {s5}.
+qstr_Weapons|Weapons
+qstr_Armors|Armors
+qstr_Others|Others
+qstr_This_area_of_{s1}_ca|This area of {s1} can best be described as the very core of the town.^^ You can almost see the strings that are being pulled from here, the money that comes and goes at seemingly endless rates.  Here you can buy the land that is cultivated outside the towns gates and benefit from the ones working hard. Of course you might not have the aurums required to do so, but the moneylenders are known to have some spare change.
+qstr_{reg1}_people_live_i|{reg1} people live in {s1}. There are currently {reg2} acres of land available for cultivation to provide them with  food and other goods. You own {reg3} acres of land in this town. You currently owe the moneylenders of {s1} {reg4} aurums. The interest rate is 20% and the contract period amounts  to 2 weeks. If you dont manage to pay off your debt until the deadline, the interest is raised to 40%. Buying an existing acre costs {reg9} aurums, while it sells for {reg10} aurums. Building a new one requires {reg11} aurums. The rent paid to landowners currently accumulates to {reg13} aurums per acre every week and has to be collected in the town. Land wont be rented if a town is already well supplied.
+qstr_Choose_how_many_acre|Choose how many acres you wish to sell :
+qstr_Choose_how_many_acres|Choose how many acres you wish to buy :
+qstr_{s2}|{s2}
+qstr_Buy_Land|Buy Land
+qstr_Choose_how_much_mone|Choose how much money you wish to borrow :
+qstr_Borrow|Borrow
+qstr_Buy_and_prepare_uncu|Buy and prepare uncultivated land :
+qstr_Prepare_Land|Prepare Land
+qstr_Pay_off_your_debt_:|Pay off your debt :
+qstr_Make_Payment|Make Payment
+qstr_{reg5}|{reg5}
+qstr_You_cant_sell_0_acre|You cant sell 0 acres of land.
+qstr_You_cant_buy_0_acres|You cant buy 0 acres of land.
+qstr_{reg6}|{reg6}
+qstr_You_cant_borrow_0_au|You cant borrow 0 aurums.
+qstr_{reg7}|{reg7}
+qstr_{reg8}|{reg8}
+qstr_You_cant_pay_back_0_|You cant pay back 0 aurums.
+qstr_Town|Town
+qstr_Acres|Acres
+qstr_Owned|Owned
+qstr_Balance|Balance
+qstr_Assets|Assets
+qstr_Debt|Debt
+qstr_Deadline|Deadline
+qstr_{reg2}|{reg2}
+qstr_{reg3}|{reg3}
+qstr_{reg4}|{reg4}
+qstr_This_is_the_gambling|This is the gambling screen. Hold down control key while clicking on an item to purchase or sell it.
+qstr_Money:_{s1}|Money: {s1}
+qstr_You_don_t_have_enoug|You don't have enough money.
+qstr_He_don_t_have_enough|He don't have enough money.
+qstr_Merchant_Ledger|Merchant Ledger
+qstr_____Assessed_Profit_|    Assessed Profit by Subtitle Here
+qstr_{s0}_products_from_{|{s0}, products from {s1}:
+qstr_^{s1}_sold_in_{s2}_w|^{s1} sold in {s2} would earn {reg0} aurums.{s3}
+qstr___Assessed_Profit_by|  Assessed Profit by Log Entry Date
+qstr_^{s1}_sold_in_{s2}_wo|^{s1} sold in {s2} would earn {reg0} aurums (as of {s0}).{s3}
+qstr_Production_in_{s1}|Production in {s1}
+qstr_Assessed_Profit_by_T|Assessed Profit by Town of Production
+qstr_^{s1}_purchased_in_{|^{s1} purchased in {s2} would earn {reg0} aurums (as of {s0}).{s3}
+qstr_Demand_in_{s1}|Demand in {s1}
+qstr_Assessed_Profit_by_To|Assessed Profit by Town of Demand
+qstr_^Buy_in:_{s1}___sell|^Buy in: {s1} - sell in: {s2} for {reg0} aurums profit (as of {s0}).{s3}
+qstr_Supply_and_Demand_of|Supply and Demand of {s1}
+qstr_____Assessed_Profit_b|    Assessed Profit by Trade Good
+qstr_Trim_ledger_entries_|Trim ledger entries older than:              days:
+qstr_Remove_entries.|Remove entries.
+qstr_Trim_ledger_entries_c|Trim ledger entries covering the following trade good:
+qstr_Use_slider_to_choose|Use slider to choose item
+qstr_Trim_ledger_entries_f|Trim ledger entries for goods tied to this town:
+qstr_Use_slider_to_choose_|Use slider to choose town
+qstr_Remove_entries__Prod|Remove entries (Production).
+qstr_Remove_entries__Dema|Remove entries (Demand).
+qstr_Trim_ledger_entries_w|Trim ledger entries with less than:              aurums profit:
+qstr_Ask_about_the_potent|Ask about the potential profit of the following items^    every time you assess prices in a marketplace:
+qstr____________Log_Entry|           Log Entry Options
+qstr_Add_Note|Add Note
+qstr_Clear_Notes|Clear Notes
+qstr_Use_a_/\__caret__for|Use a /\ (caret) for a line break.
+qstr_Chronological_Log|Chronological Log
+qstr_Production_Towns|Production Towns
+qstr_Purchasing_Towns|Purchasing Towns
+qstr_Trade_Goods|Trade Goods
+qstr_Manage_Ledger|Manage Ledger
+qstr_{s1}^+{s0}|{s1}^+{s0}
+qstr_{reg0}_entries_remov|{reg0} entries removed from ledger.
+qstr_Faction_color_of_{s0|Faction color of {s0}:
+qstr_Red:|Red:
+qstr_Green:|Green:
+qstr_Blue:|Blue:
+qstr__| 
+qstr_HTML_code:_{s0}|HTML code: {s0}
+qstr_Default|Default
+qstr_Randomize|Randomize
+qstr_Factions|Factions
+qstr_Show_towns|Show towns
+qstr_Show_castles|Show castles
+qstr_Show_villages|Show villages
+qstr_Tip:_move_the_mouse_|Tip: move the mouse onto the black blocks to show their names.
+qstr_The_World_Map|The World Map
+qstr_Keys_Configuration|Keys Configuration
+qstr_Press_Esc_to^^Disabl|Press Esc to^^Disable a key
+qstr_OK|OK
+qstr_Reset|Reset
+qstr_Disable_all|Disable all
+qstr_Press_a_key|Press a key
+qstr_What_will_your_settl|What will your settlement be known as?
+qstr_Settlement|Settlement
+qstr_Simply_by_the_name_o|Simply by the name of {s5}.
+qstr_General_Options|General Options
+qstr_Sort_Parties:|Sort Parties:
+qstr_Sort_Player_Fiefs:|Sort Player Fiefs:
+qstr_Companion_Options|Companion Options
+qstr_Disable_Companions__|Disable Companions' complaints:
+qstr_Battle_Options|Battle Options
+qstr_Charge_On_Death:|Charge On Death:
+qstr_CHAAAAAAAAARGE!|CHAAAAAAAAARGE!
+qstr_Do_Not_Force_Cavalry|Do Not Force Cavalry To Mount:
+qstr_Disable_Realistic_Ra|Disable Realistic Ranged Weapon Damage
+qstr_Disable_Fire_Arrows|Disable Fire Arrows
+qstr_Battle_Overview_Map:|Battle Overview Map:
+qstr_Reinforcement_Waves:|Reinforcement Waves:
+qstr_Reinforcement_Thresh|Reinforcement Threshold Multiplier:
+qstr_Reinforcement_Amount|Reinforcement Amount Multiplier:
+qstr_Over_world_Options|Over-world Options
+qstr_Wait_Time_Multiplier|Wait Time Multiplier:
+qstr_Center_Waiting_Time:|Center Waiting Time:
+qstr_Zann_Invasion_Date:|Zann Invasion Date:
+qstr_Diplomacy_Options|Diplomacy Options
+qstr_Horse_speed_limitati|Horse speed limitation:
+qstr_Terrain_advantage_in|Terrain advantage in Autocalc battles:
+qstr_Lords_returning_from|Lords returning from exile:
+qstr___Disabled__|- Disabled -
+qstr_Enabled|Enabled
+qstr_Frequent|Frequent
+qstr_Diplomacy_AI_changes|Diplomacy AI changes:
+qstr_Low|Low
+qstr_Medium|Medium
+qstr_High/Experimental|High/Experimental
+qstr_Diplomacy_economic_c|Diplomacy economic changes:
+qstr_Anti_woman_prejudice|Anti-woman prejudice level:
+qstr_High|High
+qstr_Formations_Options|Formations Options
+qstr_Disable_Mod_Formatio|Disable Mod Formations:
+qstr_Allow_Formation_Rota|Allow Formation Rotation:
+qstr_Scale_AI_vs._Battle_|Scale AI vs. Battle Size:
+qstr_AI_Defense_Stance_Bl|AI Defense Stance Blocked:
+qstr_Put_Player_in_Divisi|Put Player in Division:
+qstr_Silverstag_Mod_Toggl|Silverstag Mod Toggle Options
+qstr_Enable_Combat_Sprint|Enable Combat Sprinting:
+qstr_Stamina_Bar_Color:|Stamina Bar Color:
+qstr_Gold|Gold
+qstr_Blue|Blue
+qstr_Green|Green
+qstr_Riders_Damaged_When_|Riders Damaged When Unhorsed:
+qstr_Enable_Encumbrance_P|Enable Encumbrance Penalties:
+qstr_Disable_village_alli|Disable village allies:
+qstr_Enable_Combat_Enhanc|Enable Combat Enhancements:
+qstr_Perisno^Options|Perisno^Options
+qstr_Faction_Colors|Faction Colors
+qstr_You_must_enable_NPC_|You must enable NPC party sorting for player fief sorting to take effect.
+qstr_If_Enabled_party_sor|If Enabled, party sorting will be turned on.^^This will sort all NPC parties (including garrisons), as well as allow the possibility of sorting player party and player fiefs^^Default = Enabled
+qstr_If_Enabled_all_garri|If Enabled, all garrisons in player fiefs will be sorted automatically (Must enable party sorting)^^Default = Disabled
+qstr_Disabling_NPC_Compla|Disabling NPC Complaints will mute your companion's complaints about each other or your decisions.  While disabled, companions will not leave the party regardless of how they feel about your leadership.
+qstr_If_Enabled_your_unit|If Enabled, your units will break formation and charge when you die.^^Default = Enabled
+qstr_If_Enabled_lords__pa|If Enabled, lords' parties will always charge in battle instead of dancing in circles.^^Default = Disabled
+qstr_If_Disabled_cavalry_|If Disabled, cavalry will not dismount in crowds (drawback - when dehorsed, riders will rather passively look for a new horse).^^Default = Disabled
+qstr_When_Enabled_bows_ge|When Enabled, bows get damage penalty against heavy armor while crossbows get armor penetration.^^Default = Enabled
+qstr_When_Enabled_soldier|When Enabled, soldiers will fire fire arrows during the night.^^Default = Enabled
+qstr_When_enabled_a_small|When enabled a small transparent map of the current battle will appear in the upper right corner of the combat screen.^^If unchecked, this will not appear.
+qstr_This_sets_the_maximu|This sets the maximum number of reinforcement waves.^^Default = 3
+qstr_This_sets_the_thresh|This sets the threshold for troops before a reinforcement is spawned.^^The actual threshold will depend on battle advantage and battle size options^^Default = 2
+qstr_This_sets_the_number|This sets the number of troops that appear in each reinforcement wave.^^The actual amount depends on battle advantage and battle size options^^Is not limited by battle size options^^Default = 2
+qstr_This_sets_the_time_m|This sets the time multiplier while resting and waiting.^^Default = 8
+qstr_This_sets_how_many_h|This sets how many hours you will spend while resting at a town or village.^^Default = 24
+qstr_After_this_date_the_|After this date, the Zann will invade (DO NOT SET IT TO AN EARLIER DATE THAN 35 DAYS FROM CURRENT DAY)^^Default = 156
+qstr_When_enabled_this_ca|When enabled, this causes horses to travel slower as they take damage.
+qstr_Ticked_autocalculate|Ticked, autocalculated battles give advantage to factions on their home terrain. Unticked, as in Native and auto-battles are only based on party size and troop levels.
+qstr_Allows_exiled_lords_|Allows exiled lords to be pardoned after a time and rejoin a faction to prevent 'lord-drain' in the late game.
+qstr_Low:^^___Center_poin|Low:^^ - Center points for fief allocation are calculated (villages 1 / castles 2 / towns 3) instead of (villages 1 / castles 1 / towns 2).^^ - For qst rescue prisoner and qst offer gift, the relatives that can be a target of the quest have been extended to include uncles and aunts and in-laws.^^ - Alterations to script calculate troop score for center (these changes currently are only relevant during claimant quests).^^ - When picking a new faction, lords are more likely to return to their original faction (except when that's the faction they're being exiled from), if the ordinary conditions for rejoining are met.  A lord's decision may also be influenced by his relations with other lords in the various factions, instead of just his relations with the faction leaders.^^Medium:^^ - Some changes for lord relation gains/losses when fiefs are allocated.^^ - Kings overrule lords slightly less frequently on faction issues.^^ - In deciding who to support for a fief, minor parameter changes for certain personalities. Some lords will still give priority to fiefless lords or to the lord who conquered the center if they have a slightly negative relation (normally the cutoff is 0 for all personalities).^^ - When a lord can't find any good candidates for a fief under the normal rules, instead of automatically supporting himself he uses a weighted scoring scheme.^^ - In various places where 'average renown * 3/2' appears, an alternate calculation is sometimes used.^^High:^^ - The 'renown factor' when an NPC lord or the player courts and NPC lady is adjusted by the prestige of the lady's guardian.^^ - When a faction has fiefless lords and no free fiefs left, under some circumstances the king will redistribute a village he owns.^^
+qstr_Low:^^___Caravan_tra|Low:^^ - Caravan trade benefits both the source and the destination^^ - When the player surrenders, there is a chance his personal equipment will not be looted, based on who accepted the surrender and the difficulty setting. (This is meant to address a gameplay issue. In the first 700 days or so, there is no possible benefit to surrendering rather than fighting to the last man.) Also, a bug that made it possible for books etc. to be looted was corrected.^^ - AI caravans take into consideration distance when choosing their next destination and will be slightly more like to visit their own faction. This strategy is mixed with the Native one, so the trade pattern will differ but not wildly.^^ - Scale town merchant gold by prosperity (up to a maximum 40% change).^^ - Food prices increase in towns that have been under siege for at least 48 hours.^^ - In towns the trade penalty script has been tweaked to make it more efficient to sell goods to merchants specializing in them.^^Medium:^^ - Food consumption increases in towns as prosperity increases.^^   Consumption also increases with garrison sizes.^^ - Lords' looting skill affects how much gold they take from the player when they defeat him.^^ - Lords' leadership skill modifies their troop wage costs the same way it does for the player.^^ - The player can lose gold when his fiefs are looted, like lords.^^ - The same way that lord party sizes increase as the player progresses, mercenary party sizes also increase to maintain their relevance. (The rate is the same as for lords: a 1.25% increase per level.)^^ - If the player has a kingdom of his own, his spouse will receive part of the bonus that ordinarily would be due a liege.  The extent of this bonus depends on the number of fiefs the players holds. This bonus is non-cumulative with the marshall bonus.^^ - Attrition is inflicted on NPC-owned centers if they can't pay wages, but only above a certain threshold.^^ - Strangers cannot acquire enterprises (enforced at 1 instead of at 0, so you have to do something).^^High: - The total amount of weekly bonus gold awarded to kings in Calradia   remains constant: as kings go into exile, their bonuses are divided among the remaining kings.^^ - If lord's run a personal gold surplus after party wages, the extra is divided among the lord and his garrisons budgets (each castle and town has its own pool of funds to pay for soldiers) on the basis of whether the lord is low on gold or any of his fortresses are. (If none are low   on gold, the lord takes everything, like before.)^^ - The honor loss from an offense depends in part on the player's honor   at the time.  The purer the reputation, the greater the effect of a single disagrace.^^ - Raiding change: village gold lost is removed from uncollected taxes before the balance (if any) is removed from the lord.^^ - Cash for prisoners
+qstr_Disabled_levels_the_|Disabled levels the playing-field for female player characters. Default as in Native. High increases the sexism/anti-woman prejudice of the medieval setting for female player characters.
+qstr_If_checked_this_disa|If checked this disables the formation mod.^^Default = Disabled
+qstr_If_enabled_this_allo|If enabled, this allows your formations to pivot to face the center of the enemy's party.^^Default = Enabled
+qstr_If_enabled_reduces_t|If enabled, reduces the intelligence of the AI when in larger battles to help improve performance.^^Default = Enabled
+qstr_If_enabled_prevents_|If enabled, prevents the AI from taking up a defensive stance leading to prolonged waiting periods.^^Default = Enabled
+qstr_This_sets_which_divi|This sets which division the player is made a part of.^^Default = 9
+qstr_When_enabled_soldier|When enabled, soldiers (player and AI) on foot may attempt to close the gap with their enemy at a sprinting speed based upon their agility, strength & athletics.^^Note: Turning this off will help CPU performance.
+qstr_This_sets_the_color_|This sets the color of the stamina bar.
+qstr_When_checked_this_wi|When checked, this will cause any mounted rider (player or AI) to receive damage when their mount is taken out from under them.  Damage is increased based upon the speed the mount was moving and the total weight of the rider and reduced by the rider's riding skill.^^Note: Turning this off will help CPU performance.
+qstr_When_checked_the_pla|When checked, the player and companions will have penalties to athletics, shield, power draw, riding & horse archery based upon the total weight of their equipment.^^Note: Turning this off will greatly help CPU performance.
+qstr_When_enabled_this_pr|When enabled, this prevents villagers from joining your side while you're defending their village.
+qstr_When_enabled_this_al|When enabled, this allows Silverstag combat enhancements (including several above options and shield bash).
+qstr_CURRENT_COMMANDER_S_|CURRENT COMMANDER'S REPORT!
+qstr_Your_Commander:_{s19|Your Commander: {s19}
+qstr_Commander_Relation:_|Commander Relation: {reg0}
+qstr_Enlisted_Faction:_{s|Enlisted Faction: {s20}
+qstr_Current_Rank:_{s21}|Current Rank: {s21}
+qstr_N/A|N/A
+qstr_Experience_to_next_p|Experience to next promotion: {s1}
+qstr_Days_in_service:_{re|Days in service: {reg20}
+qstr_Current_Wage:_{reg23|Current Wage: {reg23} denars.
+qstr_Next_Pay/Promotion_d|Next Pay/Promotion day: {s25}
+qstr_Army_size:_{reg26}|Army size: {reg26}
+qstr_Commander_s_Army|Commander's Army
+qstr_Infantry_Unit|Infantry Unit
+qstr_Ranged_Unit|Ranged Unit
+qstr_Cavalry_Unit|Cavalry Unit
+qstr_Undefined_Class_#{re|Undefined Class #{reg31}
+qstr_Encumbrance_Effects:|Encumbrance Effects:
+qstr_Athletics:|Athletics:
+qstr_{reg21}|{reg21}
+qstr_Shield:|Shield:
+qstr_Riding:|Riding:
+qstr_Horse_Archery:|Horse Archery:
+qstr_Power_Draw:|Power Draw:
+qstr_Abilities:|Abilities:
+qstr_General_Information:|General Information:
+qstr_Weight:|Weight:
+qstr_Armor_Rating:|Armor Rating:
+qstr_Level:|Level:
+qstr_Melee_Rating:|Melee Rating:
+qstr_Health:|Health:
+qstr_{reg0}|{reg0}
+qstr_Ranged_Rating:|Ranged Rating:
+qstr_Ranged:|Ranged:
+qstr_Yes|Yes
+qstr_No|No
+qstr_Mounted:|Mounted:
+qstr_Attributes:|Attributes:
+qstr_Strength:|Strength:
+qstr_Intelligence:|Intelligence:
+qstr_Agility:|Agility:
+qstr_Charisma:|Charisma:
+qstr_Skills:|Skills:
+qstr_Power_Strike:|Power Strike:
+qstr_Ironflesh:|Ironflesh:
+qstr_Power_Throw:|Power Throw:
+qstr_Tactics:|Tactics:
+qstr_Weapon_Master:|Weapon Master:
+qstr_Weapon_Proficiencies|Weapon Proficiencies:
+qstr_One_Handed:|One Handed:
+qstr_Archery:|Archery:
+qstr_Two_Handed:|Two Handed:
+qstr_Crossbows:|Crossbows:
+qstr_Polearms:|Polearms:
+qstr_Throwing:|Throwing:
+qstr_Equipment:|Equipment:
+qstr_Player_Faction|Player Faction
+qstr_{s21}|{s21}
+qstr_Faction_Design^by_Pe|Faction Design^by Perisno
+qstr_TIER_{reg21}|TIER {reg21}
+qstr_Female_Perisno_Troop|Female Perisno Troops
+qstr_Perisno_Pilgrims|Perisno Pilgrims
+qstr_Female_Perisno_Pilgr|Female Perisno Pilgrims
+qstr_Male_Mercenaries|Male Mercenaries
+qstr_Female_Mercenaries|Female Mercenaries
+qstr_Female_Troops|Female Troops
+qstr_Glory_Seeking_Men|Glory-Seeking Men
+qstr_Freelancer_Guild_Tro|Freelancer Guild Troops
+qstr_Bandits|Bandits
+qstr_Player_s_Mercenaries|Player's Mercenaries
+qstr_{s1}^HP:_{reg0}|{s1}^HP: {reg0}
+qstr_{s3}^STR:_{reg1}^INT|{s3}^STR: {reg1}^INT: {reg2}^^Skills:
+qstr_{s3}^Power_Strike:_{|{s3}^Power Strike: {reg1}^Power Draw: {reg2}^Power Throw: {reg3}^Horse Archery: {reg4}^^Weapon Proficiencies:
+qstr_{s3}^1_Hand_Wpns:_{r|{s3}^1 Hand Wpns: {reg1}^2 Hand Wpns: {reg2}^Polearms: {reg3}
+qstr_{s4}^AGI:_{reg1}^CHA|{s4}^AGI: {reg1}^CHA: {reg2}^^
+qstr_{s4}^Ironflesh:_{reg|{s4}^Ironflesh: {reg1}^Athletics: {reg2}^Shield: {reg3}^Riding: {reg4}^^
+qstr_{s4}^Archery:_{reg1}|{s4}^Archery: {reg1}^Crossbows: {reg2}^Throwing: {reg3}
+qstr_{s4}|{s4}
+qstr_Equipments:_|Equipments: 
+qstr_Back|Back
+qstr_Character_Creation|Character Creation
+qstr_Background:|Background:
+qstr_I_am_a...|I am a...
+qstr_Man|Man
+qstr_Woman|Woman
+qstr_My_race_is...|My race is...
+qstr_human|human
+qstr_elf|elf
+qstr_dwarf|dwarf
+qstr_giant__men_only!_|giant (men only!)
+qstr_My_father_was...|My father was...
+qstr_an_impoverished_nobl|an impoverished noble
+qstr_a_travelling_merchan|a travelling merchant
+qstr_a_veteran_warrior|a veteran warrior
+qstr_a_hunter|a hunter
+qstr_a_simple_messanger|a simple messanger
+qstr_a_thief|a thief
+qstr_a_religious_zealot|a religious zealot
+qstr_Growing_up_I_liked..|Growing up I liked...
+qstr_swimming|swimming
+qstr_shooting|shooting
+qstr_riding|riding
+qstr_scouting|scouting
+qstr_reading|reading
+qstr_crafting|crafting
+qstr_stealing|stealing
+qstr_As_an_adult_I_became|As an adult, I became...
+qstr_an_army_recruit|an army recruit
+qstr_a_bounty_hunter|a bounty hunter
+qstr_a_bandit|a bandit
+qstr_a_smith|a smith
+qstr_a_physician|a physician
+qstr_a_spy|a spy
+qstr_a_squire|a squire
+qstr_a_lady_in_waiting|a lady-in-waiting
+qstr_I_am_adventuring...|I am adventuring...
+qstr_for_personal_revenge|for personal revenge
+qstr_because_I_lost_a_lov|because I lost a loved one
+qstr_because_of_wanderlus|because of wanderlust
+qstr_because_I_was_forced|because I was forced out of my home
+qstr_for_money_and_power|for money and power
+qstr_to_learn_more_about_|to learn more about the old kingdom of Perisno
+qstr_because_of_a_strange|because of a strange accident
+qstr_Biography:|Biography:
+qstr_Stat_Changes:|Stat Changes:
+qstr_Str|Str
+qstr_Agi|Agi
+qstr_Int|Int
+qstr_Cha|Cha
+qstr_Renown|Renown
+qstr_One_Handed|One Handed
+qstr_Two_Handed|Two Handed
+qstr_Polearms|Polearms
+qstr_Bows|Bows
+qstr_Crossbows|Crossbows
+qstr_Throwing|Throwing
+qstr_Start_of_game|Start of game
+qstr_I_m_alive!_End_of_Ga|I'm alive! End of Game Start.
+qstr__near_{s10}| near {s10}
+qstr_Your_recruiter_who_w|Your recruiter who was commissioned to recruit {reg10} recruits to {s13} has been defeated{s10}!
+qstr_Your_caravan_sending|Your caravan sending {s12} to {s13} has been defeated{s10}!
+qstr_Your_messenger_on_th|Your messenger on the way to {s13} has been defeated{s10}!
+qstr_Your_soldiers_patrol|Your soldiers patrolling {s13} have been defeated{s10}!
+qstr_A_scout_trying_to_ga|A scout trying to gather information about {s13} has been slain{s10}!
+qstr_{s1}_of_{s3}_was_def|{s1} of {s3} was defeated in battle but managed to escape.
+qstr_{s1}_is_now_a_prison|{s1} is now a prisoner of {s2}.
+qstr_^Age:_{reg1}|^Age: {reg1}
+qstr_{s54}_is_a_claimant_|{s54} is a claimant to the throne of {s56}.
+qstr_nowhere|nowhere
+qstr_{s57}_and_{s58}|{s57} and {s58}
+qstr_{reg3?She:He}|{reg3?She:He}
+qstr_unknown|unknown
+qstr_{reg26}|{reg26}
+qstr_The_town_of_{s50}|The town of {s50}
+qstr_The_village_of_{s50}|The village of {s50} near {s52}
+qstr_{s51}_belongs_to_{s1|{s51} belongs to {s1} of {s2}, and is where you make your court.^
+qstr_{s51}_belongs_to_{s1}|{s51} belongs to {s1} of {s2}, and is where {reg0?she:he} makes {reg0?her:his} court.^
+qstr_{s51}_belongs_to_{s1}_|{s51} belongs to {s1} of {s2}, and is where {reg0?she:he} makes {reg0?her:his} home.^
+qstr_{s51}_belongs_to_{s1}_o|{s51} belongs to {s1} of {s2}.^
+qstr_{s51}_belongs_to_{s2|{s51} belongs to {s2} but has not yet been granted to a lord.^
+qstr_{s51}_belongs_to_{s2}|{s51} belongs to {s2}.^
+qstr_{s2}Its_market_town_|{s2}Its market town is {s8}.^
+qstr_{s7}_and_{s8}|{s7} and {s8}
+qstr_{s2}It_has_no_villag|{s2}It has no villages.^
+qstr_{s2}{reg0?Its_villag|{s2}{reg0?Its villages are:Its village is} {s8}.^
+qstr_{s2}Its_prosperity_i|{s2}Its prosperity is: {s50}
+qstr_noone|noone
+qstr_{s9}_and_{s10}|{s9} and {s10}
+qstr_{s5}_has_been_defeat|{s5} has been defeated!
+qstr_{s7}_opened_the_gate|{s7} opened the gate
+qstr_{s7}_closed_the_gate|{s7} closed the gate
+qstr_{s0}|{s0}
+qstr_+{reg1}_to_party_mor|+{reg1} to party morale
+qstr_Requires_{reg1}_inte|Requires {reg1} intelligence to read
+qstr_Reading_Progress:_{r|Reading Progress: {reg1}%
+qstr_wound_treament|wound treament
+qstr_trainer|trainer
+qstr_surgery|surgery
+qstr_trade|trade
+qstr_+1_to_{s1}_while_in_|+1 to {s1} while in inventory
+qstr_Forged_by_Master_Bla|Forged by Master Blacksmith Einsvarth, imbued with element of fire.
+qstr_Fell_from_the_sky_as|Fell from the sky as an meteorite, forge in the fire mountain by Sky King.
+qstr_The_long_lost_treasu|The long lost treasure of Nisaynian people, a relic sword that gets sharper with time.
+qstr_There_was_no_context|There was no context of what is this sword.
+qstr_Its_blade_brings_fla|Its blade brings flame upon the battlefield, slices its opponent in half like 'hot' knife through butter.
+qstr_This_is_the_sword_of|This is the sword of the Chosen One.
+qstr_It_holds_the_symbol_|It holds the symbol of a true ruler, said to have once belonged to the first ruler of Nisaynia.
+qstr_It_gives_off_a_fears|It gives off a fearsome aura, is very heavy despite its looks and certainly is a monstrous weapon.
+qstr_Move_here|Move here
+qstr_View_notes|View notes
+qstr_CHEAT:_Get_Ideal_Par|CHEAT: Get Ideal Party Size
+qstr_CHEAT:_Get_Daily_Wag|CHEAT: Get Daily Wage
+qstr_CHEAT:_Get_Autocalc_|CHEAT: Get Autocalc STR
+qstr_CHEAT:_Get_Normal_Pa|CHEAT: Get Normal Party's Weekly Wage
+qstr_CHEAT:_Give_10000_XP|CHEAT: Give 10000 XP
+qstr_DANGEROUS_CHEAT:_Rev|DANGEROUS CHEAT: Revome This Party
+qstr_Accompany|Accompany
+qstr_Ideal_Party_Size_is_|Ideal Party Size is {reg0}.
+qstr_Daily_payment_is_{re|Daily payment is {reg0}.
+qstr_Cashed_daily_net_inc|Cashed daily net income is {reg0}.
+qstr_STR_in_Terrain_=_{re|STR in Terrain = {reg0}
+qstr_STR_=_{reg0}|STR = {reg0}
+qstr_Weekly_wage_=_{reg0}|Weekly wage = {reg0}
+qstr_killed|killed
+qstr_wounded|wounded
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^TOTAL: {reg3} ({s2})
+qstr_^None|^None
+qstr_nothing|nothing
+qstr_{reg0}_village{reg1?|{reg0} village{reg1?s:}
+qstr_{reg0}_castle{reg1?s|{reg0} castle{reg1?s:}
+qstr_{reg0}_castle{reg1?s:|{reg0} castle{reg1?s:} and {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0} town{reg1?s:}
+qstr_{reg0}_town{reg1?s:}_|{reg0} town{reg1?s:} and {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0} town{reg1?s:}, {s0}
+qstr_Your_opponents_are_r|Your opponents are ready for the fight.
+qstr_Try_to_destroy_as_ma|Try to destroy as many targets as you can. You have two and a half minutes to clear the track.
+qstr_Stay_behind_the_line|Stay behind the line on the ground and shoot the targets. Try not to waste any shots.
+qstr_Battle_Advantage_=_{|Battle Advantage = {reg0}.
+qstr_{s9}_wants_you_to_re|{s9} wants you to resume following his army until further notice.
+qstr_{s5}_of_the_{s7}_has|{s5} of the {s7} has taken ownership of {s4}.
+qstr_{s4}_has_been_awarde|{s4} has been awarded to {s5} of the {s7}.
+qstr__Being_Raided_|(Being Raided)
+qstr__Looted_|(Looted)
+qstr__Under_Siege_|(Under Siege)
+qstr_The_village_of_{s1}_|The village of {s1} has been looted by {s2}.
+qstr_{s3}_is_no_longer_un|{s3} is no longer under siege.
+qstr_Small_bands_of_enemi|Small bands of enemies spotted near {s1}.
+qstr_Enemy_patrols_spotte|Enemy patrols spotted near {s1}.
+qstr_Medium_sized_group_o|Medium-sized group of enemies spotted near {s1}.
+qstr_Significant_group_of|Significant group of enemies spotted near {s1}.
+qstr_Army_of_enemies_spot|Army of enemies spotted near {s1}.
+qstr_Large_army_of_enemie|Large army of enemies spotted near {s1}.
+qstr_Great_host_of_enemie|Great host of enemies spotted near {s1}.
+qstr__{s10}_of_{s13}_recr| {s10} of {s13} recruits {s11} {s12} in {s14}
+qstr_{s1}_has_been_besieg|{s1} has been besieged by {s2} of {s3}.
+qstr__{s1}__{s11}:_{s14}|({s1}) {s11}: {s14}
+qstr_{s14}__{s21}_|{s14} ({s21})
+qstr_{s5}_has_the_greates|{s5} has the greatest support among the lords of the {s4} to be the next marshall.  {s0} is indisposed and cannot overrule their choice.
+qstr_{s5}_has_the_greatest|{s5} has the greatest support among the lords of the {s4} to receive {s1}.  {s0} is indisposed and cannot overrule their choice.
+qstr_{s5}_has_the_greatest_|{s5} has the greatest support among the lords of the {s4} to be the next marshall, but {s0} overrules their choice.
+qstr_{s5}_has_the_greatest_s|{s5} has the greatest support among the lords of the {s4} to receive {s1}, but {s0} overrules their choice.
+qstr_{s1}_is_the_new_mars|{s1} is the new marshal of {s2}.
+qstr_You_gained_{reg12}_r|You gained {reg12} renown.
+qstr_You_lose_{reg12}_ren|You lose {reg12} renown.
+qstr_Your_relation_with_{|Your relation with {s1} has improved.
+qstr_Your_relation_with_{s|Your relation with {s1} has deteriorated.
+qstr_You_gain_honour.|You gain honour.
+qstr_You_lose_honour.|You lose honour.
+qstr_People_of_the_Realm_|People of the Realm Of The Falcon are appalled at your decision and are leaving your kingdom.
+qstr_{s1}_has_declared_wa|{s1} has declared war against {s2}.
+qstr_{s0}_is_laying_siege|{s0} is laying siege to {s1}.
+qstr_{s0}_is_patrolling_a|{s0} is patrolling around {s1}.
+qstr_{s0}_is_raiding_arou|{s0} is raiding around {s1}.
+qstr_{s0}_is_engaging_{s1|{s0} is engaging {s1}.
+qstr_{s0}_is_accompanying|{s0} is accompanying {s1}.
+qstr_{s0}_is_screening_th|{s0} is screening the advance of {s1}.
+qstr_{s0}_is_trading_with|{s0} is trading with {s1}.
+qstr_{s0}_is_retreating_t|{s0} is retreating to {s1}.
+qstr_{s0}_is_visiting_{s1|{s0} is visiting {s1}.
+qstr_{s1}_and_{s2}_have_m|{s1} and {s2} have made peace with each other.
+qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?was:is currently} at {s3}.
+qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?was:is} travelling to {s3} and {reg4?she:he} {reg3?was:should be} close to {s4}{reg3?: at the moment}.
+qstr_{s2}_{reg3?was:is}_tr|{s2} {reg3?was:is} travelling to {s3} and {reg4?she:he} {reg3?was:should be} between {s4} and {s1}{reg3?: at the moment}.
+qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?was:is} in the field and {reg4?she:he} {reg3?was:should be} close to {s3}{reg3?: at the moment}.
+qstr_{s2}_{reg3?was:is}_in|{s2} {reg3?was:is} in the field and {reg4?she:he} {reg3?was:should be} between {s3} and {s1}{reg3?: at the moment}.
+qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?was:is} being held captive at {s3}.
+qstr_{s2}_{reg3?was:has_b|{s2} {reg3?was:has been} taken captive by {reg4?her:his} enemies.
+qstr_{reg3?{s2}_s_locatio|{reg3?{s2}'s location was unknown:I don't know where {s2} is}.
+qstr_{s6}_has_joined_your|{s6} has joined your party.
+qstr_Press_NUM1_to_store_|Press NUM1 to store 10000 aurums in this fief's treasury or NUM2 to withdraw 10000 aurums. Press NUM3 to switch on/off this fief accumulating money from rents/tariffs/enterprises instead of sending them to you.
+qstr_You_now_owe_{reg2}_a|You now owe {reg2} aurums to {s1}.
+qstr_Total_friends_STR_=_|Total friends STR = {reg3}, main party STR = {reg5}, total enemy STR = {reg4}
+qstr_BS_bonus_=_{reg3}.|BS bonus = {reg3}.
+qstr_Renown_value_for_thi|Renown value for this battle is {reg8}.
+qstr_You_have_run_into_a_|You have run into a trap!
+qstr_You_are_attacked_by_|You are attacked by a group of bandits!
+qstr_Your_party_consumed_|Your party consumed {reg1} units of food{reg4?, {reg4} from foraging : }({reg2} days left).
+qstr_{s2}_managed_to_fora|{s2} managed to forage {reg4} units of food to complement supplies.
+qstr_Holding|Holding
+qstr_Following|Following
+qstr_Charging|Charging
+qstr_Advancing|Advancing
+qstr_Falling_Back|Falling Back
+qstr_Standing_Closer|Standing Closer
+qstr_Spreading_Out|Spreading Out
+qstr_Standing|Standing
+qstr_Free|Free
+qstr_Any_Weapon|Any Weapon
+qstr_Blunt_Weapons|Blunt Weapons
+qstr_Your_soldiers_patroll|Your soldiers patrolling {s6} disbanded because you left the faction!
+qstr_{s1}_Rebels|{s1} Rebels
+qstr_Given_by:_{s62}|Given by: {s62}
+qstr_Given_on:_{s60}|Given on: {s60}
+qstr_You_have_{reg0}_days|You have {reg0} days to finish this quest.
+qstr_This_quest_has_been_|This quest has been concluded. Talk to {s59} to finish it.
+qstr_The_quest_is_complet|The quest is complete. The customer is satisfied. Talk to the Chevalier of Fortune Michael Enigmatic or Knight of Fortune Alik Grizzled or Adventuress Melanie Comely or Meadbrewer.
+qstr_The_quest_is_complete|The quest is complete. The customer is satisfied. Talk to the Chevalier of Fortune Michael Enigmatic or Knight of Fortune Alik Grizzled or Adventuress Melanie Comely.
+qstr_This_quest_has_been_s|This quest has been successfully completed. Talk to {s59} to claim your reward.
+qstr_This_quest_has_faile|This quest has failed. Talk to the Chevalier of Fortune Michael Enigmatic or Knight of Fortune Alik Grizzled or Adventuress Melanie Comely or Meadbrewer to explain the situation.
+qstr_This_quest_has_failed|This quest has failed. Talk to the Chevalier of Fortune Michael Enigmatic or Knight of Fortune Alik Grizzled or Adventuress Melanie Comely to explain the situation.
+qstr_This_quest_has_failed.|This quest has failed. Talk to {s59} to explain the situation.
+qstr_At_the_time_quest_wa|At the time quest was given:^{s1}
+qstr_{s5}_has_a_strength_|{s5} has a strength of {reg1} men in total.
+qstr_The_last_time_you_sa|The last time you saw {reg1?her:him}, {s1}
+qstr_The_last_time_you_he|The last time you heard about {reg1?her:him}, {s1}
+qstr_Current_garrison_con|Current garrison consists of {reg5} men.^Has food stock for {reg6} days.
+qstr_Very_Poor|Very Poor
+qstr_Poor|Poor
+qstr_Average|Average
+qstr_Rich|Rich
+qstr_Very_Rich|Very Rich
+qstr_Scouts_report_that_t|Scouts report that the Horde of Khergia is heading to {s3}.
+qstr_Scouts_report_that_th|Scouts report that the Horde of Sine is heading to {s3}.
+qstr_Scouts_report_that_the|Scouts report that the Horde of Shun Ha is heading to {s3}.
+qstr_Scouts_report_that_the_|Scouts report that the Horde of Jin is heading to {s3}.
+qstr_Manor|Manor
+qstr_A_manor_lets_you_res|A manor lets you rest at the village and pay your troops half wages while you rest.
+qstr_Mill|Mill
+qstr_A_mill_increases_vil|A mill increases village prosperity by 5%.
+qstr_Watch_Tower|Watch Tower
+qstr_A_watch_tower_lets_t|A watch tower lets the villagers raise alarm earlier. The time it takes for enemies to loot the village increases by 50%.
+qstr_School|School
+qstr_A_shool_increases_th|A shool increases the loyality of the villagers to you by +1 every month.
+qstr_Messenger_Post|Messenger Post
+qstr_A_messenger_post_let|A messenger post lets the inhabitants send you a message whenever enemies are nearby, even if you are far away from here.
+qstr_Prison_Tower|Prison Tower
+qstr_A_prison_tower_reduc|A prison tower reduces the chance of captives held here running away successfully.
+qstr_Palisade|Palisade
+qstr_A_palisade_is_a_simp|A palisade is a simple wooden wall around the village that helps protect from enemies.  The time it takes for enemies to loot the village increases by 25%.
+qstr_Caltrops|Caltrops
+qstr_Caltrops_are_set_aro|Caltrops are set around the village when enemies are sighted.  It prevents horses from being used in the attack, but it also prevents them from being used in the defense.
+qstr_Merchant_Guild_Hall|Merchant Guild Hall
+qstr_Build_it_to_please_t|Build it to please the merchant community and engage in trade enterprises. Increases the town prosperity every week.
+qstr_University|University
+qstr_Build_it_to_increase|Build it to increase and spread knowledge in your name. Increases your renown and town/s relation every week.
+qstr_Blacksmith|Blacksmith
+qstr_A_blacksmith_refills|A blacksmith refills your and your troops ammo every minute during a defensive siege.
+qstr_Caravan_Escort_Outpo|Caravan Escort Outpost
+qstr_A_caravan_escort_out|A caravan escort outpost sends 30 extra mercenaries with any caravan that originates from the town, more than enough to defend from the wandering mercenary war parties.
+qstr_Bookstore|Bookstore
+qstr_A_bookstore_adds_a_r|A bookstore adds a random weekly selection of books to the goods vendor.
+qstr_Festival_Square|Festival Square
+qstr_A_festival_square_al|A festival square allows the town to have a regular bazaar and hold monthly festivals.  The loyalty of a town increases monthly and party morale increases for every day spent in town.
+qstr_Prosperity_of_{s2}_h|Prosperity of {s2} has changed from {s3} to {s4}.
+qstr_{s4}_looks_upset.|{s4} looks upset.
+qstr_your_party|your party
+qstr_{reg0?One_of_your_pr|{reg0?One of your prisoners, :}{s1} of {s3} has escaped from captivity!
+qstr_You_brought_{reg3}_h|You brought {reg3} heads of cattle to {s1}.
+qstr_I_heard_that_there_w|I heard that there will be a tournament in {s62} soon.
+qstr_I_heard_some_people_|I heard some people say they don't believe {s6} is really dead.
+qstr_I_heard_a_traveller_|I heard a traveller say that he came across {s6} while journeying outside these lands.
+qstr_I_heard_that_{s6}_in|I heard that {s6} intends to raise an army and seize the throne from {s61}.
+qstr_I_heard_that_one_can|I heard that one can buy {s62} very cheap at {s63}.
+qstr_I_heard_that_they_pa|I heard that they pay a very high price for {s62} at {s63}.
+qstr_Relation_with_factio|Relation with faction leader: {reg0}
+qstr_Relation_with_faction|Relation with faction: {reg0}
+qstr_two_days_ago|two days ago
+qstr_You_gain_right_to_ru|You gain right to rule.
+qstr_You_lose_right_to_ru|You lose right to rule.
+qstr_{s0}^{s1}|{s0}^{s1}
+qstr_{reg0}_aurums_added_|{reg0} aurums added to treasury.
+qstr_{reg0}_aurums_remove|{reg0} aurums removed from the treasury of {s26}.
+qstr_{s1}_and_{s2}_have_e|{s1} and {s2} have entered into an alliance with each other.
+qstr_{s1}_and_{s2}_have_c|{s1} and {s2} have concluded a defensive pact with each other.
+qstr_{s1}_and_{s2}_have_co|{s1} and {s2} have concluded a trade agreement with each other.
+qstr_{s1}_and_{s2}_have_con|{s1} and {s2} have concluded a non aggression pact with each other.
+qstr_{s5}_patrol|{s5} patrol
+qstr_Transfer_to_{s5}|Transfer to {s5}
+qstr_{s5}_scout|{s5} scout
+qstr_{s4}_has_returned_fr|{s4} has returned from exile, seeking refuge with {s6} of {s5}.
+qstr_{s4}_has_been_grante|{s4} has been granted a pardon by {s6} of {s5} and has returned from exile.
+qstr_Given_the_way_things|Given the way things stand between us at the moment, {playername}, I would not consider it prudent to enter into such an arrangement.
+qstr_{playername}_I_am_gr|{playername}, I am grateful to you, but in the eyes of the people you do not have sufficient legitimacy as a potential co-ruler.  Marrying you would undermine my own claim to the throne.
+qstr_{playername}_I_know_|{playername}, I know that if it were not for you I would not sit on this throne, but your name is little renowned in Perisno.  Marrying you would be perceived as an uneven match and would call into question my own claim to the throne.
+qstr_{playername}_I_am_gra|{playername}, I am grateful for your assistance in regaining my rightful throne, but you do not have sufficient personal holdings to be a suitable match for me.  It would be an uneven partnership.
+qstr_{playername}_I_am_grat|{playername}, I am grateful to you, but if I were to accept at this time I would risk offending powerful lords such as {s15}, who may consider themselves to have honor equal to or greater than your own.
+qstr_{playername}_I_am_grate|{playername}, I am grateful to you, but if I were to accept at this time I would risk offending great lords such as {s15}, who may consider themselves to have honor equal to or greater than your own.
+qstr_{playername}_while_I|{playername}, while I am grateful to you, I must confess I am fond of {s15}.
+qstr_Our_realm_has_too_fe|Our realm has too few vassals.  In the current precarious state of the affairs I must use the lure of a potential political alliance to attract new vassals, and cannot yet be seen to commit to any single {reg65?suitor:candidate}.
+qstr_Because_I_have_insuf|Because I have insufficient personal holdings compared to {s15}, if I entered into such an arrangement I would risk appearing to be a puppet, throwing the stability of the realm into jeopardy.
+qstr_Because_my_personal_|Because my personal holdings are insufficiently large compared to other lords of the {s14}, if I entered into such an arrangement I would risk appearing to be a puppet, throwing the stability of the realm into jeopardy.
+qstr_I_am_grateful_to_you|I am grateful to you, {playername}, but you have too many enemies among the lords of the {s14} for your proposal to be politically viable.  If I were to accept, there might be a revolt.
+qstr_You_have_engendered_|You have engendered too much controversy recently, {playername} .  If I were to accept at this time, there might be a revolt among the lords of the {s14}.  Let us speak of this later when the furor has died down.
+qstr_If_you_desire_to_lea|If you desire to lead the {s14} alongside me, gather support among my vassals to become marshall, and demonstrate to them your abilities as a war leader.
+qstr_Our_realm_has_lost_t|Our realm has lost too much territory.  We once held {s1} but now only hold {s0}.  In the current precarious state of affairs I must retain the possibility of a political alliance to use as a bargaining chip with the other sovereigns, so I yet be seen to commit to any single {reg65?suitor:candidate}.  Restore the {s14} to its former glory, and I will gladly have you rule beside me as my {husband/wife}.
+qstr_{s0}_{reg0?have:has}|{s0} {reg0?have:has} been lost to foreign hands.  Restore the {s14} to its rightful boundaries, and I will gladly have you rule beside me as my {husband/wife}.
+qstr_You_have_only_been_m|You have only been marshall for {reg0} {reg1?days:day}.  Let us speak of this after you have held the post for at least two weeks.
+qstr_If_not_for_you_I_wou|If not for you I would not sit on this throne, {playername}.  When we started our long walk, few people had the courage to support me.  And fewer still would be willing to put their lives at risk for my cause.  But you didn't hesitate for a moment in throwing yourself at my enemies. We have gone through a lot together, and with God's help, we prevailed.  I will gladly accept you as both my {husband/wife} and co-ruler of the {s14}.
+qstr_You_sold_{reg1}_{reg|You sold {reg1} {reg3?items:item} to {s0} and gained {reg0} {reg3?aurums:aurum}.
+qstr_You_sold_{reg1}_{reg3|You sold {reg1} {reg3?items:item} to the {s0} and gained {reg0} {reg3?aurums:aurum}.
+qstr_You_have_bought_{reg|You have bought {reg2} {reg4?kinds:kind} of food and lost {reg1} {reg3?aurums:aurum}.
+qstr_You_sold_{reg2}_{reg|You sold {reg2} {reg4?kinds:kind} of rotten food and gained {reg1} {reg3?aurums:aurum}.
+qstr_axe|axe
+qstr_spear|spear
+qstr_bow|bow
+qstr_sword|sword
+qstr_axes|axes
+qstr_spears|spears
+qstr_bows|bows
+qstr_swords|swords
+qstr_swing_my_axe|swing my axe
+qstr_lift_my_spear|lift my spear
+qstr_loose_my_arrows|loose my arrows
+qstr_swing_my_sword|swing my sword
+qstr_sultan|sultan
+qstr_khans|khans
+qstr_sultans|sultans
+qstr_kings|kings
+qstr_lord|lord
+qstr_lords|lords
+qstr_goatherd|goatherd
+qstr_swineherd|swineherd
+qstr_stable_{reg33?girl:b|stable {reg33?girl:boy}
+qstr_shepherd_{reg33?girl|shepherd {reg33?girl:boy}
+qstr_kvass|kvass
+qstr_kumis|kumis
+qstr_mead|mead
+qstr_wine|wine
+qstr_{reg6?M:m}y_poppet|{reg6?M:m}y poppet
+qstr_{reg0?Y:y}ou|{reg0?Y:y}ou
+qstr_{reg0?M:m}yself|{reg0?M:m}yself
+qstr_{reg0?O:o}ur_{s1}_{s|{reg0?O:o}ur {s1} {s0}
+qstr_{reg0?M:m}y_{s1}_{s0|{reg0?M:m}y {s1} {s0}
+qstr_{reg0?Y:y}our_{s1}_{|{reg0?Y:y}our {s1} {s0}
+qstr_{s2}:_{reg3}_{reg4}_|{s2}: {reg3}, {reg4} days
+qstr_{s4}:_{reg4}|{s4}: {reg4}
+qstr_{s1}_gathering_suppo|{s1}(gathering support)
+qstr_{s1}__intelligence_|{s1} (intelligence)
+qstr_{s1}__ambassy_|{s1} (ambassy)
+qstr_{s1}__minister|{s1} (minister
+qstr_{s1}__under_arms_|{s1} (under arms)
+qstr_{s1}__attempting_to_|{s1} (attempting to rejoin)
+qstr_{s1}__separated_afte|{s1} (separated after battle)
+qstr__knows_of_you.| knows of you.
+qstr__has_no_opinion_abou| has no opinion about you.
+qstr_{s57}_and_{s50}|{s57} and {s50}
+qstr_Calradia.|Calradia.
+qstr_sworn_man|sworn man
+qstr_ruler|ruler
+qstr_free_man|free man
+qstr_{s1}_Renown:_{reg40}|{s1} Renown: {reg40}, Controversy: {reg41}^Honor: {reg42}, Right to rule: {reg43}^You are a {s44} of {s45}^{reg45?{reg46?Your liege, {s46},{s47}:You are the ruler of {s45}}:}^^Friends: ^Enemies: ^^Fiefs:^  {reg50?{s50}:no fief}
+qstr_{s1}{s2}_{reg46?Repu|{s1}{s2} {reg46?Reputed to be {s42}:}^Renown: {reg40}, Controversy: {reg41} {reg46?Impatience: {reg43}:}^{s44} noble of the {s45}^{reg46?Liege: {s46}, Relation: {reg47}:Ruler of the {s45}}^^{reg48?Currently prisoner of the {s48}:}^Days since last meeting: {reg49}^^Fiefs {reg51?(was promised a fief):}:^  {reg50?{s50}:no fief}
+qstr_conventional|conventional
+qstr_adventurous|adventurous
+qstr_otherwordly|otherwordly
+qstr_ambitious|ambitious
+qstr_moralist|moralist
+qstr_just_met|just met
+qstr_admirer|admirer
+qstr_promised|promised
+qstr_breakup|breakup
+qstr_Heroic_{s50}|Heroic {s50}
+qstr_Allegoric_{s50}|Allegoric {s50}
+qstr_Comic_{s50}|Comic {s50}
+qstr_Mystic_{s50}|Mystic {s50}
+qstr_Tragic_{s50}|Tragic {s50}
+qstr_{s1}{s2}_Controversy|{s1}{s2} Controversy: {reg41}^Reputation: {s42}, Courtship state: {s43}^Belongs to the {s45}^{reg46?Her father, {s46}:Her guardian, {s46}}{s47}^Allowed to visit: {reg45?yes:no} {reg48?Betrothed to {s48}:}^^Days since last meeting: {reg49}^^Poems:^  {reg50?{s50}:no poem heard}
+qstr_Gathering_support|Gathering support
+qstr_Gathering_intelligen|Gathering intelligence in the {s66}
+qstr_Ambassy_to_{s66}|Ambassy to {s66}
+qstr_Minister|Minister
+qstr_none|none
+qstr_{s1}_{s2}^Reputation|{s1}, {s2}^Reputation: {s42}^Born at {s43}^Contact in {s44} of the {s45}.^^{reg48?Currently prisoner of the {s48}:}^Days since last talked to: {reg49}^^Current mission:^  {s50}{reg50?, back in {reg50} days.:}
+qstr_{s1}^|{s1}^
+qstr_{s0}_Trade_Ledger_Ar|{s0} Trade Ledger Array
+qstr_Hard_Mode:_Setting_d|Hard Mode: Setting damage to player to maximum
+qstr_Hard_Mode:_Setting_da|Hard Mode: Setting damage to allies to maximum
+qstr_Hard_Mode:_Setting_c|Hard Mode: Setting combat speed to maximum
+qstr_Hard_Mode:_Setting_ca|Hard Mode: Setting campaign AI to maximum
+qstr_Hard_Mode:_Setting_co|Hard Mode: Setting combat AI to maximum
+qstr_#|#
+qstr_{s0}{s1}|{s0}{s1}
+qstr_Best_threat_of_{s4}_|Best threat of {s4} has value level of {reg1}
+qstr_No_center_found_to_d|No center found to defend
+qstr_DEBUG_:_attack_of_{s|DEBUG : attack of {s8} is {reg0}({reg11}), prs:{reg7}, pow:{reg8}, dis:{reg9}, lst:{reg10}
+qstr_You_spent_{reg1}_exp|You spent {reg1} experience points.
+qstr_You_don_t_understand|You don't understand why you failed.
+qstr_You_understand_why_y|You understand why you failed, and so gain {reg6} extra experience from your failure.
+qstr_{s2}{s1}_|{s2}{s1}, 
+qstr__The_following_food_| The following food items were destroyed or looted: {s2}. 
+qstr__A_pack_horse_has_ra| A pack horse has ran off!!
+qstr__Some_tools_have_bee| Some tools have been broken or misplaced.
+qstr__{reg3}| {reg3}
+qstr_avoid_melee|avoid melee
+qstr_stand_and_fight|stand and fight
+qstr_Everyone|Everyone
+qstr_Disabled|Disabled
+qstr_Undefined!|Undefined!
+qstr_Your_troops_are_at_{|Your troops are at {reg1}% cohesion (+{reg3}% bonus), the enemy at {reg2}%!
+qstr_Morale_of_your_troop|Morale of your troops wavers!
+qstr_Morale_of_your_enemi|Morale of your enemies wavers!
+qstr_You_lost_{reg1}_expe|You lost {reg1} experience points.
+qstr_The_coeff._is_{reg1}|The coeff. is {reg1}. Armor was processed.
+qstr_The_coeff._is_{reg1}.|The coeff. is {reg1}. Horses were processed.
+qstr_The_coeff._is_{reg1}._|The coeff. is {reg1}. Shields were processed.
+qstr_The_coeff._is_{reg1}._B|The coeff. is {reg1}. Bows were processed.
+qstr_The_coeff._is_{reg1}._X|The coeff. is {reg1}. Xbows were processed.
+qstr_The_coeff._is_{reg1}._T|The coeff. is {reg1}. Throwing weapons were processed.
+qstr_The_coeff._is_{reg1}._A|The coeff. is {reg1}. All items were processed.
+qstr_DEBUG__GPU_:_Label__|DEBUG (GPU): Label '{s31}' stored in slot {reg32}, value {reg31}.
+qstr___{reg1}_{reg2}__|( {reg1}, {reg2} )
+qstr_array[{reg0}]_create|array[{reg0}] created
+qstr_array[{reg0}]_destro|array[{reg0}] destroyed
+qstr_array_p_shift_range_|array p shift range array={reg21}, start index={reg22}, end index={reg23}, shift offset={reg24}, default value={reg25}
+qstr_While_equipped:_Nurs|While equipped: Nurses Aid
+qstr_+_1_Wound_Treatment_|+ 1 Wound Treatment, + 1 Surgery
+qstr_While_equipped:_Flee|While equipped: Fleetsole
+qstr_+_2_Athletics|+ 2 Athletics
+qstr_While_equipped:_Nobl|While equipped: Noble Enchantment
+qstr_+_3_Ironflesh|+ 3 Ironflesh
+qstr_While_equipped:_Eagl|While equipped: Eagle Eye
+qstr_+_2_Spotting_+_1_Pat|+ 2 Spotting, + 1 Path-finding
+qstr_While_equipped:_Houn|While equipped: Hound
+qstr_+_2_Tracking_+_2_For|+ 2 Tracking, + 2 Foraging, + 1 Path-finding
+qstr_While_equipped:_Cat|While equipped: Cat
+qstr_+_2_Tracking_+_2_Fora|+ 2 Tracking, + 2 Foraging, + 2 Path-finding
+qstr_While_equipped:_Roya|While equipped: Royal Enchantment
+qstr_+_4_Ironflesh|+ 4 Ironflesh
+qstr_While_equipped:_Adva|While equipped: Advanced Enchantment
+qstr_+_2_Ironflesh|+ 2 Ironflesh
+qstr_While_equipped:_Goat|While equipped: Goat
+qstr_+_2_Foraging_+_1_Pat|+ 2 Foraging, + 1 Path-finding
+qstr_While_in_possession:|While in possession: Merchant
+qstr_+_2_Trade_+_2_Invent|+ 2 Trade, + 2 Inventory Management
+qstr_While_equipped:_Simp|While equipped: Simple Enchantment
+qstr_+_1_Ironflesh|+ 1 Ironflesh
+qstr_While_equipped:_Pedd|While equipped: Peddler
+qstr_+_1_Trade_+_1_Invent|+ 1 Trade, + 1 Inventory Management
+qstr_You_have_been_enlist|You have been enlisted!
+qstr_Current_rank:_{s5}|Current rank: {s5}
+qstr_You_have_left_your_c|You have left your commander!
+qstr_You_have_been_grante|You have been granted leave!
+qstr_You_have_rejoined_yo|You have rejoined your commander!
+qstr_{s3}_{s2}|{s3}, {s2}
+qstr_The_equipment_of_a_{|The equipment of a {s1}: {s2}is assigned to you.
+qstr_The_equipment_of_a_{s|The equipment of a {s1}: {s2}is taken from you.
+qstr_#{reg21}:|#{reg21}:
+qstr_{s31}|{s31}
+qstr_{s21}___{s22}_|{s21}  ({s22})
+qstr_{s21}___Requires_Cha|{s21}  (Requires Chapterhouse)
+qstr_{s21}___Negative_Pla|{s21}  (Negative Player Honor)
+qstr_{s21}___{reg21}+_Cen|{s21}  ({reg21}+ Center Relation)
+qstr_{s21}___+{reg1}_Heal|{s21}  (+{reg1} Health)
+qstr_{s21}___+{reg21}%_Da|{s21}  (+{reg21}% Damage - Bladed Melee)
+qstr_{s21}___+{reg21}%_Dam|{s21}  (+{reg21}% Damage - Bows)
+qstr_{s21}___+{reg21}%_Ac|{s21}  (+{reg21}% Accuracy)
+qstr_{s21}___+{reg21}%_He|{s21}  (+{reg21}% Health Regen)
+qstr_{s21}___+2_to_Party_|{s21}  (+2 to Party Morale)
+qstr_{s21}____4%_Tax_Inef|{s21}  (-4% Tax Inefficiency)
+qstr_{s21}____50%_Troop_W|{s21}  (-50% Troop Wages)
+qstr_{s21}___+20_to_Troop|{s21}  (+20 to Troop Morale)
+qstr_{s21}___Improves_Loo|{s21}  (Improves Looting)
+qstr_{s21}___+{reg21}%_Ne|{s21}  (+{reg21}% Nearby Troop Damage)
+qstr_DEBUG__Abilities_:_{|DEBUG (Abilities): {s32} found to have the '{s31}' ability.
+qstr_DEBUG__Abilities_:_{s|DEBUG (Abilities): {s32} already had '{s31}'.
+qstr_DEBUG__Abilities_:_{s3|DEBUG (Abilities): {s32} removed ability '{s31}' from slot {reg31}.
+qstr_DEBUG__Abilities_:_{s32|DEBUG (Abilities): {s32} assigned the '{s31}' ability in slot #{reg31}.
+qstr_ERROR___Failed_to_as|ERROR - Failed to assign ability '{s31}' to troop {s32}.  No available slots.
+qstr_DEBUG__Abilities_:_{s32}|DEBUG (Abilities): {s32} found to have the '{s31}' prerequisite.
+qstr_DEBUG__Abilities_:_{s32}_|DEBUG (Abilities): {s32} removed prereq '{s31}' from slot {reg31}.
+qstr_DEBUG__Abilities_:_{s32}_a|DEBUG (Abilities): {s32} assigned the '{s31}' prerequisite in slot #{reg31}.
+qstr_ERROR___Failed_to_ass|ERROR - Failed to assign prerequisite '{s31}' to troop {s32}.  No available slots.
+qstr_UNIQUE_LOCATION|UNIQUE LOCATION
+qstr_ELITE_MERCENARY|ELITE MERCENARY
+qstr_OWNER_ONLY|OWNER ONLY
+qstr_FRIEND|FRIEND
+qstr_ALLY|ALLY
+qstr_DISHONORABLE|DISHONORABLE
+qstr_AFFILIATED|AFFILIATED
+qstr_CHARTERED|CHARTERED
+qstr_UNDEFINED|UNDEFINED
+qstr_companion|companion
+qstr_troop|troop
+qstr_{reg1?her:his}|{reg1?her:his}
+qstr_{reg1?she:he}|{reg1?she:he}
+qstr_SHIELD_BASHER|SHIELD BASHER
+qstr_This_{s2}_knows_how_|This {s2} knows how to turn their shield into an offensive weapon knocking {s3} enemies prone.
+qstr_Undefined|Undefined
+qstr_ENDURANCE|ENDURANCE
+qstr_This_{s2}_is_conditi|This {s2} is conditioned for longer sprinting, but cannot run quite as fast as {s3} peers.
+qstr_Type:_Personal_Comba|Type: Personal Combat         ^^Effect #1:         ^You gain +40 to your maximum stamina.         ^^Effect #2:         ^Your maximum sprinting speed is reduced          ^by 20%.         ^^Effect #3:         ^The cooldown before stamina recover begins         ^is reduced by 3 seconds.         ^^Effect #4:         ^The weight used for calculating encumbrance          ^is reduced by 1 for every 3 points of          ^Strength that you possess.
+qstr_INSPIRING|INSPIRING
+qstr_This_{s2}_inspires_m|This {s2} inspires members of the party, keeping morale higher based upon the Leadership skill.
+qstr_TAX_COLLECTOR|TAX COLLECTOR
+qstr_This_{s2}_is_especia|This {s2} is especially effective at reducing tax inefficiency within a city {s4} is garrisoned in.
+qstr_COMMANDING_PRESENCE|COMMANDING PRESENCE
+qstr_This_{s2}_s_calm_cha|This {s2}'s calm charisma emboldens the fighting spirit of nearby troops.
+qstr_Type:_Party_Benefit_|Type: Party Benefit         ^^Effect #1:         ^This ability allows you to improve the health         ^regeneration of all nearby allies by 2% + 1%         ^for every 2 points of Leadership.  This health         ^regeneration effect is received when the nearby         ^troop kills or wounds an opponent.         ^^Note: ^The originator of this effect does not         ^benefit from it.
+qstr_HARDY|HARDY
+qstr_This_{s2}_is_more_re|This {s2} is more resilient and recovers health quicker in combat from defeating enemies.
+qstr_Type:_Personal_Combat|Type: Personal Combat         ^^Effect #1:         ^This benefit improves your health regeneration         ^by 0.5% per point of Ironflesh.  The health         ^regeneration effect is received when you kill or         ^wound an opponent.
+qstr_AGILE_RIDER|AGILE RIDER
+qstr_This_{s2}_is_a_bette|This {s2} is a better rider and will no longer take falling damage when unhorsed.
+qstr_Type:_Personal_Combat_|Type: Personal Combat         ^^Effect #1:         ^With this ability you will receive no falling         ^damage when you are unhorsed in combat.         ^^Effect #2:         ^You ignore any encumbrance penalties to the         ^Riding skill.
+qstr_SPRINTER|SPRINTER
+qstr_This_{s2}_is_much_qu|This {s2} is much quicker on the battlefield able to run faster, but tires quicker.
+qstr_Type:_Personal_Combat__|Type: Personal Combat         ^^Effect #1:         ^You can sprint 50% faster.         ^^Effect #2:         ^The maximum sprinting speed is increased by         ^30%.         ^^Effect #3:         ^Your maximum stamina is reduced by 20.
+qstr_DEDICATED|DEDICATED
+qstr_This_{s2}_is_more_co|This {s2} is more committed to your cause and gets along with other troops more easily.
+qstr_DEVOTED|DEVOTED
+qstr_This_{s2}_is_deeply_|This {s2} is deeply committed to your cause accepting only half the standard wages.
+qstr_LOYAL|LOYAL
+qstr_This_{s2}_is_especial|This {s2} is especially loyal and will remain when others desert you.
+qstr_HUNTER|HUNTER
+qstr_This_{s2}_is_capable|This {s2} is capable of hunting food to provide for the party during travel.
+qstr_Type:_Party_Benefit__|Type: Party Benefit         ^^Effect #1:         ^You reduce the need to consume food stores by         ^hunting in the local area.  Success of this         ^effect is influenced by geographical location.         ^Adding ranks of Tracking will further increase         ^your chance of a successful hunt.
+qstr_SUPPLY_RUNNER|SUPPLY RUNNER
+qstr_This_{s2}_manages_to|This {s2} manages to brave the battlefield restocking the quivers of ranged attackers.
+qstr_BERSERKER|BERSERKER
+qstr_This_{s2}_flies_into|This {s2} flies into a frenzy gaining additional health during combat based on the Ironflesh skill.
+qstr_Type:_Personal_Combat___|Type: Personal Combat         ^^Effect #1:         ^You gain an +X% health for each rank of         ^Ironflesh upon entering combat due to your         ^frenzied state.  While under the effects of         ^this ability you cannot receive any benefits         ^from the Volley Commander, Tactician or         ^Sharpshooter effects from nearby allies.         ^^X% is based upon your mod difficulty setting:         ^ * +7% / rank in Easy         ^ * +5% / rank in Normal         ^ * +4% / rank in Hard         ^ * +3% / rank in Very Hard
+qstr_BOUNDLESS_ENDURANCE|BOUNDLESS ENDURANCE
+qstr_This_{s2}_is_able_to|This {s2} is able to run faster and for a longer time then others on the battlefield.
+qstr_Type:_Personal_Combat____|Type: Personal Combat         ^^Effect #1:         ^Your sprinting speed is improved by 25%.         ^^Effect #2:         ^Your maximum stamina is improved by +20.         ^^Effect #3:         ^You become twice as resistant to movement         ^speed reducing effects due to the combat         ^hampering system.
+qstr_TACTICIAN|TACTICIAN
+qstr_This_{s2}_now_applie|This {s2} now applies a bonus to the damage of nearby allies based on the Tactics skill.
+qstr_Type:_Party_Benefit___|Type: Party Benefit         ^^Effect #1:         ^Your grasp of strategy improves the damage         ^of nearby allies by 3% for each rank in         ^Tactics.         ^^Note: ^The originator of this effect does not         ^benefit from it.
+qstr_TRAILBLAZER|TRAILBLAZER
+qstr_This_{s2}_knows_how_q|This {s2} knows how quicken the party's pace by finding the easiest travel paths.
+qstr_Type:_Party_Benefit____|Type: Party Benefit         ^^Effect #1:         ^Your path-finding skill is enhanced by 2.         ^^Effect #2:         ^The number of party members you can conceal         ^using the Stealthy ability is doubled.
+qstr_BLOODLUST|BLOODLUST
+qstr_This_{s2}_is_a_terro|This {s2} is a terror on the battlefield, swinging wildly for enhanced damage.
+qstr_Type:_Personal_Combat_____|Type: Personal Combat         ^^Effect #1:         ^You gain 20% damage at the cost of 10%          ^accuracy.  For each 1% of health lost you         ^will gain an additional 1% damage and will         ^lose 0.5% accuracy.         ^^Notes:          ^ * Damage improvement is limited to +45%.         ^ * Accuracy penalty is limited to -30%.
+qstr_FORTITUDE|FORTITUDE
+qstr_This_{s2}_is_tougher|This {s2} is tougher than most and now able to resist the effects of health loss.
+qstr_Type:_Personal_Combat______|Type: Personal Combat         ^^Effect #1:         ^You are more adept at resisting the effects         ^of damage due to the combat hampering system.         ^When calculating penalties your health is         ^considered as 40% higher than it actually is.         ^^Synergy Bonus: (Disciplined)         ^Effectiveness is increased by +20% health.
+qstr_VOLLEY_COMMANDER|VOLLEY COMMANDER
+qstr_This_{s2}_now_applies|This {s2} now applies a bonus to the accuracy of nearby allies based on the Tactics skill.
+qstr_Type:_Party_Benefit_____|Type: Party Benefit         ^^Effect #1:         ^Your knowledge of strategy improves the accuracy         ^rating of nearby allies by 8 for each rank of         ^Tactics.         ^^Note: ^The originator of this effect does not         ^benefit from it.
+qstr_SHARPSHOOTER|SHARPSHOOTER
+qstr_This_{s2}_has_a_dead|This {s2} has a deadly aim that improves ranged attacks based upon the Weapon Master skill.
+qstr_Type:_Personal_Combat_______|Type: Personal Combat         ^^Effect #1:         ^Your accuracy rating with ranged weapons is         ^improved by 20 with an additional +8 per rank         ^of Weapon Master.         ^^Synergy Bonus: (Master Archer)         ^If you also have the Master Archer ability then         ^the effectiveness of this talent is increased by         ^+30%.
+qstr_SCAVENGER|SCAVENGER
+qstr_This_{s2}_is_valuabl|This {s2} is valuable for finding extra battlefield loot and loot of higher quality.
+qstr_Type:_Party_Benefit______|Type: Party Benefit         ^^Effect #1:         ^Adept at sifting through the remains of a battle         ^to find equipment worth salvaging, you improve         ^the amount of loot found by the party for each         ^rank of Looting.
+qstr_QUICK_STUDY|QUICK STUDY
+qstr_This_{s2}_is_faster_|This {s2} is faster at reading books and gains extra experience from party role assignments.
+qstr_WATCHFUL_EYE|WATCHFUL EYE
+qstr_This_{s2}_s_vigilian|This {s2}'s vigiliance allows your party to handle a greater number of prisoners.
+qstr_Type:_Party_Benefit_______|Type: Party Benefit         ^^Effect #1:         ^You increase the number of prisoners the party         ^can manage by 3 per rank of Prisoner Management.
+qstr_ESCAPE_ARTIST|ESCAPE ARTIST
+qstr_This_{s2}_is_talente|This {s2} is talented at escaping captivity and may help others escape as well.
+qstr_Type:_Personal_Benef|Type: Personal Benefit         ^^Effect #1:         ^Few rope bonds or even dungeons can hold you for         ^long.  Your chance of increasing from captivity         ^is dramatically increased.         ^^Synergy Bonus: (Stealthy)         ^If you have the Stealthy ability then you will         ^also break out any allies captive in the same         ^location when you escape.
+qstr_ADMINISTRATOR|ADMINISTRATOR
+qstr_This_{s2}_is_talented|This {s2} is talented as either a Castle Steward or Captain of the Guard.
+qstr_ENGINEER|ENGINEER
+qstr_This_{s2}_is_now_a_c|This {s2} is now a capable overseer of construction as Castle Steward.
+qstr_SIEGE_GENERAL|SIEGE GENERAL
+qstr_This_{s2}_is_now_cap|This {s2} is now capable of leading a legendary defense as Captain of the Guard.
+qstr_MASTER_ARCHER|MASTER ARCHER
+qstr_This_{s2}_s_ability_|This {s2}'s ability to deliver punishing shots with a bow are now improved by the Weapon Master skill.
+qstr_Type:_Personal_Combat________|Type: Personal Combat         ^^Effect #1:         ^You gain an 8% bonus to damage when wielding         ^a bow.  This effect is increased by an additional         ^+2% bonus to damage for each rank of         ^Weapon Master.         ^^Synergy Bonus: (Sharpshooter)         ^If you also have the Sharpshooter ability then         ^the effectiveness of this talent is increased by         ^+30%.
+qstr_EFFICIENT|EFFICIENT
+qstr_This_{s2}_now_makes_|This {s2} now makes for an exceptional Castle Steward.
+qstr_CHEF|CHEF
+qstr_This_{s2}_can_now_ma|This {s2} can now maintain stores longer and gain more party morale as storekeeper.
+qstr_USEFUL_CONTACTS|USEFUL CONTACTS
+qstr_This_{s2}_is_now_con|This {s2} is now considerably more adept at the storekeeper, quartermaster or gaoler roles.
+qstr_BLADEMASTER|BLADEMASTER
+qstr_This_{s2}_s_ferocity|This {s2}'s ferocity with melee cutting weapons is now improved by the Weapon Master skill.
+qstr_Type:_Personal_Combat_________|Type: Personal Combat         ^^Effect #1:         ^You gain a +2% bonus to damage for each rank of         ^Weapon Master when wielding a melee cutting         ^weapon.         ^^Synergy Bonus: (Savant)         ^You gain an additional +1% damage for every 2         ^points of intelligence you have above 10 if         ^you also possess the Savant ability.
+qstr_CARGOMASTER|CARGOMASTER
+qstr_This_{s2}_is_a_capab|This {s2} is a capable quartermaster knowing how to work the best deals from battlefield loot being sold.
+qstr_GRACEFUL_RIDER|GRACEFUL RIDER
+qstr_This_{s2}_is_adept_a|This {s2} is adept at avoiding the dangers of pikemen during a charge.
+qstr_Type:_Personal_Combat_________^|Type: Personal Combat         ^^Effect #1:         ^You have a chance to avoid any extra damage         ^dealt by pikes equal to your horse's maneuverability         ^+ 3% per rank of the Riding skill.         ^^Effect #2:         ^You ignore any encumbrance penalties to the         ^Horse Archery skill.
+qstr_INDOMITABLE|INDOMITABLE
+qstr_This_{s2}_can_more_e|This {s2} can more easily ignore encumbrance penalties based upon strength.
+qstr_Type:_Personal_Combat_________^^|Type: Personal Combat         ^^Effect #1:         ^Your strength is considered to be three times         ^as much when used for calculations related to         ^encumbrance penalties.
+qstr_NIMBLE|NIMBLE
+qstr_This_{s2}_can_more_ea|This {s2} can more easily ignore encumbrance penalties based upon agility.
+qstr_Type:_Personal_Combat_________^^E|Type: Personal Combat         ^^Effect #1:         ^Your agility is considered to be three times         ^as much when used for calculations related to         ^encumbrance penalties.
+qstr_STEALTHY|STEALTHY
+qstr_This_{s2}_can_hide_s|This {s2} can hide smaller parties from being spotted during travel.
+qstr_Type:_Party_Benefit________|Type: Party Benefit         ^^The base chance of evading detection of a hostile         ^party is 100% - 4% for each troop in your party.         ^^Effect #1:         ^^ * Each troop with this ability reduces your chance of         ^   your party being detected by 3%.         ^^ * A companion or player with this ability reduces          ^   the chance of your party being detected by 2%          ^   per rank of Spotting and Tracking. (Minimum +3%)         ^^Effect #2:         ^When escaping captivity through use of the Escape         ^Artist talent, this ability allows you to free any         ^other allies held at the same location.         ^^Synergy Bonus: (Trailblazer)         ^The number of troops concealed by this talent is         ^doubled if you also possess the Trailblazing ability.
+qstr_STORYTELLER|STORYTELLER
+qstr_This_{s2}_is_adept_at|This {s2} is adept at boosting your renown with retelling the tales of your exploits.
+qstr_Type:_Boost_________|Type: Boost         ^^Effect #1:         ^The renown you gain from combat is increased by 2         ^per rank of Persuasion.  This effect may not exceed         ^a total of +15 renown per battle.
+qstr_SILVER_TONGUED|SILVER TONGUED
+qstr_This_{s2}_is_now_mor|This {s2} is now more convincing when making attempts at persuasion.
+qstr_Type:_Boost_________^|Type: Boost         ^^Effect #1:         ^Options to persuade individuals during dialog          ^encountersalways appear regardless of other          ^prerequisites.         ^^Effect #2:         ^The chances of successfully persuading a target is          ^increased by 25%.  This effects stacks with benefits          ^gained from the Persuasion skill.  This effect is          ^reduced to +15% when convincing lords to join your          ^faction.
+qstr_SAVAGE_BASH|SAVAGE BASH
+qstr_This_{s2}_can_now_de|This {s2} can now deliver shield bashes with devasting power.
+qstr_Type:_Personal_Combat_________^^Ef|Type: Personal Combat         ^^Effect #1:         ^Your shield bash attempts now apply +2 damage per         ^point of Strength and per rank of Shield.  This         ^damage is mitigated normally by armor reducing         ^its effectiveness.
+qstr_THRIFTY|THRIFTY
+qstr_This_{s2}_sees_how_f|This {s2} sees how far above or below the average price a good is.
+qstr_Type:_Boost_________^^|Type: Boost         ^^Effect #1:         ^Tooltips for trade goods will now display how         ^far above or below the base price those items         ^are.         ^^Effect #2:         ^A notification will be added to the message log         ^whenever the inventories of trade good merchants         ^are reset.         ^^Effect #3:         ^Trade goods that are used in an enterprise that         ^you currently own will now display this.
+qstr_SAVANT|SAVANT
+qstr_This_{s2}_has_become|This {s2} has become an incredibly quick learner.
+qstr_Type:_Boost_________^^E|Type: Boost         ^^Effect #1:         ^Extra experience gained from having a high         ^Intelligence is increased by 50%.
+qstr_RALLYING_FIGURE|RALLYING FIGURE
+qstr_This_{s2}_can_gather|This {s2} can gather a greater host of men then most peers.
+qstr_Type:_Boost_________^^Ef|Type: Boost         ^^Effect #1:         ^Each rank of Leadership that you possess         ^contributes an extra +3 troops to your         ^maximum party limit.         ^^Effect #2:         ^Your morale bonus due to Leadership is         ^improved by +2 per rank.
+qstr_WHOLESALER|WHOLESALER
+qstr_This_{s2}_can_trade_|This {s2} can trade more of a single good without penalty.
+qstr_Type:_Boost_________^^Eff|Type: Boost         ^^Effect #1:         ^This talent reduces the change in purchase          ^or sale price of an item due to selling          ^multiple copies of it in the same location          ^15% per rank of your Trade skill.
+qstr_SECOND_WIND|SECOND WIND
+qstr_This_{s2}_can_quickl|This {s2} can quickly move from one enemy to the next.
+qstr_Type:_Boost_________^^Effe|Type: Boost         ^^Effect #1:         ^Whenever you defeat an enemy in combat your         ^current stamina is increased by 15.         ^^Effect #2:         ^Whenever you defeat an enemy in combat your         ^cooldown for recovering stamina will be         ^immediately reset.
+qstr_DISCIPLINED|DISCIPLINED
+qstr_This_{s2}_has_learne|This {s2} has learned to ignore minor wounds through mental discipline.
+qstr_Type:_Boost_________^^Effec|Type: Boost         ^^Effect #1:         ^Combat health is increased by 1 for every         ^2 points of intelligence you have above 8.         ^This effect cannot combine with the health         ^granted by the Berserker ability.         ^^Effect #2:         ^You are more adept at resisting the effects         ^of damage due to the combat hampering system.         ^When calculating penalties your health is         ^considered as 20% higher than it actually is.         ^^Synergy Bonus: (Fortitude)         ^The minimum requirement of 8 intelligence is         ^removed.
+qstr_STEADY_AIM|STEADY AIM
+qstr_This_{s2}_has_learned|This {s2} has learned to pick shots carefully for maximum damage.
+qstr_Type:_Personal_Combat_________^^Eff|Type: Personal Combat         ^^Effect #1:         ^Increases the damage of the next bow or crossbow         ^attack you make by +2 per second up to a maximum          ^of half your Strength value.  25 STR = +12 damage          ^after a 6 second pause.         ^^Synergy (Sharpshooter):         ^Rate of damage increase is improved to +3 damage         ^per second.         ^^Synergy (Master Archer):         ^Upper limit of damage is improved to 65% of your         ^Strength value.
+qstr_CHARGING_STRIKE|CHARGING STRIKE
+qstr_This_{s2}_has_learned_|This {s2} has learned to gain the most advantage from their momentum.
+qstr_Type:_Personal_Combat_________^^Effe|Type: Personal Combat         ^^Effect #1:         ^Increases the speed damage bonus of attacks made          ^while sprinting.  You gain a bonus of 1 damage for         ^every 4% speed you have above normal.  This effect          ^is limited to a maximum of 50% of your strength          ^attribute.          ^^Synergy (Second Wind):         ^Your damage bonus is now limited by either your         ^strength or agility attribute based on whichever         ^is higher.         ^^Synergy (Blademaster):         ^Upper limit of damage is improved to 65% of your         ^Strength value.
+qstr_POISONED_WEAPONS|POISONED WEAPONS
+qstr_This_{s2}_has_master|This {s2} has mastered the art of crippling enemies with poisoned weapons.
+qstr_Type:_Personal_Combat_________^^Effec|Type: Personal Combat         ^^Effect #1:         ^Increases the speed damage bonus of attacks made          ^Whenever you damage another troop they become          ^poisoned causing their effective health to be          ^lowered by 50% (combat hampering).         ^^Effect #2:         ^A poisoned enemy loses one health every four          ^seconds for a total of 20 ticks (80 sec duration).         ^^Special Note:         ^Use of this ability will lower your honor by 1         ^for each battle it is used in to a minimum of -15.         ^^Special Note:         ^This ability is disabled in tournaments, arena         ^matches and while training peasants.
+qstr_STEADY_FOOTING|STEADY FOOTING
+qstr_This_{s2}_is_resista|This {s2} is resistant to shield bashing attempts.
+qstr_Type:_Personal_Combat_________^^Effect|Type: Personal Combat         ^^Effect #1:         ^You are able to resist the attempts of other          ^troops trying to shield bash you.  Your chance         ^to resist is equal to 40% + 3% for each point          ^you have in the Strength attribute.
+qstr_CHEAP|CHEAP
+qstr_Undedescribed|Undedescribed
+qstr_TIGHT_FORMATION|TIGHT FORMATION
+qstr_Undescribed.|Undescribed.
+qstr_You_have|You have
+qstr_your|your
+qstr_{s2}_has|{s2} has
+qstr_{s1}_reset_all_of_{s|{s1} reset all of {s3} abilities reset.
+qstr__Unlocked_at_Level_{|(Unlocked at Level {reg31})
+qstr_No_Ability_Designate|No Ability Designated
+qstr_DEBUG__Storyteller_:|DEBUG (Storyteller): {reg33} {s31} add +{reg31}% to renown.  {reg39?Heroes:Troops} = +{reg32}%
+qstr_DEBUG__Storyteller_:_|DEBUG (Storyteller): Total renown bonus is {reg32}.  Bonus = +{reg33}%
+qstr_DEBUG__Stealth_:_{s3|DEBUG (Stealth): {s31} adds +{reg31}% concealment chance.  Heroes = +{reg32}%
+qstr_DEBUG__Stealthy_:_{r|DEBUG (Stealthy): {reg33} {s31} adds +{reg31}% concealment chance.  Troops = +{reg32}%
+qstr_DEBUG__Stealthy_:_To|DEBUG (Stealthy): Total concealment bonus is +{reg32}%.
+qstr_DEBUG__Stealthy_:_{re|DEBUG (Stealthy): {reg31}% DC = 100 - {reg32}% Party Size + {reg33}% Concealment + {reg34}% Encumbrance + {reg35}% Distance.
+qstr_Shield___{reg31}_|Shield (-{reg31})
+qstr_Power_Draw___{reg31}|Power Draw (-{reg31})
+qstr_Riding___{reg31}_|Riding (-{reg31})
+qstr_Horse_Archery___{reg|Horse Archery (-{reg31})
+qstr_Athletics___{reg31}_|Athletics (-{reg31})
+qstr_Speed_Penalty___{reg|Speed Penalty (-{reg31})
+qstr_No_Skill_Penalty_Ass|No Skill Penalty Assigned
+qstr_DEBUG__Stamina_:_Sta|DEBUG (Stamina): Stamina bar has been {reg31?BLOCKED:unblocked} @ draw stamina bar.  Object #{reg32}
+qstr_DEBUG__Stamina_:_Stam|DEBUG (Stamina): Stamina bar has been {reg31?BLOCKED:unblocked} @ update script filter (combat)
+qstr_+{reg2}|+{reg2}
+qstr_You_came_into_the_wo|You came into the world a {reg3?daughter:son} of declining nobility, owning only the house in which they lived. However, despite your family's hardships, they afforded you a good education and trained you from childhood for the rigors of aristocracy and life at court.
+qstr_You_came_into_the_wor|You came into the world a {reg3?daughter:son} of elvarie nobility, blessed by the the great Goddess. Your blessing ritual was a sight to behold, granted you the title of a Elintoran noble. You were trained in the art of archery, military tactics and observation like all young Elintoran noblemen.
+qstr_You_came_into_the_worl|You came into the world a {reg3?daughter:son} of a fierce Kaikoth Ironfist, whose strength is unmatched by his fellow men. Although his glorious days are long gone, he made sure you are well trained by the best of Kaikoth fighters, including himself.
+qstr_You_came_into_the_world|You came into the world a son of a feared Bakhal Warlord. Before he died in battle when you were 12, he taught you a lot about fighting.
+qstr_You_were_born_the_{r|You were born the {reg3?daughter:son} of travelling merchants, always moving from place to place in search of a profit. Although your parents were wealthier than most and educated you as well as they could, you found little opportunity to make friends on the road, living mostly for the moments when you could sell something to somebody.
+qstr_As_a_child_your_fami|As a child, your family scrabbled out a meagre living from your father's wages as a guardsman to the local lord. It was not an easy existence, and you were too poor to get much of an education. You learned mainly how to defend yourself on the streets, with or without a weapon in hand.
+qstr_You_were_the_{reg3?d|You were the {reg3?daughter:son} of a family who lived off the woods, doing whatever they needed to make ends meet. Hunting, woodcutting, making arrows, even a spot of poaching whenever things got tight. Winter was never a good time for your family as the cold took animals and people alike, but you always lived to see another dawn, though your brothers and sisters might not be so fortunate.
+qstr_a_messanger|a messanger
+qstr_He_was_neither_rich_|He was neither rich, nor a great fighter, and although he was literate, he received a poor education. Still members of your family were always close, and you led a simple, but happy life. As a child, you learned a little bit of this and that, but were never particularly good at anything.
+qstr_As_the_{reg3?daughte|As the {reg3?daughter:son} of a thief, you had very little 'formal' education.  Instead you were out on the street, begging until you learned how to cut purses, cutting purses until you learned how to pick locks, all the way through your childhood.  Still, these long years made you streetwise and sharp to the secrets of cities and shadowy backways.
+qstr_When_you_were_young_|When you were young, you vistied hundreds of his sermons and learned a lot from him about persuasion, spreading the word, controlling the crowd. Though as a rebellious {reg3?girl:boy}, you never really accepted your father's faith.
+qstr__You_were_born_years| You were born years ago, in a land far away. Your father was {s2}. {s3}
+qstr_There_was_a_lake_nea|There was a lake near a settlement where you spent your childhood. You used almost all of your free time to practice swimming which you really enjoyed. It paid off - your health and physical condition greatly benefited from this hobby.
+qstr_Your_could_spend_hou|Your could spend hours shooting at targets and trying to hit the bull's eye. Eventually you became so good at it, that even professional archers would regularly come and watch you practice, from time to time giving you helpful advice.
+qstr_There_was_nothing_yo|There was nothing you loved as much as speed and wind blowing around you. And even that wasn't enough - despite multiple traumas you got, you kept teaching your horse new tricks and later showed them to astonished public.
+qstr_Examining_outskirts_|Examining outskirts, finding new places, pathways, hidden stashes - what can possibly be more interesting? Whenever you had some free time, you would go into wilderness and wander there for hours.
+qstr_Initially_your_peers|Initially your peers would make jokes about your hobby, but your vast knowledge of all sorts of stories you'd read as well your great story-telling skill eventually made you rather popular. Other kids as well as adults loved listening to all these tales you could tell.
+qstr_Initially_you_only_m|Initially you only made wooden toys for your own entertainment, but soon you were noticed by a local craftsman who was quite surprised by your skill and took you on as an apprentice. He taught you almost everything he knew about crafting and repairing furniture, constructions and even weapons.
+qstr_You_would_pickpocket|You would pickpocket people on the streets, steal fruits and vegetables from their gardens, even broke into houses on several occasions. No-one ever caught you.
+qstr_{s1}^^_You_started_t|{s1}^^ You started to learn about the world almost as soon as you could walk and talk.  As a {reg3?girl:boy} you particularly enjoyed {s2}. {s3}
+qstr_a_recruit|a recruit
+qstr_You_couldn_t_just_st|You couldn't just stay aside when a nearby kingdom attacked your faction, so you were among the first to join the army. You were lucky to end up under command of the marshal. A great warrior and a brilliant tactician, he was likely the very reason why your troop managed to survive through the entire war.
+qstr_It_became_both_your_|It became both your work and hobby. First of all, you just liked capturing criminals and locking them up in prisons. At the same time, your good tracking skill got you a lot of money for a couple of difficult bounties.
+qstr_Working_for_entire_d|Working for entire days like ordinary people was never for you. Robbing a merchant caravan and taking plenty of goods in just a couple of hours is a completely different thing!
+qstr_Though_the_distincti|Though the distinction felt sudden to you, somewhere along the way you had become a {s13}, and the whole world seemed to change around you. You pursued a career as a smith, crafting items of function and beauty out of simple metal. As time wore on you became a master of your trade, and fine work started to fetch fine prices. With food in your belly and logs on your fire, you could take pride in your work and your growing reputation.
+qstr_It_all_started_unexp|It all started unexpectedly: one day you caught a strange desease no doctor in your area could heal. Fighting for your life, you travelled a long way to Galwe and spent several weeks consulting with renowned doctors, but mostly, due to lack of their time and your money, studying coursebooks in the library. Eventually you found the exact description of your desease in an old book, followed by a detailed recipe of the cure, which you managed to prepare without anyone else's help. And although this short period of self-education didn't make an actual doctor, you still learned a lot about deseases, treatments and medicine in general.
+qstr_You_spent_several_ye|You spent several years living in another kingdom, making connections and gathering information. Your charisma and wit helped you with that.
+qstr_Though_the_distinctio|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you.  When you were named squire to a noble at court, you practiced long hours with weapons, learning how to deal out hard knocks and how to take them, too.  You were instructed in your obligations to your lord, and of your duties to those who might one day be your vassals.  But in addition to learning the chivalric ideal, you also learned about the less uplifting side -- old warriors' stories of ruthless power politics, of betrayals and usurpations, of men who used guile as well as valor to achieve their aims.
+qstr_Though_the_distinction|Though the distinction felt sudden to you, somewhere along the way you had become a {reg3?woman:man}, and the whole world seemed to change around you.  You joined the tightly-knit circle of women at court, ladies who all did proper ladylike things, the wives and mistresses of noble men as well as maidens who had yet to find a husband.  However, even here you found politics at work as the ladies schemed for prominence and fought each other bitterly to catch the eye of whatever unmarried man was in fashion at court.  You soon learned ways of turning these situations and goings-on to your advantage. With it came the realisation that you yourself could wield great influence in the world, if only you applied yourself with a little bit of subtlety.
+qstr_{s1}^^_Then_as_a_you|{s1}^^ Then, as a young adult, you became {s2}. {s3}
+qstr_personal_revenge|personal revenge
+qstr_Only_you_know_exactl|Only you know exactly what caused you to give up your old life and become an adventurer.  Still, it was not a difficult choice to leave, with the rage burning brightly in your heart.  You want vengeance. You want justice. What was done to you cannot be undone, and these debts can only be paid in blood...
+qstr_the_loss_of_a_loved_|the loss of a loved one
+qstr_Only_you_know_exactly|Only you know exactly what caused you to give up your old life and become an adventurer.  All you can say is that you couldn't bear to stay, not with the memories of those you loved so close and so painful. Perhaps your new life will let you forget, or honour the name that you can no longer bear to speak...
+qstr_wanderlust|wanderlust
+qstr_Only_you_know_exactly_|Only you know exactly what caused you to give up your old life and become an adventurer.  You're not even sure when your home became a prison, when the familiar became mundane, but your dreams of wandering have taken over your life. Whether you yearn for some faraway place or merely for the open road and the freedom to travel, you could no longer bear to stay in the same place. You simply went and never looked back...
+qstr_being_forced_out_of_|being forced out of your home
+qstr_Only_you_know_exactly_w|Only you know exactly what caused you to give up your old life and become an adventurer.  However, you know you cannot go back. There's nothing to go back to. Whatever home you may have had is gone now, and you must face the fact that you're out in the world, alone to fend for yourself...
+qstr_lust_for_money_and_p|lust for money and power
+qstr_Only_you_know_exactly_wh|Only you know exactly what caused you to give up your old life and become an adventurer.  To everyone else, it's clear that you're now motivated solely by personal gain.  You want to be rich, powerful, respected, feared.  You want to be the one whom others hurry to obey.  You want people to know your name, and tremble whenever it is spoken.  You want everything, and you won't let anyone stop you from having it...
+qstr_your_interest_in_old|your interest in old legends
+qstr_Several_times_in_you|Several times in your life you stumbled upon stories about the old kingdom of Perisno that existed in these lands long ago. They were usually incomplete, fragmentary. Rumors, that were retold hundreds of times and, without a doubt, changed a lot in the process. Yet they sparked your interest, and eventually you decided to travel around the world to learn more.
+qstr_an_accident|an accident
+qstr_One_day_you_woke_up_|One day you woke up naked in the middle of a rye field. You didn't have any of your equipment with you, nor memories of the past few days. Completely puzzled, you felt like you couldn't go on with your usual life and just had to try and find out anything about what happened with you. So, you set out on a journey.
+qstr_{s1}^^_But_soon_ever|{s1}^^ But soon everything changed and you decided to strike out on your own as an adventurer.  What made you take this decision was {s2}. {s3}
+qstr_^{s1}^^_As_a_{s3}_{s|^{s1}^^ As a {s3} {s2}. You {s4}
+qstr_You_got_keys_of_dung|You got keys of dungeon.
+qstr_You_successfully_sto|You successfully stored 10000 aurums. The current treasury in this fief is {reg3} aurums.
+qstr_You_successfully_wit|You successfully withdrew 10000 aurums. The current treasury in this fief is {reg3} aurums.
+qstr_This_fief_will_accum|This fief will accumulate all profits in its treasury.
+qstr_This_fief_will_no_lo|This fief will no longer accumulate all profits in its treasury.
+qstr_Combat_abilities_^^V|Combat abilities ^^V : Deploy equipped pavise shield. ^^T : WHISTLE FOR HORSE, call a horse to come to you, more than one with higher Charisma, requires 8 Charisma ^^O : BORROW AMMO, come close to your archer that has some and press O to borrow ammo. You must have at least one quiver in your inventory. ^^Y : FIRST AID, treat your immediate wounds to recover (FirstAid x4)+(Intelligence/3) hitpoints ^^U : BATTLECRY, rally your wounded troops to fight and recover 3xLeadership+Charisma percent of their hitpoints ^^B : WARCRY, unleash a fearsome cry to terrify weaker oppnents around you ^^I : TAUNT, attract the attention of your enemies, more with higher charisma. ^^All combat abilites can be used every 60 seconds in battle ^^Press M to see several other important changes ^^Press H to close help.
+qstr__blank.| blank.
+qstr_You_whistle_for_a_ho|You whistle for a horse!
+qstr_You_fail_your_attrib|You fail your attribute check
+qstr_You_taunt_your_enemi|You taunt your enemies!
+qstr_You_unleash_a_fearso|You unleash a fearsome cry!
+qstr_You_treat_your_wound|You treat your wounds! (recover {reg1} hitpoints)
+qstr_You_failed_your_attr|You failed your attribute check
+qstr_You_rally_your_men!_|You rally your men! (wounded troops recover {reg1} % hitpoints), and some other gain more courage.
+qstr_Press_N_for_help|Press N for help
+qstr_You_have_killed_{reg|You have killed {reg1} enemies in this battle!
+qstr_Your_bravery_inspire|Your bravery inspires your troops!
+qstr_You_rally_your_men!|You rally your men!
+qstr_You_call_for_reinfor|You call for reinforcements!
+qstr_Reinforcements_arriv|Reinforcements arrive!
+qstr_Press_TAB_to_end_the|Press TAB to end the battle.
+qstr_You_were_defeated.|You were defeated.
+qstr_Rotate_with_the_mous|Rotate with the mouse. Move with standard keys.
+qstr_Shift/Control_for_Up|Shift/Control for Up/Down. Space Bar to increase speed.
+qstr_Numpad_Plus/Minus_to|Numpad Plus/Minus to change sensitivity. Numpad to rotate.
+qstr_Home_to_reset_positi|Home to reset position. End to flip Y rotation
+qstr_Y_Rotation_Inverted|Y-Rotation Inverted
+qstr_Y_Rotation_Normal|Y-Rotation Normal
+qstr_Sensitivity___25%__{|Sensitivity - 25% ({reg8}, {reg9})
+qstr_Sensitivity_+_25%__{|Sensitivity + 25% ({reg8}, {reg9})
+qstr_leadership|leadership
+qstr_prisoner_management|prisoner management
+qstr_persuasion|persuasion
+qstr_engineer|engineer
+qstr_first_aid|first aid
+qstr_wound_treatment|wound treatment
+qstr_inventory_management|inventory management
+qstr_spotting|spotting
+qstr_path_finding|path finding
+qstr_tactics|tactics
+qstr_tracking|tracking
+qstr_looting|looting
+qstr_horse_archery|horse archery
+qstr_athletics|athletics
+qstr_shield|shield
+qstr_weapon_master|weapon master
+qstr_power_draw|power draw
+qstr_power_throw|power throw
+qstr_power_strike|power strike
+qstr_iron_flesh|iron flesh
+qstr_{reg10}|{reg10}
+qstr_You_have_lost_a_skil|You have lost a skill point in {s10}
+qstr_Cheating_is_bad_ya_k|Cheating is bad, ya know.
+qstr_Battle_won!_The_rema|Battle won! The remaining enemies surrender...
+qstr_You_must_stay_behind|You must stay behind the line on the ground! Point is not counted.
+qstr_Do_you_wish_to_give_|Do you wish to give up the duel?
+qstr_Tutorial|Tutorial
+qstr_You_have_been_knocke|You have been knocked out by the enemy. Watch your men continue the fight without you or press Tab to retreat.
+qstr_To_watch_the_fight_y|To watch the fight you can use 'w, a, s, d, numpad +/numpad -' to move and 'numpad 1,2,3,4,6,8' to rotate the cam.
+qstr_This_giant_must_have|This giant must have broken into the mine during the chaos. But this is not what was amiss... Looters come in here all the time, and this one was just especially large. I need to investigate those demon worshippers...
+qstr_health_regen_active|health regen active
+qstr_ammo_refill_every_15|ammo refill every 15 secs active
+qstr_sprinting_active_pre|sprinting active, press left ctrl to sprint
+qstr_Cannot_leave_now.|Cannot leave now.
+qstr__You_have_been_defea| You have been defeated by the bandits. However, they think you are dead, and leave your corpse lying there, as an example to all future visitors.
+qstr__You_ve_killed_one_o| You've killed one of three of the leaders in here.
+qstr__You_ve_killed_all_t| You've killed all the leaders in this place. The loot is yours.
+qstr__Once_a_great_battle| Once, a great battle was fought here, on the battlements of Elkaru. The bandits were defeated, and were forced to run.
+qstr__Refugees_and_desert| Refugees and deserters have made this place their home. However, so have bandits. Hundreds of years later, they have repopulated the place with all their filth. You never know where one might turn up...(Press 'K' to close)
+qstr_Do_you_wish_to_give_u|Do you wish to give up the fight?
+qstr_You_ve_lost_a_total_|You've lost a total number of {reg2} duels.
+qstr_You_ve_won_a_total_n|You've won a total number of {reg2} duels
+qstr_Where_will_you_go_wi|Where will you go with your ship?
+qstr__Next_pay_day:_{s1}| Next pay day: {s1}
+qstr_{s1}^^Affiliated_to_|{s1}^^Affiliated to {s5}
+qstr_Enabled_due_to_Hard_|Enabled due to Hard Mode
+qstr_Standard|Standard
+qstr_Upon_returning_to_yo|Upon returning to your homeland, much respect for you was lost after returning without Torsson.
+qstr_This_beach_was_forei|This beach was foreign to you...
+qstr_You_decide_to_invest|You decide to investigate...
+qstr_Back_to_the_beginnin|Back to the beginning...
+qstr_View_next_segment...|View next segment...
+qstr_^No_food:___{reg7}|^No food:  -{reg7}
+qstr_^Wage_debt:___{reg6}|^Wage debt:  -{reg6}
+qstr_On_loan|On loan,
+qstr_Appoint_next_marshal|Appoint next marshal
+qstr_Award_{s12}_as_fief|Award {s12} as fief
+qstr_No_one|No one
+qstr_Selected_faction_is:|Selected faction is: {s10}^^{s9}
+qstr_You_are_currently_re|You are currently reading {s8}.
+qstr_You_are_not_reading_|You are not reading any books.
+qstr_{s5}_and_{s6}|{s5} and {s6}
+qstr_Your_estates_are:_{s|Your estates are: {s8}.^{s9}
+qstr_Current_party_size_l|Current party size limit is {reg5}.^Current party size modifiers are:^^Base size:  +30^Leadership: {s2}{reg1}^Charisma: {s3}{reg2}^Renown: {s4}{reg3}^TOTAL:  {reg5}
+qstr_Your_relation_with_t|Your relation with the factions are:^{s2}
+qstr_Player_renown_is_inc|Player renown is increased by 200. 
+qstr_Player_honor_is_incr|Player honor is increased by 10 and it is now {reg7}.
+qstr_Current_position_is_|Current position is {reg1}, {reg2}, {reg3}.
+qstr_Timer_is_off|Timer is off
+qstr_Timer_is_on|Timer is on
+qstr_{s6}_wanted_to_switc|{s6} wanted to switch to {s5}.
+qstr__The_Dreaded_One_has| The Dreaded One has spawned!
+qstr__Siegfried_has_spawn| Siegfried has spawned!
+qstr__Nox_of_Zephilli_has| Nox of Zephilli has spawned!
+qstr__Lord_Ceylius_has_sp| Lord Ceylius has spawned!
+qstr__Queen_Aegea_has_spa| Queen Aegea has spawned!
+qstr__General_Ialoch_has_| General Ialoch has spawned!
+qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} {reg2?accept:accepts} the offer.
+qstr_No_one_accepts_the_o|No one accepts the offer.
+qstr_{s15}_was_lost...|{s15} was lost...
+qstr_You_start_reading_{s|You start reading {s2}. After a few pages, you feel you could learn a lot from this book. You decide to keep it close by and read whenever you have the time.
+qstr_You_flip_through_the|You flip through the pages of {s2}, but you find the text confusing and difficult to follow. Try as you might, it soon gives you a headache, and you're forced to give up the attempt.
+qstr_You_lost_your_duel_a|You lost your duel against ^^{s3}
+qstr_You_won_your_duel_ag|You won your duel against ^^{s3}
+qstr_You_prepare_to_duel_|You prepare to duel ^^{s3}
+qstr_^^^^You_have_fought_|^^^^You have fought {s3} {reg5} times. ^^You've won {reg6} times. ^^You've lost {reg7} times
+qstr_^^^^Dueling_with_you|^^^^Dueling with your own troops will not count towards your dueling statistics.
+qstr_Villagers|Villagers
+qstr_You_have_encountered|You have encountered {s1}.
+qstr_You_have_engaged_{s1|You have engaged {s1} while they were raiding {s3}.
+qstr_You_were_caught_by_{|You were caught by {s1} while your forces were raiding {s3}.
+qstr_Total_ally_STR_=_{re|Total ally STR = {reg3}, main party STR = {reg5}, total enemy STR = {reg4}
+qstr_You_were_victorious!|You were victorious!
+qstr_Battle_was_lost._You|Battle was lost. Your forces were utterly crushed.
+qstr_Your_companions_carr|Your companions carry you away from the fighting.
+qstr_You_have_defeated_th|You have defeated the enemy.
+qstr_You_have_retreated_f|You have retreated from the fight.
+qstr_^^Ally_Casualties:{s|^^Ally Casualties:{s0}
+qstr_{s1}_of_{s3}_managed|{s1} of {s3} managed to escape.
+qstr_Pinned_ratio_=_{reg2|Pinned ratio = {reg2}, initial allies STR = {reg3}
+qstr_Some_of_your_tendons|Some of your tendons have been damaged in the battle. You lose 1 strength.
+qstr_You_took_a_nasty_wou|You took a nasty wound which will cause you to limp slightly even after it heals. You lose 1 agility.
+qstr_You_have_trouble_thi|You have trouble thinking straight after the battle, perhaps from a particularly hard hit to your head, and frequent headaches now plague your existence. Your intelligence is reduced by 1.
+qstr_Perhaps_I_m_getting_|Perhaps I'm getting unlucky...
+qstr_Retirement_is_starti|Retirement is starting to sound better and better.
+qstr_No_matter!_I_will_pe|No matter! I will persevere!
+qstr_What_did_I_do_to_des|What did I do to deserve this?
+qstr_I_suppose_it_ll_make|I suppose it'll make for a good story, at least...
+qstr_{reg0}__num_enemy_re|{reg0} -num enemy regulars remaining
+qstr_{reg0}___g_enemy_fit|{reg0} - g enemy fit for battle
+qstr_Player_s_party_STR_=|Player's party STR = {reg0}
+qstr_Ally_s_party_STR_=_{|Ally's party STR = {reg0}
+qstr_Enemy_s_party_STR_=_|Enemy's party STR = {reg0}
+qstr_{s9}_wants_you_to_fo|{s9} wants you to follow {reg0?her:his} army until further notice.
+qstr_{s8}_of_{s9}|{s8} of {s9}
+qstr_liege|liege
+qstr_former_liege|former liege
+qstr_affiliate|affiliate
+qstr_former_companion|former companion
+qstr_marshall|marshall
+qstr_vassal|vassal
+qstr__Your_own_banner_fli| Your own banner flies over the castle gate.
+qstr__You_see_the_banner_| You see the banner of your {s11} {s7} over the castle gate.
+qstr__You_see_the_banner_o| You see the banner of {s7} over the castle gate.
+qstr__Your_own_banner_flie| Your own banner flies over the town gates.
+qstr__You_see_the_banner_of| You see the banner of your {s11} {s7} over the town gates.
+qstr__You_see_the_banner_of_| You see the banner of {s7} over the town gates.
+qstr_The_{reg6?town_s:cas|The {reg6?town's:castle's} food stores should last for {reg3} more days.
+qstr_The_{reg6?town_s:cast|The {reg6?town's:castle's} food stores have run out and the defenders are starving.
+qstr_You_re_preparing_to_|You're preparing to attack the walls, the work should finish in {reg9} hours.
+qstr_Your_forces_are_buil|Your forces are building a siege tower. They estimate another {reg9} hours to complete the build.
+qstr_You_are_ready_to_att|You are ready to attack the walls at any time.
+qstr_The_siege_tower_is_b|The siege tower is built and ready to make an assault.
+qstr_As_a_last_defensive_|As a last defensive effort, you retreat to the main hall of the keep. You and your remaining soldiers will put up a desperate fight here. If you are defeated, there's no other place to fall back to.
+qstr_You_ve_been_driven_a|You've been driven away from the walls. Now the attackers are pouring into the streets. IF you can defeat them, you can perhaps turn the tide and save the day.
+qstr_You_ve_breached_the_|You've breached the town walls, but the stubborn defenders continue to resist you in the streets! You'll have to deal with them before you can attack the keep at the heart of the town.
+qstr_The_town_centre_is_y|The town centre is yours, but the remaining defenders have retreated to the castle. It must fall before you can complete your victory.
+qstr_The_remaining_defend|The remaining defenders have retreated to the castle as a last defense. You must go in and crush any remaining resistance.
+qstr_However_since_you_ar|However, since you are not a sworn {man/follower} of {s9}, there is no chance {reg0?she:he} would recognize you as the {lord/lady} of this {reg8?town:castle}.
+qstr_The_enemy_has_been_f|The enemy has been forced to retreat. The assault is over, but the siege continues.
+qstr_As_you_approach_you_|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {s10}.
+qstr_As_you_approach_you_a|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {king/queen}.
+qstr_As_you_approach_you_ar|As you approach, you are spotted by the castle guards, who welcome you and open the gates for their {lord/lady}.
+qstr_This_village_has_a_m|This village has a militia protecting it.
+qstr_This_village_does_no|This village does not have a militia.
+qstr__This_village_and_th| This village and the surrounding lands belong to you.
+qstr__You_remember_that_t| You remember that this village and the surrounding lands belong to your {s11} {s7}.
+qstr__You_remember_that_th| You remember that this village and the surrounding lands belong to {s7}.
+qstr__These_lands_belong_| These lands belong to no one.
+qstr__The_village_is_infe| The village is infested by {reg8} {s35}.
+qstr__The_peasants_hired_| The peasants hired mercenaries and are rebelling against you.
+qstr__The_village_has_bee| The village has been looted. A handful of souls scatter as you pass through the burnt out houses.
+qstr__The_village_is_bein| The village is being raided.
+qstr_No_one_here_seems_to|No one here seems to be willing to join your party.
+qstr_One_{s3}_volunteers_|One {s3} volunteers to follow you.
+qstr_{reg5}_{s3}_voluntee|{reg5} {s3} volunteer to follow you.
+qstr_Try_as_you_might_you|Try as you might, you could not defeat the bandits. Infuriated, they raze the village to the ground to punish the peasants, and then leave the burning wasteland behind to find greener pastures to plunder.
+qstr_village|village
+qstr_town|town
+qstr_castle|castle
+qstr_The_{s17}_has_no_imp|The {s17} has no improvements.
+qstr_The_{s17}_has_the_fo|The {s17} has the following improvements:{s18}.
+qstr_The_assasins_beat_yo|The assasins beat you down and leave you for dead. .
+qstr_You_have_fallen._The|You have fallen. The bandits quickly search your body for every coin they can find, then vanish into the night. They have left you alive, if only barely.
+qstr_Luckily_some_of_your|Luckily some of your companions come to search for you when you do not return, and find you lying by the side of the road. They hurry you to safety and dress your wounds.
+qstr_Luckily_some_passing|Luckily some passing townspeople find you lying by the side of the road, and recognise you as something other than a simple beggar. They carry you to the nearest inn and dress your wounds.
+qstr_You_fail_to_steal_an|You fail to steal any cattle.
+qstr_You_drive_away_{reg1|You drive away {reg17} {reg12?heads:head} of cattle from the village's herd.
+qstr_You_are_at_{s2}.|You are at {s2}.
+qstr__This_castle_has_no_| This castle has no garrison.
+qstr__The_banner_of_your_| The banner of your {s11} {s7} flies over the town gates.
+qstr__This_town_has_no_ga| This town has no garrison.
+qstr__You_have_successful| You have successfully sneaked in.
+qstr_{s13}_A_tournament_w|{s13} A tournament will be held here soon.
+qstr_Mystic_Merchant|Mystic Merchant
+qstr___{reg1}_aurums_per_| ({reg1} aurums per night)
+qstr_You_don_t_have_enough|You don't have enough money
+qstr_Moreover_you_earn_{r|Moreover, you earn {reg8} aurums from the clever bets you placed on yourself...
+qstr_Victory_is_yours!_Yo|Victory is yours! You have won this melee, but now you must prepare yourself for the next round. 
+qstr_You_have_been_bested|You have been bested in this melee, but the master of ceremonies declares a recognition of your skill and bravery, allowing you to take part in the next round. 
+qstr_You_were_beaten._The|You were beaten. The peasants are heartened by their success, but the lesson you wanted to teach them probably didn't get through...
+qstr_After_beating_your_l|After beating your last opponent, you explain to the peasants how to better defend themselves against such an attack. Hopefully they'll take the experience on board and will be prepared next time.
+qstr_The_bandits_are_brok|The bandits are broken! Those few who remain alive and conscious run off with their tails between their legs, terrified of the peasants and their new champion.
+qstr_{s1}_s_Ship|{s1}'s Ship
+qstr_However_{reg3?You_ar|However, {reg3?You are:{s1} is} unable to find any trade goods that would bring a profit.
+qstr_^Buying_{s4}_here_an|^Buying {s4} here and selling it at {s5} would bring a profit of {reg6} aurums per item.{s3}
+qstr_{reg3?You_find:{s1}_|{reg3?You find:{s1} finds} out the following:^{s3}
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1} {s1} earned {reg0} experience.
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1} earned an additional {reg0} experience.
+qstr_^You_earned_{reg0}_e|^You earned {reg0} experience.{s2}
+qstr_The_training_didn_t_|The training didn't go well at all.
+qstr_The_training_didn_t_g|The training didn't go very well.
+qstr_The_training_went_qu|The training went quite well.
+qstr_The_training_went_ve|The training went very well.
+qstr_The_training_went_pe|The training went perfectly.
+qstr_{s13}_asked_you_to_r|{s13} asked you to report to {reg4?her:him} with at least {reg13} troops.
+qstr_{s13}_ordered_you_to|{s13} ordered you to join the assault against {s14}.
+qstr_Find_and_speak_with_|Find and speak with {s3} of {s4} to give {reg4?her:him} your oath of homage.
+qstr_There_has_been_an_al|There has been an alleged border incident: {s9}
+qstr_You_defeated_Nibor_s|You defeated Nibor's men. Those of them who survived, ran away.
+qstr_You_were_defeated._S|You were defeated. Some people dragged you unconscious body out of the village.
+qstr_You_won_the_battle._|You won the battle. Rogue nobles were either killed or ran away. The village is once again free from them.
+qstr_You_lost._Rogue_nobl|You lost. Rogue nobles defeated your party.
+qstr_You_managed_to_defea|You managed to defeat Nibor Hood's loyalists and regain control over the town.
+qstr_You_lost._Nibor_Hood|You lost. Nibor Hood's people and their allies took control over the town! You got wounded, but managed to escape {s8} with the rest of survivors. {s9} died from heavy wounds. His people, who survived the attack, decided to join you.
+qstr__You_defeated_the_re| You defeated the rebels. Talk to ataman Omelian Kasap.
+qstr__You_couldn_t_defeat| You couldn't defeat the rebels. You failed the task given to you by the Guild. Talk to Adventurer Guildsman.
+qstr_You_ve_failed_to_pro|You ve failed to protect your wolf
+qstr_You_ve_protected_the|You ve protected the wolf
+qstr_You_have_taken_over_|You have taken over the bandit lair and found the relic. Report back to the Galwe scholar.
+qstr_^^Note_that_so_long_|^^Note that so long as you remain marshal, the lords of the realm will be expecting you to lead them on campaign. So, if you are awaiting a feast, either for a wedding or for other purposes, you may wish to resign the marshalship by speaking to your liege.
+qstr_Try_as_you_might_you_|Try as you might, you could not defeat the rebelling village.
+qstr_positive|positive
+qstr_negative|negative
+qstr_{s11}^^_The_current_|{s11}^^ The current garrison consists of {reg5} men.^The food stock lasts for {reg6} days.
+qstr_^^Additional_the_fol|^^Additional the following parties are currently inside:^
+qstr_{s12}_{s3}_with_{reg|{s12} {s3} with {reg1} troops.^
+qstr_{playername}_^^I_alw|{playername}, ^^I always knew you were a bad egg, since the day you have pledged allegiance to my clan. ^Did you really think you could set my family against me? You've dropped your mask, you snake! You are an infliction, and I will not bear it anymore. ^Hereby, I disown and ban you from my house. I have urged my family to fight you, and I will warn Perisno lords about your infamy. ^Tremble with fear, you have a deadly enemy! ^^{s9}.
+qstr_{playername}^^_I_ve_|{playername},^^ I've received a letter from {s9}, telling me about your disgraceful jiggery-pokery. In the present circumstances, {s9} could not provide evidence. But unlike you, {reg1?she:he} is a distinguished member of my family; and since all these years, I never had any reason to distrust {reg1?her:him}. I take {reg1?her:him} charges for granted. ^Hopefully, you failed to breakup my family unit. Hereby I reject your pledge : you are no longer related to my house. Each membership will retaliate against you in all conscience... ^I would be ashamed to confess how you maliciously fooled me, so I will not challenge you, to not be accountable for your death to my {s11}. However I'm not used to telling {reg0?her:him} about every rat I crush in the wilderness, and someday I may find you there ! ^^{s10}
+qstr_{playername}|{playername}
+qstr_Troops:_{reg1}|Troops: {reg1}
+qstr_Prosperity_Report^|Prosperity Report^
+qstr_Total|Total
+qstr_{s0}^{s1}_Average_To|{s0}^{s1} Average Town Prosperity: {reg0}
+qstr_{s0}^{s1}_towns_with|{s0}^{s1} towns with prosperity 400-500: {reg0}
+qstr_{s0}^{s1}_towns_with_|{s0}^{s1} towns with prosperity 300-399: {reg0}
+qstr_{s0}^{s1}_towns_with_p|{s0}^{s1} towns with prosperity 200-299: {reg0}
+qstr_{s0}^{s1}_towns_with_pr|{s0}^{s1} towns with prosperity 100-199: {reg0}
+qstr_{s0}^{s1}_towns_with_pro|{s0}^{s1} towns with prosperity 0-99: {reg0}
+qstr_{s0}^{s1}_Average_Vi|{s0}^{s1} Average Village Prosperity: {reg0}
+qstr_{s0}^{s1}_villages_w|{s0}^{s1} villages with prosperity 400-500: {reg0}
+qstr_{s0}^{s1}_villages_wi|{s0}^{s1} villages with prosperity 300-399: {reg0}
+qstr_{s0}^{s1}_villages_wit|{s0}^{s1} villages with prosperity 200-299: {reg0}
+qstr_{s0}^{s1}_villages_with|{s0}^{s1} villages with prosperity 100-199: {reg0}
+qstr_{s0}^{s1}_villages_with_|{s0}^{s1} villages with prosperity 0-99: {reg0}
+qstr_my_lady|my lady
+qstr_my_lord|my lord
+qstr_You_don_t_have_enough_|You don't have enough gold. How embarassing!
+qstr_You_don_t_have_enough_g|You don't have enough gold. You should be the one begging!
+qstr_The_coward_preferred|The coward preferred to flee rather than duel with you!
+qstr_You_don_t_have_enough_go|You don't have enough gold. The assassins leave the meeting in disgust.
+qstr_The_mushrooms_tasted|The mushrooms tasted great!
+qstr_Your_men_eat_the_mus|Your men eat the mushrooms. They seem to like them a lot!
+qstr_The_mushrooms_tasted_|The mushrooms tasted horrible. As a result, you feel sick. You lose health points.
+qstr_Your_men_eat_the_mush|Your men eat the mushrooms. It results in them getting stomache aches and pains. They are angry now.
+qstr_The_merchants_are_gr|The merchants are grateful and give you money.
+qstr__You_have_converted_| You have converted to the faith of the New Gods Worshippers..
+qstr__He_joins_you.| He joins you.
+qstr__You_leave_his_body_| You leave his body for the crows.
+qstr__You_have_converted_t| You have converted to the faith of the Old Gods Worshippers..
+qstr_You_don_t_have_enough_gol|You don't have enough gold.
+qstr_The_man_thanks_you_a|The man thanks you and walks off, promising to spread word of your noble deeds.
+qstr_You_ignore_the_pleas|You ignore the pleas of the man and continue on.
+qstr_The_man_thanks_you_an|The man thanks you and asks to join your party. You accept him.
+qstr_You_don_t_have4z_eno|You don't have4z enough gold.
+qstr_Your_man_managed_to_|Your man managed to spot the assassin fleeing over the hills and ran him down and captured him. It turns out the assassin is wanted and has a small bounty over his head.
+qstr_Your_man_managed_to_s|Your man managed to spot the assassin fleeing over the hills and ran him down and captured him.
+qstr_The_assassin_managed|The assassin managed to lose your man over the hills.
+qstr_Your_man_managed_to_sp|Your man managed to spot the assassin fleeing over the hills. After running him down, he killed the assassin and looted his corpse.
+qstr_You_dig_your_hands_t|You dig your hands through the dirt and feel a sharp prick. As you recoil in pain, you realize the glint came from a shattered piece of blade stuck in the earth.
+qstr_You_take_a_closer_lo|You take a closer look at the source of the glint, and see that it simply came from a shiny rock.
+qstr_As_you_walk_closer_y|As you walk closer, you see a few aurums scattered on the ground, clearly left by someone in a hurry.
+qstr_You_walk_over_to_the|You walk over to the shiny object and pick it up. The gleam that caught your eye came from the hilt of an old sword.
+qstr_As_you_walk_closer_yo|As you walk closer, you realize that the glint came from a lump of material lodged in the earth. You dig around and pull up a good-sized bar of iron, a little worn but in good condition. How strange...
+qstr_The_pup_wary_at_firs|The pup, wary at first, nibbles at the meat and then starts to devour it hungrily. After tossing it some more it pads over to you and licks your ankles.
+qstr_You_don_t_have_any_m|You don't have any meat.
+qstr_This_is_an_example_o|This is an example of the color brown.
+qstr_This_is_an_example_of|This is an example of the color violet.
+qstr_This_is_an_example_of_|This is an example of the color olive.
+qstr_This_is_an_example_of_t|This is an example of the color red.
+qstr_This_is_an_example_of_th|This is an example of the color white.
+qstr_The_game_won_t_displ|The game won't display black here.  But black is black.
+qstr_A_{s11}_has_been_hir|A {s11} has been hired and can be found in the castle of your capital.
+qstr_You_do_not_have_enou|You do not have enough money to hire a {s11}.
+qstr_himself|himself
+qstr_Success|Success
+qstr_You_have_deserted_an|You have deserted, and are now wanted!
+qstr_No_inventory_space!_|No inventory space! Restricted body armor destroyed.
+qstr_No_inventory_space!_R|No inventory space! Restricted hand armor destroyed.
+qstr_No_inventory_space!_Re|No inventory space! Restricted head armor destroyed.
+qstr_No_inventory_space!_Res|No inventory space! Restricted foot armor destroyed.
+qstr_An_equipped_racially|An equipped racially restricted item has been moved to your inventory.
+qstr_You_missed_the_deadl|You missed the deadline to pay back your debts in {s1}. They now grow at an interest of 50%.
+qstr_Your_debt_in_{s1}_is|Your debt in {s1} is now so high that the King himself has taken notice. He has frozen your debt, but is displeased with the situation.
+qstr_Breaking_camp...|Breaking camp...
+qstr_You_have_broken_off_|You have broken off your siege of {s1}.
+qstr_You_cannot_maintain_|You cannot maintain your siege of {s1} from this distance. You risk your lines breaking.
+qstr_There_s_been_a_massi|There's been a massive prisoner break from {s4}!
+qstr__Lord_Paramonos_got_| Lord Paramonos got angry at your recent actions and left your kingdom.
+qstr_Filikos|Filikos
+qstr__Lord_Filikos_got_an| Lord Filikos got angry at your recent actions and left your kingdom.
+qstr_A_livestock_epidemic|A livestock epidemic has killed {reg4} cattle in {s4}.
+qstr_Your_friends__{reg6}|Your friends ({reg6} village elders, {reg7} guildmasters and {reg8} lords) sent you some gifts and financial aid worth {reg9} aurums total as a sign of their gratitude for your frienship and everything you've done for them.
+qstr_Riot_in_{s6}!|Riot in {s6}!
+qstr_Your_party_is_spotte|Your party is spotted by {s1}.
+qstr_Party_has_nothing_to|Party has nothing to eat!
+qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?have:has} escaped from your party during the night.
+qstr_{s1}_of_{s3}_has_bee|{s1} of {s3} has been released from captivity.
+qstr_Building_of_{s0}_in_|Building of {s0} in {s4} has been completed.
+qstr_{s1}_has_won_the_tou|{s1} has won the tournament at {s2}.
+qstr_{s1}_is_no_longer_in|{s1} is no longer infested by bandits (at night).
+qstr_You_are_within_the_w|You are within the walls of an affiliated family member and don't have to pay for accommodation.
+qstr_You_pay_for_accommod|You pay for accommodation.
+qstr_Betrothal_to_{s5}_ex|Betrothal to {s5} expires
+qstr__Your_tactics_skill_| Your tactics skill has increased by 1.
+qstr__Your_persuasion_ski| Your persuasion skill has increased by 1.
+qstr__Your_leadership_ski| Your leadership skill has increased by 1.
+qstr__Your_intelligence_h| Your intelligence has increased by 1.
+qstr__Your_trade_skill_ha| Your trade skill has increased by 2.
+qstr__Your_weapon_master_| Your weapon master skill has increased by 1.
+qstr__Your_engineer_skill| Your engineer skill has increased by 1.
+qstr__Your_trainer_skill_| Your trainer skill has increased by 2.
+qstr__You_have_learned_a_| You have learned a lot about the world and your right to rule increased by 6.
+qstr_You_have_finished_re|You have finished reading {s1}.{s2}
+qstr_Book_Read|Book Read
+qstr_{s1}_is_scouted.|{s1} is scouted.
+qstr_{s1}_has_switched_fr|{s1} has switched from {s2} to {s3}.
+qstr_Your_recruiter_who_wa|Your recruiter who was commissioned to recruit {reg10} recruits to {s13} has been defeated!
+qstr_{s13}_has_been_taken|{s13} has been taken by the enemy and your recruiter who was commissioned to recruit {reg10} recruits vanished  without a trace!
+qstr_ERROR_IN_THE_RECRUIT|ERROR IN THE RECRUITER KIT SIMPLE TRIGGERS!
+qstr_A_recruiter_has_brou|A recruiter has brought {reg10} recruits to {s13}.
+qstr_Distance_between_{s1|Distance between {s14} and {s15}: {reg0}
+qstr_Your_caravan_has_bro|Your caravan has brought {s12} to {s13}.
+qstr_{s13}_is_unimpressed|{s13} is unimpressed by your paltry gift.
+qstr_The_people_of_{s13}_|The people of {s13} are unimpressed by your paltry gift.
+qstr_Your_caravan_has_los|Your caravan has lost it's way and gave up your mission!
+qstr_Transfer_to_{s6}|Transfer to {s6}
+qstr_{s6}_patrol|{s6} patrol
+qstr_Your_messenger_reach|Your messenger reached {s13}.
+qstr_{s14}|{s14}
+qstr_Your_messenger_has_l|Your messenger has lost it's way and gave up your mission!
+qstr_Not_enough_money_in_|Not enough money in treasury to upgrade troops.
+qstr_Your_constable_upgra|Your constable upgraded {reg5} {s6} to {s7} in {s8}
+qstr_It_is_rumoured_that_|It is rumoured that a spy has been caught in {s11}.
+qstr_{s0}_is_grumbling_ag|{s0} is grumbling against you.  Your affiliation could be jeopardized if this continues.
+qstr_{s0}_is_grumbling_aga|{s0} is grumbling against you, but with {s1}'s support you remain affiliated for now.
+qstr_Your_last_fief_was_c|Your last fief was captured!
+qstr_A_messenger_informs_|A messenger informs you that there was a fire in {s5}. It's under control now, but it may take a while until the damage is repaired.
+qstr_Fire_in_one_of_your_|Fire in one of your fiefs:
+qstr_The_village_of_{s5}_|The village of {s5} had a great harvest recently and the locals managed to trade well. Their prosperity has improved!
+qstr_Good_Harvest:|Good Harvest:
+qstr_The_merchant_caravan|The merchant caravans of {s5} managed to do very profitable trading recently. {s5}'s wealth has benefited significantly from this!
+qstr_Good_Trading:|Good Trading:
+qstr_A_famous_piece_of_ar|A famous piece of art, which was long been thought lost, was found near {s5}! It is currently on display in {s5} and people are coming from all over Calradia to see it. The merchants are profiting greatly from this surge in visitors.
+qstr_Lost_art_found:|Lost art found:
+qstr_A_messenger_informs_y|A messenger informs you that a painful disease has broken out in {s5}. A surgeon was sent, but was unable to find a cure. All he could do, was to contain the plague by seperating the healthy from the sick. The quarantine was successful, but the trust of {s5}'s people in you, has suffered.
+qstr_Disease_contained:|Disease contained:
+qstr_A_messenger_informs_yo|A messenger informs you that a painful disease had broken out in {s5}. However, a surgeon was sent and managed to find a cure for the plague. The people of {s5} are grateful for how this evil was handled, and their trust in you has improved!
+qstr_Disease_averted:|Disease averted:
+qstr_{s5}_was_accidently_|{s5} was accidently injured during today's training. The wounds aren't severe, but it may take some time for {s5} to be in top form again.
+qstr_Training_accident:|Training accident:
+qstr_During_today_s_train|During today's training, you were accidently injured. While the wounds aren't severe, it may take some time for them to heal.
+qstr_The_Zann_Empire_has_|The Zann Empire has come upon the land. None are safe!
+qstr_Emperor_Zann_The_Man|Emperor Zann The Mandate of Heaven
+qstr_Merchants_guild_add_|Merchants guild add prosperity to your town/s.
+qstr_University_has_impro|University has improved your renown and the relation with the town/s.
+qstr_Your_men_have_enjoye|Your men have enjoyed a day of festivities and relaxation in the town.
+qstr_Current_hours_is_{re|Current hours is {reg1}
+qstr_{s1}_left_your_kingd|{s1} left your kingdom!
+qstr_{s1}_was_spotted_nea|{s1} was spotted near {s4}.
+qstr_array_GC|array GC
+qstr_array_GC:_owner_acti|array GC: owner active, an array or is 0
+qstr_array_GC:_removing_{|array GC: removing {reg21}
+qstr_You_are_not_strong_e|You are not strong enough to lift a weapon fit for your promotion!
+qstr_You_are_not_strong_en|You are not strong enough to hold all that weight required with promotion!.
+qstr_Your_arms_are_to_wea|Your arms are to weak to advance in the artillary at this moment.
+qstr_You_require_more_hor|You require more horse riding skills to fit your next poisition!
+qstr_Checking_rejoin_of_{|Checking rejoin of {s10} days on mission: {reg0}
+qstr_The_Horde_of_Shun_Ha|The Horde of Shun-Ha was defeated, and in the commander's tent you managed to find some documents and letters. Show them all to Shi Jin.
+qstr_The_Horde_of_Sine_wa|The Horde of Sine was defeated, and in the commander's tent you managed to find some documents and letters. Show them all to Shi Jin.
+qstr_The_Horde_of_Khergia|The Horde of Khergia was defeated, and in the commander's tent you managed to find some documents and letters. Show them all to Shi Jin.
+qstr_The_Horde_of_Jin_was|The Horde of Jin was defeated, and in the commander's tent you managed to find some documents and letters. Show them all to Shi Jin.
+qstr_You_loot_the_corpse_|You loot the corpse of Sekr and take the lyre that he brought with him. You can now go back and report to Taragith.
+qstr__You_have_defeated_t| You have defeated the Red Immortals. You manage to loot the shield of their leader. Report back to the man at Grund.
+qstr_Rdahcim_s_party_was_|Rdahcim's party was defeated by another. You have failed. Report back to the man at Grund.
+qstr_You_have_defeated_the|You have defeated the bandit Rdahcim, but he has escaped. You interrogate his men and find the location of his lair.
+qstr_Reinforcements_from_|Reinforcements from {s14}
+qstr__You_now_have_the_mo| You now have the money! Return to the Adventurer's Guildsman.
+qstr__You_now_defeated_Na| You now defeated Nadriela! Return to the Adventurer's Guildsman.
+qstr_Working!|Working!
+qstr_The_released_prisone|The released prisoners were not be trusted and they are preparing to attack you!
+qstr_Warning!|Warning!
+qstr_The_released_prisoner|The released prisoners scattered as soon as the battle finished. You will not be seeing them again.
+qstr_Notice!|Notice!
+qstr_The_released_prisoners|The released prisoners have remained loyal and will join your party
+qstr_You_have_{reg0}_days_|You have {reg0} days left till you are declared as a deserter!
+qstr_You_have_now_been_de|You have now been declared as a deserter!
+qstr_{reg65?my_Lady:my_Lo|{reg65?my Lady:my Lord}
+qstr_{reg65?My_Lady:My_Lo|{reg65?My Lady:My Lord}
+qstr_{reg65?madame:sir}|{reg65?madame:sir}
+qstr_{reg65?Madame:Sir}|{reg65?Madame:Sir}
+qstr_Damn_you!_You_will_r|Damn you! You will regret your foolish actions!
+qstr_Damn_you!_For_the_Re|Damn you! For the Reich and the Kaiser!
+qstr_You_will_have_to_get|You will have to get past our arrows first!
+qstr_At_them_men!|At them, men!
+qstr_Damn_you!_Charge_Elv|Damn you! Charge, Elves!
+qstr_You_shoudn_t_have_wa|You shoudn't have wandered here!
+qstr_Damn_you!_At_{reg33?|Damn you! At {reg33?her:his} throat, men!
+qstr__no_fiefs_|(no fiefs)
+qstr__fiefs:_{s0}_|(fiefs: {s0})
+qstr_Knowing_the_identity|Knowing the identity of Torsson's killer, Falmann has asked you to kill Aethling Svafar to avenge Torsson's death. Talk to Svafar while he is your prisoner to initiate a duel.
+qstr_Capture_15_prisoners|Capture 15 prisoners and give them to {s4}. He will reward you well.
+qstr_{s4}^{s11}_of_the_{s|{s4}^{s11} of the {s12}
+qstr_^There_are_currently|^There are currently no lords that would be interested in following you in exchange for some of your land.
+qstr_{s4}^^And_there_is_m|{s4}^^And there is more...
+qstr_{s4}_of_the_{s5}_has|{s4} of the {s5} has been completely defeated.
+qstr_I_have_been_informed|I have been informed that {s4} of the {s5} is lightly defended at the moment.
+qstr_I_m_sorry_but_I_do_n|I'm sorry, but I do not have enough information right now to give you such advice.
+qstr_You_ll_fetch_a_fair_|You'll fetch a fair price, {reg33?girl:boy}!
+qstr_{reg33?Your_pretty_f|{reg33?Your pretty face:You and your soldiers} will fetch a very nice price in the slave market. Maybe 3000 aurums?
+qstr_At_the_slave_market_|At the slave market in Desouk, you will fetch a top price. I'm lucky I found you!
+qstr_We_are_the_Lymbard_K|We are the Lymbard Knights, protectors of this county. You are trespassing.
+qstr_For_Lymbard!|For Lymbard!
+qstr_You_dare_trespass_th|You dare trespass through the land of our ancestors? You will pay for your crimes!
+qstr_We_shall_make_this_s|We shall make this swift.
+qstr_If_you_have_any_last|If you have any last words, speak them now. The last words of a dying person are most sacred to our order, and shall be respected.
+qstr_By_the_end_of_the_da|By the end of the day, blood will run like rivers.
+qstr_My_brethren_it_has_b|My brethren, it has been long since we have hunted. You shall make some fine prey.
+qstr_Can_you_hear_it?_The|Can you hear it? The howling of wolves. This is a good day to hunt.
+qstr_We_are_the_Wolf_Knig|We are the Wolf Knights. Outsiders mock us and insult us. But only we know the exhiliration of a hunt, the satisfaction of a kill. We shall feel that again, soon.
+qstr_Why_have_you_come_to|Why have you come to our home? The price to visit is Death!
+qstr_This_is_no_place_for|This is no place for you to be. Now you must pay the price for coming here.
+qstr_This_is_not_your_day|This is not your day.  But it may be your LAST day!
+qstr_Why_have_you_come_to_|Why have you come to our home? Choose your words wisely...
+qstr_This_is_no_place_for_|This is no place for you to be. I suggest you carry on your business elsewhere, or have a very good excuse for roaming in these parts
+qstr_Have_we_met_before?_|Have we met before?  --No, of course we haven't.  You're still alive.
+qstr_It_s_your_money_or_y|It's your money or your life, {reg33?girlie:mate}. No sudden moves or we'll run you through.
+qstr_Lucky_for_you_you_ca|Lucky for you, you caught me in a good mood. Give us all your coin and I might just let you live.
+qstr_This_a_robbery_eh?_I|This a robbery, eh? I givin' you one chance to hand over everythin' you got, or me and my mates'll kill you. Understand?
+qstr_we_have_made_very_li|we have made very little progress so far
+qstr_we_have_suceeded_in_|we have suceeded in gaining some ground, but we still have a long way to go
+qstr_we_have_become_a_sig|we have become a significant force, and we have an even chance of victory
+qstr_we_are_winning_the_w|we are winning the war, but our enemies are still holding on.
+qstr_we_are_on_the_verge_|we are on the verge of victory. The remaining enemies pose no threat, but we still need to hunt them down.
+qstr_Talk_to_Shi_Jin_abou|Talk to Shi Jin about Zann invasion.
+qstr_Stop_the_invasion_of|Stop the invasion of The Horde of Jin.
+qstr_Stop_the_invasion_of_|Stop the invasion of The Horde of Khergia.
+qstr_Stop_the_invasion_of_T|Stop the invasion of The Horde of Sine.
+qstr_Stop_the_invasion_of_Th|Stop the invasion of The Horde of Shun Ha.
+qstr_Talk_to_the_person_w|Talk to the person wearing strange black armor at the tavern of {s8}.
+qstr_Talk_to_Zann_Fort_Ca|Talk to Zann Fort Captain.
+qstr_Talk_to_the_elderly_|Talk to the elderly amazon at the tavern of {s8}.
+qstr_Talk_to_Captain_Berk|Talk to Captain Berkut at the tavern of {s8}.
+qstr_Report_to_amazon_Oks|Report to amazon Oksanamun at the tavern of {s8}.
+qstr_Talk_to_Meadbrewer_a|Talk to Meadbrewer at {s8}.
+qstr_Talk_to_Silberfalke_|Talk to Silberfalke at {s8}.
+qstr_Adventurer_Meadbrewe|Adventurer Meadbrewer mentioned that the resident of {s8} requires my help. I might as well pay this person a visit.
+qstr__You_have_been_taske| You have been tasked with defeating someone called Nadriela Zweibal. However, you have been specifically instructed to make sure the Tolranian Spymaster does not get to her first.
+qstr_Escort_wyvern_riders|Escort wyvern riders to the town of {s8}.
+qstr_You_do_not_have_enoug|You do not have enough money!
+qstr_A_man_named_Nodah_ha|A man named Nodah has convinced you to raid a Reich caravan traveling to Voldeburg. This will surely be a big blow for the Drachens! You must do it for the glory of Illica.
+qstr_Nodah_has_asked_you_|Nodah has asked you to defeat the local Reich lord. He is near Voldeburg.
+qstr_Nodah_has_asked_you_t|Nodah has asked you to defeat a dragon priest
+qstr_Nodah_has_asked_you_to|Nodah has asked you to defeat Gunnarr, a dangerous Valahir mercenary. For glory!
+qstr_Nodah_has_asked_you_to_|Nodah has asked you to conquer Voldeburg.
+qstr_{s9}_asked_to_bring_|{s9} asked to bring his wolf to {s10}
+qstr_Your_kingdom_culture|Your kingdom culture is: Perisno
+qstr_Your_kingdom_has_no_|Your kingdom has no specified culture
+qstr_Your_kingdom_culture_|Your kingdom culture is: {s11}
+qstr_You_cannot_afford_to|You cannot afford to change to this culture.
+qstr_Kingdom_culture:_Non|Kingdom culture: None
+qstr_Kingdom_culture:_{s1|Kingdom culture: {s11}
+qstr_{s11}|{s11}
+qstr_Kingdom_culture:_Fal|Kingdom culture: Falcon
+qstr_Kingdom_culture:_Per|Kingdom culture: Perisno
+qstr_The_goverment_of_the|The goverment of the {s10} is {s4}.
+qstr_The_upper_class_soci|The upper class society is {s5}.
+qstr_The_people_are_{s6}.|The people are {s6}.
+qstr_The_government_s_app|The government's approach to trade is {s0}.
+qstr_Our_goverment_is_{s4|Our goverment is {s4}.
+qstr_Our_people_are_{s6}.|Our people are {s6}.
+qstr_Our_approach_to_trad|Our approach to trade is {s0}.
+qstr_According__to_the_re|According  to the report of our spies
+qstr_{s10}_{reg3}_lords_s|{s10} {reg3} lords support {s9}.
+qstr_Sorry_currently_I_ca|Sorry, currently I can't provide any information about the lords mood, our spies haven't reported back yet.
+qstr_{s11}_and_{s12}|{s11} and {s12}
+qstr_We_are_not_at_war_wi|We are not at war with anyone.
+qstr_We_are_at_war_with_{|We are at war with {s12}.
+qstr_Our_kingdom_currentl|Our kingdom currently has {reg2} soldiers
+qstr_{s6}_garrisoned_in_{|{s6} garrisoned in {reg2} towns
+qstr_{s6}_and_{reg2}_cast|{s6} and {reg2} castles.
+qstr_{s6}_In_addition_we_|{s6} In addition we have {reg2} soldiers in the field.
+qstr_We_currently_have_{r|We currently have {reg2} soldiers
+qstr_{s6}_In_addition_you|{s6} In addition you have {reg2} soldiers in your convoy and {reg3} soldiers in patrols.
+qstr_He_fields_{reg2}_sol|He fields {reg2} soldiers.
+qstr_We_currently_have_{re|We currently have {reg2} soldiers garrisoned in {s60}.
+qstr_You_are_preferring_m|You are preferring melee units.
+qstr_You_are_preferring_r|You are preferring ranged units.
+qstr__and_the_additional_| and the additional trainers
+qstr_We_currently_have_an|We currently have an income of {reg0} aurums and costs of {reg1} aurums from fiefs and garrions.
+qstr_{s6}_We_are_losing_{|{s6} We are losing {reg0} aurums due to tax inefficiency. That means {reg1} percent.
+qstr_{s6}_Overall_this_su|{s6} Overall this sums up to {reg0} aurums.
+qstr_{reg0}_aurums|{reg0} aurums
+qstr_no|no
+qstr_{s60}_is_currently_o|{s60} is currently occupied by outlaws you should counter them as soon as possible.
+qstr__We_are_expecting_{r| We are expecting {reg0} aurums for rents
+qstr__The_troop_wages_for| The troop wages for {reg0} troops cost us {reg1} aurums.
+qstr_{s61}_and_{reg0}_aur|{s61} and {reg0} aurums for tariffs
+qstr_Well_{s60}.|Well, {s60}.
+qstr_{s4}_{s3}._The_tax_r|{s4} {s3}. The tax rate is {s50}.{s59}{s61}. Overall this sums up to {s62} aurums.
+qstr_Tax_rate_for_{s6}:_{|Tax rate for {s6}: {s11}
+qstr_The_{s17}_has_the_fol|The {s17} has the following improvements: {s18}.
+qstr_You_have_shown_great|You have shown great strength on the battlefield. But why should I enlist you within us?
+qstr_All_of_life_is_about|All of life is about pros and cons. Why would we allow you to be our fellow?
+qstr_I_know_people_do_fea|I know, people do fear your harshness. Should we though?
+qstr_Indeed_I_have_heard_|Indeed, I have heard of your loyalty and valor. But is it enough to join us?
+qstr_I_m_glad_you_want_to|I'm glad you want to support us. But, would it be wise for you, to affiliate to our family?
+qstr_Beside_your_wealth_h|Beside your wealth, how could you possibly serve me and my family?
+qstr_My_friend_I_see_your|My friend, I see your reasoning. But would you really risk straining our friendship by entering into a formal partnership?
+qstr_Agreed!_Your_words_c|Agreed! Your words convice me as much as your blade.
+qstr_I_trust_you_my_famil|I trust you, my family could use your resourcefulness. Together we will spread our influence all over Perisno.
+qstr_May_God_have_mercy_o|May God have mercy on our enemy souls, because we won't!
+qstr_So_be_it._We_are_hon|So be it. We are honored to accept you into our family.
+qstr__I_will_appreciate_y| I will appreciate you as much as a son.
+qstr_I_accept_your_reques|I accept your request. We will support you if you support my family.
+qstr_Since_you_have_turne|Since you have turned out to be a worthy fellow, you should be worthy for our entire family.
+qstr_Your_leader_is_not_e|Your leader is not even a king and I shall join you?
+qstr_{s40}_I_would_never_|{s40} I would never join someone who doesn't own a town or castle.
+qstr_{s40}_I_know_too_lit|{s40} I know too little about your leader.
+qstr_{s40}_I_found_your_m|{s40} I found your messenger unconvincing.
+qstr_{s40}_Next_time_I_wo|{s40} Next time I would prefer to talk to someone who doesn't act like a fool.
+qstr_{s40}_Next_time_I_wou|{s40} Next time I would prefer to talk to someone more versed in courtly manners.
+qstr_{s40}_I_rather_stay_|{s40} I rather stay with my current king.
+qstr_{s31}_{s32}_{s34}|{s31} {s32} {s34}
+qstr_{playername}_when_we|{playername}, when we started our long walk, few people had the courage to support me.And fewer still would be willing to put their lives at risk for my cause.But you didn't hesitate for a moment in throwing yourself at my enemies.We have gone through a lot together, and there were times I came close to losing all hope.But with God's help, we prevailed. It is now time for me to leave your company and take what's rightfully mine.From now on, I will carry out the great responsibility of ruling {s3}.There still lie many challanges ahead and I count on your help in overcoming those.And of course, you will always remain as my foremost vassal.
+qstr_Find_and_speak_with_{|Find and speak with {s3} of {s4} to give him your oath of homage.
+qstr__We_will_of_course_n| We will of course need to wait until the realm is no longer on campaign.
+qstr__{s1}_has_been_accep| {s1} has been accepted as a vassal of {s2}.
+qstr_I_am_{s4}_the_ruler_|I am {s4}, the ruler of {s6}
+qstr_I_am_{s4}_{s8}_of_{s|I am {s4}, {s8} of {s9}
+qstr_I_am_{s4}_a_vassal_o|I am {s4}, a vassal of {s6}
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? and the lord of {s8}.:.
+qstr_{s13}_asked_you_to_g|{s13} asked you to gather {reg3} heads of cattle and deliver them back to him.
+qstr_{s9}_wants_you_to_fol|{s9} wants you to follow his army until further notice.
+qstr_{s9}_asked_you_to_sc|{s9} asked you to scout {s13}, {s14} and {s15}, then report back.
+qstr_pupil|pupil
+qstr_you|you
+qstr_You_are_challenging_|You are challenging me to a duel? How droll!As you wish, {playername}, it will be good sport to bash your head in.
+qstr_Well_well_well!_A_Lo|Well well well! A Love Letter! And it is from {s9}, who shines like the pot of gold at the end of the rainbow! I have always have had a secret longing for the good lady! This is good news indeed, {playername}. Please hurry back and bring my felicitations.
+qstr_Well_well_well!_A_Lov|Well well well! A Love Letter! How exciting. Wait, what's this? {s9}? Are you playing me for an ass, {playername}? Only a father could love that mare. Brrrrr! Begone!
+qstr_{s16}_and_{s17}|{s16} and {s17}
+qstr_Very_well_I_will_acc|Very well, I will accept you back into my ranks, if you're ready to swear your solemn oath once more.
+qstr_A_pardon_will_only_b|A pardon will only be possible if you are willing to cede {s17} to me. Do you agree my terms?
+qstr_No._There_is_no_chan|No. There is no chance of peace between us, I am not interested.
+qstr_Destroy_the_Sectaria|Destroy the Sectarian Dragon Priest group.
+qstr_You_have_been_asked_|You have been asked to defeat a rebel Draharan tribe. They may be hiding anywhere.
+qstr_You_have_been_asked_t|You have been asked to defeat a large party of New God Worshippers by King Agathor of Maccavia. They may be anywhere.
+qstr_You_have_been_asked_to|You have been asked to defeat Hakkon deserters that are fleeing to the Third Legion.
+qstr_You_have_been_asked_to_|You have been asked to defeat Rebel Huscarls.
+qstr_{s1}_exchanged_{s2}_|{s1} exchanged {s2} to {s3} for {s4}.
+qstr_Our_marshal_{s1}|Our marshal, {s1}
+qstr_Our_liege_{s1}|Our liege, {s1}
+qstr_go_on_the_offensive_|go on the offensive now.
+qstr_act_to_defend_our_la|act to defend our lands.
+qstr_take_more_time_to_ga|take more time to gather the army.
+qstr_You_promised_to_help|You promised to help {s13} claim the throne of {s14}.
+qstr_{s5}___{reg1}_{s6}__|{s5} - {reg1}, {s6} - {reg2}, {s7} - {reg3}, {s8} - {reg4}, {s9} - {reg5}.
+qstr_What_do_you_say_to_e|What do you say to entering the service of {s9} as a mercenary captain? I have no doubt that you would be up to the task.
+qstr_{s9}_asked_you_to_ta|{s9} asked you to take a message to {s13}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s9}_asked_you_to_tak|{s9} asked you to take a Love Letter to {s13}.
+qstr_{s9}_asked_you_to_take|{s9} asked you to take a message to {s13} of {s15}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s11}_asked_you_to_e|{s11} asked you to escort {reg65?her:his} {s17} {s13} to {s14}.
+qstr_{s13}_asked_you_to_d|{s13} asked you to deal with the bandits who are occupying the village of {s15} and then report back to {reg65?her:him}.
+qstr_{s9}_asked_you_to_ra|{s9} asked you to raise {reg1} {s14} and bring them to {reg65?her:him}.
+qstr_{s9}_asked_you_to_co|{s9} asked you to collect taxes from {s3}. {reg65?She:He} offered to leave you one-fifth of all the money you collect there.
+qstr_{s9}_asked_you_to_hu|{s9} asked you to hunt down a fugitive named {s4}. He is currently believed to be at {s3}.
+qstr_{s9}_asked_you_to_as|{s9} asked you to assassinate a local merchant at {s3}.
+qstr_{s9}_has_asked_you_t|{s9} has asked you to meet with a spy in {s13}.
+qstr_{s11}_asked_you_to_f|{s11} asked you to follow the spy that will leave {s12}. Be careful not to let the spy see you on the way, or he may get suspicious and turn back. Once the spy meets with his accomplice, you are to capture them and bring them back to {s11}.
+qstr_{s11}_asked_you_to_c|{s11} asked you to capture a lord from {s13}, any lord, and then drag your victim back to {s11} for safekeeping.
+qstr_{s9}_asked_you_to_le|{s9} asked you to lend your companion {s3} to him for a week.
+qstr_{s9}_asked_you_to_col|{s9} asked you to collect the debt of {reg4} aurums {s3} owes to {reg65?her:him}. {s3} was at {s4} when you were given this quest.
+qstr_{s11}_gave_you_a_fak|{s11} gave you a fake letter to fool {s13} into banishing his vassal {s16}. You are to go near {s14}, give the letter to one of your {s15} and send him into the town as a messenger, believing his orders to be genuine.
+qstr_{s9}_has_requested_y|{s9} has requested you to bring him {reg1} {s3} as prisoners.
+qstr_Lend_your_experience|Lend your experienced surgeon {s3} to {s1}.
+qstr_Then_take_it_with_my|Then take it, with my eternal thanks. You are a noble {reg33?woman:man}. I will never forget that you helped me in my time of need.
+qstr_Forgive_me_{playerna|Forgive me, {playername}, but I must insist you accept it. The money means little to me, and I owe you so much. Here, take it, and let us speak no more of this.
+qstr_{playername}_what_a_|{playername}, what a dear {reg33?woman:man} you are, but I will not allow you to refuse this. I owe you far more than I can say, and I am sure you can put this money to far better use than I.
+qstr_{s11}_asked_you_to_r|{s11} asked you to rescue {reg65?her:his} {s17}, {s13}, from {s14} by switching clothes and taking {reg4?her:his} place in prison.
+qstr_{s11}_asked_you_to_re|{s11} asked you to rescue {reg65?her:his} {s17}, {s13}, from {s14}.
+qstr_{s11}_asked_you_to_d|{s11} asked you to deliver a message to {s13}, who is imprisoned at {s14}.
+qstr_You_agreed_to_challe|You agreed to challenge {s13} to defend {s11}'s honour.
+qstr_{s9}_asked_you_to_take_|{s9} asked you to take a letter to {s13}. {s13} was believed to be at {s4} when you were given this quest.
+qstr_{s5}__Persuasion_str|{s5} (Persuasion strength: {reg5})
+qstr_Persuasion_Attempt|Persuasion Attempt
+qstr_Talk_to_Remus_in_{s8|Talk to Remus in {s8}.
+qstr_Defeat_a_group_of_Su|Defeat a group of Sut giants that wish to join the Wolf Knights.
+qstr_Remus_has_asked_you_|Remus has asked you to send Archduke Methenor a message.
+qstr_Stupid_outlander._I_|Stupid outlander. I am Rafklazan. Surrender or die!
+qstr_I_am_King_Rafklazan_|I am King Rafklazan, leader of the Rafkla tribe. Outlander, it is time to die!
+qstr_Once_I_defeat_you_yo|Once I defeat you, you will help me find my way home. If not ... you will be tortured for eternity!
+qstr_I_am_Nibor_Hood_the_|I am Nibor Hood, the symbol of freedom and justice in this land! You must be a noble prat.
+qstr_I_am_Nibor_Hood_the_l|I am Nibor Hood, the leader of the Free Born of Tolrania! You must be a noble prat!
+qstr_I_am_Nibor_Hood_and_|I am Nibor Hood, and I will now take your money to give to the poor!
+qstr_I_am_Onishi_the_lead|I am Onishi, the leader of the Zann Berserkers. Our goal is to cut a path through everyone before the Emperor arrives.
+qstr_You_are_in_our_way._|You are in our way. We are the Kamikaze Bersekers. Time to die!
+qstr_I_have_been_ordered_|I have been ordered by the Mandate of Heaven, the uniter of the Shun-Ha, Khergia, and Sine, to destroy everything in this pitiful continent. Sadly, I think you are a part of it.
+qstr_I_am_Yachamoci_the_l|I am Yachamoci, the leader of the Zann in this accursed continent. Our goal is to cut a path through everyone before the Emperor arrives.
+qstr_You_are_in_our_way._T|You are in our way. Time to die!
+qstr_I_am_Zeladeck_the_Ch|I am Zeladeck, the Chosen One. Do you know of me?
+qstr_I_will_lead_the_Falk|I will lead the Falki to freedom against the cursed Reich opressors.
+qstr_I_am_Zeladeck_the_Cho|I am Zeladeck, the Chosen One. Prepare to die.
+qstr_My_name_is_Octiem._I|My name is Octiem. I am the leader of the Third Legion. Anyone who threatens our legacy is our enemy.
+qstr_The_Third_Legion_wil|The Third Legion will reconquer the world under the banner of the Venetor Empire. I have been chosen to lead them.
+qstr_Fool._Do_you_know_wh|Fool. Do you know who I am? I am Octiem, the chosen Atanos of the Third Legion.
+qstr_I_am_General_Ialoch.|I am General Ialoch. I lead the armies of the Demon Worshippers. Any who stand in our way shall be destroyed.
+qstr_The_power_of_the_Dem|The power of the Demon Worshippers grow by the night. Soon, this world will fall under the banner of the Dreaded One!
+qstr_The_Demon_Worshipper|The Demon Worshippers will soon conquer the world. And I have been chosen to lead the armies. You will be first to experience the might of our armies!
+qstr_I_am_Lord_Ceylius_th|I am Lord Ceylius, the leader of the Masnerian Knights! Let's see if you are brave enough to test yourself against me.
+qstr_We_fight_for_money_a|We fight for money, and money alone. Let's see what you have for us!
+qstr_I_am_Nox_of_Zephilli|I am Nox of Zephilli, the Chosen One who will save this land. Prepare yourself for battle!
+qstr_I_am_Nox_of_Zephilli.|I am Nox of Zephilli. And you are nothing but a waste of my time. Prepare to die!
+qstr_I_am_Nox_of_Zephilli_|I am Nox of Zephilli, the savior of this land. I shall unite Perisno once again and become its Emperor! You are nothing but a weak rival waiting to be eliminated.
+qstr_I_am_Aegea_the_Queen|I am Aegea, the Queen of the Ankars. You will make nice target practice.
+qstr_My_sisters_are_weary|My sisters are weary from travel, we will need some entertainment. You are going to be nice target practice!
+qstr_I_am_Aegea_Queen_of_|I am Aegea, Queen of the Ankars. And you are target practice.
+qstr_You_have_defeated_the_|You have defeated the Dreaded One. You take his sword and gold as loot.
+qstr_I_am_the_Dreaded_One|I am the Dreaded One, the leader of the Demon Worshippers. Your world is doomed ... I am here to take back what is rightfully mine!
+qstr_Ah_..._sweet_flesh!_|Ah ... sweet flesh! It has been a long time since I have had such good targets to convert.
+qstr_I_am_the_Dreaded_One_|I am the Dreaded One, the leader of the Demon Worshippers. This age is about to end ... and the age of the Dreaded One shall begin!
+qstr_You_have_been_asked_to_d|You have been asked to destroy a party of disbelievers. For Mal'Kij, King of the Gods!
+qstr_You_have_been_asked_to_de|You have been asked to destroy a party of disbelievers. For Mal'Kiarj, King of the Gods!
+qstr_head|head
+qstr_tail|tail
+qstr_Recently_a_local_nob|Recently, a local noble was complaining about a recent outbreak of dangerous prisoners. He said they were terroizing his land and making his serfs afraid.
+qstr_There_has_been_a_gro|There has been a group of marauding bandits that have descended upon the local neighborhood. They have been sowing fear throughout the land.
+qstr_A_group_of_Eagle_Kni|A group of Eagle Knights approached me and asked me to keep a look out for strong, able mercenaries. They told me that Demon Worshippers were close and the land needed cleansing.
+qstr_A_party_of_suspiciou|A party of suspicious types is wandering nearby. A few town residents already disappeared.     The same thing happened to several merchant caravans, and traders now prefer to stay away from the town. Help us and rid us of those types!
+qstr_Defeat_a_group_of_da|Defeat a group of dangerous escaped prisoners.
+qstr_Defeat_a_group_of_dan|Defeat a group of dangerous marauding bandits.
+qstr_Defeat_a_group_of_De|Defeat a group of Demon Worshippers for the eagle knights.
+qstr_{s9}_asked_you_to_hun|{s9} asked you to hunt down a fugitive named {s4}. They are currently believed to be at {s3}.
+qstr_{s12}_and_{s11}|{s12} and {s11}
+qstr_You_can_find_book_me|You can find book merchants at {s11}.
+qstr_{s12}_{s11}|{s12}, {s11}
+qstr_You_can_find_ransom_|You can find ransom brokers at {s11}.
+qstr__Your_party_s_morale| Your party's morale has been raised by 20.
+qstr_A_villager_from_{s7}|A villager from {s7} begged you to save their village from the bandits that took refuge there.
+qstr_{s4}_asked_you_to_de|{s4} asked you to defeat Nibor Hood's party in {s3}
+qstr_{s4}_asked_you_to_pu|{s4} asked you to put an end to rampaging nobles in {s3}
+qstr_You_chose_well_{s0}.|You chose well, {s0}. My {reg65?companions:lads} know how to keep their word and earn their pay.
+qstr_Well_done_{s0}._Keep|Well done, {s0}. Keep the money and wine coming our way, and there's no foe in Perisno you need fear.
+qstr_We_are_at_your_servi|We are at your service, {s0}. Point us in the direction of those who need hurting, and we'll do the rest.
+qstr_The_Guildmaster_of_{|The Guildmaster of {s13} has asked you to deal with looters in the surrounding countryside.
+qstr_{s9}_of_{s3}_asked_y|{s9} of {s3} asked you to deliver {reg5} units of {s6} to the tavern in {s4} in 7 days.
+qstr_Escort_the_merchant_|Escort the merchant caravan to the town of {s8}.
+qstr_Merchant_{s9}_of_{s4|Merchant {s9} of {s4} asked you to hunt down the troublesome bandits in the vicinity of the town.
+qstr_Guildmaster_of_{s4}_|Guildmaster of {s4} gave you {reg12} aurums to pay the ransom of a girl kidnapped by bandits. You are to meet the bandits near {s3} and pay them the ransom fee. After that you are to bring the girl back to {s4}.
+qstr_Guildmaster_of_{s4}_p|Guildmaster of {s4} promised you {reg12} aurums if you can make sure that {s12} and {s13} no longer pose a threat to a peace settlement between {s15} and {s14}. In order to do that, you must either convince them or make sure they fall captive and remain so until a peace agreement is made.
+qstr_The_Guildmaster_of_{s|The Guildmaster of {s14} has asked you to deal with a group of bandits terrorising the streets of {s14}. They only come out at night, and only attack lone travellers on the streets.
+qstr_Guildmaster_of_{s10}|Guildmaster of {s10} asked you to move a cattle herd to {s13}. You will earn {reg8} aurums in return.
+qstr_He_is_not_commanding|He is not commanding any men at the moment.
+qstr_He_currently_command|He currently commands {reg0} men{reg1?, of which around {reg1} are wounded:}.
+qstr_The_elder_of_the_vil|The elder of the village of {s3} asked you to bring them {reg5} packs of grain.
+qstr_The_elder_of_the_vill|The elder of the village of {s13} asked you to train {reg5} peasants to fight against local bandits.
+qstr_The_elder_of_the_villa|The elder of the village of {s3} asked you to bring them {reg5} heads of cattle.
+qstr_Escort_the_scholars_|Escort the scholars to the town of {s8}.
+qstr_{s16}_and_{s15}|{s16} and {s15}
+qstr_We_do_not_have_any_n|We do not have any new ingots mined here at the moment.
+qstr_We_have_1_in_stock_a|We have 1 in stock at the moment.
+qstr_We_have_2_in_stock_a|We have 2 in stock at the moment.
+qstr_We_have_3_in_stock_a|We have 3 in stock at the moment.
+qstr_We_have_4_in_stock_a|We have 4 in stock at the moment.
+qstr_We_have_5_in_stock_a|We have 5 in stock at the moment.
+qstr_We_have_1_ingots_in_|We have 1 ingots in stock at the moment.
+qstr_We_have_2_ingots_in_|We have 2 ingots in stock at the moment.
+qstr_We_have_3_ingots_in_|We have 3 ingots in stock at the moment.
+qstr_We_have_4_ingots_in_|We have 4 ingots in stock at the moment.
+qstr_We_have_5_ingots_in_|We have 5 ingots in stock at the moment.
+qstr_I_can_smell_a_fat_pu|I can smell a fat purse a mile away. Methinks yours could do with some lightening, eh?
+qstr_Why_it_be_another_tr|Why, it be another traveller, chance met upon the road! I should warn you, country here's a mite dangerous for a good {reg33?woman:fellow} like you. But for a small donation my boys and I'll make sure you get rightways to your destination, eh?
+qstr_Well_well_look_at_th|Well well, look at this! You'd best start coughing up some silver, friend, or me and my boys'll have to break you.
+qstr_There_s_a_toll_for_p|There's a toll for passin' through this land, payable to us, so if you don't mind we'll just be collectin' our due from your purse...
+qstr_Another_fool_come_to|Another fool come to throw {reg33?her:him}self on my weapon, eh? Fine, let's fight!
+qstr_We_re_not_afraid_of_|We're not afraid of you, {reg33?wench:sirrah}! Time to bust some heads!
+qstr_That_was_a_mistake._|That was a mistake. Now I'm going to have to make your death long and painful.
+qstr_Brave_words._Let_s_s|Brave words. Let's see you back them up with deeds, cur!
+qstr_{s1}_is_the_new_King|{s1} is the new King of the {s2}!!!
+qstr_your_lordship|your lordship
+qstr_A_cloakpin?_Well..._|A cloakpin? Well... Yes, I suppose it is. What a strange thing to ask.
+qstr_This_is_the_{reg4?to|This is the {reg4?town:village} of {s5}, {s0}.
+qstr_{s6}_Our_{reg4?town:|{s6} Our {reg4?town:village} and the surrounding lands belong to you of course, my {reg33?lady:lord}.
+qstr_{s6}_Our_{reg4?town:v|{s6} Our {reg4?town:village} and the surrounding lands belong to {s7} of {s8}.
+qstr_{s3}_and_{s5}|{s3} and {s5}
+qstr_{reg20?We_mostly_pro|{reg20?We mostly produce {s5} here:We don't produce much here these days}. If you would like to learn more, you can speak with our {reg4?guildmaster:village elder}. He is nearby, right over there.
+qstr_A_duel_that_sounds_l|A duel, that sounds like an interesting idea. We could keep score and see who is the better fighter!
+qstr_Ah_so_you_wish_to_be|Ah, so you wish to be beaten by me again, eh? I shall teach you another lesson in the art of dueling
+qstr_You_may_have_won_mor|You may have won more of our duels than I, but that will change today!
+qstr_We_seem_to_be_evenly|We seem to be evenly match so another duel should prove to be interesting.
+qstr_You_should_not_be_se|You should not be seeing this text.
+qstr_I_accept_your_challe|I accept your challenge.^Do you wish to fight on horseback or on foot?
+qstr_I_accept_your_challen|I accept your challenge. ^Let us choose our weapons.
+qstr_horseback|horseback
+qstr_foot|foot
+qstr_our_own_weapons|our own weapons
+qstr_sword_and_shield|sword and shield
+qstr_two_handed_weapons|two handed weapons
+qstr_light_armor_and_rang|light armor and ranged weapons
