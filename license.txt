@@ -10,7 +10,8 @@
 
 * 마운트앤블레이드 워밴드 1.173 버전 한글 패치 [다운/링크] (잘못된 의역 수정, 현 기준 최신) : http://cafe.naver.com/warband/224889
 * 마앤블 워밴드 한글패치 방법과 관련 링크 정리 : http://cafe.naver.com/warband/203228
- 
+* 꿀팁! 전투중 카메라 시점 자유이동법	: http://cafe.naver.com/warband/173654
+* 수정! 전투중 카메라 시점 자유이동법 편의 버전 : http://cafe.naver.com/warband/173738
 
 펜도르의 예언 한글 패치
   
@@ -23,7 +24,7 @@
  
 페리스노
 
-* 페리스노 (Perisno) 한글화 v12 by 물에빠진달 - http://cafe.naver.com/warband/224889
+* 페리스노 (Perisno) 한글화 v15 by 물에빠진달 - http://cafe.naver.com/warband/224889
  
 기타
 

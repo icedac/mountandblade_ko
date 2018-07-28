@@ -1,63 +1,65 @@
-﻿fac_no_faction|No Faction
-fac_commoners|평민들
-fac_outlaws|무법자들
-fac_neutral|중립국
-fac_innocents|무고한 사람들
-fac_merchants|상인들
-fac_wild_animals|야생 동물들
-fac_player_faction|플레이어 세력
-fac_player_supporters_faction|페리스노 왕국
-fac_kingdom_1|톨라니아 왕국
-fac_kingdom_2|용의 제국
-fac_kingdom_3|드라하라
-fac_kingdom_4|믹카비아
-fac_kingdom_5|엘린터
-fac_kingdom_6|하콘 제국
-fac_kingdom_8|팔콘 렐름
-fac_kingdom_9|발라히르 부족
-fac_kingdom_10|카이코스 연합
-fac_kingdom_11|겔다
-fac_kingdom_12|크레타 군주국
-fac_kingdom_13|쿠우-란 호드
-fac_kingdom_14|바칼 거인족
-fac_kingdom_15|수트 거인족
-fac_kingdom_16|아로우로 오지부와칸
-fac_zann_dynasty|잔 왕조
-fac_peasant_rebels|농민 반란군
-fac_robber_knights|강도 기사들
-fac_manhunters|현상금 사냥꾼들
-fac_mercenaries|용병들
-fac_outlaws_ks|톨라니아 반역자들
-fac_kingdom_1_rebels|톨라니아 반란군
-fac_kingdom_2_rebels|용의 제국 반란군
-fac_kingdom_3_rebels|드라하라 반란군
-fac_kingdom_4_rebels|믹카비아 반란군
-fac_kingdom_5_rebels|엘린터 반란군
-fac_kingdom_6_rebels|하콘 제국 반란군
-fac_imperial_scouts|제국 정찰대
-fac_mountain_bandits|산적들
-fac_deserters|탈영병들
-fac_forest_bandits|숲 도적들
-fac_syrin_nomads|시린 유목민들
-fac_sea_raiders|볼헤르
-fac_new_gods|새로운 신들
-fac_old_gods|오래된 신들
-fac_foreigners|외국인들
-fac_cultists|광신자들
-fac_inquisition|종교 재판관
-fac_illica|일리카
-fac_amazons|앙카르
-fac_eagle_brotherhood|독수리 기사단
-fac_demon_worshippers|악마 숭배자들
-fac_lymbard|림버드
-fac_wolf_knights|늑대 기사단
-fac_first_legion|제 3 군단
-fac_desouk_slaver|데소크 노예들
-fac_freelancer_guild|프리랜서 조합
-fac_geldarin_elves|겔다린 엘프족
-fac_faith|믿음의 교단
-fac_aruolo|아로우로 부족
-fac_pioneers|탐험가 조합
-fac_red_immortals|붉은 불멸자들
-fac_merchant_guild|상인 조합
-fac_mosoru|모소르
+
+str_id|"dst_lang1"
+fac_no_faction|"No Faction"
+fac_commoners|"평민들"
+fac_outlaws|"무법자들"
+fac_neutral|"중립국"
+fac_innocents|"무고한 사람들"
+fac_merchants|"상인들"
+fac_wild_animals|"야생 동물들"
+fac_player_faction|"플레이어 세력"
+fac_player_supporters_faction|"페리스노 왕국"
+fac_kingdom_1|"톨라니아 왕국"
+fac_kingdom_2|"용의 제국"
+fac_kingdom_3|"드라하라"
+fac_kingdom_4|"믹카비아"
+fac_kingdom_5|"엘린터"
+fac_kingdom_6|"하콘 제국"
+fac_kingdom_8|"팔콘 렐름"
+fac_kingdom_9|"발라히르 부족"
+fac_kingdom_10|"카이코스 연합"
+fac_kingdom_11|"겔다"
+fac_kingdom_12|"크레타 군주국"
+fac_kingdom_13|"쿠우-란 호드"
+fac_kingdom_14|"바칼 거인족"
+fac_kingdom_15|"수트 거인족"
+fac_kingdom_16|"아로우로 오지부와칸"
+fac_zann_dynasty|"잔 왕조"
+fac_peasant_rebels|"농민 반란군"
+fac_robber_knights|"강도 기사들"
+fac_manhunters|"현상금 사냥꾼들"
+fac_mercenaries|"용병들"
+fac_outlaws_ks|"톨라니아 반역자들"
+fac_kingdom_1_rebels|"톨라니아 반란군"
+fac_kingdom_2_rebels|"용의 제국 반란군"
+fac_kingdom_3_rebels|"드라하라 반란군"
+fac_kingdom_4_rebels|"믹카비아 반란군"
+fac_kingdom_5_rebels|"엘린터 반란군"
+fac_kingdom_6_rebels|"하콘 제국 반란군"
+fac_imperial_scouts|"제국 정찰대"
+fac_mountain_bandits|"산적들"
+fac_deserters|"탈영병들"
+fac_forest_bandits|"숲 도적들"
+fac_syrin_nomads|"시린 유목민들"
+fac_sea_raiders|"볼헤르"
+fac_new_gods|"새로운 신들"
+fac_old_gods|"오래된 신들"
+fac_foreigners|"외국인들"
+fac_cultists|"광신자들"
+fac_inquisition|"종교 재판관"
+fac_illica|"일리카"
+fac_amazons|"앙카르"
+fac_eagle_brotherhood|"독수리 기사단"
+fac_demon_worshippers|"악마 숭배자들"
+fac_lymbard|"림버드"
+fac_wolf_knights|"늑대 기사단"
+fac_first_legion|"제 3 군단"
+fac_desouk_slaver|"데소크 노예들"
+fac_freelancer_guild|"프리랜서 조합"
+fac_geldarin_elves|"겔다린 엘프족"
+fac_faith|"믿음의 교단"
+fac_aruolo|"아로우로 부족"
+fac_pioneers|"탐험가 조합"
+fac_red_immortals|"붉은 불멸자들"
+fac_merchant_guild|"상인 조합"
+fac_mosoru|"모소르"

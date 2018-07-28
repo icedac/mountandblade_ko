@@ -2,7 +2,7 @@
 !include 'LogicLib.nsh'
 !include 'WinMessages.nsh'
 
-!define INSTALLER_VERSION     "0.0.5"
+!define INSTALLER_VERSION     "0.0.10"
 !define INSTALLER_NAME        "Mount & Blade: Warband Korean Patch"
 !define INSTALLER_FILE_BASE   "mnb_warband_ko_patch"
 !define TITLE_NAME            "${INSTALLER_NAME} ${INSTALLER_VERSION}"
@@ -122,10 +122,12 @@ FunctionEnd
 ; Env
 ; ==================================
 !define WARBAND_DIR           "$INSTDIR"
+!define WARBAND_NATIVE_DIR    "$INSTDIR\Modules\Native"
 !define PENDOR_DIR            "$INSTDIR\..\..\workshop\content\48700\875202420"
 !define AWOIAF_DIR            "$INSTDIR\..\..\workshop\content\48700\948075218"
 !define TLD_DIR               "$INSTDIR\..\..\workshop\content\48700\299974223"
 !define PERISNO_DIR           "$INSTDIR\..\..\workshop\content\48700\316610148"
+!define PW_DIR                "$INSTDIR\Modules\PW_4.5"
 
 
 InstallDir "fuck me \steamapps\common\MountBlade Warband"
@@ -229,8 +231,10 @@ Function .onInit
   File /oname=$PLUGINSDIR\Windows10Dark.vsf ".\Windows10Dark.vsf"
 
 ; NEED TO INSTALL; nsis vcl-styles-plugins
-;   https://github.com/RRUZ/vcl-styles-plugins/releases/tag/1.5.4.1
-  NSISVCLStyles::LoadVCLStyle $PLUGINSDIR\Windows10Dark.vsf
+; https://github.com/RRUZ/vcl-styles-plugins/releases/tag/1.5.4.1
+
+; eanble for black theme
+; NSISVCLStyles::LoadVCLStyle $PLUGINSDIR\Windows10Dark.vsf
 
   Call "CheckRequirement"
 
@@ -285,6 +289,7 @@ RequestExecutionLevel user
 
 
 Section "!M&B: 워밴드 한글" SecWarbandVanilla
+  SectionIn RO
 
   Call "GetMyDocs"
   SetOutPath "$0\Mount&Blade Warband"
@@ -304,6 +309,16 @@ Section "!M&B: 워밴드 한글" SecWarbandVanilla
   SetOutPath "${WARBAND_DIR}\languages\ko"
   File /r /x *.txt .\src\mnb_warband\languages\ko\*.csv
 
+  ; korean font data; to warband native
+  SetOutPath "${WARBAND_NATIVE_DIR}\data\languages\ko"
+  File .\src\mnb_warband\data\languages\ko\font_data.xml
+  SetOutPath "${WARBAND_NATIVE_DIR}\textures\languages\ko"
+  File .\src\mnb_warband\textures\languages\ko\font.dds
+
+  ; WARBAND_NATIVE_DIR
+  SetOutPath "${WARBAND_NATIVE_DIR}\languages\ko"
+  File /r /x *.txt .\src\mnb_warband\languages\ko\*.csv
+ 
 SectionEnd
 
 ;--------------------------------
@@ -311,7 +326,7 @@ SectionEnd
 
 SectionGroup "펜도르의 예언"
 
-Section /o "펜도르의 예언: 한글" SecPendor
+Section /o "!한글 패치" SecPendor
   ; MessageBox mb_ok '${PENDOR_DIR}\main.bmp'
   IfFileExists "${PENDOR_DIR}\main.bmp" 0 +2  
   goto NoError
@@ -322,9 +337,9 @@ Section /o "펜도르의 예언: 한글" SecPendor
 
   ; korean font data
   SetOutPath "${PENDOR_DIR}\data\languages\ko"
-  File .\src\awoiaf\data\languages\ko\font_data.xml
+  File .\src\mnb_warband\data\languages\ko\font_data.xml
   SetOutPath "${PENDOR_DIR}\textures\languages\ko"
-  File .\src\awoiaf\textures\languages\ko\font.dds
+  File .\src\mnb_warband\textures\languages\ko\font.dds
 
   SetOutPath "${PENDOR_DIR}"
   File .\src\prophecy_of_pendor\info_pages.txt
@@ -335,7 +350,7 @@ Section /o "펜도르의 예언: 한글" SecPendor
 
 SectionEnd
 
-Section /o "(beta) 펜도르의 예언: 중립 영웅 표시" SecPendorNeutral
+Section /o "중립 영웅 맵 표시" SecPendorNeutral
   ; MessageBox mb_ok '${PENDOR_DIR}\main.bmp'
   IfFileExists "${PENDOR_DIR}\main.bmp" 0 +2  
   goto NoError
@@ -352,7 +367,9 @@ SectionEnd
 
 SectionGroupEnd
 
-Section /o "(beta) Perisno: 한글" SecPerisno
+SectionGroup "Persino"
+
+Section /o "!한글 패치" SecPerisno
   ; MessageBox mb_ok '${PERISNO_DIR}\main.bmp'
   IfFileExists "${PERISNO_DIR}\main.bmp" 0 +2  
   goto NoError
@@ -363,12 +380,50 @@ Section /o "(beta) Perisno: 한글" SecPerisno
 
   Rename "${PERISNO_DIR}\data\font_data.xml" "${PERISNO_DIR}\data\orig.font_data.xml"
   Rename "${PERISNO_DIR}\textures\font.dds" "${PERISNO_DIR}\textures\orig.font.dds"
+  ; korean font data
+  SetOutPath "${PERISNO_DIR}\data\languages\ko"
+  File .\src\mnb_warband\data\languages\ko\font_data.xml
+  SetOutPath "${PERISNO_DIR}\textures\languages\ko"
+  File .\src\mnb_warband\textures\languages\ko\font.dds
 
   ; korean data
   SetOutPath "${PERISNO_DIR}\languages\ko"
   File /r /x *.txt .\src\perisno\languages\ko\*.csv
 
 SectionEnd
+
+Section /o "병종 레벨 표시" SecPersinoTroopLevel
+  ; MessageBox mb_ok '${PERISNO_DIR}\main.bmp'
+  IfFileExists "${PERISNO_DIR}\main.bmp" 0 +2  
+  goto NoError
+
+  MessageBox mb_iconexclamation|mb_ok "페리스노 설치 폴더를 찾지 못하였습니다. 펜도르가 정상적으로 작동하지 않을 수 있습니다."
+
+  NoError:
+
+  SetOutPath "${PERISNO_DIR}\languages\ko"
+  ; Rename "${PENDOR_DIR}\party_templates.txt" "${PENDOR_DIR}\orig.party_templates.txt"
+  File /r /x *.txt .\src\perisno\langguage_ko_leveld_troops\*.csv
+
+SectionEnd
+
+Section /o "전투 카메라 조절" SecPersinoCamera
+  ; MessageBox mb_ok '${PERISNO_DIR}\main.bmp'
+  IfFileExists "${PERISNO_DIR}\main.bmp" 0 +2  
+  goto NoError
+
+  MessageBox mb_iconexclamation|mb_ok "페리스노 설치 폴더를 찾지 못하였습니다. 페리스노가 정상적으로 작동하지 않을 수 있습니다."
+
+  NoError:
+
+  SetOutPath "${PERISNO_DIR}"
+  ; Rename "${PENDOR_DIR}\party_templates.txt" "${PENDOR_DIR}\orig.party_templates.txt"
+  File .\src\perisno\custom_camera_tweak\mission_templates.txt
+
+SectionEnd
+ 
+SectionGroupEnd
+
 
 Section /o "(beta) AWOIAF: 한글" SecAWOIAF
   ; MessageBox mb_ok '${PENDOR_DIR}\main.bmp'
@@ -381,12 +436,45 @@ Section /o "(beta) AWOIAF: 한글" SecAWOIAF
 
   ; korean font data
   SetOutPath "${AWOIAF_DIR}\data\languages\ko"
-  File .\src\awoiaf\data\languages\ko\font_data.xml
+  File .\src\mnb_warband\data\languages\ko\font_data.xml
   SetOutPath "${AWOIAF_DIR}\textures\languages\ko"
-  File .\src\awoiaf\textures\languages\ko\font.dds
+  File .\src\mnb_warband\textures\languages\ko\font.dds
 
   ; korean data
   SetOutPath "${AWOIAF_DIR}\languages\ko"
   File /r /x *.txt .\src\awoiaf\languages\ko\*.csv
 
 SectionEnd
+
+/*
+
+SectionGroup "PW 4.5 (모드 설치)"
+
+Section /o "!PW 4.5.1: 모드 설치" SecPW
+
+  ; korean data
+  SetOutPath "${PW_DIR}"
+  File /r .\src\pw_4.5.1\*.*
+
+SectionEnd
+
+Section /o "PW 4.5.1: 한글" SecPWKo
+
+  ; korean data
+  SetOutPath "${PW_DIR}"
+  File /r .\src\pw_4.5.1_ko\*.*
+
+SectionEnd
+
+Section /o "PW 4.5.1: LOD 패치" SecPWLOD
+
+  ; korean data
+  SetOutPath "${PW_DIR}"
+  File /r .\src\pw_4.5.1_lod\*.*
+
+SectionEnd
+
+SectionGroupEnd
+
+*/
+
