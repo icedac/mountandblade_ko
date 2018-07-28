@@ -7,7 +7,7 @@
 - 해당 폴더에 대한 권한 요청하시면 수정 권한 드립니다.
 
 
-## 참여자
+## 기여자
 
 - original source: 네이버 마운트&블레이드 워밴드 카페 '물에빠진달'님 https://cafe.naver.com/warband/225127
 - icedac
