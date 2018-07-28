@@ -24,8 +24,13 @@
  
 페리스노
 
-* 페리스노 (Perisno) 한글화 v15 by 물에빠진달 - http://cafe.naver.com/warband/224889
- 
+* 페리스노 (Perisno) 한글화 v15 by 물에빠진달 - http://cafe.naver.com/warband/224889; updated to v20
+* 페리스노 병종 레벨 패치 - https://cafe.naver.com/warband/227493
+
+페리스노 한글화 프로젝트
+
+* https://drive.google.com/drive/folders/1sjiMtgiOXPmZy_dpsWh8_ExIb-tssLj3
+
 기타
 
 * 소스: https://github.com/icedac/mountandblade_ko

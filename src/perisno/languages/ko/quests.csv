@@ -1,5 +1,4 @@
 
-str_id|"dst_lang1"
 qst_deliver_message|"{s13}에게 전갈을 전달하기"
 qst_deliver_message_to_enemy_lord|"{s13}에게 전갈을 전달하기"
 qst_raise_troops|"{reg1}명의 {s14}을(를) 모집하기"

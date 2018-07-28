@@ -102,7 +102,7 @@ else {
 
             var row = args[1]; // language row
 
-			for ( var i = 0, len = data.length; i < len; i++ ) {
+			for ( var i = 1, len = data.length; i < len; i++ ) { // skip 1st line
 				var csv_row = data[i];
 				var lang_data = csv_row[row];
 				if ( csv_row[0] == "qstr_Perisno_v{s1}_" )

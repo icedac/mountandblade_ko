@@ -1,5 +1,4 @@
 
-str_id|"dst_lang1"
 ui_texture_detail|"텍스쳐 디테일:"
 ui_max_frame_rate|"최대 프레임수 제한:"
 ui_enable_bumpmap|"돌출 지형 사용"

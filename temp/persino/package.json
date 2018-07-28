@@ -1,0 +1,28 @@
+{
+  "name": "@icedac/warband_csv_conv",
+  "description": "warband_csv_conv",
+  "version": "0.0.1",
+  "author": {
+    "name": "icedac",
+    "email": "icedac@gmail.com"
+  },
+  "license": "Closed",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "csv": "^3.1.0",
+    "google-translate-api": "^2.3.0",
+    "request": "latest"
+  },
+  "devDependencies": {
+    "browserify": "latest",
+    "watchify": "latest"
+  },
+  "engines": {
+    "node": ">= 4.1.0"
+  },
+  "files": [
+    "server.js",
+    "nircmd/*",
+    "lib/"
+  ]
+}
