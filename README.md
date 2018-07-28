@@ -15,9 +15,10 @@
 #### https://www.moddb.com/mods/perisno/downloads
  
  
-## 참여
+## 기여자
 ### [목록](./license.txt)
-
+ 
+ 
 ## [페리스노 한글화 프로젝트](./Perisno_Korean.md)
  
  
