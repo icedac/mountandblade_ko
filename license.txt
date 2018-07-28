@@ -4,7 +4,10 @@
 ** https://steamcommunity.com/games/mb_warband/announcements/detail/1654378539078985349
 * 펜도르의 예언: ver 3.9.1(2018/04/22)
 ** http://pop3.wikia.com/wiki/3.9.1_Changelog
-
+* 펜도르의 예언: ver 3.9.2
+** http://pop3.wikia.com/wiki/3.9.2_Changelog
+* 페리스노: ver 0.81
+** https://steamcommunity.com/sharedfiles/filedetails/?id=316610148
 
 마운트 & 블레이드: 워밴드 한글 패치
 
@@ -14,7 +17,8 @@
 * 수정! 전투중 카메라 시점 자유이동법 편의 버전 : http://cafe.naver.com/warband/173738
 
 펜도르의 예언 한글 패치
-  
+
+* [추가 부분만] 펜도르의 예언 3.9.2 by 알렉키노 : https://cafe.naver.com/warband/227665
 * 펜도르의 예언 3.8.4 한글화자료 (2017.08.16 2차업로드) : http://cafe.naver.com/warband/215456
 * 한글 패치 ... 깨짐 해결 방법 : http://cafe.naver.com/warband/217576
 * "3.9.1"에 맞게 수정한 한글 패치 (4.26 수정) : http://cafe.naver.com/warband/223069
@@ -24,7 +28,7 @@
  
 페리스노
 
-* 페리스노 (Perisno) 한글화 v15 by 물에빠진달 - http://cafe.naver.com/warband/224889; updated to v20
+* 페리스노 (Perisno) 한글화 v20 by 물에빠진달 - http://cafe.naver.com/warband/224889
 * 페리스노 병종 레벨 패치 - https://cafe.naver.com/warband/227493
 
 페리스노 한글화 프로젝트

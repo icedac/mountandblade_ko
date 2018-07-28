@@ -2,7 +2,7 @@
 !include 'LogicLib.nsh'
 !include 'WinMessages.nsh'
 
-!define INSTALLER_VERSION     "0.0.11"
+!define INSTALLER_VERSION     "0.0.12"
 !define INSTALLER_NAME        "Mount & Blade: Warband Korean Patch"
 !define INSTALLER_FILE_BASE   "mnb_warband_ko_patch"
 !define TITLE_NAME            "${INSTALLER_NAME} ${INSTALLER_VERSION}"
@@ -324,7 +324,7 @@ SectionEnd
 ;--------------------------------
 ;Installer Sections
 
-SectionGroup "펜도르의 예언"
+SectionGroup "펜도르의 예언 3.9.2"
 
 Section /o "!한글 패치" SecPendor
   ; MessageBox mb_ok '${PENDOR_DIR}\main.bmp'
@@ -367,7 +367,7 @@ SectionEnd
 
 SectionGroupEnd
 
-SectionGroup "Persino"
+SectionGroup "페리스노 0.81"
 
 Section /o "!한글 패치" SecPerisno
   ; MessageBox mb_ok '${PERISNO_DIR}\main.bmp'

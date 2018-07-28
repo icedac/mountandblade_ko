@@ -3160,6 +3160,10 @@ dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.1|두 마리.
 dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.2|세 마리.
 dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.3|네 마리.
 dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.4|다섯 마리.
+dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.5|여섯 마리.
+dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.6|일곱 마리.
+dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.7|여덜 마리.
+dlga_village_elder_buy_cattle_2:village_elder_buy_cattle_complete.8|아홉 마리.
 dlga_village_elder_buy_cattle_2:village_elder_pretalk|사지 않는다.
 dlga_village_elder_buy_cattle_complete:village_elder_pretalk|목동들에게 가축들을 모아 당신에게 가져가라고 이르겠어요, {reg63?경:부인}. 분명히 만족하실거에요.
 dlga_village_elder_recruit_start:village_elder_talk|제 생각엔 아무도 관심이 없을 것 같군요, {reg63?경:부인}. 제가 다른 도울 일이 있나요?
@@ -3314,6 +3318,10 @@ dlga_companion_comment_lord_joined:close_window.1|당신에게 충성을 맹세�
 dlga_prisoner_chat_noble2:close_window.2|자네의 제안에 대해 생각해 보지.
 dlga_prisoner_chat_2:prisoner_noldor_chat1|우리는 항복하겠소. 당신의 자비심을 바랍니다.
 dlga_prisoner_noldor_chat1:close_window|내 생각엔 고향으로 돌려보내 다시는 내게 대항할 수 없게 해야겠네.
+dlga_prisoner_noldor_chat1:prisoner_noldor_chat1_all|내가 너희를 사슬에서 풀어 주면 너희는 자유롭게 집에 갈 수 있다.
+dlga_prisoner_noldor_chat1_all:prisoner_noldor_chat1_all_1|너는 인간으로서 매우'자비롭다'.
+dlga_prisoner_noldor_chat1_all_1:close_window|너는 인간으로서 매우'자비롭다'.
+dlga_prisoner_noldor_chat1_all_1:close_window.1|다시 생각해 보니 마음이 변했다 사슬을 다시 연결해라.
 dlga_prisoner_noldor_chat1:close_window.1|맞소. 우리는 곧 다시보게 될 것이오.
 dlga_prisoner_chat_2:close_window|받아들이고 싶지 않군.
 dlga_prisoner_chat_threat:last_player_statement|다음에 다시 만나게 될 것이다, {playername}! 다음번에는 네가 치욕스럽게 개처럼 무릎 꿇게 되겠지!
@@ -3404,6 +3412,9 @@ dlga_start:close_window.61|축하합니다 {playername}. 그대의 끊임없는 
 dlga_start:hall_order_guard_crossbow|또 다른 이야기전에 {s8} {playername}. 우린 메텐하임으로부터 고급 석궁을 받았습니다. ^당신이 석궁에 대한 기량이 뛰어나다면, 가져다 써보시겠습니까?
 dlga_hall_order_guard_crossbow:close_window|우선 배낭에 빈 공간이 필요하니 조금 있다 돌아오겠네.
 dlga_hall_order_guard_crossbow:close_window.1|물론이지, 관심있네. 하나 줘보게.
+dlga_start:hall_order_guard_musket|다른 무엇보다 {s8} {playername}님이 바클레이에 있는 연락처로부터 배달을 받았습니다. 그들은 우리에게 그들의 신식 무기 수백개를 수송할 수 있었다. 한번 해 보시겠어요?
+dlga_hall_order_guard_musket:close_window|재고를 먼저 확보해 놓을게요. 금방 올게요. ^^(최소 3개의 빈 슬롯이 필요합니다.)
+dlga_hall_order_guard_musket:close_window.1|물론 관심 있어요, 하나만 주세요.
 dlga_start:close_window.62|우리는 당신을 안전하게 지키라는 명령을 받았습니다. 그랜드마스터.
 dlga_start:hall_order_guard_talk.1|우리의 영광스런 기사단 창립자를 맞이하는 것은 항상 영예로운 일입니다. 어떤 도움이 필요하십니까?
 dlga_start:hall_order_sergeant_talk|우리의 영광스런 기사단 창립자를 맞이하는 것은 항상 영예로운 일입니다. 어떤 도움이 필요하십니까?

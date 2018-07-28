@@ -1012,14 +1012,20 @@ itm_breastplate_on_blue|청색 안감덧댐 흉갑
 itm_breastplate_on_blue_pl|청색 안감덧댐 흉갑
 itm_breastplate_on_green|녹색 안감덧댐 흉갑
 itm_breastplate_on_green_pl|녹색 안감덧댐 흉갑
-itm_barclay_light_armor|바클레이 가벼운 갑옷
-itm_barclay_light_armor_pl|바클레이 가벼운 갑옷
 itm_ranger_leather|순찰대 사슬갑옷
 itm_ranger_leather_pl|순찰대 사슬갑옷
 itm_ranger_plate|정예 순찰대 갑옷
 itm_ranger_plate_pl|정예 순찰대 갑옷
 itm_ranger_plate_cape|망토 달린 정예 순찰대 갑옷
 itm_ranger_plate_cape_pl|망토 달린 정예 순찰대 갑옷
+itm_barclay_light_armor|바클레이 가벼운 갑옷
+itm_barclay_light_armor_pl|바클레이 가벼운 갑옷
+itm_barclay_armor|바클레이 판금갑옷
+itm_barclay_armor_pl|바클레이 판금갑옷
+itm_dead_witch_armor|마녀 갑옷
+itm_dead_witch_armor_pl|마녀 갑옷
+itm_veccavi_plate|베카비안 판금갑옷
+itm_veccavi_plate_pl|베카비안 판금갑옷
 itm_melitine_armor|멜리틴 창기병 미늘갑옷
 itm_melitine_armor_pl|멜리틴 창기병 미늘갑옷
 itm_melitine_armor_regular|멜리틴 미늘갑옷
@@ -1034,10 +1040,6 @@ itm_fierd_berskerker_armor|파이어즈베인 광전사 갑옷
 itm_fierd_berskerker_armor_pl|파이어즈베인 광전사 갑옷
 itm_pendor_lamellar|펜도르 미늘갑옷
 itm_pendor_lamellar_pl|펜도르 미늘갑옷
-itm_veccavi_plate|베카비안 판금갑옷
-itm_veccavi_plate_pl|베카비안 판금갑옷
-itm_barclay_armor|바클레이 판금갑옷
-itm_barclay_armor_pl|바클레이 판금갑옷
 itm_mail_coat_red|적색 사슬 코트
 itm_mail_coat_red_pl|적색 사슬 코트
 itm_hauberk_chain_studded_leather|강화가죽 사슬갑옷
@@ -1698,8 +1700,14 @@ itm_faceplate_mail_helmet|면갑 사슬투구
 itm_faceplate_mail_helmet_pl|면갑 사슬투구
 itm_helmet_faceplate|면갑
 itm_helmet_faceplate_pl|면갑
+itm_adventurer_heume|모험가 투구
+itm_adventurer_heume_pl|모험가 투구
 itm_adventurer_helm|모험가 투구
 itm_adventurer_helm_pl|모험가 투구
+itm_vecc_helm_tail|반스케리 헬름과 함께 꼬리
+itm_vecc_helm_tail_pl|반스케리 헬름과 함께 꼬리
+itm_vecc_helm_tail_open|반스케리 오픈 헬름과 함께 꼬리
+itm_vecc_helm_tail_open_pl|반스케리 오픈 헬름과 함께 꼬리
 itm_helmet_vanskerry_snouz|반스케리 발스가르드 투구
 itm_helmet_vanskerry_snouz_pl|반스케리 발스가르드 투구
 itm_jarl_helmet|파이어즈베인 야를 투구
@@ -1708,8 +1716,6 @@ itm_sallet_open_only_steel2|철제 샐릿
 itm_sallet_open_only_steel2_pl|철제 샐릿
 itm_sallet_celata|첼라타
 itm_sallet_celata_pl|첼라타
-itm_adventurer_heume|모험가 투구
-itm_adventurer_heume_pl|모험가 투구
 itm_helmet_ravenstern|레이븐스턴 투구
 itm_helmet_ravenstern_pl|레이븐스턴 투구
 itm_steel_barbutte|바르부테
@@ -1756,6 +1762,8 @@ itm_fierd_helm_1_horned|파이어즈베인 뿔 달린 스팡겐 투구
 itm_fierd_helm_1_horned_pl|파이어즈베인 불 달린 스팡겐 투구
 itm_immortal_helmet|불멸자 투구
 itm_immortal_helmet_pl|불멸자 투구
+itm_immortal_helmet_a|I불멸자 투구
+itm_immortal_helmet_a_pl|불멸자 투구
 itm_empire_gold_helmet|제국 황금 투구
 itm_empire_gold_helmet_pl|제국 황금 투구
 itm_helmet_empire_immortal|불멸자 투구
@@ -2098,6 +2106,8 @@ itm_phoenix_barbutte_helmet|불사조 종자 바르부테
 itm_phoenix_barbutte_helmet_pl|불사조 종자 바르부테
 itm_phoenix_helmet|불사조 기사단 바르부테
 itm_phoenix_helmet_pl|불사조 기사단 바르부테
+itm_phoenix_helmet_a|불사조 기사단 바르부테
+itm_phoenix_helmet_a_pl|불사조 기사단 바르부테
 itm_valkyrie_helmet|발키리 투구
 itm_valkyrie_helmet_pl|발키리 투구
 itm_kraken_helm|크라켄 투구
@@ -2168,6 +2178,22 @@ itm_ruby_rune_bow|루비 룬 활
 itm_ruby_rune_bow_pl|루비 룬 활
 itm_emerald_rune_bow|에메랄드 룬 활
 itm_emerald_rune_bow_pl|에메랄드 룬 활
+itm_hunting_crossbow|사냥용 쇠뇌
+itm_hunting_crossbow_pl|사냥용 쇠뇌
+itm_light_crossbow|경량형 쇠뇌
+itm_light_crossbow_pl|경량형 쇠뇌
+itm_balanced_crossbow|균형잡힌 쇠뇌
+itm_balanced_crossbow_pl|균형잡힌 쇠뇌
+itm_maiden_crossbow|여성용 쇠뇌
+itm_maiden_crossbow_pl|여성용 쇠뇌
+itm_heavy_crossbow|중형 쇠뇌
+itm_heavy_crossbow_pl|중형 쇠뇌
+itm_sniper_crossbow|공성용 쇠뇌
+itm_sniper_crossbow_pl|공성용 쇠뇌
+itm_arbalest|메텐하임산 쇠뇌
+itm_arbalest_pl|메텐하임산 쇠뇌
+itm_arquebus_1|아쿼버스
+itm_arquebus_1_pl|아쿼버스
 itm_practice_arrows_2|연습용 화살
 itm_practice_arrows_2_pl|연습용 화살
 itm_arrows|화살
@@ -2196,20 +2222,6 @@ itm_heretic_arrows|어둠나무 화살
 itm_heretic_arrows_pl|어둠나무 화살
 itm_noldor_arrows|놀도르 화살
 itm_noldor_arrows_pl|놀도르 화살
-itm_hunting_crossbow|사냥용 쇠뇌
-itm_hunting_crossbow_pl|사냥용 쇠뇌
-itm_light_crossbow|경량형 쇠뇌
-itm_light_crossbow_pl|경량형 쇠뇌
-itm_balanced_crossbow|균형잡힌 쇠뇌
-itm_balanced_crossbow_pl|균형잡힌 쇠뇌
-itm_maiden_crossbow|여성용 쇠뇌
-itm_maiden_crossbow_pl|여성용 쇠뇌
-itm_heavy_crossbow|중형 쇠뇌
-itm_heavy_crossbow_pl|중형 쇠뇌
-itm_sniper_crossbow|공성용 쇠뇌
-itm_sniper_crossbow_pl|공성용 쇠뇌
-itm_arbalest|메텐하임산 쇠뇌
-itm_arbalest_pl|메텐하임산 쇠뇌
 itm_bolts|볼트
 itm_bolts_pl|볼트
 itm_light_bolts|경량형 볼트
@@ -2222,6 +2234,8 @@ itm_elite_bolts|공성용 볼트
 itm_elite_bolts_pl|공성용 볼트
 itm_mettenheim_bolts|메텐하임산 볼트
 itm_mettenheim_bolts_pl|메텐하임산 볼트
+itm_bullets_1|총알
+itm_bullets_1_pl|총알
 itm_stones|짱돌
 itm_stones_pl|짱돌
 itm_throwing_knives|투척용 비수
@@ -3032,5 +3046,7 @@ itm_wolfbode_gloves|울프보드 손
 itm_wolfbode_gloves_pl|울프보드 손
 itm_wolfbode_helmet|울프보드 투구
 itm_wolfbode_helmet_pl|울프보드 투구
+itm_seeress_helm|여자 예언자 기운
+itm_seeress_helm_pl|여자 예언자 기운
 itm_items_end|아이템_끝
 itm_items_end_pl|아이템_끝
