@@ -19,6 +19,9 @@
  
 ## 참여
 #### [목록](./license.txt)
+#### 페리스노 한글화 프로젝트
+##### https://drive.google.com/drive/folders/1sjiMtgiOXPmZy_dpsWh8_ExIb-tssLj3
+##### 권한 요청하시면 수정 권한 드립니다.
  
  
 ## 배포 
