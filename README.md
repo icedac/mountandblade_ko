@@ -15,10 +15,12 @@
 
 ### 페리스노: ver 0.81(2018/02/26)
 #### https://www.moddb.com/mods/perisno/downloads
-
-### 참여자
+ 
+ 
+## 참여
 #### [목록](./license.txt)
-
+ 
+ 
 ## 배포 
 #### 네이버 마운트&블레이드 워밴드 카페: https://cafe.naver.com/warband/224889
 
