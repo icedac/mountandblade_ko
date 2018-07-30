@@ -2,7 +2,7 @@
 !include 'LogicLib.nsh'
 !include 'WinMessages.nsh'
 
-!define INSTALLER_VERSION     "0.0.12"
+!define INSTALLER_VERSION     "0.0.13"
 !define INSTALLER_NAME        "Mount & Blade: Warband Korean Patch"
 !define INSTALLER_FILE_BASE   "mnb_warband_ko_patch"
 !define TITLE_NAME            "${INSTALLER_NAME} ${INSTALLER_VERSION}"
